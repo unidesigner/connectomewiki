@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="45b5d3ba-9fc2-450d-9c67-44439d71b47e" kpf_version="4" name="ConnectomeWiki Scripts.kpf">
+<preference-set idref="45b5d3ba-9fc2-450d-9c67-44439d71b47e">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>

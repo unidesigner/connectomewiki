@@ -1,0 +1,432 @@
+{{-start-}}
+'''a_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=a
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=alpharomeo
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* {{cite book | last = Paxinos | first = George | title = The Human Nervous System | edition=2nd | publisher = Academic Press | year = 2004 | doi = | url= http://www.sciencedirect.com/science/book/978-0-12-547626-3  | isbn = 978-0-12-547626-3  }}
+
+
+[[Category:Gyrus]][[Category:Cortex]]
+
+{{Connectome Brain Region Hierarchy
+|Part of=
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PrG_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=PrG
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=precentral gyrus
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* {{cite book | last = Paxinos | first = George | title = The Human Nervous System | edition=2nd | publisher = Academic Press | year = 2004 | doi = | url= http://www.sciencedirect.com/science/book/978-0-12-547626-3  | isbn = 978-0-12-547626-3  }}
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''M1_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=M1
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=Primary motor cortex [M1/F1]
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* BrainML Model Repository, http://brainml.org/
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=PrG (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=Primary motor cortex
+}}
+{{-stop-}}
+
+{{-start-}}
+'''M2_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=M2
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=Secondary motor cortex [M2]
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* BrainML Model Repository, http://brainml.org/
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=PrG (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PPC_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=PPC
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=Posterior parietal cortex [PPC]
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=Responsible for transforming visual information into motor commands
+|Function Tag=
+}}
+== References ==
+* BrainML Model Repository, http://brainml.org/
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=M2 (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PMA_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=PMA
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=Premotor cortex [PMC/PMA]
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=Responsible for motor guidance of movement and control of proximal and trunk muscles of the body.
+|Function Tag=
+}}
+== References ==
+* BrainML Model Repository, http://brainml.org/
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=M2 (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=Premotor cortex
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PMd_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=PMd
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=F2/F7 PMd [premotor area (dorsal)]
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* BrainML Model Repository, http://brainml.org/
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=PMA (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PMv_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=PMv
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=F4/F5 PMv [premotor area (ventral)]
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* BrainML Model Repository, http://brainml.org/
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=PMA (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''POSm_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=POSm
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=medial posterior orbital sulcus
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* {{cite book | last = Paxinos | first = George | title = The Human Nervous System | edition=2nd | publisher = Academic Press | year = 2004 | doi = | url= http://www.sciencedirect.com/science/book/978-0-12-547626-3  | isbn = 978-0-12-547626-3  }}
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''POSl_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=POSl
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=lateral posterior orbital sulcus
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* {{cite book | last = Paxinos | first = George | title = The Human Nervous System | edition=2nd | publisher = Academic Press | year = 2004 | doi = | url= http://www.sciencedirect.com/science/book/978-0-12-547626-3  | isbn = 978-0-12-547626-3  }}
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=PrG (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''TOS_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=TOS
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=transverse orbital sulcus
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* {{cite book | last = Paxinos | first = George | title = The Human Nervous System | edition=2nd | publisher = Academic Press | year = 2004 | doi = | url= http://www.sciencedirect.com/science/book/978-0-12-547626-3  | isbn = 978-0-12-547626-3  }}
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=PrG (Homo sapiens) 
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''b_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=b
+|Latin Abbreviation=
+|Species=Homo sapiens
+|English Name=betorama
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=functional
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+}}
+== References ==
+* {{cite book | last = Paxinos | first = George | title = The Human Nervous System | edition=2nd | publisher = Academic Press | year = 2004 | doi = | url= http://www.sciencedirect.com/science/book/978-0-12-547626-3  | isbn = 978-0-12-547626-3  }}
+
+
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=
+|Has efferent=
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=
+|Wikipedia Link=
+}}
+{{-stop-}}
+

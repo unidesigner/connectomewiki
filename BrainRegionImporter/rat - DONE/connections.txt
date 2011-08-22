@@ -1,0 +1,10 @@
+- from http://www.temporal-lobe.com/references.php export tables to openoffice and save as csv
+
+- exceptions, no PMID
+29</th><td><a name="ID29"></a>Witter MP;Holtrop R;van de Loosdrecht AA;</td><td>Direct projections from the periallocortical subicular complex to the fascia dentata in the rat.</td><td>1988</td><td>Neurosci Res Comm, 2, 2, 61, 68</td><td>- | <a href="#Top">T</a></td></tr><tr>
+191</th><td><a name="ID191"></a>Honda Y;Umitsu Y;Ishizuka N;</td><td>Efferent projections of the subiculum to the retrohippocampal and retrosplenial cortices of the rat</td><td>1999</td><td>Neurosci Res, Suppl. 22, S265, </td><td>- | <a href="#Top">T</a></td></tr><tr>
+192</th><td><a name="ID192"></a>Honda Y;Ishizuka N;</td><td>The organization of the intrinsic and entorhinal connections of the rat presubiculum</td><td>1998</td><td>Neurosci Res, Suppl. 22, S275, </td><td>- | <a href="#Top">T</a></td></tr><tr>
+193</th><td><a name="ID193"></a>Honda Y;Umitsu Y;Ishizuka N;</td><td>Topographic projections of perforant path from entorhinal area to CA1 and subiculum in the rat</td><td>2000</td><td>Neurosci Res, Suppl 24, S101, </td><td>- | <a href="#Top">T</a></td></tr><tr>
+248</th><td><a name="ID248"></a>Kohler C;Shipley MT;Srebro B;Harkmark W;</td><td>Some retrohippocampal afferents to the entorhinal cortex. Cells of origin as studied by the HRP method in the rat and mouse</td><td>1978</td><td>Neurosci Lett, 10, 115, 120</td><td>- | <a href="#Top">T</a>
+
+'248':'19605266'

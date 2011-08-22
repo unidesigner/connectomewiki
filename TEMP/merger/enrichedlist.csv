@@ -1,0 +1,80 @@
+NN_ID;Abbreviation;NN_String;Latin
+150;Ent;entorhinal area;Area entorhinalis
+212;Pu;putamen;Putamen
+213;GP;GLOBUS PALLIDUS;Globus pallidus
+159;HiF;HIPPOCAMPAL FORMATION;Formatio hippocampi
+-1761421113;POrG;posterior orbital gyrus (H);Gyrus orbitalis posterior (H)
+112;its;inferior temporal sulcus (H);Sulcus temporalis inferior (H)
+219;Amg;AMYGDALA;Corpus amygdaloideum
+60;olfs;olfactory sulcus;Sulcus olfactorius
+68;TrIFG;triangular part of inferior frontal gyrus (H);Gyrus frontalis inferior, pars triangularis (H)
+88;SPL;superior parietal lobule;Lobulus parietalis superior
+259;Acb;nucleus accumbens;Nucleus accumbens
+238;spt;SEPTUM PELLUCIDUM;Septum pellucidum
+65;SFG;superior frontal gyrus;Gyrus frontalis superior
+66;MFG;middle frontal gyrus;Gyrus frontalis medius
+134;OG;occipital gyrus (M);Gyrus occipitalis (M)
+234;Cl;claustrum;Claustrum
+69;OpIFG;opercular part of inferior frontal gyrus (H);Gyrus frontalis inferior, pars opercularis (H)
+139;Cun;cuneus;Cuneus
+138;IOG;inferior occipital gyrus (M);Gyrus occipitalis inferior (M)
+119;MTG;middle temporal gyrus;Gyrus temporalis medius
+166;CA2;CA2 field;Cornu Ammonis 2
+171;cw;CEREBRAL WHITE MATTER;Substantia medullaris cerebri
+76;GRe;gyrus rectus;Gyrus rectus
+92;PCu;precuneus;Precuneus
+20;Cx;CEREBRAL CORTEX;Cortex cerebri
+140;LiG;lingual gyrus;Gyrus lingualis
+49;aals;anterior ascending limb of lateral sulcus (H);Ramus anterior ascendens fissurae lateralis (H)
+63;los;lateral orbital sulcus;Sulcus orbitalis lateralis
+44;ifrs;inferior frontal sulcus (H);Sulcus frontalis inferior (H)
+42;sfrs;superior frontal sulcus (H);Sulcus frontalis superior (H)
+962901580;TFPG;TRANSVERSE FRONTOPOLAR GYRI (H);Gyrus frontopolaris transversus (H)
+43;mfs;middle frontal sulcus (H);Sulcus frontalis medius (H)
+137;LOG;lateral occipital gyrus (H);Gyrus occipitalis lateralis (H)
+87;PoG;postcentral gyrus;Gyrus postcentralis
+50;ahls;anterior horizontal limb of lateral sulcus (H);Ramus anterior horizontalis sulcus lateralis (H)
+260;SCA;subcallosal area;Area subcallosa
+527;SN;SUBSTANTIA NIGRA;Substantia nigra
+442;ox;optic chiasm;Chiasma opticum
+283;Th;THALAMUS;Thalamus
+644;CbCx;CEREBELLAR CORTEX;Cortex cerebelli
+146;PHG;PARAHIPPOCAMPAL GYRUS;Gyrus parahippocampalis
+145;ICgG;isthmus of cingulate gyrus;Isthmus gyri cinguli
+111;sts;superior temporal sulcus;Sulcus temporalis superior
+207;Str;STRIATUM;Striatum
+141;CgG;CINGULATE GYRUS;Gyrus cingulatus
+208;Cd;CAUDATE NUCLEUS;Nucleus caudatus
+149;PrS;presubiculum;Presubiculum
+120;ITG;inferior temporal gyrus;Gyrus temporalis inferior
+121;FuG;fusiform gyrus;Gyrus fusiformis
+75;MOrG;medial orbital gyrus;Gyrus orbitalis medialis
+74;LOrG;lateral orbital gyrus;Gyrus orbitalis lateralis
+73;OrG;ORBITAL GYRI;Gyri orbitales
+169;fi;fimbria of hippocampus;Fimbria hippocampi
+71;PrG;precentral gyrus;Gyrus precentralis
+70;OrIFG;orbital part of inferior frontal gyrus (H);Gyrus frontalis inferior, pars orbitalis (H)
+91;AnG;angular gyrus;Gyrus angularis
+165;CA1;CA1 field;Cornu Ammonis 1
+93;Ins;INSULA;Insula
+167;CA3;CA3 field;Cornu Ammonis 3
+163;hdg;hilus of dentate gyrus;Hilus gyri dentati
+118;STG;superior temporal gyrus;Gyrus temporalis superior
+51;pcs;paracentral sulcus (H);Sulcus paracentralis (H)
+39;fro;frontal operculum;Operculum frontale
+38;frp;frontal pole;Polus frontalis
+40;oro;orbital operculum;Operculum orbitale
+54;ascs;anterior subcentral sulcus;Sulcus subcentralis anterior
+56;sros;superior rostral sulcus (H);Sulcus rostralis superior (H)
+37;FL;FRONTAL LOBE;Lobus frontalis
+108;tmp;temporal pole;Polus temporalis
+53;iprs;inferior precentral sulcus (H);Sulcus precentralis inferior (H)
+52;sprs;superior precentral sulcus;Sulcus precentralis superior
+110;tts;transverse temporal sulcus (H);Sulci temporales transversi (H)
+640;Cb;CEREBELLUM;Cerebellum
+89;IPL;INFERIOR PARIETAL LOBULE;Lobulus parietalis inferior
+688;cbw;CEREBELLAR WHITE MATTER;Substantia medullaris cerebelli
+61;orbs;orbital sulcus (H);Sulcus orbitalis (H)
+168;alv;alveus;Alveus
+90;SMG;supramarginal gyrus;Gyrus supramarginalis
+136;SOG;superior occipital gyrus (H);Gyrus occipitalis superior (H)

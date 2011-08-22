@@ -1,0 +1,855 @@
+ID;Latin;Abbrev
+9;Fissura telo-diencephalica;tdf
+430;Foramen interventriculare;IVF
+442;Chiasma opticum;ox
+443;Tractus opticus;opt
+444;Tractus habenulo-interpeduncularis diencephali;hipd
+256;Substantia innominata;SI
+257;Nucleus basalis;B
+258;Insula Callejae;IClj
+259;Nucleus accumbens;Acb
+260;Area subcallosa;SCA
+261;Bulbus olfactorius;Olf
+262;Nucleus olfactorius anterior;AO
+263;Gyrus medius olfactorius;MOG
+264;Substantia perforata anterior;APS
+265;Tractus olfactorius;olf
+266;Stria olfactoria lateralis;lo
+267;Stria diagonalis;db
+268;Stria terminalis;st
+270;Tractus amygdalofugalis ventralis;vaf
+233;Area claustralis amygdalae;ClA
+234;Claustrum;Cl
+1008802938;Lobus fornicatus;LL
+172;Centrum semiovale;sovc
+190;Lamina terminalis;LT
+235;Capsula externa;ec
+236;Capsula extrema;exc
+280;Corpus pineale;Pi
+281;Stria medullaris thalami;sm
+282;Commissura habenularum;hbc
+251;Columna fornicis anterior;afx
+252;Fornix precommissuralis;pfx
+253;Corpus fornicis;bfx
+254;Crus fornicis;pcfx
+255;Commissura fornicis;cfx
+413;Nucleus hypothalamicus dorsalis;DH
+414;Fornix postcommissuralis;pofx
+415;Fasciculus longitudinalis dorsalis (hypothalami);dlfh
+416;Fasciculus prosencephalicus medialis;mfb
+200;Plexus choroideus (ventriculi lateralis);cplv
+201;Tela choroidea (ventriculi lateralis);tclv
+202;Cornu frontale (ventriculi lateralis);FLV
+203;Pars centralis (ventriculi lateralis);BLV
+204;Cornu temporale (ventriculi lateralis);TLV
+205;Cornu occipitale (ventriculi lateralis);OLV
+418;Nucleus subthalamicus;STh
+419;Nucleus ansae lenticularis;AL
+420;Nucleus area H;FH
+421;Zona incerta;ZI
+422;Fasciculus thalamicus;H1
+423;Area tegmentalis H;H
+424;Fasciculus lenticularis (diencephali);H2
+425;Capsula nuclei subthalamici;csth
+426;Fasciculus pallido-habenularis;phb
+427;Ansa lenticularis;al
+428;Ansa peduncularis;ap
+348;Nucleus reticularis thalami;Rt
+357;Stratum zonale thalami;SZ
+434;Velum interpositum;vi
+435;Plexus choroidea (ventriculi tertii);cp3v
+436;Tela choroidea (ventriculi tertii);tc3v
+437;Organum subfornicale;SFO
+438;Recessus suprapinealis;SPiRe
+439;Recessus pinealis;PiRe
+440;Recessus opticus;ORe
+441;Recessus infundibularis;IRe
+225;Nucleus amygdalae centralis;CeA
+232;Nucleus amygdalae intercalatus;IA
+227;Nucleus amygdalae lateralis;LA
+231;Nucleus amygdalae basalis accessorius;ABA
+221;Area amygdaloidea anterior;AA
+222;Nucleus amygdalae corticalis;CoA
+223;Nucleus amygdalae medialis;MeA
+224;Nucleus striae olfactoriae lateralis;LOT
+229;Nucleus amygdalae basalis, pars lateralis;BAL
+230;Nucleus amygdalae basalis, pars medialis;BAM
+188;Commissura anterior, pars anterior;aca
+189;Commissura anterior, pars posterior;acp
+365;Nucleus periventricularis anteroventralis;AVPe
+366;Organum vasculosum;SoC
+367;Nucleus suprachiasmaticus;SCh
+368;Nucleus supraopticus;SO
+369;Nucleus hypothalamicus anterior;AH
+370;Nucleus paraventricularis hypothalami;Pa
+371;Commissura supraoptica dorsalis;dsox
+372;Commissura supraoptica ventralis;vsox
+373;Commissura hypothalamica anterior;ahc
+374;Tractus supraopticohypophysialis;soh
+361;Nucleus preopticus medianus;MnPO
+362;Nucleus periventricularis preopticus;POP
+363;Nucleus preopticus medialis;MPO
+364;Nucleus preopticus lateralis;LPO
+286;Nucleus anterodorsalis;AD
+287;Nucleus anteromedialis;AM
+288;Nucleus anteroventralis;AV
+153;Gyrus paraterminalis;PTG
+158;Gyrus fasciolaris;FG
+170;Subiculum;S
+168;Alveus;alv
+169;Fimbria hippocampi;fi
+155;Induseum griseum;IG
+156;Stria longitudinalis lateralis;lls
+157;Stria longitudinalis medialis;mls
+162;Fascia dentata;fd
+163;Hilus gyri dentati;hdg
+165;Cornu Ammonis 1;CA1
+166;Cornu Ammonis 2;CA2
+167;Cornu Ammonis 3;CA3
+143;Gyrus cinguli anterior;ACgG
+144;Gyrus cinguli posterior;PCgG
+145;Isthmus gyri cinguli;ICgG
+-1973597309;Substantia medullaris isthmus cinguli;icgw
+-1384141764;Substantia medullaris cinguli posterior;pcgw
+1750646129;Substantia medullaris cinguli anterior;acgw
+174;Forceps frontalis;acc
+175;Rostrum corpus callosi;rcc
+176;Genu corpus callosi;gcc
+177;Truncus corpus callosi;bcc
+178;Splenium corpus callosi;scc
+179;Forceps occipitalis;pcc
+65;Gyrus frontalis superior;SFG
+66;Gyrus frontalis medius;MFG
+71;Gyrus precentralis;PrG
+76;Gyrus rectus;GRe
+-2063754382;Gyrus frontopolaris transversus superior (H);TFPGS
+-1465682436;Gyrus rostralis inferior (H);IRoG
+309168177;Gyrus rostralis superior (H);SRoG
+855537679;Gyrus frontopolaris transversus med. (H);TFPGM
+1233666840;Gyrus frontopolaris transversus inferior (H);TFPGI
+72;Gyrus fronto-orbitalis (M);FOG
+68;Gyrus frontalis inferior, pars triangularis (H);TrIFG
+69;Gyrus frontalis inferior, pars opercularis (H);OpIFG
+70;Gyrus frontalis inferior, pars orbitalis (H);OrIFG
+74;Gyrus orbitalis lateralis;LOrG
+75;Gyrus orbitalis medialis;MOrG
+-1761421113;Gyrus orbitalis posterior (H);POrG
+-1278177547;Gyrus orbitalis longitudinalis medius;IOrG
+-1772196785;Substantia medullaris precentralis;prw
+-1517302059;Substantia medullaris orbitalis lateralis;lorw
+-1480491770;Substantia medullaris orbitalis medialis;morw
+-437238407;Substantia medullaris frontalis superior;sfw
+904236454;Substantia medullaris frontalis medius;mfw
+953926355;Substantia medullaris rectus;rew
+957385971;Substantia medullaris frontalis inferioris;ifw
+1206633712;Substantia medullaris fronto-orbitalis;fow
+214;Globus pallidus lateralis;LGP
+215;Globus pallidus medialis;MGP
+216;Lamina medullaris lateralis;lml
+217;Lamina medullaris medialis;mml
+218;Lamina medullaris accessoria;aml
+278;Nucleus habenularis lateralis;LHb
+279;Nucleus habenularis medialis;MHb
+101;Gyrus precentralis insulae (H);PrGI
+105;Gyrus brevis accessorius (H);ASG
+106;Gyrus accessorius anterior (H);AAG
+103;Gyrus centralis posterior primus (H);PCG1
+104;Gyrus centralis posterior secundus (H);PCG2
+98;Gyrus brevis I (H);SG1
+99;Gyrus brevis II (H);SG2
+100;Gyrus brevis intermedius (H);ISG
+377;Nucleus periventricularis hypothalami;IPe
+378;Nucleus infundibularis;ArcH
+379;Area retrochiasmatica;RCh
+380;Nucleus hypothalamicus dorsomedialis;DMH
+381;Nucleus hypothalamicus ventromedialis;VMH
+391;Pars tuberalis (hypophysis);THP
+392;Pars intermedia (hypophysis);IHP
+393;Pars distalis (hypophysis);DHP
+388;Infundibulum;InfS
+389;Pars nervosa (hypophysis);PNHP
+386;Eminentia mediana anterior;AME
+387;Eminentia mediana posterior;PME
+181;Crus anterius capsulae internae;aic
+182;Genu capsulae internae;gic
+980193017;probable internal capsule;ic4
+184;Pars thalamolentiformis (capsulae internae);ltic
+185;Pars retrolentiformis (capsulae internae);rlic
+186;Pars sublentiformis (capsulae internae);slic
+306;Nucleus centromedianus;CMn
+307;Nucleus parafascicularis;PF
+302;Nucleus centralis dorsalis;CD
+303;Nucleus centralis lateralis;CL
+304;Nucleus centralis medialis;CM
+305;Nucleus paracentralis;PC
+410;Nucleus tuberomamillaris;TM
+411;Nuclei tuberis lateralis;LTu
+412;Nucleus hypothalamicus lateralis;LHy
+309;Nucleus lateralis dorsalis;LD
+310;Nucleus lateralis posterior;LP
+312;Nucleus pulvinaris oralis;OPul
+313;Nucleus pulvinaris lateralis;LPul
+314;Nucleus pulvinaris medialis;MPul
+315;Nucleus pulvinaris inferior;IPul
+296;Nucleus medialis dorsalis, pars paralaminaris;MDPL
+297;Nucleus medialis dorsalis, pars magnocellularis;MDM
+298;Nucleus medialis dorsalis, pars parvocellularis;MDPC
+299;Nucleus medialis dorsalis, pars densocellularis;MDD
+336;Nucleus corporis geniculati lateralis, pars dorsal;DLG
+337;Nucleus corporis geniculati lateralis, pars ventra;VLG
+339;Nucleus corporis geniculati medialis, pars dorsali;DMG
+340;Nucleus corporis geniculati medialis, pars ventral;VMG
+341;Nucleus corporis geniculati medialis, pars magnoce;MMG
+342;Capsula corporis geniculati medialis;cmg
+290;Nucleus paratenialis;PT
+291;Nucleus paraventricularis thalami;PV
+292;Nucleus reuniens;Re
+293;Nucleus rhomboidalis;Rh
+294;Nucleus subfascicularis;SF
+139;Cuneus;Cun
+140;Gyrus lingualis;LiG
+136;Gyrus occipitalis superior (H);SOG
+137;Gyrus occipitalis lateralis (H);LOG
+134;Gyrus occipitalis (M);OG
+135;Gyrus annectens (M);AG
+138;Gyrus occipitalis inferior (M);IOG
+-2005119656;Substantia medullaris lingualis;liw
+-1269332145;Substantia medullaris cuneatus;cuw
+-1176007523;Substantia medullaris occipitalis inferior;iow
+496247337;Substantia medullaris occipitalis;ow
+922579890;Substantia medullaris annectens;aw
+147;Area prepyriformis;PPA
+148;Regio periamygdalaris;PA
+149;Presubiculum;PrS
+150;Area entorhinalis;Ent
+151;Gyrus parahippocampalis, pars posterior;PPHG
+210592544;Substantia medullaris entorhinalis;entw
+953935429;Substantia medullaris parahippocampalis posterior;pphw
+87;Gyrus postcentralis;PoG
+88;Lobulus parietalis superior;SPL
+92;Precuneus;PCu
+90;Gyrus supramarginalis;SMG
+91;Gyrus angularis;AnG
+-1838638796;Substantia medullaris supramarginalis;smw
+-80092279;Substantia medullaris parietalis superior;spw
+1108401838;Substantia medullaris postcentralis;pow
+1292180074;Substantia medullaris precuneatus;pcuw
+2035150043;Substantia medullaris angularis;anw
+396;Nucleus corporis mamillaris lateralis;LM
+400;Nucleus supramamillaris;SuM
+401;Nucleus premamillaris;PMm
+402;Nucleus periventricularis posterior;PPe
+403;Nucleus hypothalamicus posterior;PH
+404;Commissura supramamillaris;sumx
+405;Fasciculus mamillaris princeps;mpr
+406;Fasciculus mamillotegmentalis;mtg
+407;Fasciculus mamillothalamicus (hypothalami);mthh
+408;Pedunculus corporis mamillaris;mpe
+398;Nucleus corporis mamillaris medialis, pars mediali;MMM
+399;Nucleus corporis mamillaris medialis, pars lateral;MML
+344;Nucleus limitans;Lim
+345;Nucleus posterior thalami;PTh
+346;Nucleus suprageniculatus;SG
+347;Nucleus submedius;SM
+242;Nucleus dorsalis septi;DS
+243;Nucleus lateralis septi;LS
+244;Nucleus medialis septi;MS
+245;Nucleus triangularis septi;TS
+246;Nucleus septalis fimbrialis;SFi
+247;Nucleus fasciculi diagonalis;DB
+248;Nucleus commissurae anterioris;AC
+249;Nucleus striae terminalis;StT
+239;Cavum septi pellucidi;CSP
+240;Lamina septi pellucidi;lsp
+212;Putamen;Pu
+209;Caput (caudatus);HCd
+210;Corpus (caudatus);BCd
+211;Cauda (caudatus);TCd
+118;Gyrus temporalis superior;STG
+119;Gyrus temporalis medius;MTG
+120;Gyrus temporalis inferior;ITG
+121;Gyrus fusiformis;FuG
+116;Gyrus temporalis transversus anterior (H);ATTG
+117;Gyrus temporalis transversus posterior (H);PTTG
+-1497723952;Substantia medullaris temporalis inferior;itw
+-659272139;Substantia medullaris temporalis superior;stw
+-314374533;Substantia medullaris temporalis medius;mtw
+63505126;Substantia medullaris fusiformis;fuw
+350;Lamina medullaris externa;eml
+351;Lamina medullaris interna;iml
+352;Pedunculus rostralis thalami;atp
+353;Pedunculus thalami superior;sthp
+354;Pedunculus thalami inferior;itp
+355;Pedunculus ventrocaudalis thalami;ptp
+356;Fasciculus mamillothalamicus (thalami);mthth
+318;Nucleus ventralis anterior, pars parvocellularis;VAPC
+319;Nucleus ventralis anterior, pars magnocellularis;VAMC
+321;Nucleus ventralis lateralis, pars oralis;VLO
+322;Nucleus ventralis lateralis, pars caudalis;VLC
+323;Nucleus ventralis lateralis, pars medialis;VLM
+324;Nucleus ventralis lateralis, pars postrema;VLP
+325;Area X;X
+333;Nucleus ventralis posterior inferior;VPI
+328;Nucleus ventralis posterolateralis, pars oralis;VPLO
+329;Nucleus ventralis posterolateralis, pars caudalis;VPLC
+331;Nucleus ventralis posteromedialis, pars principali;VPMPr
+332;Nucleus ventralis posterior medialis, pars parvocellularis;VPMPC
+751;Nucleus commissuralis;Cm10
+752;Nucleus dorsalis nervi vagi;10
+753;Substantia grisea centralis (myelencephali);CGM
+754;Nucleus nervi hypoglossi;12
+755;Nucleus prepositus;PrP
+756;Nucleus intercalatus;In
+757;Nucleus reticularis diffusus;DRt
+758;Nucleus paratrigeminalis;Pa5
+759;Nucleus peritrigeminalis;Pe5
+760;Nucleus sublingualis;SLg
+761;Nucleus salivatorius inferior;IS
+762;Nucleus ambiguus;Amb
+763;Nucleus gracilis;Gr
+764;Nucleus cuneatus;Cu
+765;Nucleus cuneatus accessorius;ACu
+766;Nucleus pericuneatus lateralis;LPCu
+767;Nucleus pericuneatus medialis;MPCu
+768;Nucleus spinalis nervi trigemini, pars caudalis;CSp5
+769;Area postrema;APO
+770;Canalis centralis;CC
+771;Nucleus pontobulbaris;PnB
+772;Nucleus arcuatus myelencephali;ArcM
+773;Nucleus supraspinalis;SSp
+774;Cornu anterius medullaris;MAH
+718;Nucleus cochlearis dorsalis;DCo
+746;Nucleus olivaris inferior principalis;PrIO
+747;Nucleus olivaris accessorius dorsalis;DIO
+748;Nucleus olivaris accessorius medialis;MIO
+749;Amiculum olivare;amio
+750;Hilum nuclei olivaris inferioris;hio
+335458770;Nucleus spinalis nervi trigemini, pars interpolaris;ISp5
+601;Fibrae nervi statoacustici;8nf
+776;Corpus juxtarestiforme;jx
+777;Fasciculus predorsalis;pd
+778;Pedunculus cerebellaris inferior;icp
+779;Fasciculus dorsolateralis;dfm
+780;Fasciculus longitudinalis dorsalis (myelencephali);dlfm
+781;Fasciculus longitudinalis medialis (myelencephali);mlfm
+782;Tractus solitarius;sol
+783;Tractus tectospinalis;ts
+784;Lemniscus medialis (myelencephali);mlm
+785;Decussatio lemniscorum medialium;mlx
+786;Fasciculus cuneatus (myelencephali);cu
+787;Fasciculus gracilis (myelencephali);gr
+788;Tractus spinalis nervi trigemini (myelencephali);sp5m
+789;Fibrae nervi accessorius;11nf
+790;Fibrae nervi glossopharyngei;9nf
+791;Fibrae nervi vagi;10nf
+792;Fibrae arcuatae internae;ia
+793;Fibrae arcuatae externae dorsales;dea
+794;Fibrae arcuatae externae ventrales;vea
+795;Fibrae nervi hypoglossi;12nf
+796;Decussatio pyramidum;pyx
+797;Tractus pyramidalis;py
+798;Tractus corticospinalis lateralis;lcsp
+799;Tractus corticospinalis ventralis;vcsp
+800;Tractus cuneocerebelli;ccb
+801;Tractus olivocerebellaris;oc
+802;Tractus reticulospinalis;rts
+803;Tractus rubrospinalis;rs
+804;Tractus spinocerebellaris posterior;psc
+805;Tractus spinocerebellaris anterior;asc
+806;Tractus spino-olivaris;spo
+807;Tractus spinothalamicus (myelencephali);stm
+808;Tractus tectobulbaris;tb
+809;Tractus vestibulospinalis;vs
+736;Nucleus raphe magnus;RMg
+737;Nucleus raphe obscurus;ROb
+738;Nucleus raphe pallidus;RPa
+740;Subnucleus dorsolateralis;DLSol
+741;Subnucleus dorsomedialis;DMSol
+742;Subnucleus medialis;MSol
+743;Subnucleus parvicellularis;PSol
+744;Subnucleus ventrolateralis;VLSol
+712;Nucleus vestibularis superior;SuVe
+713;Nucleus vestibularis lateralis;LVe
+714;Nucleus vestibularis medialis;MVe
+715;Nucleus vestibularis inferior;IVe
+716;Nucleus vestibularis interstitialis;ISVe
+613;Nuclei pontis;Pn
+614;Fibrae pontis longitudinales;lp
+615;Fibrae pontis transversae;tpf
+616;Pedunculus cerebellaris medius;mcp
+727;Nucleus reticularis gigantocellularis;Gi
+728;Nucleus paragigantocellularis lateralis;LPGi
+729;Nucleus paragigantocellularis dorsalis;DPGi
+730;Nucleus reticularis ventralis;VRt
+677;Flocculus;Fl
+678;Nodulus;Nd
+651;Lobulus quadrangularis anterior;AQL
+652;Ala lobuli centralis;ACL
+662;Lobulus simplex;SL
+666;Lobulus gracilis;GrL
+667;Lobulus biventer;BvL
+668;Tonsilla cerebelli;CbT
+669;Paraflocculus;PFl
+654;Lingula;Lg
+655;Lobulus centralis;CLb
+656;Culmen;Cul
+671;Declive;Dec
+672;Folium vermis;Fol
+673;Tuber vermis;TV
+674;Pyramis vermis;PyV
+675;Uvula vermis;Uv
+664;Lobulus semilunaris superior;SSL
+665;Lobulus semilunaris inferior;ISL
+689;Arbor vitae;abv
+690;Corpus medullare;mdb
+691;Pedunculus flocculi;pfl
+692;Lamina medullaris superior;sml
+693;Lamina medullaris inferior;inml
+694;Velum medullare inferius;imv
+685;Nucleus emboliformis;Emb
+686;Nucleus globosus;Glo
+687;Nucleus fastigii;Fas
+681;Pars neodentata;NDt
+682;Pars paleodentata;PDt
+683;Amiculum nuclei dentati;amdt
+684;Hilum nuclei dentati;hdt
+635;Plexus choroidea (ventriculi quarti);cp4v
+636;Tela choroidea (ventriculi quarti);tc4v
+637;Apertura lateralis ventriculi quarti;LA4V
+638;Apertura mediana ventriculi quarti;MA4V
+639;Recessus lateralis;LR4V
+724;Nucleus reticularis lateralis;LRt
+725;Nucleus reticularis parvocellularis;PCRt
+732;Nucleus paramedianus dorsalis;DPRt
+733;Nucleus paramedianus accessorius;APRt
+734;Nucleus paramedianus ventralis;VPRt
+551;Nucleus motorius nervi trigemini;Mo5
+552;Nucleus principalis nervi trigemini;Pr5
+578;Locus coeruleus;LC
+579;Nucleus subceruleus;SubC
+580;Nucleus nervi abducentis;6
+581;Nucleus nervi facialis;7
+582;Nucleus parabrachialis medialis;MPB
+583;Nucleus parabrachialis lateralis;LPB
+584;Nucleus raphe pontis;RPn
+585;Nucleus salivatorius superior;SuS
+586;Nucleus lemnisci lateralis, pars dorsalis;DLL
+587;Nucleus lemnisci lateralis, pars ventralis;VLL
+588;Velum medullare superius;smv
+589;Corpus trapezoideum;tz
+590;Decussatio trochlearis;4x
+592;Fasciculus uncinatus (pontis);unc
+593;Fibrae nervi abducentis;6nf
+594;Fasciculus longitudinalis dorsalis (pontis);dlfp
+595;Fasciculus longitudinalis medialis (pontis);mlfp
+596;Tractus tegmentalis centralis (pontis);ctgp
+598;Striae acusticae dorsalis;das
+599;Striae acusticae intermedius;ias
+600;Striae acusticae ventralis;vas
+602;Tractus trigeminalis dorsalis;d5
+603;Fibrae nervi trigemini;5nf
+604;Nervus trigeminus, radix motoria;mo5
+605;Lemniscus lateralis;ll
+606;Lemniscus medialis (pontis);mlp
+607;Tractus spinothalamicus (pontis);stp
+608;Tractus tectopontinus;tp
+609;Tractus trigeminalis ventralis;v5
+610;Tractus spinalis nervi trigemini (pontis);sp5p
+611;Tractus vestibulocerebelli;vcb
+1007150190;Pedunculus cerebellaris superior (pontis);scpp
+1015268157;Nucleus spinalis nervi trigemini, pars oralis;OSp5
+575;Fibrae ascendens nervi facialis;asc7
+576;Genu nervi facialis;g7
+577;Fibrae descendens nervi facialis;d7
+557;Nucleus centralis superior;SuC
+558;Nucleus centralis inferior;ICe
+559;Nucleus eminentiae teretis;MeE
+560;Nucleus reticularis pontis oralis;PnO
+561;Nucleus reticularis pontis caudalis;PnC
+562;Substantia grisea centralis (pontis);CGPn
+563;Nucleus reticularis tegmenti pontis;RtTg
+568;Nucleus preolivaris;PrO
+569;Nucleus periolivaris;PeO
+570;Nucleus retro-olivaris;RO
+571;Nucleus corporis trapezoidei;Tz
+572;Tractus olivocochlearis;ocb
+573;Pedunculus olivae superioris;pso
+566;Nucleus olivaris superior lateralis;LSO
+567;Nucleus olivaris superior medialis;MSO
+720;Nucleus cochlearis anteroventralis;AVCo
+721;Nucleus cochlearis posteroventralis;PVCo
+530;Crus cerebri;ccr
+473;Nucleus parabigeminalis;PBG
+474;Organum subcommissurale;SCO
+475;Commissura posterior;pc
+476;Tractus corticotectalis;ctt
+468;Nucleus pericentralis (colliculi inferioris);PCIC
+469;Nucleus externus (colliculi inferioris);EIC
+470;Nucleus centralis (colliculi inferioris);CIC
+471;Brachium colliculi inferioris;bic
+472;Commissura colliculorum inferiorum;cic
+494;Nucleus subcuneiformis;SubCn
+477;Fibrae nervi trochlearis;4nf
+500;Aqueductus cerebri;Aq
+501;Substantia grisea centralis (mesencephali);CGMB
+502;Nucleus commissura posterior;PCom
+503;Nucleus raphe dorsalis;DR
+504;Nucleus nervi trochlearis;4
+505;Nucleus Darkschewitsch;Dk
+506;Nucleus interstitialis Cajal;ICjl
+507;Nucleus interstitialis rostralis;RI
+508;Nucleus dorsalis tegmenti;DTg
+509;Nucleus ventralis tegmenti;VTg
+510;Nucleus linearis;Li
+511;Nucleus peripeduncularis;PPd
+512;Area tegmentalis ventralis;VTA
+513;Nucleus interpeduncularis;IP
+514;Decussatio dorsalis tegmenti;dtgx
+515;Decussatio ventralis tegmenti;vtgx
+516;Fasciculus longitudinalis dorsalis (mesencephali);dlfmb
+517;Fasciculus longitudinalis medialis (mesencephali);mlfmb
+518;Decussatio pedunculorum cerebellarium superiorum;xscp
+519;Tractus tegmentalis centralis (mesencephali);ctgmb
+520;Fibrae nervi oculomotorii;3nf
+521;Fasciculus pallido-tegmentalis;ptf
+522;Pes lemniscus lateralis;lpl
+523;Pes lemniscus medialis;mpl
+524;Lemniscus medialis (mesencephali);mlmb
+525;Tractus dentatothalamicus;dt
+526;Tractus spinothalamicus (mesencephali);stmb
+550;Nucleus mesencephalicus nervi trigemini;Me5
+591;Tractus mesencephalicus nervi trigemini;me5
+439377875;Tractus habenulo-interpeduncularis mesencephali;hipm
+573155162;Pedunculus cerebellaris superior (mesencephalon);scpmb
+484;Nucleus nervi oculomotorii, pars dorsalis;D3
+485;Nucleus nervi oculomotorii, pars intermedius;I3
+486;Nucleus nervi oculomotorii, pars medialis;M3
+487;Nucleus nervi oculomotorii, pars ventralis;V3
+489;Nucleus nervi oculomotorii parvocellularis;PC3
+451;Nucleus area pretectalis;PTA
+452;Nucleus pretectalis principalis;PPt
+453;Nucleus tractus optici;OT
+454;Nucleus sublentiformis;SLn
+455;Nucleus olivaris pretectalis;OPt
+528;Pars compacta;SNC
+529;Pars reticularis;SNR
+457;Stratum zonale colliculi superioris;Zo
+458;Stratum cinereum;SuG
+459;Stratum opticum;SuWh
+465;Brachium colliculi superioris;bsc
+466;Commissura colliculorum superiorum;csc
+493;Nucleus cuneiformis;CnF
+495;Nucleus tegmenti pedunculopontinus;PPTg
+499;Capsula nuclei rubris tegmenti;cr
+488;Nucleus nervi oculomotorii medianus anterior;AM3
+490;Nucleus nervi oculomotorii centralis;C3
+491;Nucleus caudalis centralis oculomotorii;CC3
+497;Pars parvocellularis (ruber);RPC
+498;Pars magnocellularis (ruber);RMC
+461;Stratum griseum mediale;MGr
+462;Stratum album mediale;MWh
+463;Stratum griseum profundum;DpG
+464;Stratum album profundum;DpWh
+1;Encephalon;Br
+8;Prosencephalon;FB
+445;Mesencephalon;MB
+531;Rhombencephalon;HB
+12;Telencephalon;Tel
+271;Diencephalon;DiE
+275;Epithalamus;ETh
+283;Thalamus;Th
+358;Hypothalamus;Hy
+417;Subthalamus;SbTh
+429;Ventriculus tertius;3V
+20;Cortex cerebri;Cx
+191;Ventriculus lateralis;LV
+206;Ganglia basales;BG
+237;Septum;Spt
+250;Fornix;fx
+171;Substantia medullaris cerebri;cw
+207;Striatum;Str
+213;Globus pallidus;GP
+219;Corpus amygdaloideum;Amg
+37;Lobus frontalis;FL
+77;Lobus parietalis;PL
+93;Insula;Ins
+107;Lobus temporalis;TL
+122;Lobus occipitalis;OL
+141;Gyrus cingulatus;CgG
+146;Gyrus parahippocampalis;PHG
+152;Archeocortex;ACx
+173;Corpus callosum;cc
+180;Capsula interna;ic
+187;Commissura anterior;ac
+264031898;Substantia medullaris lobus frontalis;fw
+685484116;Substantia medullaris cingulatus;cgw
+831957031;Substantia medullaris parahippocampalis;phw
+964479090;Substantia medullaris lobus occipitalis;olw
+1506581130;Substantia medullaris parietalis;pw
+1780216775;Substantia medullaris temporalis;tw
+277;Habenula;Hb
+359;Regio hypothalamica anterior;AHR
+375;Regio hypothalamica intermedia;IHR
+394;Regio hypothalamica posterior;PHR
+409;Area hypothalamica lateralis;LH
+238;Septum pellucidum;spt
+241;Nuclei septales;SptN
+285;Nuclei anteriores;ANG
+289;Nuclei mediani;MNG
+295;Nucleus medialis dorsalis;MD
+300;Nuclei intralaminares;ILG
+308;Nuclei laterales thalami;LNG
+316;Nuclei ventrales thalami;VNG
+334;Metathalamus;MTh
+343;Nuclei posteriores thalami;PNC
+349;Fasciculi thalami;thf
+220;Pars corticomedialis;CMA
+226;Pars basolateralis;BL
+228;Nucleus amygdalae basalis;BA
+360;Area preoptica;POA
+154;Gyrus supracallosus;SCG
+159;Formatio hippocampi;HiF
+161;Gyrus dentatus;DG
+164;Hippocampus;Hi
+67;Gyrus frontalis inferior;IFG
+73;Gyri orbitales;OrG
+962901580;Gyrus frontopolaris transversus (H);TFPG
+97;Gyri breves insulae (H);SIG
+102;Gyrus longus insulae (H);LIG
+382;Hypophysis;HP
+384;Neurohypophysis;NHP
+390;Adenohypophysis;AHP
+385;Eminentia postinfundibularis;ME
+183;Crus posterius capsulae internae;pic
+301;Nuclei intralaminares rostrales;RIL
+311;Pulvinar;Pul
+335;Corpus geniculatum laterale;LG
+338;Corpus geniculatum mediale;MG
+89;Lobulus parietalis inferior;IPL
+397;Nucleus corporis mamillaris medialis;MM
+208;Nucleus caudatus;Cd
+317;Nucleus ventralis anterior;VA
+320;Nucleus ventralis lateralis;VL
+326;Nuclei ventrales posteriores;VP
+327;Nucleus ventralis posterolateralis;VPL
+330;Nucleus ventralis posteromedialis;VPM
+534;Metencephalon;Met
+695;Myelencephalon;MO
+711;Nuclei vestibulares;Ve
+717;Nuclei cochleares;Co
+722;Formatio reticularis myelencephali;MeRF
+735;Nuclei raphe (myelencephali);RaM
+739;Nucleus solitarius;Sol
+745;Regio olivaris inferior;IO
+775;Substantia alba myelencephali;mw
+538;Pons;Pons
+640;Cerebellum;Cb
+644;Cortex cerebelli;CbCx
+679;Nuclei cerebelli;DCb
+688;Substantia medullaris cerebelli;cbw
+719;Nucleus cochlearis ventralis;VCo
+723;Nuclei laterales myelencephali;LMRt
+726;Nuclei centrales myelencephali;CMRt
+731;Nuclei paramedianes myelencephali;PMRt
+548;Tegmentum pontis;PTg
+612;Pars basilaris pontis;Bpons
+617;Ventriculus quartus;4V
+647;Lobus anterior cerebelli;ALCb
+657;Lobus posterior cerebelli;PLCb
+676;Lobus flocculonodularis;FNL
+650;Hemispherium lobus anterior;HAL
+653;Vermis lobus anterior;VAL
+661;Hemispherium lobus posterior;HPL
+670;Vermis lobus posterior;VPLb
+663;Lobulus ansiformis;An
+680;Nucleus dentatus;Dt
+553;Nucleus spinalis nervi trigemini;Sp5
+556;Formatio reticularis pontis;PRF
+564;Regio olivaris superioris;SOC
+574;Fibrae nervi facialis;7nf
+565;Oliva superior;SOl
+448;Tectum mesencephali;Tec
+478;Pedunculus cerebri;CP
+482;Tegmentum mesencephali;MTg
+527;Substantia nigra;SN
+450;Area pretectalis;PTec
+456;Colliculus superior;SC
+467;Colliculus inferior;IC
+483;Nuclei nervi oculomotorii;3
+492;Formatio reticularis mesencephali;MBRF
+496;Nucleus ruber;R
+460;Stratum lemnisci;StL
+2;Fissura cerebrocerebellaris;ccbf
+3;Incisura anterior cerebelli;acbi
+4;Sulcus superior pontis;sps
+5;Fissura choroidea;chf
+6;Cisterna interpeduncularis;icis
+7;Cisterna superior;scis
+10;Cisterna laminae terminalis;cislt
+11;Cisterna chiasmatica;ccis
+272;Nervus opticus;2n
+273;Tuberculum anterius thalami;at
+274;Sulcus terminalis;tms
+13;Nervus olfactorius;1n
+14;Nervus terminalis;trn
+15;Trigonum olfactorium;olt
+16;Fissura longitudinalis cerebri;lf
+17;Sulcus corporis callosi;cas
+19;Sulcus parolfactorius posterior;ppos
+18;Sulcus parolfactorius anterior (H);aps
+21;Uncus;un
+22;Sulcus rhinalis;rhs
+23;Sulcus hippocampi;his
+24;Sulcus cinguli;cgs
+25;Sulcus calcarinus;ccs
+28;Sulcus collateralis;cos
+29;Sulcus centralis;cs
+30;Sulcus lateralis;ls
+31;Limen insulae;lmi
+32;Sulcus circularis insulae;crs
+33;Sulcus parieto-occipitalis;pos
+35;Incisura preoccipitalis;pon
+36;Sulcus occipitotemporalis;ots
+26;Sulcus calcarinus anterior (H);accs
+27;Fossa simiarum (M);sf
+34;Sulcus parieto-occipitalis anterior (M);apos
+276;Trigonum habenulae;hbt
+192;Calcar avis;cav
+193;Eminentia collateralis;coe
+194;Eminentia parieto-occipitalis;poce
+195;Lamina affixa;lma
+196;Tenia choroidea (ventriculi lateralis);tnclv
+197;Tenia fimbria;tfb
+198;Tenia fornicis;tfx
+199;Trigonum collaterale;clt
+1806126526;Velum terminale;tv
+284;Adhesio interthalamica;itha
+431;Tenia thalami;tth
+432;Sulcus hypothalamicus;hys
+433;Sulcus habenulae;hbs
+160;Fissura fimbrio-dentata;fdf
+142;Sulcus intracinguli;icgs
+38;Polus frontalis;frp
+39;Operculum frontale;fro
+40;Operculum orbitale;oro
+41;Operculum precentrale;pro
+52;Sulcus precentralis superior;sprs
+54;Sulcus subcentralis anterior;ascs
+59;Sulcus fronto-orbitalis;fros
+60;Sulcus olfactorius;olfs
+64;Sulcus orbitalis medialis;mos
+42;Sulcus frontalis superior (H);sfrs
+43;Sulcus frontalis medius (H);mfs
+44;Sulcus frontalis inferior (H);ifrs
+48;Sulcus diagonalis (H);dias
+49;Ramus anterior ascendens fissurae lateralis (H);aals
+50;Ramus anterior horizontalis sulcus lateralis (H);ahls
+51;Sulcus paracentralis (H);pcs
+53;Sulcus precentralis inferior (H);iprs
+56;Sulcus rostralis superior (H);sros
+57;Sulcus rostralis inferior (H);iros
+61;Sulcus orbitalis (H);orbs
+62;Sulcus orbitalis transversus (H);tos
+45;Ramus superior sulcus arcuatus (M);sras
+46;Ramus inferior sulcus arcuatus (M);iras
+47;Sulcus principalis (M);prs
+58;Sulcus rostralis (M);ros
+63;Sulcus orbitalis lateralis;los
+957388385;Calcar sulci arcuati (M);sas
+94;Sulcus centralis insulae;cis
+95;Sulcus longitudinalis insulae (H);lsi
+96;Sulcus marginalis posterior (H);pms
+376;Tuber cinereum;tbcn
+383;Eminentia lateralis (hypophysis);lehp
+123;Polus occipitalis;ocp
+132;Sulcus lunatus;lus
+124;Sulcus occipitalis anterior (H);aocs
+125;Sulcus occipitalis lateralis (H);locs
+127;Sulcus occipitalis transversus (H);tocs
+131;Sulcus calcarinus posterior (H);pccs
+133;Sulcus intralingualis (H);ils
+126;Sulcus occipitalis inferior (M);iocs
+128;Sulcus ectocalcarinus (M);ecs
+129;Sulcus calcarinus superior (M);sccs
+130;Sulcus calcarinus inferior (M);iccs
+78;Operculum parietale;pao
+79;Sulcus intraparietalis;itps
+81;Sulcus postcentralis;pocs
+82;Sulcus postcentralis superior;spcs
+83;Sulcus postcentralis inferior;ipcs
+84;Sulcus subparietalis;sbps
+85;Sulcus subcentralis posterior;pscs
+80;Ramus marginalis sulci cingulati (H);ms
+86;Ramus posterior ascendens fissurae lateralis (H);pals
+395;Corpus mamillaris;mmb
+108;Polus temporalis;tmp
+109;Operculum temporale;top
+111;Sulcus temporalis superior;sts
+110;Sulci temporales transversi (H);tts
+112;Sulcus temporalis inferior (H);its
+113;Sulcus temporalis medius (M);mts
+114;Sulcus temporalis medius anterior (M);amts
+115;Sulcus temporalis medius posterior (M);pmts
+955732021;Sulcus limitans inferior lateralis;lils
+532;Sulcus inferior pontis;ips
+533;Cisterna magna;cmcis
+696;Oliva;ifol
+697;Fissura mediana anterior;amf
+698;Nervus glossopharyngeus;9n
+699;Nervus vagus;10n
+700;Radices craniales nervi accessorii;c11n
+701;Nervus hypoglossus;12n
+702;Pyramis (medullae oblongatae);pym
+703;Sulcus dorsolateralis;dls
+704;Sulcus intermedius dorsalis;dis
+705;Sulcus medianus dorsalis;dms
+706;Sulcus retro-olivaris;rols
+707;Sulcus ventrolateralis;vls
+708;Tuberculum trigeminale;5t
+709;Tuberculum cuneatum;cut
+710;Tuberculum gracile;grt
+535;Angulus cerebellopontinus;cbpa
+536;Trigonum lemnisci;lmt
+537;Trigonum pontocerebellare;pcbt
+641;Fissura secunda;scf
+642;Incisura posterior cerebelli;pcbi
+643;Vallecula cerebelli;vlcb
+539;Foramen cecum anterior;fca
+540;Nervus trigeminus;5n
+541;Nervus abducens;6n
+542;Nervus facialis;7n
+543;Nervus intermedius;imn
+544;Nervus vestibulocochlearis;8n
+545;Sulcus basilaris;bss
+546;Foramen cecum posterior;fcp
+547;Cisterna pontis;pcis
+645;Fissura prima;pfcb
+646;Fissura posterolateralis;plf
+648;Fissura precentralis cerebelli;prfcb
+649;Fissura postcentralis cerebelli;pofcb
+658;Fissura horizontalis;hzf
+659;Fissura superior posterior;psf
+660;Fissura prepyramidalis;ppyf
+618;Fastigium;ft
+619;Area vestibularis;vba
+620;Eminentia medialis;me4v
+621;Colliculus facialis;fc
+622;Fovea superior;sfv
+623;Fovea inferior;ifv
+624;Funiculus separans;fsp
+625;Striae medullares;strm
+626;Sulcus limitans;slm
+627;Sulcus medianus;mds
+628;Fossa rhomboidea;rhf
+629;Tenia (ventriculi quarti);t4v
+630;Tuberculum acusticum;act
+631;Trigonum nervi vagi;10t
+632;Trigonum nervi hypoglossi;12t
+633;Obex;ob
+634;Calamus scriptorius;clst
+446;Sulcus oculomotorius;ocs
+447;Fissura dorsolateralis mesencephali;dfmb
+479;Nervus oculomotorius;3n
+480;Fossa interpeduncularis;ipf
+481;Fissura ventrolateralis mesencephali;vlfmb
+449;Nervus trochlearis;4n

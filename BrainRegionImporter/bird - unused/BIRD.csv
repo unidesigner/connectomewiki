@@ -1,0 +1,91 @@
+ON:;ONAb:;LN:;LA:;NAME:;ABBREV:;COM:;REF:;PO:
+;;;;Brain;Br;;reference....;Bird
+;;;;Brainstem Cell Groups;Bst;;;Br
+Nucleus intermedius of the medulla;IM;Nucleus nervi hypoglossi;nXII;Hypoglossal nucleus - the twelfth cranial nerve nucleus;nXII;This error in the Karten and Hodos atlas has long been known ;Nottebohm et al., 1976,,Wild & Zeigler, 1980,,Wild, 1981;Brst
+Nucleus nervi hypoglossi - the twelfth cranial nerve nucleus;nXII;Nucleus supraspinalis;SSp;Supraspinal nucleus;SSp;This error in the Karten and Hodos atlas has long been known;Wild, 1981,,Eden & Correia, 1982,,Zijlstra & Dubbeldam, 1994;Brst
+Locus ceruleus - caudal part;Caudal LoC;Locus ceruleus;LoC;Locus ceruleus or A6;LoC;Noradrenergic neurons of A6 as defined by Dahlstroem & Fuxe, 1984;Kitt & Brauth, 1986a,,Bailhache & Balthazart, 1993,,Reiner et al., 1994,,Von Bartheld & Bothwell, 1992;Brst
+Locus ceruleus - rostral part;Rostral LoC;None;None;A8;A8;Dopaminergic neurons of A8 as defined by Dahlstroem & Fuxe, 1984;Von Bartheld & Bothwell, 1992,,Reiner et al., 1994,,Puelles and Medina, 1994,,Smeets and Reiner, 1994;Brst
+Nucleus tegmenti - pedunculopontinus, pars compacta, except lateral edge;TPc, except for lateral edge;Substantia nigra, pars compacta;SNc;Substantia nigra, pars compacta or A9;SNc;Dopaminergic neurons of A9 as defined by Dahlstroem & Fuxe, 1984;Lewis et al., 1981,,Kitt & Brauth, 1986b,,Bailhache & Balthazart, 1993,,Reiner et al., 1994,,Puelles and Medina, 1994,,Smeets and Reiner, 1994;Brst
+Lateral edge of nucleus tegmenti-pedunculopontinus, pars compacta, plus small area lateral to TPc;Lateral part of TPc and a small region lateral to it;Substantia nigra, pars reticulata;SNr;Substantia nigra, pars reticulata;SNr;Previously called substantia nigra, pars lateralis in birds, but switching to SNr indicates homology to mammal SNr;Veenman & Reiner, 1994,,Reiner et al., 1998,,Medina & Reiner, 1997;Brst
+Area ventralis (Tsai);AVT;Area ventralis tegmenti;AVT;Ventral tegmental area or A10 ;VTA;Dopaminergic neurons of A10 as defined by Dahlstroem & Fuxe, 1984;Lewis, et al., 1981,,Bailhache & Balthazart, 1993,,Reiner et al., 1994,,Puelles & Medina, 1994,,Smeets & Reiner, 1994;Brst
+Partly identified as nucleus profundus mesencephali pars ventralis;Partly identified as MPv;Nucleus pedunculopontinus tegmenti;PPT;Pedunculopontine tegmental nucleus;PPT;Cholinergic cell group of isthmic region, English term commonly used;Medina & Reiner, 1994,,Woolf, 1991;Brst
+Region medial to ansa lenticularis identified as anterior nucleus of ansa lenticularis in Karten & Dubbeldam (1973);ALa;Nucleus subthalamicus;STN;Subthalamic nucleus;STN;English term more commonly used for mammals ;Reiner et al., 1998,,Jiao et al., 2000;Brst
+;;;;Subpallial Cell Groups;SubPall;;;Br
+Lobus parolfactorius;LPO;Striatum mediale;StM;Medial striatum;MSt;English term more commonly used than Latin term ;Reiner et al., 1998,,Puelles et al., 2000;SubPall
+Area X within male songbird LPO first named by Nottebohm et al., 1976;X;Area X;X;Area X;X;Continued use of the entrenched term Area X recommended by  Forum;Nottebohm et al., 1976,,Bottjer et al., 1989;SubPall
+Vocal control region in parrot LPO termed magnocellular nucleus of LPO;LPOm;Striatum mediale, pars magnocellularis;StMm;Magnocellular part of medial striatum;MStm;Comparable to area X, but independently evolved;Ball, 1994,,Striedter, 1994,,Durand et al., 1997;SubPall
+Paleostriatum augmentatum;PA;Striatum laterale;StL ;Lateral striatum;LSt;English term more commonly used than Latin term;Reiner et al., 1998,,Puelles et al., 2000;SubPall
+Paleostriatum primitivum;PP;Globus pallidus;GP;Globus pallidus;GP;Use of globus pallidus for birds emphasizes homology to mammalian GP;Karten & Dubbeldam, 1973,,Medina and Reiner, 1997,,Reiner et al., 1998,,Puelles et al., 2000;SubPall
+Nucleus intrapeduncularis;INP;Nucleus intrapeduncularis;INP;Intrapeduncular nucleus;INP;Subpallial region unique to birds and has largely striatal traits ;Karten & Dubbeldam, 1973,,Reiner et al., 1984,,Reiner et al., 1998b;SubPall
+Ventromedial part of rostral lobus parolfactorius;no abbreviation since not recognized as a distinct region;Nucleus accumbens (ventromedial rostral LPO);Ac;Nucleus accumbens (ventromedial rostral LPO);Ac;Precise borders remain undefined;Reiner et al., 1983,,Berk, 1987,,Veenman et al., 1995,,Mezey and Csillag, 2002;SubPall
+Tuberculum olfactorium;TO;Tuberculum olfactorium;TuO;Olfactory tubercle;OTu;Homologous to structure of same name in mammals;Reiner & Karten, 1985,,Reiner et al., 1998,,Roberts et al., 2002;SubPall
+Unnamed circumscribed region between LPO and quintofrontal tract ;No abbreviation since no name assigned for GABAergic neurons in MFB (FPM)1;Pallidum ventrale;PVt;Ventral pallidum;VP;Large scattered GABAergic neurons in MFB (FPM)1 homologous to mammalian cell group of same name;Brauth et al., 1978,,Reiner et al., 1984,,Veenman & Reiner, 1994,,Medina and Reiner, 1997;SubPall
+Nucleus accumbens;Ac;Nucleus striae terminalis lateralis;NSTL;Lateral part of the bed nucleus of the stria terminalis;BSTL;Erroneously identified as nucleus accumbens in Karten and Hodos;Berk, 1987,,Reiner et al., 1994,,Aste et al., 1998;SubPall
+Unnamed region around the lateral edge of the anterior commissure;No name assigned in Karten & Hodos (1967);Nucleus striae terminalis medialis;NSTM;Medial part of the bed nucleus of the stria terminalis;BSTM;Homology to mammalian cell group of same name supported by neurochemical, hodological and functional similarity;Aste et al., 1998,,Jurkevic et al., 1999;SubPall
+Region encompassing FPL and unnamed circumscribed region between LPO and QF;No name assigned in Karten & Hodos (1967) for cholinergic neurons in LFB2 & MFB1;Nucleus basalis magnocellularis;NBM;Basal magnocellular cholinergic nucleus;NBM;Large cholinergic neurons scattered in Lateral forebrain bundle (fasciculus prosencephali lateralis) & Medial forebrain bundle (fasciculus prosencephali medialis), overlaps Ventral pallidum;Mesulam et al., 1984,,Woolf, 1991,,Medina & Reiner, 1994;SubPall
+Region of fasciculus of diagonal band;FDB;Nucleus diagonalis Brocae;NDB;Nucleus of the diagonal band;NDB;Cholinergic neurons in and around FDB;Mesulam et al., 1984,,Woolf, 1991,,Medina & Reiner, 1994;SubPall
+Nucleus septalis medialis;SM;Nucleus septalis medialis;SM;Medial  septal nucleus;SM;;Mesulam et al., 1984,,Woolf, 1991,,Medina & Reiner, 1994;SubPall
+Nucleus septalis lateralis;SL;Nucleus septalis lateralis;SL;Lateral septal nucleus;SL;;Reiner et al., 1994,,Smeets & Reiner, 1994;SubPall
+;;;;Hyperstriatum;HypST;;;Br
+;;;;Wulst;Wulst;;;HypST
+Hyperstriatum accessorium;HA;Hyperpallium apicale;HA;Apical part of the hyperpallium;HA;Latin abbreviation and term are more consistent with prior use for this structure;Karten et al., 1973,,Medina & Reiner, 2000,,Wild & Williams, 2000;Wulst
+Nucleus intercalatus hyperstriatum accessorium in Karten et al. (JCN1973);IHA;Nucleus interstitialis hyperpallii apicale;IHA;Interstitial part of the hyperpallium apicale;IHA;The term interstitial more aptly describes this region than does the term intercalated;Karten et al., 1973,,Medina & Reiner, 2000;Wulst
+Hyperstriatum intercalatus superior;HIS;Hyperpallium intercalatum ;HI;Intercalated part of the hyperpallium ;HI;Superior in name not appropriate;Karten et al., 1973;Wulst
+Hyperstriatum dorsale;HD;Hyperpallium densocellulare;HD;Densocellular part of the hyperpallium;HD;Dorsale in name no longer apt since the region termed HV now called mesopallium;Karten et al., 1973;Wulst
+;;;;Hyperstriatum Ventrale;HypSTv;;;HypST
+Hyperstriatum ventrale;HV;Mesopallium;M;Mesopallium;M;;Rehkaemper et al., 1984;HypSTv
+Hyperstriatum ventrale dorso-ventrale ;HVdv;Mesopallium dorsale;MD;Dorsal mesopallium;MD;;Waechtler, 1985,,Csillag et al., 1990;HypSTv
+Hyperstriatum ventrale ventro-ventrale;HVvv;Mesopallium ventrale;MV;Ventral mesopallium;MV;Recommend motor nucleus of trigeminus be abbreviated MNV to prevent conflict with abbreviation for ventral mesopallium;Waechtler, 1985,,Csillag et al., 1990;HypSTv
+Oval nucleus of the hyperstriatum ventrale ;HVo;Mesopallium ovale;MO;Oval nucleus of mesopallium;MO;Part of parrot vocal control circuit;Striedter, 1994,,Durand et al., 1997,,Jarvis et al., 1998;HypSTv
+Caudal medial hyperstriatum ventrale;CMHV;Mesopallium  caudomediale;CMM;Caudomedial mesopallium;CMM;Part of auditory circuit studied in several species of vocal learners;Vates et al., 1996,,Jarvis et al., 2000;HypSTv
+Intermediate medial hyperstriatum ventrale;IMHV;Mesopallium intermediomediale;IMM;Intermediate medial mesopallium;IMM;Involved in filial imprinting in chicks;Horn, 1981,,Rose and Csillag, 1985,,Patel et al., 1988,,Csillag et al., 1990.;HypSTv
+;;;;Neostriatum;NeoST;;;Br
+Neostriatum;N;Nidopallium;N;Nidopallium;N;Abbreviation retained;;NeoST
+Neostriatum frontale;NF;Nidopallium frontale;NF;Frontal nidopallium;NF;Abbreviation retained;;NeoST
+Neostriatum intermedium;NI;Nidopallium intermedium;NI;Intermediate nidopallium;NI;Abbreviation retained;;NeoST
+Neostriatum caudale;NC;Nidopallium caudale;NC;Caudal nidopallium;NC;Abbreviation retained;;NeoST
+Neostriatum caudolaterale -  defined by work of Divac and Guentuerkuen ;NCL;Nidopallium caudolaterale;NCL;Caudolateral nidopallium;NCL;Abbreviation retained;Mogenson & Divac, 1982,,Reiner, 1986,,Guentuerkuen, 1997;NeoST
+Ectostriatum;E;Nucleus entopalliallis or entopallium;E;The entopallial nucleus or the entopallium;E;Abbreviation retained;Benowitz & Karten, 1976;NeoST
+Nucleus basalis;Bas;Nucleus basorostralis pallii;Bas;The basorostral pallial nucleus;Bas;Changed name to avoid confusion with cholinergic basal forebrain cell group;Wild et al., 1985,,Wild and Farabaugh, 1996,,Dubbeldam and Visser, 1987,,Wild et al., 1997,,Wild et al., 2001,,Witkovsky et al., 1973;NeoST
+Field L identified as auditory area by Karten (1968);L;Area L pallii;L;Field L;L;No change recommended;Karten, 1968,,Bonke, 1979a,b;NeoST
+Nidopallial area mistakenly called caudal nucleus of hyperstriatum ventrale by Nottebohm et al., 1976;HVc;HVC;;HVC;HVC;No easy solution for correcting original naming error for this structure, thus, HVC recommended as formal name;Nottebohm et al., 1976,,Fortune & Margoliash, 1995,,Brenowitz et al., 1997;NeoST
+Lateral magnocellular nucleus of the anterior neostriatum;LMAN;Nucleus lateralis magnocellularis nidopallii anterioris ;LMAN;Lateral magnocellular nucleus of anterior nidopallium;LMAN;Abbreviation retained, but capitalize L for clarity;Nottebohm et al., 1976,,Bottjer et al., 1989;NeoST
+Medial magnocellular nucleus of the anterior neostriatum ;MMAN;Nucleus medialis magnocellularis nidopallii anterioris ;MMAN;Medial magnocellular nucleus of anterior nidopallium;MMAN;Abbreviation retained but capitalize M for consistency;Nottebohm et al., 1976,,Bottjer et al., 1989;NeoST
+Nucleus interface of the neostriatum;NIf;Nucleus interfacialis nidopallialis;NIf;Nucleus interface of the nidopallium;NIf;Abbreviation retained, but capitalize I for consistency;Nottebohm et al., 1982,,Nordeen & Nordeen, 1997,,Margoliash, 1997;NeoST
+Caudomedial neostriatum;NCM;Nidopallium caudomediale;NCM;Caudal medial nidopallium;NCM;Abbreviation retained ;Vates et al., 1996,,Margoliash, 1997,,Jarvis et al., 2000;NeoST
+Oval nucleus of the anterior neostriatum in parrots;NAo;Nucleus ovalis nidopallii anterioris ;NAO;Oval nucleus of the anterior nidopallium;NAO;Abbreviation retained, but capitalize O for consistency;Brauth & McHale, 1988,,Striedter, 1994,,Durand et al., 1997,,Jarvis and Mello, 2000;NeoST
+Medial oval nucleus of the anterior neostriatum in parrots;NAom;Nucleus ovalis nidopallii anterioris, pars medialis;NAOM;Medial oval nucleus of the anterior nidopallium;NAOM;Abbreviation retained but capitalize OM for consistency;Brauth & McHale, 1988,,Striedter, 1994,,Durand et al., 1997,,Jarvis and Mello, 2000;NeoST
+Central nucleus of the lateral neostriatum in parrots;NLc;Nucleus centralis nidopallii lateralis ;NLC;Central nucleus of the lateral nidopallium;NLC;Abbreviation retained, but capitalize C for consistency;Brauth & McHale, 1988,,Striedter, 1994,,Durand et al., 1997,,Jarvis and Mello, 2000;NeoST
+;;;;Archistriatum;ArchiST;;;Br
+;;;;Arcopallium;ArcoPall;;;ArchiST
+Archistriatum;A;Arcopallium;A;Arcopallium;A;Distinctness and extensibility of abbreviation enhanced by lower case "r";;ArcoPall
+Nucleus archistriatalis anterior;AA;Arcopallium anterius;AA;Anterior arcopallium;AA;Abbreviation retained;;ArcoPall
+Archistriatum, pars dorsalis (archistriatum intermedium, pars dorsalis in Zeier & Karten, 1971);Ad in Karten and Hodos, but Aid in Zeier and Karten (1971);Arcopallium dorsale ;AD;Dorsal arcopallium;AD;Delete intermediate from name to simplify;Zeier & Karten, 1971,,Waechtler, 1985,,Reiner et al., 1994;ArcoPall
+Upper part of Archistriatum, pars ventralis (archistriatum intermedium in Zeier & Karten, 1971);Upper part of Av in Karten and Hodos, but Archistriatum intermedium (Ai) in  Zeier and Karten, 1971;Arcopallium intermedium;AI;Intermediate arcopallium;AI;Limit the word intermediate to this subdivision to simplify;Zeier & Karten, 1971;ArcoPall
+Medial part of Archistriatum, pars ventralis (archistriatum mediale in Zeier & Karten, 1971);Termed archistriatum mediale (Am) in Zeier and Karten (1971);Arcopallium mediale;AM;Medial arcopallium;AM;Needs to be determined if this region can be subdivided into separate limbic and somatic territories;Zeier & Karten, 1971,,Davies et al., 1997;ArcoPall
+Robust nucleus of archistriatum in male songbirds;RA;Nucleus robustus arcopallialis;RA;Robust nucleus of arcopallium;RA;Abbreviation retained;Nottebohm et al., 1976,,Bottjer et al., 1989;ArcoPall
+Central nucleus of anterior archistriatum in parrots;AAc;Nucleus centralis arcopallii anterioris;AAC;Central nucleus of anterior arcopallium;AAC;Abbreviation retained;Brauth & McHale, 1988,,Durand et al., 1997;ArcoPall
+;;;;Amygdala;Amygd;;;ArchiST
+Ventral part of Archistriatum, pars ventralis plus caudal part of Archistriatum;Archistriatum posterior  (Ap) in Zeier and Karten (1971);Nucleus posterior amygdalopallialis;PoA;Posterior nucleus of the pallial amygdala;PoA;Abbreviations for amygdaloid nuclei similar in form to emphasize shared amygdaloid nature;Zeier & Karten, 1971,,Berk & Hawkin, 1985,,Davies et al., 1997,,Dubbeldam et al., 1997,,Lanuza et al., 2000;Amygd
+Nucleus taeniae;Tn;Nucleus taeniae amygdalae;TnA;Nucleus taeniae of the amygdala;TnA;Add amygdala to name to emphasize amygdaloid nature;Cheng et al., 1999,,Cobos et al., 2001a,,Absil et al., 2002;Amygd
+Region below paleostriatum primitivum posterior to anterior commissure;Identified as ventral part of paleostriatum augmentatum, PA;Area subpallialis amygdalae;SpA;Subpallial amygdaloid area;SpA;Homologous to at least sublenticular part of extended amygdala in mammals;Wild et al., 1990,,Molnar et al., 1994,,Reiner et al., 1994,,Atoji et al., 1996;Amygd
+;;;;Other Pallial Structures;OtPall;;;Br
+;;;;Hippocampal and Corticoid Areas;HippoOt;;;OtPall
+Area parahippocampalis;APH;Area parahippocampalis;APH;Area parahippocampalis;APH;No change in term needed;Erichsen et al., 1991,,Krebs et al., 1991;HippoOt
+Hippocampus;Hp;Hippocampus;Hp;Hippocampus;Hp;No change in term needed;Erichsen et al., 1991,,Krebs et al., 1991;HippoOt
+Cortex piriformis;CPi;Cortex piriformis;CPi;Cortex piriformis;CPi;No change in term needed;Reiner & Karten, 1985;HippoOt
+Area corticoidea dorsolateralis;CDL;Area corticoidea dorsolateralis;CDL;Area corticoidea dorsolateralis;CDL;No change in term needed;Redies et al.., 2001;HippoOt
+Area temporo-parieto-occipitalis;TPO;Area temporo-parieto-occipitalis;TPO;Area temporo-parieto-occipitalis;TPO;Ill-defined region, but no change in term needed;Brauth et al., 1978,,Mogensen & Divac, 1982;HippoOt
+;;;;Intratelencephalic Lamina and Boundaries;Lamina;;;Br
+Lamina medullaris dorsalis;LMD;Lamina pallio-subpallialis;LPS;Pallial-subpallial lamina;PSL;Change to a clear descriptive name ;Puelles et al., 2000;Lamina
+Lamina archistriatalis Dorsalis in Zeier and Karten, 1971;LAD;Lamina arcopallialis dorsalis;LAD;Dorsal arcopallial lamina;LAD;Abbreviation retained if Latin used;Zeier & Karten, 1971,,Kuenzel & Masson, 1988;Lamina
+Lamina hyperstriatica ;LH;Lamina mesopallialis;LaM;Mesopallial lamina;LaM;Change needed since region above lamina now the mesopallium;;Lamina
+Lamina frontalis superior;LFS;Lamina frontalis superior;LFS;Superior frontal lamina;SFL;No reason to change;;Lamina
+Lamina frontalis suprema;LFM;Lamina frontalis suprema;LFM;Supreme frontal lamina;MFL;No reason to change;;Lamina
+;;;;Telencephalic Fiber Tracts;Fiber;;;Br
+Tractus thalamostriaticus;TTS;Tractus thalamopallialis;TTP;Thalamopallial tract;TTP;Changed because pallial structures are targets of tract;Karten & Hodos, 1970,,Karten et al., 1973,,Gamlin & Cohen, 1986;Fiber
+Tractus archistriatalis dorsalis;DA;Tractus dorso-arcopallialis;DA;Dorsal arcopallial tract;DA;Abbreviation retained;;Fiber
+Tractus fronto-archistriatalis;FA;Tractus fronto-arcopallialis;FA;Fronto-arcopallial tract;FA;Abbreviation retained;;Fiber
+Tractus septomesencephalicus;TSM;Tractus septopallio-mesencephalicus;TSM;Septopallio-mesencephalic tract;TSM;Not of purely septal origin, abbreviation retained with Latin term;Karten et al., 1973,,Reiner & Karten, 1983,,Wild & Williams, 2000;Fiber
+Tractus occipito-mesencephalicus;OM;Tractus occipito-mesencephalicus;OM;Occipito-mesencephalic tract;OM;No reason to change;Zeier & Karten, 1971;Fiber
+Tractus occipito-mesencephalicus, pars hypothalami in Zeier and Karten, 1971;HOM;Tractus occipito-mesencephalicus, pars hypothalamica;HOM;Hypothalamic part of occipitomesencephalic tract;HOM;No reason to change;Zeier & Karten, 1971;Fiber

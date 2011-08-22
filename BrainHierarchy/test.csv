@@ -1,0 +1,70 @@
+Intracranial
+Brain
+    Cerebrum
+        Occipital Lobe
+        Temporal Lobe
+        Frontal Lobe
+        Parietal Lobe
+    Cerebellum
+        Vermis
+    Gray Matter
+        Cerebral Gray Matter
+            Cerebral Cortex
+                Insula
+                Operculum
+                Occipital Lobe (gm)
+                Temporal Lobe (gm)
+                Frontal Lobe (gm)
+                Parietal Lobe (gm)
+            Cerebral Deep Gray Matter
+                Central Gray Matter
+                    Thalamus
+                    Ventral Diencephalon
+                    Hypothalamus
+                Nucleus Accumbens
+                Basal Ganglia
+                    Lenticulate
+                        Putamen
+                        Pallidum
+                    Striatum
+                        Caudate
+                            Caudate Head
+                            Caudate Body
+                            Caudate Tail
+                        Putamen
+                Hippo-Amygdala Complex
+                    Hippocampus
+                    Amygdala
+        Cerebellar Gray Matter
+            Cerebellar Cortex
+    White Matter
+        Cerebral White Matter
+            Occipital Lobe (wm)
+            Temporal Lobe (wm)
+            Frontal Lobe (wm)
+            Parietal Lobe (wm)
+        Cerebellar White Matter
+        Corpus Callosum
+            CC-WR1
+            CC-WR2
+            CC-WR3
+            CC-WR4
+            CC-WR5
+            CC-WR6
+            CC-WR7
+            Genu
+            Anterior Body
+            Posterior Body
+            Isthmus
+            Splenium
+        Brainstem
+            Pons
+            Medulla Oblongata
+    CSF
+        Superficial/Sulcal CSF
+        Ventricular System
+            Lateral Ventricle
+                Inferior Lateral Ventricle
+            Third Ventricle
+            Fourth Ventricle
+

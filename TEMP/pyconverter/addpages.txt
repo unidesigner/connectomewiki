@@ -1,0 +1,95 @@
+{{-start-}}
+'''Test1_(Homo Pythonus)'''
+{{Connectome Brain Region
+|Abbreviation=#F1#
+|Latin Abbreviation=#F2#
+|Species=Homo Pythonus
+|English Name=Test1
+|Latin Name=#F5#
+|Other Name=#F6#
+|Synonym=#F7#
+|FreesurferLabelID=#F20#
+|Defining Criteria=#F8#
+|IsMandatory=#F21#
+|Definition=#F9#
+|Function Tag=#F10#
+}}
+== References==
+#F11#
+
+{{Connectome Brain Region Hierarchy
+|Has spatial-functional part=#F12#
+|Has spatial-structural part=#F13#
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=#F14#
+|Has efferent=#F15#
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=#F16#
+|Wikipedia Link=#F17#
+}}
+{{-stop-}}
+{{-start-}}
+'''Test3_(Homo Pythonus)'''
+{{Connectome Brain Region
+|Abbreviation=#F1#
+|Latin Abbreviation=#F2#
+|Species=Homo Pythonus
+|English Name=Test3
+|Latin Name=#F5#
+|Other Name=#F6#
+|Synonym=#F7#
+|Defining Criteria=#F8#
+|Definition=#F9#
+|Function Tag=#F10#
+}}
+== References==
+#F11#
+
+{{Connectome Brain Region Hierarchy
+|Has spatial-functional part=#F12#
+|Has spatial-structural part=#F13#
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=#F14#
+|Has efferent=#F15#
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=#F16#
+|Wikipedia Link=#F17#
+}}
+{{-stop-}}
+{{-start-}}
+'''Test2_(Homo Pythonus)'''
+{{Connectome Brain Region
+|Abbreviation=#F1#
+|Latin Abbreviation=#F2#
+|Species=Homo Pythonus
+|English Name=Test2
+|Latin Name=#F5#
+|Other Name=#F6#
+|Synonym=#F7#
+|Defining Criteria=#F8#
+|Definition=#F9#
+|Function Tag=#F10#
+}}
+== References==
+#F11#
+
+{{Connectome Brain Region Hierarchy
+|Has spatial-functional part=#F12#
+|Has spatial-structural part=#F13#
+}}
+{{Connectome Brain Region Connectivity
+|Has afferent=#F14#
+|Has efferent=#F15#
+}}
+{{Connectome Brain Region Geometry}}
+{{Connectome Brain Region LinkOut
+|Neurolex Link=#F16#
+|Wikipedia Link=#F17#
+}}
+{{-stop-}}

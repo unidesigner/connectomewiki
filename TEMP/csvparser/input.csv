@@ -1,0 +1,12 @@
+a;alpharomeo;HI:s;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus,Cortex
+PrG;precentral gyrus;HI:s;IMP:Paxinos-HNS;CRI:anatomy
+	M1;Primary motor cortex [M1/F1];IMP:BrainML;WL:Primary motor cortex;HI:f;CRI:functional
+	M2;Secondary motor cortex [M2];IMP:BrainML;HI:f;CRI:functional
+		PPC;Posterior parietal cortex [PPC];DEF:Responsible for transforming visual information into motor commands;IMP:BrainML;HI:f;CRI:functional
+		PMA;Premotor cortex [PMC/PMA];DEF:Responsible for motor guidance of movement and control of proximal and trunk muscles of the body.;IMP:BrainML;WL:Premotor cortex;HI:f;CRI:functional
+			PMd;F2/F7 PMd [premotor area (dorsal)];IMP:BrainML;HI:f;CRI:functional
+			PMv;F4/F5 PMv [premotor area (ventral)];IMP:BrainML;HI:f;CRI:functional
+	POSm;medial posterior orbital sulcus;HI:s;IMP:Paxinos-HNS;CRI:anatomy
+	POSl;lateral posterior orbital sulcus;HI:s;IMP:Paxinos-HNS;CRI:anatomy
+	TOS;transverse orbital sulcus;HI:s;IMP:Paxinos-HNS;CRI:anatomy
+b;betorama;HI:f;IMP:Paxinos-HNS;CRI:functional

@@ -1,0 +1,41 @@
+Br;NAME:Brain;DESC:The Brain;PMID:15116397
+BrSt;NAME:Brainstem Cell Groups;PMID:15116397;PO:Br
+SubPall;NAME:Subpallial Cell Groups;PMID:15116397;PO:Br
+HA;NAME:Hyperpallium;LN:Hyperstriatum;PMID:15116397;PO:Br
+Wulst;NAME:Wulst;PMID:15116397;PO:HA
+MB;NAME:Midbrain;PMID:12471486;PO:Br
+M;NAME:Mesopallium;LN:Hyperstriatum Ventrale;PMID:12471486,15116397;PO:HA
+N;NAME:Nidopallium;LN:Neostriatum;PMID:15116397;PO:Br
+A;NAME:Arcopallium;LN:Archistriatum;PMID:15116397;PO:Br
+TH;NAME:Thalamus;PO:Br;PMID:8833113,18463257,17977927
+FieldL;NAME:Field L;DESC:Field L is the primary auditory area in the songbirds forebrain. It is considered the homolog of the primary auditory cortex in mammals<ref>12904792</ref>.;TEXT:[[Topography::Yes]];PMID:10196550,11535690,12471486,12522195,12878713,15064966,15313778,15321071,16136039,17360830,18579083,19005471,8824335,8833113;PO:N
+L1;NAME:Field L1;DESC:Subdivision of Field L.;PMID:10366643,10704507,11535690,12522195,15064966,17360830,8824335;PO:FieldL
+L2a;NAME:Field L2a;DESC:Subdivision of Field L.;PMID:10704507,11535690,12522195,15064966,17360830,8824335;PO:FieldL
+L2b;NAME:Field L2b;DESC:Subdivision of Field L.;PMID:10704507,11535690,12522195,15064966,8824335;PO:FieldL
+L3;NAME:Field L3;DESC:Subdivision of Field L.;PMID:10704507,11535690,12522195,15064966,17360830,8824335;PO:FieldL
+AreaX;NAME:Area X;TEXT:[[Topography::Yes]];PMID:11052946,15313778,12471486,11052946,18451295,8994068,7119147;PO:SubPall
+CLM;NAME:Lateral subdivision of the caudal region of mesopallium;PMID:12471486,17360830,19005471,8833113;PO:M
+CMM;NAME:Caudal medial mesopallium;PMID:11535690,12471486,12522195,15313781,15321071,8833113,16807000;PO:M
+HVC;NAME:HVC;DESC:HVC acronym used as the proper name.;TEXT:[[Topography::No]];PMID:10196550,10366643,10884326,11052946,12214232,12352977,12471486,12878713,12904792,14724261,15313778,15317851,15321071,15342742,15590726,15616963,15728835,17855617,18202651,18256272,18451295,18463257,7119147,8824335;PO:N
+LMAN;NAME:Lateral subdivision of the magnocellular nucleus of the anterior nidopallium;TEXT:[[Topography::Yes]];PMID:11052946,12471486,15313778,18451295,7119147,8994068;PO:N
+MMAN;NAME:Medial subdivision of the magnocellular nucleus of the anterior nidopallium;PMID:12471486;PO:N
+NCM;NAME:Caudal medial nidopallium;DESC:Nonlinear auditory response<ref>11535690</ref>, selective for CON;PMID:12471486,15313778,15321071,17433683,7724575,8833113,16807000;PO:N
+vNCM;NAME:Ventral caudal medial nidopallium;PMID:16807000;PO:N
+dNCM;NAME:Dorsal caudal medial nidopallium;PMID:16807000;PO:N
+NIf;NAME:Nucleus interface of the nidopallium;LN:Nucleus interfacialis nidopallialis;PMID:10366643,12471486,14724261,15313778,15317851,15321071,15342742,15590726,17855617,18256272,18463257,7119147,8833113;PO:N
+RA;NAME:Robust nucleus of arcopallium;TEXT:[[Topography::Yes]];PMID:10368416,11052946,12214232,16510728,17977927,18451295,18463257,7119147,12471486;PO:A
+RAcup;NAME:Robust nucleus of arcopallium cup;PMID:8833113;PO:A
+CHV;NAME:Caudal mesopallium;PMID:12471486;PO:M
+nXII;NAME:Hypoglossal nucleus;DESC:The twelfth cranial nerve nucleus;PMID:12471486;PO:BrSt
+nXIIts;NAME:Tracheosyringeal portion of the hypoglossal nucleus;TEXT:[[Topography::Yes]];PMID:12471486;PO:BrSt
+NCD;NAME:Dorsocaudal nidopallium;LN:Dorsal caudal neostriatum;TEXT:[[Topography::Unresolved]];PMID:12471486;PO:N
+Shelf;NAME:Shelf;PMID:12471486,8833113;PO:N
+MLD;NAME:Dorsal lateral nucleus of mesencephalon;PMID:12471486;PO:MB
+DM;NAME:Dorsomedial subdivision of nucleus intercollicularis;PMID:12471486;PO:MB
+NRA;NAME:Nucleus retroambigualis;PMID:12471486,8747209;PO:BrSt
+NAM;NAME:Nucleus ambiguus;TEXT:[[Topography::Unresolved]];PMID:12471486,10368416;PO:BrSt
+Uva;NAME:Nucleus uvaeformis of the thalamus;PMID:12471486,17855617,18463257,7119147;PO:TH
+DMP;NAME:Posterior portion of the dorsomedial thalamic nucleus;DESC:Its role in song production is uncertain;PMID:10368416;PO:TH
+DLM;NAME:Medial subdivision of the dorsal lateral nucleus of anterior thalamus;DESC:[[Topography:Yes]];PMID:11052946,12471486,18451295;PO:TH
+DMP;NAME:Dorsomedial nucleus of posterior thalamus;PMID:12471486;PO:TH
+Ov;NAME:Nucleus ovoidalis complex;LN:Ovoidalis;DESC:Nucleus ovoidalis;PMID:8833113,12471486;PO:TH

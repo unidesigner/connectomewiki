@@ -1,0 +1,154 @@
+FieldL
+NAME:Field L
+DESC:Field L is the primary auditory area in the songbirds forebrain. It is considered the homolog of the primary auditory cortex in mammals<ref>12904792</ref>.[[Topography:Yes]]
+PMID:10196550,11535690,12471486,12522195,12878713,15064966,15313778,15321071,16136039,17360830,18579083,19005471,8824335,8833113
+
+L1
+NAME:Field L1
+DESC:Subdivision of Field L. 
+PMID:10366643,10704507,11535690,12522195,15064966,17360830,8824335
+
+L2a
+NAME:Field L2a
+DESC:Subdivision of Field L.
+PMID:10704507,11535690,12522195,15064966,17360830,8824335
+
+L2b
+NAME:Field L2b
+DESC:Subdivision of Field L.
+PMID:10704507,11535690,12522195,15064966,8824335
+
+L3
+NAME:Field L3
+DESC:Subdivision of Field L.
+PMID:10704507,11535690,12522195,15064966,17360830,8824335
+
+AreaX
+NAME:Area X
+DESC:[[Topography:Yes]]
+PMID:11052946,15313778,12471486,11052946,18451295,8994068,7119147
+
+CLM
+NAME:Lateral subdivision of the caudal region of mesopallium
+PMID:12471486,17360830,19005471,8833113
+
+CMM
+DESC:Caudal medial mesopallium
+PMID:11535690,12471486,12522195,15313781,15321071,8833113,16807000
+
+DLM
+NAME:Medial subdivision of the dorsal lateral nucleus of anterior thalamus
+DESC:[[Topography:Yes]]
+PMID:11052946,12471486,18451295
+
+DMP
+NAME:Dorsomedial nucleus of posterior thalamus
+PMID:12471486
+
+DM
+NAME:Dorsomedial subdivision of nucleus intercollicularis
+DESC:
+PMID:12471486
+
+HVC
+NAME:HVC
+DESC:HVC acronym used as the proper name;[[Topography:No]]
+PMID:10196550,10366643,10884326,11052946,12214232,12352977,12471486,12878713,12904792,14724261,15313778,15317851,15321071,15342742,15590726,15616963,15728835,17855617,18202651,18256272,18451295,18463257,7119147,8824335
+
+LMAN
+NAME:Lateral subdivision of the magnocellular nucleus of the anterior nidopallium
+DESC:[[Topography:Yes]]
+PMID:11052946,12471486,15313778,18451295,7119147,8994068
+
+MMAN
+NAME:Medial subdivision of the magnocellular nucleus of the anterior nidopallium
+DESC:
+PMID:12471486
+
+NCM
+NAME:Caudal medial nidopallium
+DESC:Nonlinear auditory response<ref>11535690</ref>, selective for CON 
+PMID:12471486,15313778,15321071,17433683,7724575,8833113,16807000
+
+vNCM
+NAME:Ventral caudal medial nidopallium
+PMID:16807000
+
+dNCM
+NAME:Dorsal caudal medial nidopallium
+PMID:16807000
+
+NIf
+NAME:Nucleus interface of the nidopallium
+LN:Nucleus interfacialis nidopallialis
+PMID:10366643,12471486,14724261,15313778,15317851,15321071,15342742,15590726,17855617,18256272,18463257,7119147,8833113
+
+Ov
+NAME:Ovoidalis
+DESC:Nucleus ovoidalis
+PMID:8833113,12471486
+
+RA
+NAME:Robust nucleus of arcopallium
+DESC:[[Topography:Yes]]
+PMID:10368416,11052946,12214232,16510728,17977927,18451295,18463257,7119147,12471486
+
+RAcup
+NAME:
+DESC:
+PMID:8833113
+
+Shelf
+NAME:
+DESC:
+PMID:12471486,8833113
+
+M
+NAME:Mesopallium
+PMID:12471486
+
+AFP
+NAME:Anterior forebrain pathway
+PMID:12471486
+
+CHV
+NAME:Caudal messopallium
+PMID:12471486
+
+nXII
+NAME:Hypoglossal nucleus
+DESC:The twelfth cranial nerve nucleus
+PMID:12471486
+
+nXIIts
+NAME:Tracheosyringeal portion of the hypoglossal nucleus
+DESC:[[Topography:Yes]]
+PMID:12471486
+
+Uva
+NAME:Nucleus uvaeformis of the thalamus
+PMID:12471486
+
+NCD
+NAME:Dorsocaudal nidopallium
+LN:Dorsal caudal neostriatum
+DESC:[[Topography:Unresolved]]
+PMID:12471486
+
+NRA
+NAME:Nucleus retroambigualis
+PMID:12471486,8747209
+
+MLD
+NAME:Dorsal lateral nucleus of mesencephalon
+PMID:12471486
+
+NAM
+NAME:Nucleus ambiguus
+DESC:[[Topography:Unresolved]]
+PMID:12471486,10368416
+
+DMP
+NAME:Posterior portion of the dorsomedial thalamic nucleus
+DESC:Its role in song production is uncertain
+PMID:10368416

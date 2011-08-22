@@ -1,0 +1,122 @@
+EKPreRo;Prerolandic region;;;EKFL
+EK1;Precentral area;Area praecentralis;4;EKPreRo
+EK2;Giant pyramidal precentral area;Area praecentralis gigantopyramidalis;4;EKPreRo
+EK3;Precentral area in operculum;Area praecentralis in operculo;4;EKPreRo
+EK4;Agranular frontal area;Area frontalis agranularis;6, 8, 9;EKPreRo
+EK5;Agranular frontal area in operculum;Area frontalis agranularis in operculo;6;EKPreRo
+EK6;Intermediate frontal area;Area frontalis intermedia;6, 8, 32;EKPreRo
+EK7;Intermedio-limbic frontal area;Area frontalis intermedio-limbica;32;EKPreRo
+EK8;Broca area (magnocellular agranular intermediate frontal area);Area (frontalis intermedia agranularis magnocellularis in) Broca; 44;EKPreRo
+EK9;Intermediate frontal area at the beginning of the insula;Area frontalis intermedia in limine insulae;8;EKPreRo
+EK10;Opercular intermediate frontal area;Area frontalis intermedia opercularis;8;EKPreRo
+EKFro;Frontal region;;;EKFL
+EK11;Granular frontal area;Area frontalis granularis;9, 32, 46;EKFro
+EK12;Magnocellular granular frontal area;Area frontalis granularis magnocellularis;9;EKFro
+EK13;Parvicellular granular frontal area;Area frontalis granularis parvocellularis;9, 10, 11, 12;EKFro
+EK14;Granular frontal area in operculum;Area frontalis granularis in operculo;9, 10, 11, 12;EKFro
+EK15;Limbic granular frontal area;Area frontalis granularis limbica;32;EKFro
+EK16;Middle granular frontal area;Area frontalis granularis media;8, 9, 46;EKFro
+EK17;Triangular granular frontal area;Area frontalis granularis triangularis;45;EKFro
+EK18;Frontopolar area;Area frontopolaris;10, 32;EKFro
+EK19;Limbic frontopolar area;Area frontopolaris limbica;32;EKFro
+EKOrb;Orbital (orbitomedial) region;;;EKFL
+EK20;Granular orbital area;Area orbitalis granularis;13, 47;EKOrb
+EK21;Agranular orbital area;Area orbitalis agranularis;47;EKOrb
+EK22;Pretriangular orbital area;Area orbitalis praetriangularis;47;EKOrb
+EK23;Area of straight gyrus (area recta);Area recta (area gyri recti);11;EKOrb
+EK24;Internal straight area;Area recta interna;;EKOrb
+EK25;Prefrontal area;Area praefrontalis;11, 12, 13, 14, 25, 32;EKOrb
+EK26;Parolfactory prefrontal area;Area praefrontalis parolfactoria;11, 12, 13, 14, 25, 32;EKOrb
+EK27;Limbic prefrontal area;Area praefrontalis limbica;32;EKOrb
+EK28;Frontoinsular area;Area frontoinsularis;16;EKOrb
+EK29;Frontal piriform area;Area piriformis frontalis;16;EKOrb
+EK30;Primary parolfactory area;Area parolfactoria prima;14, 25;EKOrb
+EK31;Secondary parolfactory area;Area parolfactoria secunda;14, 25;EKOrb
+EK32;Tertiary parolfactory area;Area parolfactoria tertia;14, 25;EKOrb
+EK33;Geniculate area;Area geniculata;25;EKOrb
+EK34;Geniculate area of olfactory triangle;Area geniculata trigoni olfactorii;25;EKOrb
+EK35;Precommissural area;Area praecommissuralis;;EKOrb
+EKLLa;Anterior superior limbic region;;;EKLL
+EK36;Precingulate agranular anterior limbic area;Area limbica anterior agranularis praecingularis;24;EKLLa
+EK37;Anterior cingulate agranular anterior limbic area;Area limbica anterior agranularis cingularis anterior;24;EKLLa
+EK38;Cingulate agranular anterior limbic area limitans;Area limbica anterior agranularis cingularis limitans;24;EKLLa
+EK39;Anterior ultracingulate area;Area ultracingularis anterior;24, 33;EKLLa
+EK40;Area of the induseum;Area indusei;24, 33;EKLLa
+EKLLp;Posterior superior limbic region;;;EKLL
+EK41;Dorsal posterior cingulate area11;Area cingularis posterior dorsalis;31;EKLLp
+EK42;Ventral posterior cingulate area;Area cingularis posterior ventralis;23;EKLLp
+EK43;Posterior cingulate area limitans;Area cingularis limitans posterior;33;EKLLp
+EKLLresp;Retrosplenial subregion;;;EKLL
+EK44;Agranular retrosplenial area;Area retrosplenialis agranularis;30;EKLLresp
+EK45;Superior retrosplenial area granulosa;Area retrosplenialis granulosa superior;29;EKLLresp
+EK46;Inferior retrosplenial area granulosa;Area retrosplenialis granulosa inferior;26, 29;EKLLresp
+EK47;Posterior ultracingulate area;Area ultracingularis posterior;26;EKLLresp
+EK48;Ultracingulate area obtecta;Area (ultracingularis) obtecta;26;EKLLresp
+EK49;Dorsal precentral insular area;Area insulae praecentralis dorsalis;14;EKIL
+EK50;Ventral precentral insular area;Area insulae praecentralis ventralis;14;EKIL
+EK51;Postcentral insular area;Area insulae postcentralis;13;EKIL
+EK52;Postcentral insular area at temporal entrance;Area insulae postcentralis in limine temporali;13;EKIL
+EK53;Orbitoinsular area;Area orbito-insularis;15;EKIL
+EK54;Piriform insular area;Area insularis piriformis;16;EKIL
+EKPLPost;Postcentral region (anterior parietal);;;EKPL
+EK55;Giant pyramidal postcentral area;Area postcentralis gigantopyramidalis;3a;EKPLPost
+EK56;Giant pyramidal postparacentral area;Area postparacentralis gigantopyramidalis;3a, 5;EKPLPost
+EK57;Oral postcentral area simplex;Area postcentralis oralis simplex;3, 3b;EKPLPost
+EK58;Oral postcentral area granulosa;Area postcentralis oralis granulosa;3, 3b;EKPLPost
+EK59;Intermediate postcentral area;Area postcentralis intermedia;1, 2;EKPLPost
+EK60;Caudal postcentral area;Area postcentralis caudalis;2, 5a;EKPLPost
+EKPLSup;Superior parietal region;;;EKPL
+EK61;Superior parietal area (transition parietal postcentral area);Area parietalis superior (area transitoris postcentralis parietalis);40, 2;EKPLSup
+EK62;Magnocellular superior parietal area;Area parietalis superior magnocellularis;7, 7a, 5;EKPLSup
+EK63;Parvicellular superior parietal area;Area parietalis superior parvocellularis;7, 7b, 5b;EKPLSup
+EK64;Giant pyramidal posterior superior parietal area;Area parietalis superior posterior gigantopyramidalis;7, 7b, 5b;EKPLSup
+EKPLInf;Inferior parietal region;;;EKPL
+EK65;Supramarginal area;Area supramarginalis;40, 7b, 22;EKPLInf
+EK66;Tenuicortical supramarginal area;Area supramarginalis tenuicorticalis;40, 7b, 22;EKPLInf
+EK67;Opercular supramarginal area;Area supramarginalis opercularis opercular;;EKPLInf
+EK68;Posterior (magnocellular) supramarginal area;Area supramarginalis columnata magnocellularis (posterior);40;EKPLInf
+EK69;Angular area;Area angularis;39, 7a;EKPLInf
+EKPLBas;Basal parietal region;;;EKPL
+EK70;Basal (temporooccipital) parietal area at parietal entrance;Area parietalis (temporooccipitalis) basalis in limine parietali;37;EKPLBas
+EK71;Basal (temporooccipital) parietal area at temporal entrance;Area parietalis (temporooccipitalis) basalis in limine temporali;37;EKPLBas
+EK72;Basal (temporooccipital) parietal area at occipital entrance;Area parietalis (temporooccipitalis) basalis in limine occipitali;37;EKPLBas
+EK73;Anterior peristriate area;Area peristriata anterior;19;EKOL
+EK74;Posterior peristriate area;Area peristriata posterior;19;EKOL
+EK75;Magnocellular peristriate area;Area peristriata magnocellularis;19;EKOL
+EK76;Parastriate area;Area parastriata;18;EKOL
+EK77;Giant pyramidal parastriate boundary;Limes parastriatus gigantopyramidalis;;EKOL
+EK78;Maculae granulosae of parastriate area;Maculae granulosae areae parastriatae;18;EKOL
+EK79;Striate area (granulosa);Area striata (granulosa);17;EKOL
+EKTLSupra;Supratemporal region;;;EKTL
+EK80;Posterior superior temporal area;Area temporalis superior posterior;22;EKTLSupra
+EK81;Anterior superior temporal area;Area temporalis superior anterior;22;EKTLSupra
+EK82;Magnocellular supratemporal area simplex;Area supratemporalis magnocellularis simplex;42, 22;EKTLSupra
+EK83;Supratemporal area granulosa;Area supratemporalis granulosa;41;EKTLSupra
+EK84;Intercalated supratemporal area;Area supratemporalis intercalata;42, 22;EKTLSupra
+EKTLprop;Temporal region proper;;;EKTL
+EK85;Middle temporal area proper;Area temporalis propria media;21, 37;EKTLprop
+EK86;Inferior temporal area proper;Area temporalis propria inferior;20, 21;EKTLprop
+EKTLFusi;Fusiform region;;;EKTL
+EK87;Fusiform area;Area fusiformis;36;EKTLFusi
+EK88;Hippocampotemporal area;Area hippocampotemporalis;35, 36;EKTLFusi
+EK89;Agranular hippocampotemporal area;Area hippocampotemporalis agranularis;35;EKTLFusi
+EKTLPol;Temporopolar region;;;EKTL
+EK90;Temporopolar area;Area temporopolaris;38, 35, 36, 52;EKTLPol
+EK91;Agranular temporopolar area;Area temporopolaris agranularis;38, 35, 36, 52;EKTLPol
+EK92;Temporal piriform area;Area piriformis temporalis;16;EKTLPol
+EK93;Posterior area of substantia perforata;Area substantiae perforatae posterior;;EKTLPol
+EKTLHipp;Hippocampal (inferior limbic) lobe (H);;;EKTL
+EK94;Primary uncinate area;Area uncinata prima;34;EKTLHipp
+EK95;Secondary uncinate area;Area uncinata secunda;34;EKTLHipp
+EK96;Tertiary uncinate area;Area uncinata tertia;34;EKTLHipp
+EK97;Primary parauncinate area;Area parauncinata prima;28;EKTLHipp
+EK98;Secondary parauncinate area;Area parauncinata secunda;28;EKTLHipp
+EK99;Rhinal area limitans25;Area rhinalis limitans;28;EKTLHipp
+EK100;Presubicular area granulosa limitans;Area praesubicularis granulosa limitans;27;EKTLHipp
+EK101;Middle presubicular area granulosa;Area praesubicularis granulosa media;27;EKTLHipp
+EK102;Glomerular presubicular area granulosa;Area praesubicularis granulosa glomerulosa;27;EKTLHipp
+EK103;Glomerular subicular pyramidal area;Area pyramidalis subiculi glomerulosa;;EKTLHipp
+EK104;Subicular pyramidal area simplex;Area pyramidalis subiculi simplex;;EKTLHipp
+EK105;Pyramidal area of Ammon’s horn;Area pyramidalis cornu Ammonis;;EKTLHipp
+EK106;Pyramidal area of digitate gyrus of uncus;Area pyramidalis gyri digitati unci;;EKTLHipp
+EK107;Area of fascia dentata;Area fasciae dentatae;;EKTLHipp

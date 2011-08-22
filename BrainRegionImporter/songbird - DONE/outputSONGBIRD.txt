@@ -1,0 +1,1554 @@
+{{-start-}}
+'''RAcup_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=RAcup
+|Species=Taeniopygia guttata
+|English Name=Robust nucleus of arcopallium cup
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=A (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''CMM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=CMM
+|Species=Taeniopygia guttata
+|English Name=Caudal medial mesopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Neural systems for individual song recognition in adult birds.|journal=Annals of the New York Academy of Sciences|year=2004|author=Gentner TQ|coauthors=|volume=1016|pages=282-302|id=PMID 15313781|accessdate=2009-09-23}}
+* {{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Experience with songs in adulthood reduces song-induced gene expression in songbird auditory forebrain.|journal=Neurobiology of learning and memory|year=2006|author=McKenzie TL|coauthors=Hernandez AM, MacDougall-Shackleton SA|volume=86|pages=330-5|id=PMID 16807000|accessdate=2009-09-23}}
+* {{cite journal|title=Neural correlates of learned song in the avian forebrain: simultaneous representation of self and others.|journal=Current opinion in neurobiology|year=2004|author=Prather JF|coauthors=Mooney R|volume=14|pages=496-502|id=PMID 15321071|accessdate=2009-09-23}}
+* {{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=M (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''DM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=DM
+|Species=Taeniopygia guttata
+|English Name=Dorsomedial subdivision of nucleus intercollicularis
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=MB (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''nXIIts_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=nXIIts
+|Species=Taeniopygia guttata
+|English Name=Tracheosyringeal portion of the hypoglossal nucleus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Yes]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=BrSt (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NAM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=NAM
+|Species=Taeniopygia guttata
+|English Name=Nucleus ambiguus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Unresolved]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Long-range inhibition within the zebra finch song nucleus RA can coordinate the firing of multiple projection neurons.|journal=Journal of neurophysiology|year=1999|author=Spiro JE|coauthors=Dalva MB, Mooney R|volume=81|pages=3007-20|id=PMID 10368416|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=BrSt (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''DMP_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=DMP
+|Species=Taeniopygia guttata
+|English Name=Dorsomedial nucleus of posterior thalamus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=TH (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''AreaX_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=AreaX
+|Species=Taeniopygia guttata
+|English Name=Area X
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Yes]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=A specialized forebrain circuit for vocal babbling in the juvenile songbird.|journal=Science (New York, N.Y.)|year=2008|author=Aronov D|coauthors=Andalman AS, Fee MS|volume=320|pages=630-4|id=PMID 18451295|accessdate=2009-09-23}}
+* {{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}
+* {{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}
+* {{cite journal|title=Song- and order-selective neurons in the songbird anterior forebrain and their emergence during vocal development.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1997|author=Doupe AJ|coauthors=|volume=17|pages=1147-67|id=PMID 8994068|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}
+* {{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Ov_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=Ov
+|Species=Taeniopygia guttata
+|English Name=Nucleus ovoidalis complex
+|Latin Name=Ovoidalis
+|Defining Criteria=anatomy, connectivity
+|Definition=Nucleus ovoidalis
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=TH (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HA_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=HA
+|Species=Taeniopygia guttata
+|English Name=Hyperpallium
+|Latin Name=Hyperstriatum
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SubPall_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=SubPall
+|Species=Taeniopygia guttata
+|English Name=Subpallial Cell Groups
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Wulst_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=Wulst
+|Species=Taeniopygia guttata
+|English Name=Wulst
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=HA (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''dNCM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=dNCM
+|Species=Taeniopygia guttata
+|English Name=Dorsal caudal medial nidopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Experience with songs in adulthood reduces song-induced gene expression in songbird auditory forebrain.|journal=Neurobiology of learning and memory|year=2006|author=McKenzie TL|coauthors=Hernandez AM, MacDougall-Shackleton SA|volume=86|pages=330-5|id=PMID 16807000|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Shelf_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=Shelf
+|Species=Taeniopygia guttata
+|English Name=Shelf
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''RA_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=RA
+|Species=Taeniopygia guttata
+|English Name=Robust nucleus of arcopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Yes]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=A specialized forebrain circuit for vocal babbling in the juvenile songbird.|journal=Science (New York, N.Y.)|year=2008|author=Aronov D|coauthors=Andalman AS, Fee MS|volume=320|pages=630-4|id=PMID 18451295|accessdate=2009-09-23}}
+* {{cite journal|title=Hemispheric coordination is necessary for song production in adult birds: implications for a dual role for forebrain nuclei in vocal motor control.|journal=Journal of neurophysiology|year=2007|author=Ashmore RC|coauthors=Bourjaily M, Schmidt MF|volume=99|pages=373-85|id=PMID 17977927|accessdate=2009-09-23}}
+* {{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}
+* {{cite journal|title=An ultra-sparse code underlies the generation of neural sequences in a songbird.|journal=Nature|year=2002|author=Hahnloser RH|coauthors=Kozhevnikov AA, Fee MS|volume=419|pages=65-70|id=PMID 12214232|accessdate=2009-09-23}}
+* {{cite journal|title=Spikes and bursts in two types of thalamic projection neurons differentially shape sleep patterns and auditory responses in a songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Hahnloser RH|coauthors=Wang CZ, Nager A, Naie K|volume=28|pages=5040-52|id=PMID 18463257|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}
+* {{cite journal|title=Long-range inhibition within the zebra finch song nucleus RA can coordinate the firing of multiple projection neurons.|journal=Journal of neurophysiology|year=1999|author=Spiro JE|coauthors=Dalva MB, Mooney R|volume=81|pages=3007-20|id=PMID 10368416|accessdate=2009-09-23}}
+* {{cite journal|title=Stimulus-dependent auditory tuning results in synchronous population coding of vocalizations in the songbird midbrain.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2006|author=Woolley SM|coauthors=Gill PR, Theunissen FE|volume=26|pages=2499-512|id=PMID 16510728|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=A (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''TH_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=TH
+|Species=Taeniopygia guttata
+|English Name=Thalamus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Hemispheric coordination is necessary for song production in adult birds: implications for a dual role for forebrain nuclei in vocal motor control.|journal=Journal of neurophysiology|year=2007|author=Ashmore RC|coauthors=Bourjaily M, Schmidt MF|volume=99|pages=373-85|id=PMID 17977927|accessdate=2009-09-23}}
+* {{cite journal|title=Spikes and bursts in two types of thalamic projection neurons differentially shape sleep patterns and auditory responses in a songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Hahnloser RH|coauthors=Wang CZ, Nager A, Naie K|volume=28|pages=5040-52|id=PMID 18463257|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''A_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=A
+|Species=Taeniopygia guttata
+|English Name=Arcopallium
+|Latin Name=Archistriatum
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''CLM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=CLM
+|Species=Taeniopygia guttata
+|English Name=Lateral subdivision of the caudal region of mesopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Development of selectivity for natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2007|author=Amin N|coauthors=Doupe A, Theunissen FE|volume=97|pages=3517-31|id=PMID 17360830|accessdate=2009-09-23}}
+* {{cite journal|title=Neural processing of auditory feedback during vocal practice in a songbird.|journal=Nature|year=2008|author=Keller GB|coauthors=Hahnloser RH|volume=457|pages=187-90|id=PMID 19005471|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=M (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Br_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=Br
+|Species=Taeniopygia guttata
+|English Name=Brain
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=The Brain
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MLD_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=MLD
+|Species=Taeniopygia guttata
+|English Name=Dorsal lateral nucleus of mesencephalon
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=MB (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NIf_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=NIf
+|Species=Taeniopygia guttata
+|English Name=Nucleus interface of the nidopallium
+|Latin Name=Nucleus interfacialis nidopallialis
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=A synaptic basis for auditory-vocal integration in the songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Bauer EE|coauthors=Coleman MJ, Roberts TF, Roy A, Prather JF, Mooney R|volume=28|pages=1509-22|id=PMID 18256272|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory responses in multiple sensorimotor song system nuclei are co-modulated by behavioral state.|journal=Journal of neurophysiology|year=2004|author=Cardin JA|coauthors=Schmidt MF|volume=91|pages=2148-63|id=PMID 14724261|accessdate=2009-09-23}}
+* {{cite journal|title=Noradrenergic inputs mediate state dependence of auditory responses in the avian song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2004|author=Cardin JA|coauthors=Schmidt MF|volume=24|pages=7745-53|id=PMID 15342742|accessdate=2009-09-23}}
+* {{cite journal|title=Sensorimotor nucleus NIf is necessary for auditory processing but not vocal motor output in the avian song system.|journal=Journal of neurophysiology|year=2004|author=Cardin JA|coauthors=Raksin JN, Schmidt MF|volume=93|pages=2157-66|id=PMID 15590726|accessdate=2009-09-23}}
+* {{cite journal|title=Synaptic transformations underlying highly selective auditory representations of learned birdsong.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2004|author=Coleman MJ|coauthors=Mooney R|volume=24|pages=7251-65|id=PMID 15317851|accessdate=2009-09-23}}
+* {{cite journal|title=Thalamic gating of auditory responses in telencephalic song control nuclei.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2007|author=Coleman MJ|coauthors=Roy A, Wild JM, Mooney R|volume=27|pages=10024-36|id=PMID 17855617|accessdate=2009-09-23}}
+* {{cite journal|title=Spikes and bursts in two types of thalamic projection neurons differentially shape sleep patterns and auditory responses in a songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Hahnloser RH|coauthors=Wang CZ, Nager A, Naie K|volume=28|pages=5040-52|id=PMID 18463257|accessdate=2009-09-23}}
+* {{cite journal|title=Gradual emergence of song selectivity in sensorimotor structures of the male zebra finch song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1999|author=Janata P|coauthors=Margoliash D|volume=19|pages=5108-18|id=PMID 10366643|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}
+* {{cite journal|title=Neural correlates of learned song in the avian forebrain: simultaneous representation of self and others.|journal=Current opinion in neurobiology|year=2004|author=Prather JF|coauthors=Mooney R|volume=14|pages=496-502|id=PMID 15321071|accessdate=2009-09-23}}
+* {{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''M_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=M
+|Species=Taeniopygia guttata
+|English Name=Mesopallium
+|Latin Name=Hyperstriatum Ventrale
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=HA (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''DLM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=DLM
+|Species=Taeniopygia guttata
+|English Name=Medial subdivision of the dorsal lateral nucleus of anterior thalamus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=[[Topography:Yes]]
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=A specialized forebrain circuit for vocal babbling in the juvenile songbird.|journal=Science (New York, N.Y.)|year=2008|author=Aronov D|coauthors=Andalman AS, Fee MS|volume=320|pages=630-4|id=PMID 18451295|accessdate=2009-09-23}}
+* {{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=TH (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''N_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=N
+|Species=Taeniopygia guttata
+|English Name=Nidopallium
+|Latin Name=Neostriatum
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''L3_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=L3
+|Species=Taeniopygia guttata
+|English Name=Field L3
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=Subdivision of Field L.
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Neural response to bird's own song and tutor song in the zebra finch field L and caudal mesopallium.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2004|author=Amin N|coauthors=Grace JA, Theunissen FE|volume=190|pages=469-89|id=PMID 15064966|accessdate=2009-09-23}}
+* {{cite journal|title=Development of selectivity for natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2007|author=Amin N|coauthors=Doupe A, Theunissen FE|volume=97|pages=3517-31|id=PMID 17360830|accessdate=2009-09-23}}
+* {{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}
+* {{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}
+* {{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}
+* {{cite journal|title=Spectral-temporal receptive fields of nonlinear auditory neurons obtained using natural sounds.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2000|author=Theunissen FE|coauthors=Sen K, Doupe AJ|volume=20|pages=2315-31|id=PMID 10704507|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=FieldL (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''CHV_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=CHV
+|Species=Taeniopygia guttata
+|English Name=Caudal mesopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=M (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''L1_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=L1
+|Species=Taeniopygia guttata
+|English Name=Field L1
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=Subdivision of Field L.
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Neural response to bird's own song and tutor song in the zebra finch field L and caudal mesopallium.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2004|author=Amin N|coauthors=Grace JA, Theunissen FE|volume=190|pages=469-89|id=PMID 15064966|accessdate=2009-09-23}}
+* {{cite journal|title=Development of selectivity for natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2007|author=Amin N|coauthors=Doupe A, Theunissen FE|volume=97|pages=3517-31|id=PMID 17360830|accessdate=2009-09-23}}
+* {{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}
+* {{cite journal|title=Gradual emergence of song selectivity in sensorimotor structures of the male zebra finch song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1999|author=Janata P|coauthors=Margoliash D|volume=19|pages=5108-18|id=PMID 10366643|accessdate=2009-09-23}}
+* {{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}
+* {{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}
+* {{cite journal|title=Spectral-temporal receptive fields of nonlinear auditory neurons obtained using natural sounds.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2000|author=Theunissen FE|coauthors=Sen K, Doupe AJ|volume=20|pages=2315-31|id=PMID 10704507|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=FieldL (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''LMAN_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=LMAN
+|Species=Taeniopygia guttata
+|English Name=Lateral subdivision of the magnocellular nucleus of the anterior nidopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Yes]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=A specialized forebrain circuit for vocal babbling in the juvenile songbird.|journal=Science (New York, N.Y.)|year=2008|author=Aronov D|coauthors=Andalman AS, Fee MS|volume=320|pages=630-4|id=PMID 18451295|accessdate=2009-09-23}}
+* {{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}
+* {{cite journal|title=Song- and order-selective neurons in the songbird anterior forebrain and their emergence during vocal development.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1997|author=Doupe AJ|coauthors=|volume=17|pages=1147-67|id=PMID 8994068|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}
+* {{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''vNCM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=vNCM
+|Species=Taeniopygia guttata
+|English Name=Ventral caudal medial nidopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Experience with songs in adulthood reduces song-induced gene expression in songbird auditory forebrain.|journal=Neurobiology of learning and memory|year=2006|author=McKenzie TL|coauthors=Hernandez AM, MacDougall-Shackleton SA|volume=86|pages=330-5|id=PMID 16807000|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''BrSt_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=BrSt
+|Species=Taeniopygia guttata
+|English Name=Brainstem Cell Groups
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Revised nomenclature for avian telencephalon and some related brainstem nuclei.|journal=The Journal of comparative neurology|year=2004|author=Reiner A|coauthors=Perkel DJ, Bruce LL, Butler AB, Csillag A, Kuenzel W, Medina L, Paxinos G, Shimizu T, Striedter G, Wild M, Ball GF, Durand S, Gunturkun O, Lee DW, Mello CV, Powers A, White SA, Hough G, Kubikova L, Smulders TV, Wada K, Dugas-Ford J, Husband S, Yamamoto K, Yu J, Siang C, Jarvis ED|volume=473|pages=377-414|id=PMID 15116397|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''L2a_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=L2a
+|Species=Taeniopygia guttata
+|English Name=Field L2a
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=Subdivision of Field L.
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Neural response to bird's own song and tutor song in the zebra finch field L and caudal mesopallium.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2004|author=Amin N|coauthors=Grace JA, Theunissen FE|volume=190|pages=469-89|id=PMID 15064966|accessdate=2009-09-23}}
+* {{cite journal|title=Development of selectivity for natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2007|author=Amin N|coauthors=Doupe A, Theunissen FE|volume=97|pages=3517-31|id=PMID 17360830|accessdate=2009-09-23}}
+* {{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}
+* {{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}
+* {{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}
+* {{cite journal|title=Spectral-temporal receptive fields of nonlinear auditory neurons obtained using natural sounds.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2000|author=Theunissen FE|coauthors=Sen K, Doupe AJ|volume=20|pages=2315-31|id=PMID 10704507|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=FieldL (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''L2b_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=L2b
+|Species=Taeniopygia guttata
+|English Name=Field L2b
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=Subdivision of Field L.
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Neural response to bird's own song and tutor song in the zebra finch field L and caudal mesopallium.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2004|author=Amin N|coauthors=Grace JA, Theunissen FE|volume=190|pages=469-89|id=PMID 15064966|accessdate=2009-09-23}}
+* {{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}
+* {{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}
+* {{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}
+* {{cite journal|title=Spectral-temporal receptive fields of nonlinear auditory neurons obtained using natural sounds.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2000|author=Theunissen FE|coauthors=Sen K, Doupe AJ|volume=20|pages=2315-31|id=PMID 10704507|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=FieldL (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MB_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=MB
+|Species=Taeniopygia guttata
+|English Name=Midbrain
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HVC_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=HVC
+|Species=Taeniopygia guttata
+|English Name=HVC
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=HVC acronym used as the proper name.
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::No]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=A specialized forebrain circuit for vocal babbling in the juvenile songbird.|journal=Science (New York, N.Y.)|year=2008|author=Aronov D|coauthors=Andalman AS, Fee MS|volume=320|pages=630-4|id=PMID 18451295|accessdate=2009-09-23}}
+* {{cite journal|title=A synaptic basis for auditory-vocal integration in the songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Bauer EE|coauthors=Coleman MJ, Roberts TF, Roy A, Prather JF, Mooney R|volume=28|pages=1509-22|id=PMID 18256272|accessdate=2009-09-23}}
+* {{cite journal|title=Song system auditory responses are stable and highly tuned during sedation, rapidly modulated and unselective during wakefulness, and suppressed by arousal.|journal=Journal of neurophysiology|year=2003|author=Cardin JA|coauthors=Schmidt MF|volume=90|pages=2884-99|id=PMID 12878713|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory responses in multiple sensorimotor song system nuclei are co-modulated by behavioral state.|journal=Journal of neurophysiology|year=2004|author=Cardin JA|coauthors=Schmidt MF|volume=91|pages=2148-63|id=PMID 14724261|accessdate=2009-09-23}}
+* {{cite journal|title=Noradrenergic inputs mediate state dependence of auditory responses in the avian song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2004|author=Cardin JA|coauthors=Schmidt MF|volume=24|pages=7745-53|id=PMID 15342742|accessdate=2009-09-23}}
+* {{cite journal|title=Sensorimotor nucleus NIf is necessary for auditory processing but not vocal motor output in the avian song system.|journal=Journal of neurophysiology|year=2004|author=Cardin JA|coauthors=Raksin JN, Schmidt MF|volume=93|pages=2157-66|id=PMID 15590726|accessdate=2009-09-23}}
+* {{cite journal|title=Synaptic transformations underlying highly selective auditory representations of learned birdsong.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2004|author=Coleman MJ|coauthors=Mooney R|volume=24|pages=7251-65|id=PMID 15317851|accessdate=2009-09-23}}
+* {{cite journal|title=Thalamic gating of auditory responses in telencephalic song control nuclei.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2007|author=Coleman MJ|coauthors=Roy A, Wild JM, Mooney R|volume=27|pages=10024-36|id=PMID 17855617|accessdate=2009-09-23}}
+* {{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}
+* {{cite journal|title=Neuronal populations and single cells representing learned auditory objects.|journal=Nature|year=2003|author=Gentner TQ|coauthors=Margoliash D|volume=424|pages=669-74|id=PMID 12904792|accessdate=2009-09-23}}
+* {{cite journal|title=An ultra-sparse code underlies the generation of neural sequences in a songbird.|journal=Nature|year=2002|author=Hahnloser RH|coauthors=Kozhevnikov AA, Fee MS|volume=419|pages=65-70|id=PMID 12214232|accessdate=2009-09-23}}
+* {{cite journal|title=Spikes and bursts in two types of thalamic projection neurons differentially shape sleep patterns and auditory responses in a songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Hahnloser RH|coauthors=Wang CZ, Nager A, Naie K|volume=28|pages=5040-52|id=PMID 18463257|accessdate=2009-09-23}}
+* {{cite journal|title=Gradual emergence of song selectivity in sensorimotor structures of the male zebra finch song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1999|author=Janata P|coauthors=Margoliash D|volume=19|pages=5108-18|id=PMID 10366643|accessdate=2009-09-23}}
+* {{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Different subthreshold mechanisms underlie song selectivity in identified HVc neurons of the zebra finch.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2000|author=Mooney R|coauthors=|volume=20|pages=5420-36|id=PMID 10884326|accessdate=2009-09-23}}
+* {{cite journal|title=The HVC microcircuit: the synaptic basis for interactions between song motor and vocal plasticity pathways.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2005|author=Mooney R|coauthors=Prather JF|volume=25|pages=1952-64|id=PMID 15728835|accessdate=2009-09-23}}
+* {{cite journal|title=Neural auditory selectivity develops in parallel with song.|journal=Journal of neurobiology|year=2004|author=Nick TA|coauthors=Konishi M|volume=62|pages=469-81|id=PMID 15616963|accessdate=2009-09-23}}
+* {{cite journal|title=Birdsong's clockwork.|journal=Nature neuroscience|year=2002|author=Nottebohm F|coauthors=|volume=5|pages=925-6|id=PMID 12352977|accessdate=2009-09-23}}
+* {{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}
+* {{cite journal|title=Neural correlates of learned song in the avian forebrain: simultaneous representation of self and others.|journal=Current opinion in neurobiology|year=2004|author=Prather JF|coauthors=Mooney R|volume=14|pages=496-502|id=PMID 15321071|accessdate=2009-09-23}}
+* {{cite journal|title=Precise auditory-vocal mirroring in neurons for learned vocal communication.|journal=Nature|year=2008|author=Prather JF|coauthors=Peters S, Nowicki S, Mooney R|volume=451|pages=305-10|id=PMID 18202651|accessdate=2009-09-23}}
+* {{cite journal|title=Gating of auditory responses in the vocal control system of awake songbirds.|journal=Nature neuroscience|year=1999|author=Schmidt MF|coauthors=Konishi M|volume=1|pages=513-8|id=PMID 10196550|accessdate=2009-09-23}}
+* {{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''nXII_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=nXII
+|Species=Taeniopygia guttata
+|English Name=Hypoglossal nucleus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=The twelfth cranial nerve nucleus
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=BrSt (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NCM_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=NCM
+|Species=Taeniopygia guttata
+|English Name=Caudal medial nidopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=Nonlinear auditory response<ref>11535690</ref>, selective for CON
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Decrements in auditory responses to a repeated conspecific song are long-lasting and require two periods of protein synthesis in the songbird forebrain.|journal=Proceedings of the National Academy of Sciences of the United States of America|year=1995|author=Chew SJ|coauthors=Mello C, Nottebohm F, Jarvis E, Vicario DS|volume=92|pages=3406-10|id=PMID 7724575|accessdate=2009-09-23}}
+* {{cite journal|title=Birdsong memory: a neural dissociation between song recognition and production.|journal=Current biology : CB|year=2007|author=Gobes SM|coauthors=Bolhuis JJ|volume=17|pages=789-93|id=PMID 17433683|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Experience with songs in adulthood reduces song-induced gene expression in songbird auditory forebrain.|journal=Neurobiology of learning and memory|year=2006|author=McKenzie TL|coauthors=Hernandez AM, MacDougall-Shackleton SA|volume=86|pages=330-5|id=PMID 16807000|accessdate=2009-09-23}}
+* {{cite journal|title=Neural correlates of learned song in the avian forebrain: simultaneous representation of self and others.|journal=Current opinion in neurobiology|year=2004|author=Prather JF|coauthors=Mooney R|volume=14|pages=496-502|id=PMID 15321071|accessdate=2009-09-23}}
+* {{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''FieldL_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=FieldL
+|Species=Taeniopygia guttata
+|English Name=Field L
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=Field L is the primary auditory area in the songbirds forebrain. It is considered the homolog of the primary auditory cortex in mammals<ref>12904792</ref>.
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Yes]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Neural response to bird's own song and tutor song in the zebra finch field L and caudal mesopallium.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2004|author=Amin N|coauthors=Grace JA, Theunissen FE|volume=190|pages=469-89|id=PMID 15064966|accessdate=2009-09-23}}
+* {{cite journal|title=Development of selectivity for natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2007|author=Amin N|coauthors=Doupe A, Theunissen FE|volume=97|pages=3517-31|id=PMID 17360830|accessdate=2009-09-23}}
+* {{cite journal|title=Song system auditory responses are stable and highly tuned during sedation, rapidly modulated and unselective during wakefulness, and suppressed by arousal.|journal=Journal of neurophysiology|year=2003|author=Cardin JA|coauthors=Schmidt MF|volume=90|pages=2884-99|id=PMID 12878713|accessdate=2009-09-23}}
+* {{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}
+* {{cite journal|title=Neural processing of auditory feedback during vocal practice in a songbird.|journal=Nature|year=2008|author=Keller GB|coauthors=Hahnloser RH|volume=457|pages=187-90|id=PMID 19005471|accessdate=2009-09-23}}
+* {{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Organizing principles of spectro-temporal encoding in the avian primary auditory area field L.|journal=Neuron|year=2008|author=Nagel KI|coauthors=Doupe AJ|volume=58|pages=938-55|id=PMID 18579083|accessdate=2009-09-23}}
+* {{cite journal|title=Neural correlates of learned song in the avian forebrain: simultaneous representation of self and others.|journal=Current opinion in neurobiology|year=2004|author=Prather JF|coauthors=Mooney R|volume=14|pages=496-502|id=PMID 15321071|accessdate=2009-09-23}}
+* {{cite journal|title=Gating of auditory responses in the vocal control system of awake songbirds.|journal=Nature neuroscience|year=1999|author=Schmidt MF|coauthors=Konishi M|volume=1|pages=513-8|id=PMID 10196550|accessdate=2009-09-23}}
+* {{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}
+* {{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}
+* {{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}
+* {{cite journal|title=Tuning for spectro-temporal modulations as a mechanism for auditory discrimination of natural sounds.|journal=Nature neuroscience|year=2005|author=Woolley SM|coauthors=Fremouw TE, Hsu A, Theunissen FE|volume=8|pages=1371-9|id=PMID 16136039|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MMAN_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=MMAN
+|Species=Taeniopygia guttata
+|English Name=Medial subdivision of the magnocellular nucleus of the anterior nidopallium
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Uva_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=Uva
+|Species=Taeniopygia guttata
+|English Name=Nucleus uvaeformis of the thalamus
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Thalamic gating of auditory responses in telencephalic song control nuclei.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2007|author=Coleman MJ|coauthors=Roy A, Wild JM, Mooney R|volume=27|pages=10024-36|id=PMID 17855617|accessdate=2009-09-23}}
+* {{cite journal|title=Spikes and bursts in two types of thalamic projection neurons differentially shape sleep patterns and auditory responses in a songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Hahnloser RH|coauthors=Wang CZ, Nager A, Naie K|volume=28|pages=5040-52|id=PMID 18463257|accessdate=2009-09-23}}
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=TH (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NCD_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=NCD
+|Species=Taeniopygia guttata
+|English Name=Dorsocaudal nidopallium
+|Latin Name=Dorsal caudal neostriatum
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+Is there a topographical organisation? [[Topography::Unresolved]]
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=N (Taeniopygia guttata)
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NRA_(Taeniopygia guttata)'''
+{{Connectome Brain Region
+|Abbreviation=NRA
+|Species=Taeniopygia guttata
+|English Name=Nucleus retroambigualis
+|Latin Name=
+|Defining Criteria=anatomy, connectivity
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+}}
+= More Information =
+
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}
+* {{cite journal|title=Brain stem integration of vocalization: role of the nucleus retroambigualis.|journal=Journal of neurophysiology|year=1995|author=Zhang SP|coauthors=Bandler R, Davis PJ|volume=74|pages=2500-12|id=PMID 8747209|accessdate=2009-09-23}}
+<references/>
+[[Category:Foundational Partition]]
+{{Connectome Brain Region Hierarchy
+|Part of=BrSt (Taeniopygia guttata)
+}}
+{{-stop-}}
+

@@ -1,0 +1,859 @@
+A1 (Homo sapiens);Primary auditory cortex;AI
+AAG (Homo sapiens);Anterior accessory gyrus;
+ACC (Homo sapiens);Nucleus accumbens;
+ACgCc (Homo sapiens);Caudal anterior cingulate cortex;
+ACgCd (Homo sapiens);Dorsal anterior cingulate cortex;
+ACgCr (Homo sapiens);Rostral anterior cingulate cortex;
+ACgG (Homo sapiens);Anterior cingulate gyrus;Anterior cingulate cortex
+ACo (Homo sapiens);Anterior cortical nuclei of amygdala;
+AG (Homo sapiens);Annectant gyrus;
+AH (Homo sapiens);Ammons horn;
+AIP (Homo sapiens);Anterior intraparietal cortex;
+AITd (Homo sapiens);Anterior inferotemporal cortex dorsal;
+AITv (Homo sapiens);Anterior inferotemporal cortex ventral;
+ALent (Homo sapiens);Ansa_lenticularis;
+ANG (Homo sapiens);Anterior nuclear group of thalamus;
+AOrG (Homo sapiens);Anterior orbital gyrus;
+APFC (Homo sapiens);Anterior prefrontal cortex;
+APir (Homo sapiens);Amygdalopirform transition area;
+ASG (Homo sapiens);Accessory short gyrus;
+ASd (Homo sapiens);Dorsal acoustic stria;
+ASi (Homo sapiens);Intermediate acoustic stria;
+ASv (Homo sapiens);Ventral acoustic stria;
+ATTG (Homo sapiens);Anterior transverse temporal gyrus;
+Acl (Homo sapiens);Alar central lobule;
+Amg (Homo sapiens);Amygdala;Amygdaloid nucleus
+amygdaloid body
+amygdaloid complex
+AnS (Homo sapiens);Angular sulcus;
+AngG (Homo sapiens);Angular gyrus;
+AnsaL (Homo sapiens);Ansa lenticularis;
+AnsaP (Homo sapiens);Ansa peduncularis;
+ApN (Homo sapiens);Anteroventral periventricular nucleus;
+ArcN (Homo sapiens);Arcuate nucleus of hypothalamus;
+BG (Homo sapiens);Basal ganglia of cerebral hemisphere;
+BST (Homo sapiens);Bed nucleus of the stria terminalis;
+BivL (Homo sapiens);Biventer lobule;
+Br (Homo sapiens);Brain;
+BrStdm (Homo sapiens);Dorsomedial brainstem;
+C1seg (Homo sapiens);C1 segment;
+C2seg (Homo sapiens);C2 segment;
+C3seg (Homo sapiens);C3 segment;
+C4seg (Homo sapiens);C4 segment;
+C5seg (Homo sapiens);C5 segment;
+C6seg (Homo sapiens);C6 segment;
+C7seg (Homo sapiens);C7 segment;
+C8seg (Homo sapiens);C8 segment;
+CA1 (Homo sapiens);CA 1 field;Region CA1
+CA2 (Homo sapiens);CA 2 field;Region CA2
+CA3 (Homo sapiens);CA 3 field;Region CA3
+CAN (Homo sapiens);Caudate nucleus;
+CAS (Homo sapiens);Pericalcarine cortex;
+CEBLhemi (Homo sapiens);Hemispheric part of posterior lobe of cerebellum;
+CFN (Homo sapiens);Cuneiform nucleus;
+cgs (Homo sapiens);Cingulate Sulcus;
+CH (Homo sapiens);Cerebral hemisphere;
+CITd (Homo sapiens);Central inferotemporal cortex dorsal;
+CITv (Homo sapiens);Central inferotemporal cortex ventral;
+CL (Homo sapiens);Claustrum;
+CM (Homo sapiens);Centromedian nucleus;
+CN (Homo sapiens);Cranial nerves;
+CN0 (Homo sapiens);Cranial nerve zero;
+CN1 (Homo sapiens);Olfactory nerve;CNI
+CN10 (Homo sapiens);Vagus nerve;CNX
+CN11 (Homo sapiens);Accessory nerve;CNXI
+cranial accessory nerve
+spinal accessory nerve
+CN12 (Homo sapiens);Hypoglossal nerve;CNXII
+CN2 (Homo sapiens);Optic nerve;CNII
+CN3 (Homo sapiens);Oculomotor nerve;CNIII
+CN4 (Homo sapiens);Trochlear nerve;CNIV
+CN5 (Homo sapiens);Trigeminal nerve;CNV
+CN6 (Homo sapiens);Abducens nerve;
+CN7 (Homo sapiens);Facial nerve;CNVII
+CN8 (Homo sapiens);Vestibulocochlear nerve;CNVIII
+auditory-vestibular nerve
+statoacustic nerve
+CN9 (Homo sapiens);Glossopharyngeal nerve;CNIX
+CNC (Homo sapiens);Cochlear nuclear complex;
+CNCavn (Homo sapiens);Anteroventral cochlear nucleus;
+CNCpvn (Homo sapiens);Posteroventral cochlear nucleus;
+CNIC (Homo sapiens);Central Nucleus of the Inferior colliculus;
+CSTR (Homo sapiens);Corpus striatum of cerebral hemisphere;
+CSegs (Homo sapiens);Cervical segment of spinal cord;
+Ccr (Homo sapiens);Cerebral crus;
+CeB (Homo sapiens);Cerebellum;
+CeBAL (Homo sapiens);Anterior lobe of cerebellum;
+CeBALCx (Homo sapiens);Cortex of anterior lobe of cerebellum;
+CeBALcL (Homo sapiens);Central lobule;
+CeBALcLp (Homo sapiens);Central lobule proper;
+CeBALhemi (Homo sapiens);Hemispheric part of anterior lobe of cerebellum;
+CeBALla (Homo sapiens);Left alar central lobule;
+CeBALmed (Homo sapiens);Medulla of anterior lobe of cerebellum;
+CeBALra (Homo sapiens);Right alar central lobule;
+CeBALv (Homo sapiens);Vermis part of anterior lobe of cerebellum;
+CeBBi (Homo sapiens);Biventral lobule;
+CeBCe (Homo sapiens);Central lobule;
+CeBFla (Homo sapiens);Accessory paraflocculus of Henle;
+CeBGr (Homo sapiens);Lobulus gracilis;
+CeBM (Homo sapiens);Cerebellar medulla;
+CeBMen (Homo sapiens);Emboliform nucleus;
+CeBMfn (Homo sapiens);Fastigial nucleus;
+CeBMgn (Homo sapiens);Globose nucleus;
+CeBPL (Homo sapiens);Posterior lobe of cerebellum;
+CeBTo (Homo sapiens);Tonsilla;
+CeBTox (Homo sapiens);Cross-section of the peduncle of the tonsilla;
+CeBWM (Homo sapiens);Cerebellar white matter;
+CeBapmf (Homo sapiens);Ansoparamedian fissure;
+CeBbp (Homo sapiens);Brachium pontis;
+CeBhf (Homo sapiens);Horizontal fissure;
+CeBplf (Homo sapiens);Posterolateral fissure;
+CeBppf (Homo sapiens);Prepyramidal fissure;
+CeBprf (Homo sapiens);Posterior superior fissure;
+CeBpsf (Homo sapiens);Primary fissure;
+CeBsf (Homo sapiens);Secondary fissure;
+CeBv (Homo sapiens);Cerebellar vermis;
+CeBvma (Homo sapiens);Anterior medullary velum;
+CeBvmp (Homo sapiens);Posterior medullary velum;
+CeBvms (Homo sapiens);Superior medullary velum;
+CeEBPLv (Homo sapiens);Vermis part of posterior lobe of cerebellum;
+CgCx (Homo sapiens);Cingulate cortex;
+CgG (Homo sapiens);Cingulate gyrus;
+CocSeg (Homo sapiens);Coccygeal segment of spinal cord;
+Cu (Homo sapiens);Culmen of cerebellum;
+Cun (Homo sapiens);Cuneus;Cuneus cortex
+Cx (Homo sapiens);Cerebral Cortex;
+DG (Homo sapiens);Dentate gyrus;
+DLPFC (Homo sapiens);Dorsolateral prefrontal cortex;
+DM (Homo sapiens);Dorsomedial area;V6
+DMGB (Homo sapiens);Dorsal nucleus of the medial geniculate body;
+DMN (Homo sapiens);Dorsomedial nucleus of hypothalamus;
+DN (Homo sapiens);Dentate nucleus;
+DNa (Homo sapiens);Amiculum of dentate nucleus;
+DNnd (Homo sapiens);Neodentate part of dentate nucleus;
+DNpd (Homo sapiens);Paleodentate part of dentate nucleus;
+DP (Homo sapiens);Dorsal prelunate cortex;
+DPON (Homo sapiens);Dorsal periolivary nucleus;
+DRG (Homo sapiens);Dorsal respiratory group;
+DV (Homo sapiens);Declive of cerebellum;
+DiE (Homo sapiens);Diencephalon;
+DiaB (Homo sapiens);Diagonal band of Broca;
+EStCx (Homo sapiens);Extrastriate cortex;
+ETH (Homo sapiens);Epithalamus;
+ETHpin (Homo sapiens);Pineal body;
+Ent (Homo sapiens);Entorhinal cortex;Entorhinal area
+FB (Homo sapiens);Forebrain;
+FCx (Homo sapiens);Frontal cortex;
+FEF (Homo sapiens);frontal eye field;
+FFA (Homo sapiens);Fusiform face area;
+FL (Homo sapiens);Frontal lobe;
+FOG (Homo sapiens);Fronto-orbital gyrus;
+FPC (Homo sapiens);Frontopolar cortex;
+FST (Homo sapiens);Floor of superior temporal sulcus;
+FV (Homo sapiens);Folium of vermis of cerebellum;
+FieldH (Homo sapiens);Field H;
+FieldH1 (Homo sapiens);Field H1;
+FieldH2 (Homo sapiens);Field H2;
+FieldHN (Homo sapiens);Nucleus of field H;
+Flo (Homo sapiens);Flocculus of cerebellum;
+ForG (Homo sapiens);Fornicate gyrus;
+Fr (Homo sapiens);Sulcus fragmentosus;
+FuG (Homo sapiens);Fusiform gyrus;Lateral occipitotemporal gyrus
+GP (Homo sapiens);Globus pallidus;
+GPe (Homo sapiens);External segment of the globus pallidus;
+GPi (Homo sapiens);Internal segment of the globus pallidus;
+HAB (Homo sapiens);Habenula;
+HABc (Homo sapiens);Habenular commissure;
+HABl (Homo sapiens);Lateral habenular nucleus;
+HABm (Homo sapiens);Medial habenular nucleus;
+HAV1d (Homo sapiens);Area V1d;
+HAV1v (Homo sapiens);Area V1v;
+HAV2d (Homo sapiens);Area V2d;
+HAV2v (Homo sapiens);Area V2v;
+HAV3 (Homo sapiens);Area V3;
+HAV3A (Homo sapiens);Area V3A;
+HAV4v (Homo sapiens);Area V4v;
+HAV8 (Homo sapiens);Area V8;
+HAVP (Homo sapiens);Area VP;
+HB (Homo sapiens);Hindbrain;
+HY (Homo sapiens);Hypothalamus;
+HYa (Homo sapiens);Anterior hypothalamic region;
+HYdlf (Homo sapiens);Dorsal longitudinal fasciculus of hypothalamus;
+HYi (Homo sapiens);Intermediate hypothalamic region;
+HYl (Homo sapiens);Lateral hypothalamic region;
+HYp (Homo sapiens);Posterior hypothalamic region;
+HiF (Homo sapiens);Hippocampal formation;Hippocampus
+IC (Homo sapiens);Inferior colliculus;
+ICN (Homo sapiens);Inferior central nucleus;
+ICgG (Homo sapiens);Isthmus of cingulate gyrus;Isthmus of cingulate cortex
+IFG (Homo sapiens);Inferior frontal gyrus;
+IFGOp (Homo sapiens);Opercular part of inferior frontal gyrus;Opercular part of inferior frontal gyrus
+IFGOr (Homo sapiens);Orbital part of inferior frontal gyrus;
+IFGTr (Homo sapiens);Triangular part of inferior frontal gyrus;
+IFS (Homo sapiens);Inferior frontal sulcus;
+IL (Homo sapiens);Insula;Insular lobe
+Insular Cortex
+ILN (Homo sapiens);Intralaminar nuclear group of thalamus;
+ILNcd (Homo sapiens);Central dorsal nucleus;
+ILNcl (Homo sapiens);Central lateral nucleus;
+ILNcm (Homo sapiens);Central medial nucleus;
+ILNpa (Homo sapiens);Paracentral nucleus;
+ILNparan (Homo sapiens);Parafascicular nucleus;
+ILNr (Homo sapiens);Rostral intralaminar nuclear group;
+ILa (Homo sapiens);Anterior insula;
+ILp (Homo sapiens);Posterior insula;
+IOC (Homo sapiens);Inferior olivary complex;
+IOCdn (Homo sapiens);Dorsal accessory inferior olivary nucleus;
+IOChilum (Homo sapiens);Hilum of inferior olivary complex;
+IOCmn (Homo sapiens);Medial accessory inferior olivary nucleus;
+IOCp (Homo sapiens);Principal inferior olivary nucleus;
+IOG (Homo sapiens);Inferior occipital gyrus;
+IONda (Homo sapiens);Dorsal accessory inferior olivary nucleus;
+IONma (Homo sapiens);Medial accessory inferior olivary nucleus;
+IONp (Homo sapiens);Principal inferior olivary nucleus;
+IOSl (Homo sapiens);Lateral intermediate orbital sulcus;
+IOSm (Homo sapiens);Medial intermediate orbital sulcus;
+IPC (Homo sapiens);Inferior parietal cortex;
+IPL (Homo sapiens);Inferior parietal lobule;
+IPN (Homo sapiens);Interpeduncular nucleus;
+IPS (Homo sapiens);Inferior parietal sulcus;
+IPeN (Homo sapiens);Intermediate periventricular nucleus;
+ISG (Homo sapiens);Intermediate short gyrus;
+ITG (Homo sapiens);Inferior temporal gyrus;Infero-temporal cortex
+Id (Homo sapiens);Insular disgranular cortex;
+Ig (Homo sapiens);Insular granular cortex;
+ImFS (Homo sapiens);Intermediate frontal sulcus;
+ImOG (Homo sapiens);Intermediate orbital gyrus;
+InfraLCx (Homo sapiens);Infralimbic cortex;
+KFN (Homo sapiens);Kolliker-Fuse nucleus;
+L1seg (Homo sapiens);L1 segment;
+L2seg (Homo sapiens);L2 segment;
+L3seg (Homo sapiens);L3 segment;
+L4seg (Homo sapiens);L4 segment;
+L5seg (Homo sapiens);L5 segment;
+LFN (Homo sapiens);Lentiform nucleus;Lenticular nucleus
+LGN (Homo sapiens);Lateral geniculate body;
+LGNdn (Homo sapiens);Dorsal nucleus of lateral geniculate body;
+LGNvn (Homo sapiens);Ventral nucleus of lateral geniculate body;
+LHYN (Homo sapiens);Lateral hypothalamic nucleus;
+LIG (Homo sapiens);Long insular gyri;Long insular gyrus
+LIP (Homo sapiens);Lateral intraparietal cortex;
+LL (Homo sapiens);Limbic lobe;
+LLNd (Homo sapiens);Dorsal nucleus of lateral lemniscus;
+LLNv (Homo sapiens);Ventral nucleus of lateral lemniscus;
+LMN (Homo sapiens);Lateral mammillary nucleus;
+LNG (Homo sapiens);Lateral nuclear group of thalamus;
+LOC (Homo sapiens);Lateral occipital cortex;LOP complex
+LOFC (Homo sapiens);Lateral orbital frontal cortex;
+LOG (Homo sapiens);Lateral occipital gyrus;
+LOSc (Homo sapiens);Caudal lateral orbital sulcus;
+LOSr (Homo sapiens);Rostral lateral orbital sulcus;
+LOrG (Homo sapiens);Lateral orbital gyrus;
+LPFC (Homo sapiens);Lateral prefrontal cortex;
+LRN (Homo sapiens);Lateral reticular nucleus;
+ls (Homo sapiens);Lateral Sulcus;Sylvian fissure
+Lateral fissure
+LSegs (Homo sapiens);Lumbar segment of spinal cord;
+LTN (Homo sapiens);Lateral tuberal nucleus;
+LinG (Homo sapiens);Lingual gyrus;
+LinN (Homo sapiens);Linear nucleus;
+Lingu (Homo sapiens);Lingula of cerebellum;
+LocC (Homo sapiens);Locus ceruleus;
+M1 (Homo sapiens);Primary motor cortex;F1
+MI
+M2 (Homo sapiens);Secondary motor cortex;MII
+MB (Homo sapiens);Midbrain;Mesenzephalon
+MBTec (Homo sapiens);Midbrain tectum;
+MBTeg (Homo sapiens);Midbrain tegmentum;
+MDP (Homo sapiens);Medial dorsal parietal cortex;
+MFG (Homo sapiens);Middle frontal gyrus;
+MFGc (Homo sapiens);Caudal middle frontal gyrus;
+MFGr (Homo sapiens);Rostral middle frontal gyrus;
+MGB (Homo sapiens);Medial geniculate body;Medial geniculate nucleus
+MIP (Homo sapiens);Medial intraparietal cortex;
+MMGB (Homo sapiens);Medial nucleus of the medial geniculate body;
+MMN (Homo sapiens);Medial mammillary nucleus;
+MNG (Homo sapiens);Medial nuclear group of thalamus;Medial dorsal nucleus
+Dorsomedial nucleus of thalamus
+MNGd (Homo sapiens);Densocellular part of medial dorsal nucleus;
+MNGm (Homo sapiens);Magnocellular part of medial dorsal nucleus;
+MNGpara (Homo sapiens);Paralaminar part of medial dorsal nucleus;
+MNGparvi (Homo sapiens);Parvicellular part of medial dorsal nucleus;
+MO (Homo sapiens);Medulla oblongata;
+MOFC (Homo sapiens);Medial orbital frontal cortex;
+MOSc (Homo sapiens);Caudal part of medial orbital sulcus;
+MOSr (Homo sapiens);Rostral part of medial orbital sulcus;
+MOaIOC (Homo sapiens);Amiculum of inferior olivary complex;
+MOah (Homo sapiens);Anterior horn of medulla oblongata;
+MOap (Homo sapiens);Area postrema;
+MOarc (Homo sapiens);Arcuate nucleus of the medulla;
+MOc (Homo sapiens);Caudal segment of medulla oblongata;
+MOcgs (Homo sapiens);Central gray substance of medulla;
+MOcn (Homo sapiens);Cuneate nucleus;
+MOcna (Homo sapiens);Accessory cuneate nucleus;
+MOdml (Homo sapiens);Decussation of medial lemniscus;
+MOdrn (Homo sapiens);Diffuse reticular nucleus;
+MOgn (Homo sapiens);Gracile nucleus;
+MOin (Homo sapiens);Nucleus intercalatus;
+MOisn (Homo sapiens);Inferior salivatory nucleus;
+MOjux (Homo sapiens);Juxtarestiform body;
+MOlpn (Homo sapiens);Lateral pericuneate nucleus;
+MOm (Homo sapiens);Middle segment of medulla oblongata;
+MOml (Homo sapiens);Medial lemniscus of medulla;
+MOmpn (Homo sapiens);Medial pericuneate nucleus;
+MOpan (Homo sapiens);Paratrigeminal nucleus;
+MOpbn (Homo sapiens);Pontobulbar nucleus;
+MOpdb (Homo sapiens);Predorsal bundle;
+MOpn (Homo sapiens);Nucleus prepositus;
+MOptn (Homo sapiens);Peritrigeminal nucleus;
+MOr (Homo sapiens);Rostral segment of medulla oblongata;
+MOrG (Homo sapiens);Medial orbital gyrus;
+MOsn (Homo sapiens);Sublingual nucleus;
+MP (Homo sapiens);Mammillary peduncle;
+MPF (Homo sapiens);Mammillary princeps fasciculus;
+MPFC (Homo sapiens);Medial prefrontal cortex;
+MRF (Homo sapiens);Midbrain reticular formation;
+MRFc (Homo sapiens);Central medullary reticular complex;
+MRFl (Homo sapiens);Lateral medullary reticular complex;
+MRFp (Homo sapiens);Paramedian medullary reticular complex;
+MRNC (Homo sapiens);Medullary raphe nuclear complex;
+MRmn (Homo sapiens);Nucleus raphe magnus;
+MRon (Homo sapiens);Nucleus raphe obscurus;
+MRpn (Homo sapiens);Nucleus raphe pallidus;
+MSTd (Homo sapiens);Medial superior temporal cortex dorsal;
+MSTl (Homo sapiens);Medial superior temporal cortex ventral;
+MT (Homo sapiens);Middle temporal cortex (occipital);Dorsolateral inferior occipital cortex
+MTF (Homo sapiens);Mammillotegmental fasciculus;
+MTG (Homo sapiens);Middle temporal gyrus;
+MTH (Homo sapiens);Metathalamus;
+MTL (Homo sapiens);Medial temporal lobe;Medial temporal cortex
+MaB (Homo sapiens);Mamillary body;
+Me (Homo sapiens);Medial amygdaloid nucleus;
+MeRF (Homo sapiens);Medullary reticular formation;
+MetE (Homo sapiens);Metencephalon;
+MiNG (Homo sapiens);Midline nuclear group of thalamus;
+MiNGpt (Homo sapiens);Paratenial nucleus;
+MiNGpv (Homo sapiens);Paraventricular nucleus of thalamus;
+MiNren (Homo sapiens);Reuniens nucleus;
+MiNrhon (Homo sapiens);Rhomboidal nucleus;
+MiNsub (Homo sapiens);Subfascicular nucleus;
+NBM (Homo sapiens);Basal optic nucleus of Meynert;
+NCeB (Homo sapiens);Nodulus of cerebellum;
+NME (Homo sapiens);Nucleus of medial eminence;
+NRM (Homo sapiens);Nucleus raphe magnus;
+NRO (Homo sapiens);Nucleus raphe obscurus;
+NRP (Homo sapiens);Nucleus raphe pallidus;
+NSCx (Homo sapiens);Nuclei of cerebral hemisphere;Basal Nuclear complex
+NSubC (Homo sapiens);Nucleus subceruleus;
+Nac (Homo sapiens);Nucleus of anterior commissure;
+Ndb (Homo sapiens);Nucleus of diagonal band;
+Nst (Homo sapiens);Nucleus of stria terminalis;
+OA10m (Homo sapiens);Area 10m;
+OA10p (Homo sapiens);Area 10p;
+OA10r (Homo sapiens);Area 10r;
+OA11l (Homo sapiens);Area 11l;
+OA11m (Homo sapiens);Area 11m;
+OA12l (Homo sapiens);Area 12l;
+OA12m (Homo sapiens);Area 12m;
+OA12r (Homo sapiens);Area 12r;
+OA12s (Homo sapiens);Area 12s;
+OA13a (Homo sapiens);Area 13a;
+OA13b (Homo sapiens);Area 13b;
+OA13l (Homo sapiens);Area 13l;
+OA13m (Homo sapiens);Area 13m;
+OA14c (Homo sapiens);Area 14c;
+OA14r (Homo sapiens);Area 14r;
+OA24a (Homo sapiens);Area 24a;
+OA24b (Homo sapiens);Area 24b;
+OA25 (Homo sapiens);Area 25;
+OA32ac (Homo sapiens);Area 32ac;
+OA32pl (Homo sapiens);Area 32pl;
+OAIai (Homo sapiens);Area Iai;
+OAIal (Homo sapiens);Area Ial;
+OAIam (Homo sapiens);Area Iam;
+OAIapm (Homo sapiens);Area Iapm;
+OCB (Homo sapiens);Olivocochlear bundle;
+OFC (Homo sapiens);Orbital frontal cortex;Orbital frontal surface
+Orbitofrontal cortex
+OG (Homo sapiens);Occipital gyrus;
+OL (Homo sapiens);Occipital lobe;
+OMPFC (Homo sapiens);orbital and medial prefrontal cortex;
+OPN (Homo sapiens);Olivary pretectal nucleus;
+OTN (Homo sapiens);Nucleus of optic tract;
+Olf (Homo sapiens);Olfactory sulcus;
+OrG (Homo sapiens);Orbital gyri complex;
+PAa (Homo sapiens);Periamygdaloid area;Periamygdaloid cortex PAC
+PBN (Homo sapiens);Parabrachial nuclei;
+PBNl (Homo sapiens);Lateral parabrachial nucleus;
+PBNm (Homo sapiens);Medial parabrachial nucleus;
+PBNsub (Homo sapiens);Subparabrachial nucleus;
+PC (Homo sapiens);Posterior commissure;
+PCG (Homo sapiens);Postcentral gyrus;
+PCG1 (Homo sapiens);First posterior central gyrus;
+PCG2 (Homo sapiens);Second posterior central gyrus;
+PCL (Homo sapiens);Paracentral Lobule;
+prcs (Homo sapiens);Precentral sulcus;
+PCfor (Homo sapiens);Postcommissural fornix;
+PCgG (Homo sapiens);Posterior cingulate gyrus;Posterior cingulate cortex
+PCn (Homo sapiens);Nucleus of posterior commissure;
+PCu (Homo sapiens);Precuneus;Precuneus Cortex
+PCvn (Homo sapiens);Ventral nucleus of posterior commissure;
+PE (Homo sapiens);Rostral SPL cortical area 5a;
+PEa (Homo sapiens);Rostral intraparietal cortex area 5v;
+PEc (Homo sapiens);Apex SPL cortical area 5b;
+PEci (Homo sapiens);Cingulate parietal cortex;
+PF (Homo sapiens);Rostral IPL cortical area 7;PFG 7b
+PFC (Homo sapiens);Prefrontal cortex;
+PFop (Homo sapiens);Parietal operculum area;PGop
+PG (Homo sapiens);Caudal IPL cortical area 7a;Opt 7a
+PHG (Homo sapiens);Parahippocampal gyrus;
+PIP (Homo sapiens);Posterior intraparietal cortex;
+PITd (Homo sapiens);Posterior inferotemporal dorsal;
+PITv (Homo sapiens);Posterior inferotemporal cortex ventral;
+PL (Homo sapiens);Parietal lobe;
+PLl (Homo sapiens);Lateral pes lemniscus;
+PLm (Homo sapiens);Medial pes lemniscus;
+PMC (Homo sapiens);Premotor cortex;PMA
+PMd (Homo sapiens);Premotor area (dorsal);F2/F7
+PMv (Homo sapiens);Premotor area (ventral);F4/F5
+PNG (Homo sapiens);Posterior nuclear group of thalamus;
+PNGl (Homo sapiens);Limitans nucleus;
+PNGp (Homo sapiens);Posterior nucleus of thalamus;
+PNGsub (Homo sapiens);Submedial nucleus;
+PNGsupra (Homo sapiens);Suprageniculate nucleus;
+POG (Homo sapiens);Posterior orbital gyrus;
+POSl (Homo sapiens);Lateral posterior orbital sulcus;
+POSm (Homo sapiens);Medial posterior orbital sulcus;
+POcC (Homo sapiens);Parieto-occipital cortex;
+POnsCG (Homo sapiens);Central gray substance of pons;
+PP (Homo sapiens);Planum polare;
+PPCx (Homo sapiens);Posterior Parietal Cortex;
+PPHG (Homo sapiens);Posterior parahippocampal gyrus;
+PPL (Homo sapiens);Posterior Parietal Lobe;
+PPN (Homo sapiens);Peripeduncular nucleus;
+PPTN (Homo sapiens);Pedunculopontine tegmental nucleus;Pedunculopontine nucleus (PPN)
+PR (Homo sapiens);Parietal rostroventral area;
+PRF (Homo sapiens);Pontine reticular formation;
+PRG (Homo sapiens);Pontine respiratory group;
+PRN (Homo sapiens);Pontine raphe nucleus;
+PRNc (Homo sapiens);Caudal pontine reticular nucleus;
+PRNd (Homo sapiens);Dorsal paramedian reticular nucleus;
+PRNo (Homo sapiens);Oral pontine reticular nucleus;
+PRNv (Homo sapiens);Ventral paramedian reticular nucleus;
+PT (Homo sapiens);Planum temporale;
+PTEG (Homo sapiens);Pontine tegmentum;
+PTG (Homo sapiens);Paraterminal gyrus;
+PTN (Homo sapiens);Nucleus of pretectal area;Pretectum
+PTNp (Homo sapiens);Principal pretectal nucleus;
+PTR (Homo sapiens);Pretectal region;
+PTTG (Homo sapiens);Posterior transverse temporal gyrus;
+PU (Homo sapiens);Putamen;
+PV (Homo sapiens);Parietal ventral area;
+PVN (Homo sapiens);Paraventricular nucleus of hypothalamus;
+Pa (Homo sapiens);Anterior Pulvinar;
+PaCx (Homo sapiens);Postauditory cortex;
+PaRN (Homo sapiens);Parvicellular reticular nucleus;
+ParS (Homo sapiens);Parasubiculum;
+ParaCS (Homo sapiens);Paracentral sulcus;
+PeCx (Homo sapiens);Perirhinal cortex;
+PonNG (Homo sapiens);Pontine nuclear group;
+Pons (Homo sapiens);Pons;
+Ponsb (Homo sapiens);Basal part of pons;
+PrG (Homo sapiens);Precentral gyrus;
+PrGI (Homo sapiens);Precentral gyrus of insula;
+PrPA (Homo sapiens);Prepyriform area;
+PreS (Homo sapiens);Presubiculum;
+Pul (Homo sapiens);Pulvinar;
+Puli (Homo sapiens);Inferior pulvinar nucleus;
+Pull (Homo sapiens);Lateral pulvinar nucleus;
+Pulm (Homo sapiens);Medial pulvinar nucleus;
+Pulo (Homo sapiens);Oral pulvinar nucleus;
+PyV (Homo sapiens);Pyramis of vermis of cerebellum;
+Qa (Homo sapiens);Anterior quadrangular lobule;
+Qp (Homo sapiens);Posterior quadrangular lobule;
+RCA (Homo sapiens);Retrochiasmatic area;
+RG (Homo sapiens);Gyrus rectus;Straight gyrus
+RN (Homo sapiens);Red nucleus;
+RNc (Homo sapiens);Capsule of red nucleus;
+RNd (Homo sapiens);Dorsal raphe nucleus;
+RNmc (Homo sapiens);Magnocellular part of red nucleus;
+RNpc (Homo sapiens);Parvocellular part of red nucleus;
+RNv (Homo sapiens);Ventral reticular nucleus;
+RTN (Homo sapiens);Reticulotegmental nucleus;
+S1 (Homo sapiens);Primary somatosensory cortex;Anterior Parietal Cortex
+SI
+S1seg (Homo sapiens);S1 segment;
+S2 (Homo sapiens);Secondary somatosensory cortex;Lateral Parietal Cortex
+SII
+S2c (Homo sapiens);S2 central area;
+S2seg (Homo sapiens);S2 segment;
+S3seg (Homo sapiens);S3 segment;
+S4seg (Homo sapiens);S4 segment;
+S5seg (Homo sapiens);S5 segment;
+SC (Homo sapiens);Superior colliculus;Optic tectum
+SCG (Homo sapiens);Subcentral gyrus;
+SCH (Homo sapiens);Subcortex of cerebral hemisphere;
+SCN (Homo sapiens);Suprachiasmatic nucleus;
+SCPdec (Homo sapiens);Decussation of superior cerebellar peduncle;
+SCaG (Homo sapiens);Supracallosal gyrus;
+SCeN (Homo sapiens);Superior central nucleus;
+SFG (Homo sapiens);Superior frontal gyrus;
+SG1 (Homo sapiens);First short gyrus;
+SG2 (Homo sapiens);Second short gyrus;
+SIG (Homo sapiens);Short insular gyri;Short insular gyrus
+SLN (Homo sapiens);Sublentiform nucleus;
+SMA (Homo sapiens);Supplementary motor area;
+SMC (Homo sapiens);Supramammillary commissure;
+SMG (Homo sapiens);Supramarginal gyrus;
+SMN (Homo sapiens);Supramammillary nucleus;
+SN (Homo sapiens);Substantia nigra;
+SNTN (Homo sapiens);Spinal nucleus of trigeminal nerve;
+SNc (Homo sapiens);Substantia nigra pars compacta;
+SNl (Homo sapiens);Substantia nigra pars lateralis;
+SNm (Homo sapiens);Medial septal nucleus of brain;
+SNr (Homo sapiens);Substantia nigra pars reticulata;
+SOC (Homo sapiens);Superior olivary complex;
+SOCr (Homo sapiens);Supraoptic crest;
+SOCvn (Homo sapiens);Ventral nucleus of trapezoid body;
+SODd (Homo sapiens);Dorsal supraoptic decussation;
+SODv (Homo sapiens);Ventral supraoptic decussation;
+SOG (Homo sapiens);Superior occipital gyrus;
+SON (Homo sapiens);Supraoptic nucleus;
+SONl (Homo sapiens);Lateral superior olivary nucleus;
+SONm (Homo sapiens);Medial superior olivary nucleus;
+SOpe (Homo sapiens);Peduncle of superior olive;
+SPC (Homo sapiens);Superior parietal cortex;
+SPL (Homo sapiens);Superior parietal lobule;
+SPS (Homo sapiens);Superior parietal sulcus;
+SSCx (Homo sapiens);Somatic sensory cortex;
+SSN (Homo sapiens);Superior salivatory nucleus;
+SSegs (Homo sapiens);Sacral segment of spinal cord;
+STG (Homo sapiens);Superior temporal gyrus;
+STGa (Homo sapiens);Anterior superior temporal gyrus;
+STGp (Homo sapiens);Posterior superior temporal gyrus;
+STN (Homo sapiens);Subthalamic nucleus;
+STNc (Homo sapiens);Caudal part of spinal trigeminal nucleus;
+STNcap (Homo sapiens);Capsule of subthalamic nucleus;
+STP (Homo sapiens);Superior temporal plane;
+STPa (Homo sapiens);Superior temporal polysensory cortex anterior;
+STPp (Homo sapiens);Superior temporal polysensory cortex posterior;
+STR (Homo sapiens);Striatum;Striatum of cerebral hemisphere
+STRd (Homo sapiens);Dorsal striatum;
+STRv (Homo sapiens);Ventral striatum;
+STS (Homo sapiens);Superior temporal sulcus;
+SiL (Homo sapiens);Superior semilunar lobule;
+SpinC (Homo sapiens);Spinal cord;
+SsL (Homo sapiens);Inferior semilunar lobule;
+StCx (Homo sapiens);Striate cortex;Primary visual cortex
+SubCFN (Homo sapiens);Subcuneiform nucleus;
+SubTH (Homo sapiens);Subthalamus;
+SubTHaln (Homo sapiens);Nucleus of ansa lenticularis;
+Subi (Homo sapiens);Subiculum;
+SubiC (Homo sapiens);Subicular complex;
+T10seg (Homo sapiens);T10 segment;
+T11seg (Homo sapiens);T11 segment;
+T12seg (Homo sapiens);T12 segment;
+T1seg (Homo sapiens);T1 segment;
+T2seg (Homo sapiens);T2 segment;
+T3seg (Homo sapiens);T3 segment;
+T4seg (Homo sapiens);T4 segment;
+T5seg (Homo sapiens);T5 segment;
+T6seg (Homo sapiens);T6 segment;
+T7seg (Homo sapiens);T7 segment;
+T8seg (Homo sapiens);T8 segment;
+T9seg (Homo sapiens);T9 segment;
+TBod (Homo sapiens);Trapezoid body;
+TDecd (Homo sapiens);Dorsal tegmental decussation;
+TDecv (Homo sapiens);Ventral tegmental decussation;
+TH (Homo sapiens);Thalamus;
+THad (Homo sapiens);Anterodorsal nucleus;
+THam (Homo sapiens);Anteromedial nucleus;
+THav (Homo sapiens);Anteroventral nucleus;
+TL (Homo sapiens);Temporal lobe;
+TNC (Homo sapiens);Trigeminal nuclear complex;
+TNd (Homo sapiens);Dorsal tegmental nucleus;
+TNv (Homo sapiens);Ventral tegmental nucleus;
+TOS (Homo sapiens);Transverse orbital sulcus;
+TP (Homo sapiens);Temporal pole;
+TPJ (Homo sapiens);Temporoparietal junction;
+TPS (Homo sapiens);Transverse parietal sulcus;
+TRN (Homo sapiens);Thalamic reticular nucleus;
+TSegs (Homo sapiens);Thoracic segment of spinal cord;
+TTG (Homo sapiens);Transverse temporal gyrus;Transverse gyrus of Heschl
+Heschl's gyrus
+TV (Homo sapiens);Tuber of vermis of cerebellum;
+Tcin (Homo sapiens);Tuber cinereum;
+Tel (Homo sapiens);Telencephalon;Cerebral hemispheres
+Tons (Homo sapiens);Tonsil of cerebellum;
+Tr (Homo sapiens);Triangular part of inferior frontal gyrus (pars triangularis);
+TubmN (Homo sapiens);Tuberomammillary nucleus;
+UN (Homo sapiens);Uncus;
+UvV (Homo sapiens);Uvula of vermis of cerebellum;
+V1 (Homo sapiens);Visual area 1;Primary visual cortex
+V2 (Homo sapiens);Visual area 2;
+V3 (Homo sapiens);Visual area 3;
+V3A (Homo sapiens);Cortical visual area 3A;
+V4 (Homo sapiens);Visual area 4;
+V4t (Homo sapiens);Visual area 4 transitional;
+V6a (Homo sapiens);Parietooccipital cortex;PO V6
+V7 (Homo sapiens);Visuotopic area V7;
+VAN (Homo sapiens);Ventral anterior nucleus;
+VANm (Homo sapiens);Magnocellular part of ventral anterior nucleus;
+VANp (Homo sapiens);Parvicellular part of ventral anterior nucleus;
+VCo (Homo sapiens);Ventral cortical nuclei of amygadala;
+VCx (Homo sapiens);Visual Cortex;
+VIM (Homo sapiens);Ventral intermediate nucleus;
+VIP (Homo sapiens);Ventral intraparietal cortex;
+VLN (Homo sapiens);Ventral lateral nucleus;
+VLNX (Homo sapiens);Area X;
+VLNc (Homo sapiens);Caudal part of ventral lateral nucleus;Ventrocaudal nucleus
+VLNm (Homo sapiens);Medial part of ventral lateral nucleus;
+VLNo (Homo sapiens);Oral part of ventral lateral nucleus;
+VLNpp (Homo sapiens);Pars postrema of ventral lateral nucleus;
+VLPFC (Homo sapiens);Ventrolateral prefrontal cortex;
+VLPO (Homo sapiens);Ventrolateral preoptic nucleus;
+VMGB (Homo sapiens);Ventral nucleus of the medial geniculate body;
+VMN (Homo sapiens);Ventromedial nucleus of hypothalamus;
+VMPFC (Homo sapiens);Ventromedial prefrontal cortex;
+VNC (Homo sapiens);Vestibular nuclear complex;
+VNCin (Homo sapiens);Interstitial nucleus of vestibular nerve;
+VNCinfn (Homo sapiens);Inferior vestibular nucleus;
+VNCln (Homo sapiens);Lateral vestibular nucleus;Nucleus of Deiters
+VNClncL (Homo sapiens);Cell group L;
+VNClnp (Homo sapiens);Parvocellular part of lateral vestibular nucleus;
+VNCmn (Homo sapiens);Medial vestibular nucleus;
+VNCsn (Homo sapiens);Superior vestibular nucleus;
+VNG (Homo sapiens);Ventral nuclear group of thalamus;
+VOT (Homo sapiens);Ventral occipitotemporal cortex;
+VP (Homo sapiens);Ventral posterior cortex;
+VPI (Homo sapiens);Ventral posteroinferior nucleus;
+VPIc (Homo sapiens);Caudal part of ventral posteroinferior nucleus;
+VPL (Homo sapiens);Ventral posterolateral nucleus;
+VPLc (Homo sapiens);Caudal part of ventral posterolateral nucleus;
+VPLo (Homo sapiens);Oral part of ventral posterolateral nucleus;
+VPM (Homo sapiens);Ventral posteromedial nucleus;
+VPMp (Homo sapiens);Principal part of ventral posteromedial nucleus;
+VPMpc (Homo sapiens);Parvicellular part of ventral posteromedial nucleus;
+VPN (Homo sapiens);Ventral posterior nucleus;
+VPS (Homo sapiens);Ventral posterosuperior nucleus;
+VRG (Homo sapiens);Ventral respiratory group;
+VTA (Homo sapiens);Ventral tegmental area;
+Voa (Homo sapiens);Ventral oral anterior part of VLN;
+Vop (Homo sapiens);Ventral oral posterior part of VLN;
+WMT (Homo sapiens);White Matter Tract;
+WmV (Homo sapiens);White matter of vermis;
+ZonaIn (Homo sapiens);Zona incerta;
+aPRN (Homo sapiens);Accessory paramedian reticular nucleus;
+aals (Homo sapiens);Anterior ascending limb of lateral sulcus;anterior ascending ramus of the lateral sulcus
+ac (Homo sapiens);Anterior commissure;
+acr (Homo sapiens);Anterior part of corona radiata;
+acsfs (Homo sapiens);Accessory superior frontal sulcus;
+af (Homo sapiens);Arcuate fasciculus;
+agIC (Homo sapiens);agranular insular cortex;
+ahls (Homo sapiens);Anterior horizontal limb of lateral sulcus;anterior horizontal ramus of the lateral sulcus
+alic (Homo sapiens);Anterior limb of the internal capsule;
+alv (Homo sapiens);Alveus;
+amts (Homo sapiens);Anterior middle temporal sulcus;
+aocs (Homo sapiens);Anterior occipital sulcus;
+appcl (Homo sapiens);Anterior portion of the paracentral lobule;
+as (Homo sapiens);Ascending sulcus;ascending ramus of the lateral fissure
+ascs (Homo sapiens);Anterior subcentral sulcus;
+audtrc (Homo sapiens);Auditory tract;
+bankssts (Homo sapiens);Posterior banks of the superior temporal sulcus;
+bcc (Homo sapiens);Body of corpus callosum;Truncus
+bob (Homo sapiens);Base of the brain;
+caTF (Homo sapiens);Cortical area TF;
+caTH (Homo sapiens);Cortical area TH;
+cc (Homo sapiens);Corpus callosum;
+certhtrc (Homo sapiens);Cerebellothalamic tract;
+cfx (Homo sapiens);Column of the fornix;
+cg (Homo sapiens);Cingulum;
+cis (Homo sapiens);Central insular sulcus;
+cp (Homo sapiens);Cerebral peduncle;
+cr (Homo sapiens);Corona radiata;
+cs (Homo sapiens);Central sulcus;
+cscc (Homo sapiens);Inferior anterior corner of Splenium of corpus callosum;
+cxbultrc (Homo sapiens);Corticobulbar tract;
+cxpontrc (Homo sapiens);Corticopontine tract;
+cxrettrc (Homo sapiens);Corticoreticular tract;
+cxspatrc (Homo sapiens);Anterior corticospinal tract;
+cxspltrc (Homo sapiens);Lateral corticospinal tract;
+cxsptrc (Homo sapiens);Corticospinal tract;Pyramidal tract
+cxsttrc (Homo sapiens);Corticostriatal tract;
+cxthtrc (Homo sapiens);Corticothalamic tract;
+dethtrc (Homo sapiens);Dentatothalamic tract;
+dias (Homo sapiens);Diagonal sulcus;
+dpgN (Homo sapiens);Dorsal paragigantocellular nucleus;
+dscp (Homo sapiens);Decussation of the superior cerebellar peduncles;
+ec (Homo sapiens);External capsule;
+eml (Homo sapiens);External medullary lamina;Lamina medullaris lateralis
+exc (Homo sapiens);Extreme capsule;
+fd (Homo sapiens);Fascia dentata;
+fds (Homo sapiens);Fimbriodentate sulcus;Fimbriodentate fissure
+fi (Homo sapiens);Fimbria of hippocampus;
+fms (Homo sapiens);Frontomarginal sulci;
+fro (Homo sapiens);Frontal operculum;
+frp (Homo sapiens);Frontal pole;
+fs (Homo sapiens);Frontal sulci;Frontal sulcus
+fx (Homo sapiens);Fornix;
+gcc (Homo sapiens);Genu of corpus callosum;Anterior forceps
+gic (Homo sapiens);Genu of internal capsule;
+gigN (Homo sapiens);Gigantocellular nucleus;
+hdg (Homo sapiens);Hilus of dentate gyrus;CA 4 field
+he (Homo sapiens);Horizontal extension of the inferior precentral sulcus;
+hs (Homo sapiens);Horizontal sulcus (horizontal ramus of the lateral fissure);
+hyptetrc (Homo sapiens);Hypothalamotegmental tract;
+iccs (Homo sapiens);Inferior calcarine sulcus;
+icgs (Homo sapiens);Intracingulate sulcus;
+icp (Homo sapiens);Inferior cerebellar peduncle;
+ifms (Homo sapiens);Intermediate frontomarginal sulcus;
+ifo (Homo sapiens);Inferior fronto-occipital fasciculus;Inferior occipitofrontal fasciculus
+ilf (Homo sapiens);Inferior longitudinal fasciculus;
+ils (Homo sapiens);Intralingual sulcus;
+iml (Homo sapiens);Internal medullary lamina;Lamina medullaris medialis
+inc (Homo sapiens);Internal capsule;
+infs-h (Homo sapiens);Horizontal part of the intermediate frontal sulcus;
+infs-v (Homo sapiens);Vertical part of the intermediate frontal sulcus;
+iocs (Homo sapiens);Inferior occipital sulcus;
+ios (Homo sapiens);Intermediate orbital frontal sulcus;
+ipcs (Homo sapiens);Inferior postcentral sulcus;
+iprs (Homo sapiens);Inferior precentral sulcus;
+iras (Homo sapiens);Inferior ramus of arcuate sulcus;
+irg (Homo sapiens);Inferior rostral gyrus;
+iros (Homo sapiens);Inferior rostral sulcus;
+itps (Homo sapiens);Intraparietal sulcus;
+its (Homo sapiens);Inferior temporal sulcus;
+lEnt (Homo sapiens);Lateral entorhinal cortex;
+ldn (Homo sapiens);Lateral dorsal nucleus;
+lfm (Homo sapiens);Medial longitudinal fissure;Great longitudinal fissure
+Longitudinal cerebral fissure
+Longitudinal fissure
+interhemispheric fissure
+lfms (Homo sapiens);Lateral frontomarginal sulcus;
+lils (Homo sapiens);Lateral inferior limiting sulcus;
+locs (Homo sapiens);Lateral occipital sulcus;
+los (Homo sapiens);Lateral orbital frontal sulcus;
+lpgN (Homo sapiens);Lateral paragigantocellular nucleus;
+lpn (Homo sapiens);Lateral posterior nucleus;
+lsi (Homo sapiens);Longitudinal sulcus of insula;
+lus (Homo sapiens);Lunate sulcus;
+mEnt (Homo sapiens);Medial entorhinal cortex;
+maprs (Homo sapiens);Marginal precentral sulcus;
+mcp (Homo sapiens);Middle cerebellar peduncle;
+mfms (Homo sapiens);Medial frontomarginal sulcus;
+ml (Homo sapiens);Medial lemniscus;Medial lemniscus of midbrain
+mlf (Homo sapiens);Medial longitudinal fasciculus;
+mlthtrc (Homo sapiens);Medullary laminae of thalamus;
+mos (Homo sapiens);Medial orbital sulcus;
+mprs (Homo sapiens);Medial precentral sulcus;
+ms (Homo sapiens);Marginal sulcus;
+mscc (Homo sapiens);Middle of Splenium of corpus callosum;
+mtrc (Homo sapiens);Mammillothalamic tract;
+mts (Homo sapiens);Middle temporal sulcus;
+mttrc (Homo sapiens);Motor tract;
+ocp (Homo sapiens);Occipital pole;
+ocs (Homo sapiens);Ectocalcarine sulcus;
+olcertrc (Homo sapiens);Olivocerebellar tract;
+olfs (Homo sapiens);Olfactory frontal sulcus;
+olsptrc (Homo sapiens);Olivospinal tract;
+optrad (Homo sapiens);Optic radiation;Geniculo-calcarine tract
+optrc (Homo sapiens);Optic tract;
+oro (Homo sapiens);Orbital operculum;
+otrc (Homo sapiens);Olfactory tract;
+ox (Homo sapiens);Optic chiasm;
+pN (Homo sapiens);Posterior nucleus of hypothalamus;
+painfs (Homo sapiens);Paraintermediate frontal sulci;
+pals (Homo sapiens);Posterior ascending limb of lateral sulcus;posterior ascending ramus of the lateral sulcus
+pccs (Homo sapiens);Posterior calcarine sulcus;
+pcr (Homo sapiens);Posterior part of corona radiata;
+pctrc (Homo sapiens);Pontine crossing tract;
+plic (Homo sapiens);Posterior limb of the internal capsule;
+pmfs-a (Homo sapiens);Anterior posterior middle frontal sulcus;
+pmfs-i (Homo sapiens);Intermediate posterior frontal sulcus;
+pmfs-p (Homo sapiens);Posterior posterior frontal sulcus;
+pms (Homo sapiens);Posterior marginal sulcus;
+pmts (Homo sapiens);Posterior middle temporal sulcus;
+pocs (Homo sapiens);Postcentral sulcus;
+pop (Homo sapiens);Parietal operculum;
+postfx (Homo sapiens);Postcommissural part of the fornix;Postcommissural fornix
+postltrc (Homo sapiens);Posterolateral tract;
+ppeN (Homo sapiens);Posterior periventricular nucleus of hypothalamus;
+preMN (Homo sapiens);Premammillary nucleus;
+preON (Homo sapiens);Preolivary nucleus;
+preOPT (Homo sapiens);Preoptic area;
+preOPTan (Homo sapiens);Anterior nucleus of hypothalamus;
+preOPTmdn (Homo sapiens);Median preoptic nucleus;
+preOPTmln (Homo sapiens);Medial preoptic nucleus;
+preOPTpvn (Homo sapiens);Preoptic periventricular nucleus;
+preSMA (Homo sapiens);(Pre-)supplementary motor area [F3/F6 SMA/preSMA];
+prefx (Homo sapiens);Precommissural part of the fornix;Precommissural fornix
+pro (Homo sapiens);Precentral operculum;
+prs (Homo sapiens);Principal sulcus;
+pscs (Homo sapiens);Posterior subcentral sulcus;
+r (Homo sapiens);Radiate sulcus of Eberstaller;
+rcc (Homo sapiens);Rostrum of corpus callosum;
+resptrc (Homo sapiens);Reticulospinal tract;
+rhyptrc (Homo sapiens);Retinohypothalamic tract;
+rlic (Homo sapiens);Retrolenticular part of the internal capsule;
+roCG (Homo sapiens);Retro-olivary cell group;
+ros (Homo sapiens);Rostral sulcus;
+ruoltrc (Homo sapiens);Rubroolivary tract;
+rusptrc (Homo sapiens);Rubrospinal tract;
+sas (Homo sapiens);Spur of arcuate sulcus;
+sbps (Homo sapiens);Subparietal sulcus;
+scc (Homo sapiens);Splenium of corpus callosum;Posterior forceps
+sccs (Homo sapiens);Superior calcarine sulcus;
+scp (Homo sapiens);Superior cerebellar peduncle;brachium conjunctivum
+scr (Homo sapiens);Superior part of corona radiata;
+sf (Homo sapiens);Subcallosal fasciculus;
+sfo (Homo sapiens);Superior fronto-occipital fasciculus;Superior occipitofrontal fasciculus
+sfpams (Homo sapiens);Superior frontal paramidline sulci;
+sfs (Homo sapiens);Superior frontal sulcus;
+sfs-a (Homo sapiens);Anterior branch of superior frontal sulcus;
+sfs-p (Homo sapiens);Posterior branch of superior frontal sulcus;
+sfsa (Homo sapiens);Anterior superior frontal sulcus;
+sfsp (Homo sapiens);Posterior superior frontal sulcus;
+slf (Homo sapiens);Superior longitudinal fasciculus;
+slic (Homo sapiens);Sublenticular part of the internal capsule;
+snCH (Homo sapiens);Septal nuclei of cerebral hemisphere;
+snCHd (Homo sapiens);Dorsal septal nucleus;
+snCHfn (Homo sapiens);Septofimbrial nucleus;
+snCHl (Homo sapiens);Lateral septal nucleus;
+snCHt (Homo sapiens);Triangular septal nucleus;
+spcerdtrc (Homo sapiens);Dorsal spinocerebellar tract;
+spcerrtrc (Homo sapiens);Rostral spinocerebellar tract;
+spcertrc (Homo sapiens);Spinocerebellar tract;
+spcervtrc (Homo sapiens);Ventral spinocerebellar tract;
+spcs (Homo sapiens);Superior postcentral sulcus;
+spcucertrc (Homo sapiens);Spinocuneocerebellar tract;
+spoltrc (Homo sapiens);Spinoolivary tract;
+spretrc (Homo sapiens);Spinoreticular tract;
+sprs (Homo sapiens);Superior precentral sulcus;
+sptetrc (Homo sapiens);Spinotectal tract;
+spthatrc (Homo sapiens);Anterior spinothalamic tract;
+spthltrc (Homo sapiens);Lateral spinothalamic tract;
+spthtrc (Homo sapiens);Spinothalamic tract;
+sras (Homo sapiens);Superior ramus of arcuate sulcus;
+sros (Homo sapiens);Superior rostral sulcus;
+ss (Homo sapiens);Sagittal stratum;
+ssc (Homo sapiens);Supra-sylvian cortex;
+st (Homo sapiens);Stria terminals;
+tap (Homo sapiens);Tapetum;
+tegtrc (Homo sapiens);Central tegmental tract;
+tesptrc (Homo sapiens);Tectospinal tract;
+tfpg (Homo sapiens);Transverse frontopolar gyri complex;
+tfpg-i (Homo sapiens);Inferior transverse frontopolar gyrus;
+tfpg-m (Homo sapiens);Medial transverse frontopolar gyrus;
+tfpg-s (Homo sapiens);Superior transverse frontopolar gyrus;
+thcxtrc (Homo sapiens);Thalamocortical tract;
+tocs (Homo sapiens);Transverse occipital sulcus;
+top (Homo sapiens);Temporal operculum;
+tract (Homo sapiens);Tract;
+trthdtrc (Homo sapiens);Dorsal trigeminal tract;
+trthtrc (Homo sapiens);Trigeminothalamic tract;
+trthvtrc (Homo sapiens);Ventral trigeminothalamic tract;
+ts (Homo sapiens);Triangular sulcus;
+tts (Homo sapiens);Transverse temporal sulcus;
+unc (Homo sapiens);Uncinate fasciculus;
+vecertrc (Homo sapiens);Vestibulocerebellar tract;
+vesptrc (Homo sapiens);Vestibulospinal tract;

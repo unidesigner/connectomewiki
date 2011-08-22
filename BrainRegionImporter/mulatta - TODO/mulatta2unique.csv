@@ -1,0 +1,298 @@
+1;Somatosensory area 1
+2;Somatosensory area 2
+10m;Area 10m
+10o;Area 10o
+11l;Area 11l
+12l;Area 12l
+12m;Area 12m
+12o;Area 12o
+12r;Area 12r
+13b;Area 13b
+13l;Area 13l
+13m;Area 13m
+14c;Area 14c
+14r;Area 14r
+23a;Area 23a in posterior cingulate cortex
+23b;Area 23b in posterior cingulate cortex
+23c;Area 23c in posterior cingulate cortex
+24a;Area 24a in anterior cingulate cortex
+24b;Area 24b in anterior cingulate cortex
+24c;Area 24c in anterior cingulate cortex
+25;Area 25
+29;Area 29 (retrosplenial cortex)
+30;Area 30 (retrosplenial cortex)
+31;Area 31 in the posterior cingulate gyrus
+32;Area 32
+3a;Somatosensory area 3a
+3b;Somatosensory area 3b
+4;Primary motor cortex
+44;Area 44
+45;Area 45
+46d;Area 46, dorsal subdivision
+46v;Area 46, ventral subdivision
+4C;Premotor area 4C
+5;Somatosensory area 5 (complex)
+6DC;Dorsal premotor area 6, caudal subdivision
+6DR;Dorsal premotor area 6, rostral subdivision
+6Va;Ventral premotor area
+6Vb;Ventral premotor area
+7a;Visual area 7a
+7b;Visual area 7b
+7m;Area 7m in the medial parietal cortex
+7op;Area 7op (parietal operculum)
+7t;Transitional area 7 near the lip of ips
+8A;Area 8A
+8Bd;Area 8B, dorsal subdivision
+8Bm;Area 8B, medial subdivision
+8Bs;Area 8B in the arcuate sulcus
+9d;Area 9, dorsal subdivision
+9m;Area 9, medial subdivision
+AAA;Anterior amygdaloid area
+AB;Accessory basal nucleus of amygdala
+ABmc;Accessory basal nucleus of amygdala, magnocellular
+ABpc;Accessory basal nucleus of amygdala, parvicellular
+AC;Anterior commisure
+AD;Anterior dorsal nucleus
+AHA;Amygdalohippocampal area
+AHypA;Anteior hypothalamic areas
+AI;Auditory area I, core region of the auditory cortex
+AIP;Anterior intraparietal area
+AM;Anterior medial nucleus
+amts;Anterior middle temporal sulcus
+Amg;Amygdala
+AON;Anterior olfactory nucleus
+AONd;Anterior olfactory nucleus, dorsal division
+AONl;Anterior olfactory nucleus, lateral division
+AONm;Anterior olfactory nucleus, medial division
+apos;Anterior parieto-occipital sulcus
+Arh;Arcuate hypothalamic nucleus
+asl;Arcuate sulcus lower limb
+asu;Arcuate sulcus upper limb
+AV;Anterior ventral nucleus
+B;Basal nucleus of amygdala
+Bi;Basal nucleus of amygdala, intermediate subdivision
+Bmc;Basal nucleus of amygdala, magnocellular subdivision
+Bpc;Basal nucleus of amygdala, parvicellular subdivision
+bsc;Brachium of superior colliculus
+CA1;CA1 subfield of hippocampus
+CA2;CA2 subfield of hippocampus
+CA3;CA3 subfield of hippocampus
+CA4;CA4 subfield of hippocampus
+can;Capsule of the anterior nuclei
+cas;Calcarine sulcus
+cb;Cerebellum
+CC;Corpus callosum
+cd;Caudate nucleus
+cdc;Central dorsocellular nucleus
+CE;Central nucleus of amygdala
+cif;Central inferior nucleus
+cim;Central intermediate nucleus
+cis;Cingulate sulcus
+cl;Central lateral nucleus
+cla;Claustrum
+clc;Central latocellular nucleus
+cnMD;Centromedian nucleus
+COa;Anterior cortical nucleus
+COp;Posterior cortical nucleus
+CP;Cerebral peduncle
+cs;Central sulcus
+csl;Central superior lateral nucleus
+DG;Dentate gyrus
+dlPAG;Dorsolateral periaqueductal gray
+DMH;Dorsomedial hypothalamic nucleus
+dmPAG;Dorsomedial periaqueductal gray
+DP;Dorsal prelunate area
+DR;Dorsal raphe
+EC;Entorhinal cortex, caudal division
+ECL;Entorhinal cortex, caudal limiting division
+EI;Entorhinal cortex, intermediate division
+ELc;Entorhinal cortex, lateral division (caudal part)
+ELr;Entorhinal cortex, lateral division (rostral part)
+EO;Entorhinal cortex, olfactory division
+ER;Entorhinal cortex, rostral division
+f;Fornix
+F1;Agranular frontal area F1
+F2;Agranular frontal area F2
+F3;Agranular frontal area F3
+F4;Agranular frontal area F4
+F5;Agranular frontal area F5
+F6;Agranular frontal area F6
+F7;Agranular frontal area F7
+fr;Fasciculus retroflexus
+FST;Floor of superior temporal area
+G;Gustatory cortex
+GPe;Globus pallidus, external segment
+GPi;Globus pallidus, internal segment
+HiF;Hippocampus
+hf;Hippocampal fissure
+Hi;Habenular nucleus
+Hl;Lateral habenular nucleus
+Hm;Medial habenular nucleus
+I;Intercalcated nucleus
+Ia;Agranular insula
+Iai;Intermediate  agranular insula area
+Ial;Lateral agranular insula area
+Iam;Medial agranular insula area
+Iapl;Posterolateral agranular insula area
+Iapm;Posteromedial agranular insula area
+IC;Inferior colliculus
+ic;Internal capsule
+Id;Dysgranular insula
+Ig;Granular insula
+ios;Inferior occipital sulcus
+CN3;Third cranial nerve nuclei (oculomotor)
+CN4;Fourth cranial nerve nucleus (trochlear)
+IPa;Area IPa (sts fundus)
+ips;Intraparietal sulcus
+L;Lateral nucleus of amygdala
+LD;Lateral dorsal nucleus
+Ld;Lateral nucleus of amygdala, dorsal subdivision
+LGN;Lateral geniculate nucleus
+LHA;Lateral hypothalamic area
+LIP;Lateral intraparietal area
+LIPd;Lateral intraparietal area, dorsal subdivision
+LIPv;Lateral intraparietal area, ventral subdivision
+Lme;External medullary lamina
+LOP;Lateral occipital parietal area
+los;Lateral orbital sulcus
+LP;Lateral posterior nucleus
+PAGl;Lateral periaqueductal gray
+ls;Lateral sulcus
+lsd;Lateral septum, dorsal part
+lsi;Lateral septum, intermediate part
+lsv;Lateral septum, ventral part
+lus;Lunate sulcus
+Lv;Lateral nucleus of amygdala, ventral subdivision
+mcp;Middle cerebellar peduncle
+MDdc;Medial dorsal nucleus, densocellular division
+MDmc;Mediodorsal nucleus, magnocellular division
+MDmf;Mediodorsal nucleus, multiform division
+MDpc;Mediodorsal nucleus, parvicellular division
+ME;Medial nucleus of amygdala
+MGN;Medial geniculate nucleus
+MIP;Medial intraparietal area
+ml;Medial lemniscus
+mlf;Medial longitudinal fasciculus
+MN;Mamillary nucleus
+mos;Medial orbital sulcus
+MPOA;Medial preoptic area
+MR;Median raphe
+ms;Medial septum
+MST;Medial superior temporal area
+MT;Middle temporal area
+MTT;Mammillo thalamic tract
+NA;Nucleus accumbens
+NAc;Nucleus accumbens, core
+NAsh;Nucleus accumbens, shell
+NBM;Nucleus basaalis of Meynert
+NLOT;Nucleus of the lateral olfactory tract
+oc;Optic chiasm
+OT;Olfactory tubercle
+ot;Optic tract
+ots;Occipitotemporal sulcus
+P;Pulvinar
+Pa;Paraventricular nucleus
+PAmgC;Periamygdaloid cortex
+PAmgC2;Periamygdaloid cortex 2
+PAmgC3;Periamygdaloid cortex 3
+PAmgCo;Periamygdaloid cortex, cortex o
+PAmgCs;Periamygdaloid cortex, sulcal portion
+PAG;Periaqueductal gray
+paraS;Parasubiculum
+Pcn;Paracentral nucleus
+Pf;Parafasciluar nucleus
+PGa;Area PGa
+PI;Inferior pulvinar
+Pi;Parainsular area
+PIP;Posterior intraparietal area
+Pir;Piriform cortex
+PL;Lateral pulvinar
+PLa;Paralaminar nucleus in amygdala
+PM;Medial pulvinar
+pm;Polymorphic layer
+pmts;Posterior middle temporal sulcus
+PN;Pontine nuclei
+PO;Parieto-occipital area
+pos;Parieto-occipital sulcus
+PrCO;Precentral opercular area
+preS;Presubiculum
+PreSMA;Presupplementary motor area
+proS;Prosubiculum
+ps;Principal sulcus
+pt;Parataenial nucleus
+pu;Putamen
+pulo;Pulvinar oralis nucleus
+PVN;Paraventricular hypothalamic nucleus
+r;Reticular nucleus
+Re;Reunions nucleus
+Ri;Retroinsula
+RN;Red nucleus
+rs;Rhinal sulcus
+RTp;Rostrotemporal (p refers to polar);RT
+sas;Spur of the arcuate sulcus
+SC;Superior colliculus
+SCN;Suprachiasmatic nucleus
+scp;Superior cerabellar peduncle
+SI;Substantia innominata
+S2;Secondary somatosensory area (S2)
+Sm;Stria medullaris
+SMA;Supplementary motor area
+SN;Substantia nigra
+SNc;Substantia nigra pars compacta
+SNr;Substantia ingra pars reticulate
+SON;Supraoptic nucleus
+spcd;Superior precentral dimple
+spt;Septum
+STGc;Caudal superior temporal gyrus
+STGr;Rostral superior temporal gyrus
+STN;Subthalamic nucleus
+Sub;Subiculum
+TAa;Area TAa (sts dorsal bank)
+TEa;Area TEa (sts ventral bank)
+TEad;Dorsal subregion of anterior TE
+TEav;Dentral subregion of anterior TE
+TEm;Area TEm (sts ventral bank)
+TEO;Area TEO
+TEpd;Dorsal subregion of posterior TE
+TEpv;Ventral subregion of posterior TE
+TF;Area TF of the parahippocampal cortex
+TFO;Area TFO of the parahippocampal cortex
+TGa;Agranular part of the temporal pole
+TGd;Dorsal temporal pole
+TGdd;Dysgranular part of the dorsal temporal pole
+TGdg;Granular part of the dorsal temporal pole
+TGsts;sts region of temporal pole
+TGv;Ventral temporal pole
+TGvd;Ventral dysgranular part of the temporal pole
+TGvg;Ventral granular part of the temporal pole
+TH;Area TH of the parahippocampal cortex
+THI;Habenular interpeduncular tract
+TPO;Area TPO (sts dorsal bank)
+Tpt;Temporo-parietal area
+TTv;Ventral tenia tectum
+V1;Visual area 1 (primary visual cortex)
+V2;Visual area 2
+v23a;Area v23a in posterior cingulate cortex
+v23b;Area v23b in posterior cingulate cortex
+V3A;Visual area V3A
+V3d;Visual area 3, dorsal part
+V3v;Visual area 3, ventral part
+V4;Visual area 4
+V4t;V4 transitional area
+V4v;Visual area 4, ventral part
+VA;Ventral anterior nucleus
+VAmc;Ventral anterior nucleus, magnocellular division
+VIP;Ventral intraparietal area
+VLc;Ventral lateral caudal nucleus
+VLm;Ventral lateral medial nucleus
+VLo;Ventral lateral oral nucleus
+vlPAG;Ventrolateral periaqueductal gray
+VLps;Ventral lateral postrema nucleus
+VMH;Ventromedial hypothalamic nucleus
+VP;Ventral pallidum
+VPI;Ventral posterior inferior nucleus
+VPLc;Ventral posterior lateral caudal nucleus
+VPLo;Ventral posterior lateral oral nucleus
+VPM;Ventral posterior medial nucleus
+VPMpc;Ventral posterior medial nucleus, parvicellular division
+zic;Zone incerta

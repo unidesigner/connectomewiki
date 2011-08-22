@@ -1,0 +1,354 @@
+CORTICAL PARCELLATION PROTOCOL
+1. Frontal Lobe(FL)
+1.1. Lateral Surface
+1.1.1. Precentral Gyrus (PrG)
+
+1.1.2. Superior Frontal Gyrus (SFG)
+
+<br />Anterior: frontomarginal sulcus
+<br />Posterior: [[prcs (Homo sapiens)|precentral sulcus]] / plane prcs-med
+<br />Medial: superior margin of interhemispheric fissure
+<br />Inferior: anteriorly: [[los (Homo sapiens)|lateral orbital sulcus]]; posteriorly: middle frontal sulcus
+   
+1.1.3. Middle Frontal Gyrus (MFG)
+   <br />Posterior: [[prcs (Homo sapiens)|precentral sulcus]]
+   <br />Superior: [[sfs (Homo sapiens)|superior frontal sulcus]]
+   <br />Inferior: anteriorly: [[los (Homo sapiens)|lateral orbital sulcus]]; posteriorly: inferior frontal sulcus
+1.1.4. Inferior Frontal Gyrus (IFG)
+   <br />Posterior: [[prcs (Homo sapiens)|precentral sulcus]]
+   Superior/anterior: anteriorly: [[los (Homo sapiens)|lateral orbital sulcus]]; posteriorly: inferior frontal
+      sulcus
+   <br />Inferior: anteriorly: [[los (Homo sapiens)|lateral orbital sulcus]]; posteriorly: [[los (Homo sapiens)|lateral orbital sulcus]] /
+      posterior projection from the posterior limit of the [[los (Homo sapiens)|lateral orbital sulcus]] to the
+      [[ls (Homo sapiens)|lateral sulcus]]
+1.1.5. Opercular part of the Inferior Frontal Gyrus (OpIFG; optional: if subdivide
+     IFG)
+   <br />Anterior: [[aals (Homo sapiens)|anterior ascending ramus of the [[ls (Homo sapiens)|lateral sulcus]]]] (aals) / dorsal projection
+      from the superior limit of the aals to the inferior frontal sulcus
+   <br />Posterior: [[prcs (Homo sapiens)|precentral sulcus]]
+   <br />Superior: inferior frontal sulcus
+   <br />Inferior: (i) if aals branches from the [[ls (Homo sapiens)|lateral sulcus]]: [[ls (Homo sapiens)|lateral sulcus]], (ii) if aals
+      branches from the anterior horizontal limb of the [[ls (Homo sapiens)|lateral sulcus]] (ahls): ahls;
+1.1.6. Orbital part of the Inferior Frontal Gyrus (OrIFG; optional: if subdivide
+     IFG)
+   <br />Anterior: inferior frontal sulcus
+   <br />Posterior: [[ls (Homo sapiens)|lateral sulcus]] / [[aals (Homo sapiens)|anterior ascending ramus of the [[ls (Homo sapiens)|lateral sulcus]]]] (aals)
+   <br />Superior: anterior horizontal limb of the [[ls (Homo sapiens)|lateral sulcus]] (ahls) / anterior projection
+      of the ahls to the inferior frontal sulcus
+   <br />Inferior: [[los (Homo sapiens)|lateral orbital sulcus]] / posterior projection from the posterior limit of the
+      [[los (Homo sapiens)|lateral orbital sulcus]] to the [[ls (Homo sapiens)|lateral sulcus]]
+1.1.7. Triangular part of the Inferior Frontal Gyrus (TrIFG; optional: if subdivide
+     IFG)
+   Anterior/<br />Superior: inferior frontal sulcus
+   <br />Posterior: [[aals (Homo sapiens)|anterior ascending ramus of the [[ls (Homo sapiens)|lateral sulcus]]]] (aals) / dorsal projection
+      from the superior limit of the aals to the inferior frontal sulcus
+<br />Inferior: anterior horizontal limb of the [[ls (Homo sapiens)|lateral sulcus]] (ahls)/ anterior projection of
+   the ahls to the inferior frontal sulcus
+   
+1.2. Medial Surface
+1.2.1. Precentral Gyrus (MPrG; medial segment)
+<br />Anterior: plane prcs-med
+<br />Posterior: plane cs-med
+<br />Superior: superior margin of the interhemispheric sulcus
+<br />Inferior: [[cgs (Homo sapiens)|cingulate sulcus]]
+1.2.2. Superior Frontal Gyrus (MSFG; medial segment)
+<br />Anterior: anterior hemispheric limit
+<br />Posterior: medial limit of the [[prcs (Homo sapiens)|precentral sulcus]]
+<br />Superior: interhemispheric fissure, hemispheric margin
+<br />Inferior: anteriorly: [[sros (Homo sapiens)|superior rostral sulcus]]; posteriorly: [[cgs (Homo sapiens)|cingulate sulcus]]; if the
+   [[sros (Homo sapiens)|superior rostral sulcus]] does not continue to the posterior limit of subcallosal
+   cortex and does not intersect with the [[cgs (Homo sapiens)|cingulate sulcus]], the inferior boundary
+   will be completed by a posterior projection from the posterior limit of the
+   [[sros (Homo sapiens)|superior rostral sulcus]] to the [[cgs (Homo sapiens)|cingulate sulcus]]
+1.2.3. Supplementary Motor Cortex (SMC; optional)
+<br />Anterior: posterior limit of the genu of the corpus callosum (plane genu-post)
+<br />Posterior: dorsomedial limit of the [[prcs (Homo sapiens)|precentral sulcus]] (plane prcs-med)
+<br />Superior: superior margin of the interhemispheric fissure
+<br />Inferior: [[cgs (Homo sapiens)|cingulate sulcus]]
+1.2.4. Medial Frontal Cortex (MFC; optional)
+<br />Anterior: anterior hemispheric margin
+<br />Posterior: posterior limit of subcallosal cortex
+<br />Superior: anteriorly: [[sros (Homo sapiens)|superior rostral sulcus]]; posteriorly: [[cgs (Homo sapiens)|cingulate sulcus]]; if the
+   [[sros (Homo sapiens)|superior rostral sulcus]] does not continue to the posterior limit of subcallosal
+   cortex and does not intersect with the [[cgs (Homo sapiens)|cingulate sulcus]], the superior boundary is
+   completed by a posterior projection from the posterior limit of the superior
+   rostral sulcus
+<br />Medial: [[Olf (Homo sapiens)|olfactory sulcus]]
+1.2.5. Gyrus Rectus (GRe; optional: is subset of medial frontal cortex)
+<br />Anterior: anterior hemispheric margin
+<br />Posterior: posterior limit of subcallosal cortex
+<br />Superior: [[iros (Homo sapiens)|inferior rostral sulcus]]
+<br />Medial: [[Olf (Homo sapiens)|olfactory sulcus]]
+1.3. Inferior Surface
+1.3.1. Orbitofrontal Cortex (OFC)
+<br />Anterior: frontomarginal sulcus
+<br />Posterior: posterior limit of subcallosal cortex
+<br />Medial: [[Olf (Homo sapiens)|olfactory sulcus]]
+Lateral: anteriorly: frontomarginal sulcus; posteriorly: [[los (Homo sapiens)|lateral orbital sulcus]] /
+   lateral margin of the dorsal bank of the lateral fissure
+1.4. Opercular Region (optional)
+1.4.1. Frontal Operculum (FO)
+   <br />Anterior: anterior limit of the insula [alternative: anterior limit of the horizontal
+      ramus of the [[ls (Homo sapiens)|lateral sulcus]]]
+   <br />Posterior: plane prcs-lat
+   <br />Medial: circular sulcus of the insula
+   Lateral: lateral margin of the dorsal bank of the [[ls (Homo sapiens)|lateral sulcus]]
+1.4.2. Central Operculum (CO)
+   <br />Anterior: plane prcs-lat
+   <br />Posterior: plane pocs-lat
+   <br />Medial: circular sulcus of the insula
+   Lateral: lateral margin of the dorsal bank of the [[ls (Homo sapiens)|lateral sulcus]]
+1.4.3. Parietal Operculum (PO)
+   <br />Anterior: plane pocs-lat
+   <br />Posterior: posterior limit of the ventral bank of the ascending ramus of the
+      posterior [[ls (Homo sapiens)|lateral sulcus]]
+   <br />Medial: circular sulcus of the insula
+   Lateral: lateral margin of the dorsal bank of the posterior ascending ramus of the
+      [[ls (Homo sapiens)|lateral sulcus]]
+1.5. Insular Region
+1.5.1. Anterior Insula (AIns)
+   Anterior/Superior/<br />Inferior: circular sulcus of the insula
+   <br />Posterior: [[cs (Homo sapiens)|central sulcus]] of the insula
+1.5.2. Posterior Insula (PIns)
+   <br />Anterior: [[cs (Homo sapiens)|central sulcus]] of the insula
+   Posterior/Superior/<br />Inferior: circular sulcus of the insula
+2. Temporal Lobe (TL)
+2.1. Lateral Surface
+2.1.1. Superior Temporal Gyrus (STG)
+   <br />Anterior: anterior limit of the temporal lobe
+   Posterior (see LONI): (i) if a posterior horizontal ramus of the [[ls (Homo sapiens)|lateral sulcus]] (phls;
+      note that this ramus of the [[ls (Homo sapiens)|lateral sulcus]] is termed the descending ramus by
+      some authors) is present: junction of the posterior descending ramus of the
+      [[ls (Homo sapiens)|lateral sulcus]] (phls) and the [[STS (Homo sapiens)|superior temporal sulcus]] / posterior projection
+      from the posterior limit of the phls to the [[STS (Homo sapiens)|superior temporal sulcus]]; (ii) if a
+      posterior horizontal ramus of the [[ls (Homo sapiens)|lateral sulcus]] is not present: junction of the
+      [[ls (Homo sapiens)|lateral sulcus]] and the [[STS (Homo sapiens)|superior temporal sulcus]] / posterior projection from the
+      posterior limit of the [[ls (Homo sapiens)|lateral sulcus]] to the [[STS (Homo sapiens)|superior temporal sulcus]] that parallels
+      the trajectory of the [[ls (Homo sapiens)|lateral sulcus]]
+   <br />Superior: lateral margin of the ventral bank of the [[ls (Homo sapiens)|lateral sulcus]] / posterior
+      horizontal ramus of the [[ls (Homo sapiens)|lateral sulcus]]
+   <br />Inferior: [[STS (Homo sapiens)|superior temporal sulcus]]
+2.1.2. Middle Temporal Gyrus (MTG)
+<br />Anterior: anterior limit of [[its (Homo sapiens)|inferior temporal sulcus]] / [optional: anterior projection
+   of the [[its (Homo sapiens)|inferior temporal sulcus]] to the anterior limit of temporal lobe]
+<br />Posterior: plane occ-ant
+<br />Superior: [[STS (Homo sapiens)|superior temporal sulcus]]; anterior projection of the inferior temporal
+   sulcus to the anterior limit of temporal lobe
+<br />Inferior: [[its (Homo sapiens)|inferior temporal sulcus]]
+2.1.3. Inferior Temporal Gyrus (ITG)
+<br />Anterior: anterior limit of [[its (Homo sapiens)|inferior temporal sulcus]] / [optional: anterior projection
+   of the [[its (Homo sapiens)|inferior temporal sulcus]] to the anterior limit of temporal lobe]
+<br />Posterior: plane occ-ant
+<br />Superior: [[its (Homo sapiens)|inferior temporal sulcus]]
+<br />Inferior: occipitotemporal sulcus
+2.2. Supratemporal Surface (optional)
+2.2.1. Planum Polare (PP)
+<br />Anterior: plane tf-jnct
+<br />Posterior: junction of the first transverse sulcus and the circular sulcus of the
+   insula
+<br />Medial: circular sulcus of the insula
+Lateral: lateral margin of the ventral bank of the posterior [[ls (Homo sapiens)|lateral sulcus]]
+2.2.2. Transverse Temporal Gyrus (TTG)
+<br />Anterior: first transverse sulcus, anterior limit
+<br />Posterior: posterior limit of Heschl’s suclus
+<br />Medial: anteriorly: first transverse temporal sulcus; intermediately: circular sulcus
+   of the insula; posteriorly: [[ls (Homo sapiens)|lateral sulcus]]
+Lateral: anteriorly: lateral margin of the ventral bank of the posterior lateral
+   sulcus; posteriorly: Heschl’s sulcus (most anterior sulcus coursing postero-
+   medially to antero-laterally along the ventral bank of the [[ls (Homo sapiens)|lateral sulcus]] that
+   arises from the retroinsular region of the [[ls (Homo sapiens)|lateral sulcus]]); if an intermediate
+   transverse temporal sulcus is present (sulcus lying between the first transverse
+   sulcus and Heschl’s sulcus that does not extend posteriorly to the circular
+   sulcus or the retroinsular region of the [[ls (Homo sapiens)|lateral sulcus]], the lateral border is
+   formed by the intermediate tranverse temporal sulcus for regions anterior to the
+   anterior limit of the Heschl’s sulcus (see Kim et al.,2000, for greater detail)
+2.2.3. Planum Temporal (PT)
+<br />Anterior: anterior limit of Heschl’s sulcus
+<br />Posterior: posterior limit of the ventral bank of the ascending ramus of the
+   posterior [[ls (Homo sapiens)|lateral sulcus]]
+<br />Medial: anteriorly: Heschl’s sulcus; if an intermediate transverse temporal sulcus
+   is present, the medial border is formed by this sulcus for regions anterior to the
+   anterior limit of Heschl’s sulcus (see Kim et al.,2000): posteriorly: lateral
+   sulcus / posterior ascending ramus of the [[ls (Homo sapiens)|lateral sulcus]]
+Lateral: lateral margin of the ventral bank of the [[ls (Homo sapiens)|lateral sulcus]] / posterior
+   ascending ramus of the [[ls (Homo sapiens)|lateral sulcus]]
+2.3. Inferior Surface
+2.3.1. Fusiform Gyrus (FuG)
+   <br />Anterior: anterior limit of the occipitotemporal sulcus
+   <br />Posterior: plane pos-ant (if divide into Fusiform and Occipital Fusiform segments)
+      [alternative: temporooccipital notch]
+   <br />Medial: collateral sulcus
+   Lateral: occipitotemporal sulcus
+3. Parietal lobe (PL)
+3.1. Lateral Surface
+3.1.1. Postcentral Gyrus (PoG)
+   <br />Anterior: [[cs (Homo sapiens)|central sulcus]]
+   <br />Posterior: [[pocs (Homo sapiens)|postcentral sulcus]]
+   <br />Superior: superior margin of the interhemispheric fissure
+   <br />Inferior: lateral margin of the dorsal bank of the posterior lateral fissure
+3.1.2. Supramarginal Gyrus (SMG)
+   <br />Anterior: [[pocs (Homo sapiens)|postcentral sulcus]]
+   <br />Posterior: primary intermediate sulcus (pis) / inferior projection from the inferior
+      limit of pis to the [[STS (Homo sapiens)|superior temporal sulcus]]
+   <br />Superior: [[itps (Homo sapiens)|intraparietal sulcus]]
+   <br />Inferior: anterior to the posterior limit of the posterior [[ls (Homo sapiens)|lateral sulcus]] (pls): lateral
+      margin of the dorsal bank of the pls; posterior to pls: [[STS (Homo sapiens)|superior temporal sulcus]]
+3.1.3. Superior Parietal Lobule (SPL)
+   <br />Anterior: [[pocs (Homo sapiens)|postcentral sulcus]]
+   <br />Posterior: plane occ-ant
+   <br />Superior: superior margin of the interhemispheric sulcus
+   <br />Inferior: [[itps (Homo sapiens)|intraparietal sulcus]]
+3.1.4. Angular Gyrus (AnG)
+   <br />Anterior: primary intermediate sulcus (pis) / inferior projection from the inferior
+      limit of pis to the [[STS (Homo sapiens)|superior temporal sulcus]]
+   <br />Posterior: plane occ-ant
+   <br />Superior: [[itps (Homo sapiens)|intraparietal sulcus]]
+   <br />Inferior: [[STS (Homo sapiens)|superior temporal sulcus]], [[aocs (Homo sapiens)|anterior occipital sulcus]], or lateral occipital
+      sulcus (see Crespo-Facarro for convention)
+3.2. Medial Surface
+3.2.1. Postcentral Gyrus (MPoG, medial segment)
+   <br />Anterior: plane cs-med ;
+   <br />Posterior: marginal ramus of the [[cgs (Homo sapiens)|cingulate sulcus]]
+   <br />Superior: interhemispheric margin
+   <br />Inferior: [[cgs (Homo sapiens)|cingulate sulcus]]
+3.2.2. [[PCu (Homo sapiens)|Precuneus]] (PCu)
+   <br />Anterior: superiorly: marginal ramus of the [[cgs (Homo sapiens)|cingulate sulcus]] (superior region);
+      inferiorly: subparietal sulcus; if the subparietal sulcus does not intersect the
+      calcarine sulcus, an inferior projection from the inferior limit of the subparietal
+      sulcus to the calcarine sulcus serves as the anterior boundary
+   <br />Posterior: parietooccipital sulcus
+   <br />Superior: superior margin of the interhemispheric sulcus
+   <br />Inferior: superiorly: subparietal sulcus; if the subparietal sulcus does not intersect
+      the [[cgs (Homo sapiens)|cingulate sulcus]], a projection from the anterior limit of the subparietal
+      sulcus to the nearest point of the [[cgs (Homo sapiens)|cingulate sulcus]] will serve as the inferior
+      boundary; inferiorly: calcarine sulcus
+4. Occipital Lobe (OL)
+4.1. Lateral Surface
+4.1.1. Superior Occipital Gyrus (SOG)
+   <br />Anterior: plane occ-ant
+   <br />Posterior: posterior margin of the interhemispheric sulcus
+   <br />Superior: superior margin of the interhemispheric sulcus
+   <br />Inferior: [[locs (Homo sapiens)|lateral occipital sulcus]] (locs); if the locs does not intersect the
+      hemispheric margin, a posterior projection from the posterior limit of the locs
+      to the posterior hemispheric margin serves as the superior boundary
+4.1.2. Inferior Occipital Gyrus (IOG)
+   <br />Anterior: plane occ-ant
+   <br />Posterior: posterior margin of the interhemispheric sulcus
+   <br />Superior: [[locs (Homo sapiens)|lateral occipital sulcus]] (locs); if the locs does not intersect the
+      hemispheric margin, a posterior projection from the posterior limit of the locs
+      to the posterior hemispheric margin serves as the superior boundary
+   <br />Inferior: occipitotemporal sulcus (ots); if the ots does not extend to the posterior
+      cortical limit, a posterior projection from the posterior limit of ots serves as the
+      lateral boundary
+4.1.3. Middle Occipital Gyrus (MOG; optional)
+   <br />Anterior: plane occ-ant
+   <br />Posterior: (i) if the junction [[locs (Homo sapiens)|lateral occipital sulcus]] (locs) and the intraparietal
+      sulcus (itps) meet the posterior hemispheric margin: the posterior hemispheric
+      margin; (ii) if the locs, and itps meet: the junction of the locs and itps; (iii) if
+      the locs and itps do not meet, the boundaries in the posterior aspect of the
+      region will be served by a posterior projection from the posterior limit of the
+      locs and an inferior projection of the itps
+   <br />Superior: [[itps (Homo sapiens)|intraparietal sulcus]] (ipts); if the itps does not meet the posterior
+      hemispheric margin, an inferior projection from the inferior limit of the itps
+      will serve as the superior boundary
+   <br />Inferior: lateral occipitotemporal sulcus (locs); if the locs does not meet the
+      posterior hemispheric margin, a posterior projection from the posterior limit of
+      the itps will serve as the inferior boundary
+4.2. Inferior Surface
+4.2.1. Occipital Fusiform Gyrus (OFuG, optional)
+   <br />Anterior: plane pos-ant [alternative: temporooccipital notch]
+   <br />Posterior: posterior hemispheric margin
+   <br />Medial: collateral sulcus
+   Lateral: occipitotemporal sulcus (ots); if the ots does not intersect the posterior
+      hemispheric margin, a posterior projection from the posterior limit of ots
+      serves as the lateral boundary
+4.3. Medial Surface
+4.3.1. [[Cun (Homo sapiens)|Cuneus]] (Cun)
+   <br />Anterior: parietooccipital sulcus
+   <br />Posterior: posterior hemispheric margin
+   <br />Superior: superior margin of the interhemispheric sulcus
+   <br />Inferior: lateral margin of the dorsal bank of the calcarine sulcus
+4.3.2. Calcarine Cortex (Calc, optional)
+   <br />Anterior: parietooccipital sulcus
+   <br />Posterior: posterior limit of the calcarine sulcus
+   <br />Superior: lateral margin of the dorsal bank of the calcarine sulcus
+   <br />Inferior: lateral margin of the ventral bank of the calcarine sulcus
+4.3.3. Lingual Gyrus (LiG)
+   <br />Anterior: anterior limit of the calcarine sulcus [a suitable alternative would be the
+      posterior limit of the hippocampus]
+   <br />Posterior: posterior hemispheric margin
+   <br />Medial: calcarine sulcus
+   Lateral: collateral sulcus / posterior projection of the [[ls (Homo sapiens)|lateral sulcus]] to the
+      hemispheric margin (see Crespo-Facarro for conventions)
+      
+5. Limbic Cortex
+5.1.1. Cingulate Gyrus (CgG)
+   <br />Anterior: anterior limit of the [[cgs (Homo sapiens)|cingulate sulcus]]; if a “double parallel” cingulate
+      sulcus is present (paracingulate sulcus), the anterior-most sulcus will serve as
+      the anterior boundary
+   <br />Posterior: posterior limit of the subparietal sulcus
+   <br />Superior: [[cgs (Homo sapiens)|cingulate sulcus]]; if a “double parallel” [[cgs (Homo sapiens)|cingulate sulcus]] is present
+      (paracingulate sulcus), the superior-most sulcus will serve as the superior
+      boundary
+   <br />Inferior: callosal sulcus
+   Anterior subcallosal area:
+                <br />Posterior: posterior limit of subcallosal cortex (marked by the presence
+                    of the septal nuclei)
+                <br />Superior: callosal sulcus
+                <br />Inferior: anteriorly: [[cgs (Homo sapiens)|cingulate sulcus]]; posteriorly (if no subcallosal
+                    area): a posterior projection from the posterior limit of the
+                    [[cgs (Homo sapiens)|cingulate sulcus]] servers of the inferior boundary
+   Posterior subcallosal area:
+                <br />Posterior: anterior limit of the calcarine sulcus
+                <br />Superior: callosal sulcus
+                <br />Inferior: anteriorly: [[cgs (Homo sapiens)|cingulate sulcus]]; posteriorly: a posterior
+                    projection from the posterior limit of the cingulate
+                    
+5.1.2. Subdivisions of the [[CgG (Homo sapiens)|cingulate gyrus]] (optional)
+Several protocols divide the [[CgG (Homo sapiens)|cingulate gyrus]] into two, three, and as many as four
+subregions using various landmarks. The landmarks used may be distant from the
+cingulate gyrus (IOWA, MGH-CMA, MGH-Desikan) and relatively unreliable
+(MGH-CMA). I believe it is useful to offer some subdivision of the cingulate
+gyrus, perhaps based upon callosal landmarks, which are relatively easy to
+identify but require orientation to a standard reference frame. A simple
+subdivision might be:
+       Genual (or Anterior) Cingulate Gyrus: [[CgG (Homo sapiens)|cingulate gyrus]] anterior to the
+            posterior limit of the genu of the corpus callosum
+       Middle Cingulate Gyrus: [[CgG (Homo sapiens)|cingulate gyrus]] posterior to the posterior
+            limit of the genu of the corpus callosum and the anterior limit of
+            the splenium
+       Splenial (or Posterior) Cingulate Gyrus: [[CgG (Homo sapiens)|cingulate gyrus]] posterior to
+            the anterior limit of the splenium.
+An alternative division that respects a common frontal and parietal lobe division
+(intersection of the [[cs (Homo sapiens)|central sulcus]] and the interhemispheric margin):
+       Anterior Cingulate Gyrus: [[CgG (Homo sapiens)|cingulate gyrus]] anterior to the medial limit
+            of the [[cs (Homo sapiens)|central sulcus]].
+       Posterior Cingulate Gyrus: [[CgG (Homo sapiens)|cingulate gyrus]] anterior to the medial limit
+            of the [[cs (Homo sapiens)|central sulcus]].
+If the anterior cingulate given by this method is further subdivided at the posterior
+limit of the genu of the corpus callosum, the resulting cingulate subdivision are
+consistent with the IOWA method.
+
+5.1.3. Subcallosal Area (optional)
+The IOWA and MGH-CMA include a subcallosal ROI that lies posterior to the
+posterior limit of the genu of the corpus callosum. The IOWA definition extends
+from the callosal sulcus superiorly to an axial-oriented dividing plane that marks
+the superior border of the straight gyrus (gyrus rectus) inferiorly. This plane is
+given by the superior limit of [[Olf (Homo sapiens)|olfactory sulcus]]. The MGH-CMA definition has the
+subcallosal ROI extend inferiorly to the [[Olf (Homo sapiens)|olfactory sulcus]]. I suggest that if a
+subcallosal cortex region is included, we use the genu-based anterior-posterior
+boundary and extend the region inferiorly to the [[iros (Homo sapiens)|inferior rostral sulcus]] (the
+proposed superior/medial boundary of the [[RG (Homo sapiens)|gyrus rectus]]).
+
+5.1.4. Parahippocampal Gyrus (PHG)
+<br />Anterior: anterior limit of the collateral sulcus (plane cos-ant)
+<br />Posterior: anterior limit of the calcarine sulcus [a suitable alternative would be the posterior limit of the hippocampus]
+<br />Medial: CMA/Neuromorphometric definition for amygdale/hippocampus: a line
+projecting from the dorso-medial limit of the parahippocampal white matter to
+the dorsomedial limit of the temporal cortex. This boundary is meant to include
+the subiculum, presubiculum, and parasubiculum within the hippocampus ROI
+during the segmentation procedure. [The segmentation is carefully done by an
+experienced rater so I think we should simply rely on this for the medial
+parahippocampal gyrus boundary. A good alternative that relies more
+completely on sulci is the Crespo-Facarro method].
+Lateral: collateral sulcus

@@ -1,0 +1,81 @@
+http://neurolex.org/wiki/Category:Brain
+Parts of
+
+Brain
+	Midbrain
+		Retrorubral area
+		Midbrain tectum
+		Cerebral peduncle
+			Substantia nigra
+		Midbrain tegmentum
+			Midbrain reticular formation
+	Forebrain
+		Telencephalon
+			Septum
+				Septal pellucidum
+			Septal nuclear complex
+				Triangular septal nucleus
+				Septofimbrial nucleus
+				Nucleus of stria terminalis
+				Nucleus of diagonal band
+				Nucleus of anterior commissure
+				Medial septal nucleus
+				Lateral septal nucleus
+				Dorsal septal nucleus
+			Diagonal band
+				Vertical limb of the diagonal band
+				Horizontal limb of the diagonal band
+			Rostral migratory stream
+			Fornix
+				Posterior column of fornix
+				Commissure of fornix
+				Body of fornix
+				Anterior column of fornix
+			Cerebral cortex
+			Basal nuclear complex
+				Striatum
+					Putamen
+				Caudate nucleus
+					Tail of caudate nucleus
+					Head of caudate nucleus
+					Body of caudate nucleus
+				Claustrum
+				Globus pallidus
+					Globus pallidus internal segment
+					Globus pallidus external segment
+				Amygdala
+					Corticomedial nuclear complex
+						Nucleus of lateral olfactory tract
+						Medial amygdaloid nucleus
+						Cortical amygdaloid nucleus
+						Anterior amygdaloid area
+					Basolateral nuclear complex
+						Lateral amygdaloid nucleus
+							Lateral amygdaloid nucleus, ventromedial part
+							Lateral amygdaloid nucleus, ventrolateral part
+							Lateral amygdaloid nucleus, dorsolateral part
+						Accessory basal amygdaloid nucleus
+					Basal amygdaloid nucleus
+						Medial part of basal amygdaloid nucleus
+						Lateral part of basal amygdaloid nucleus
+		Diencephalon
+			Thalamus
+			Optic nerve root
+			Subthalamus
+			Optic tract
+			Optic chiasm
+			Habenulo-interpeduncular tract of diencephalon
+			Hypothalamus
+				Postcommissural fornix
+				Medial forebrain bundle
+				Dorsal longitudinal fasciculus of hypothalamus
+				Dorsal hypothalamic area
+				Posterior hypothalamic region
+				Lateral hypothalamic area
+				Intermediate hypothalamic region
+					Hypophysis
+						Lateral eminence of hypophysis
+						Neurohypophysis
+						Adenohypophysis
+					Anterior hypothalamic region
+		Epithalamus

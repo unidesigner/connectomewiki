@@ -1,0 +1,299 @@
+neural structure / anatomy
+;CNS [central nervous system]
+;;brain
+;;;forebrain
+;;;;cerebral cortex
+;;;;;frontal lobe/area
+;;;;;;CMA [cingulate motor area]
+;;;;;;dorsal prefrontal cortex
+;;;;;;F1/MI [primary motor area]
+;;;;;;F2/F7 PMd [premotor area (dorsal)]
+;;;;;;F3/F6 SMA/preSMA [(pre-)supplementary motor area]
+;;;;;;F4/F5 PMv [premotor area (ventral)]
+;;;;;;lateral prefrontal cortex
+;;;;;;;[FEF] frontal eye fields
+;;;;;;medial prefrontal cortex
+;;;;;;MEF/SEF [medial eye field, supplemental eye field]
+;;;;;;orbitofrontal cortex
+;;;;;parietal lobe/area
+;;;;;;insular/retroinsular cortex
+;;;;;;LIP [lateral intraparietal cortex]
+;;;;;;;AIP [anterior intraparietal cortex]
+;;;;;;;VIP [ventral intraparietal cortex]
+;;;;;;parieto-occipital cortex
+;;;;;;;DP [dorsal prelunate cortex]
+;;;;;;;MDP [medial dorsal parietal cortex]
+;;;;;;;PIP [posterior intraparietal cortex]
+;;;;;;;PO V6/V6a [parietooccipital cortex]
+;;;;;;;V3A [cortical visual area 3A]
+;;;;;;posterior parietal cortex
+;;;;;;;SPL [superior parietal lobule]
+;;;;;;;;PE/5 [rostral SPL cortical area 5a]
+;;;;;;;;PEc [apex SPL cortical area 5b]
+;;;;;;;;PEci [cingulate parietal cortex]
+;;;;;;;;PEa [rostral intraparietal cortex area 5v]
+;;;;;;;;MIP [medial intraparietal cortex]
+;;;;;;;IPL [inferior parietal lobule]
+;;;;;;;;PG/Opt_7a [caudal IPL cortical area 7a]
+;;;;;;;;PF/PFG_7b [rostral IPL cortical area 7b]
+;;;;;;SI [primary somatosensory cortex]
+;;;;;;;1 [cortical area 1]
+;;;;;;;2 [cortical area 2]
+;;;;;;;3a [cortical area 3a]
+;;;;;;;3b [cortical area 3b]
+;;;;;;SII [secondary somatosensory cortex]
+;;;;;;;PV [parietal ventral area]
+;;;;;;;PR [parietal rostroventral area]
+;;;;;;;PFop/PGop [parietal operculum area]
+;;;;;;;S2 [S2 central area]
+;;;;;temporal lobe/area
+;;;;;;Heschl's gyrus/gyri [transverse temporal gyrus/gyri]
+;;;;;;;primary auditory cortex/area [AI, A1]
+;;;;;;superior temporal gyrus
+;;;;;;;auditory rostral/rostrolateral [R, RL]
+;;;;;;;auditory caudomedial [CM]
+;;;;;;;auditory lateral [L]
+;;;;;;;FST [floor of superior temporal sulcus]
+;;;;;;;MSTd [medial superior temporal cortex dorsal]
+;;;;;;;MSTl [medial superior temporal cortex ventral]
+;;;;;;;STPa [superior temporal polysensory cortex anterior]
+;;;;;;;STPp [superior temporal polysensory cortex posterior]
+;;;;;;;Wernicke's area
+;;;;;;middle temporal gyrus
+;;;;;;;AITd [anterior inferotemporal cortex dorsal]
+;;;;;;;CITd [central inferotemporal cortex dorsal]
+;;;;;;;PITd [posterior inferotemporal dorsal]
+;;;;;;inferior temporal gyrus
+;;;;;;;AITv [anterior inferotemporal cortex ventral]
+;;;;;;;CITv [central inferotemporal cortex ventral]
+;;;;;;;PITv [posterior inferotemporal cortex ventral]
+;;;;;;;TF [cortical area TF]
+;;;;;;;TH [cortical area TH]
+;;;;;occipital lobe/area
+;;;;;;occipital striate/visual area 1 [V1, area 17]
+;;;;;;occipital extrastriate cortex
+;;;;;;;V2 [cortical visual area 2]
+;;;;;;;V3 [cortical visual area 3]
+;;;;;;;V4 [cortical visual area 4]
+;;;;;;;V4t [cortical visual area 4 transitional]
+;;;;;;;VOT [ventral occipitotemporal cortex]
+;;;;;;;VP [ventral posterior cortex]
+;;;;;;;MT [middle temporal cortex (occipital)]
+;;;;;insula/insular lobe
+;;;;;;insular disgranular cortex [Id]
+;;;;;;insular granular cortex [Ig]
+;;;;;;postauditory cortex [Pa]
+;;;;;limbic lobe/area
+;;;;;;cingulate gyrus
+;;;;;;entorhinal cortex
+;;;;;;;medial entorhinal cortex
+;;;;;;;lateral entorhinal cortex
+;;;;;;hippocampus/hippocampal formation
+;;;;;;;CA1
+;;;;;;;;CA1 part a
+;;;;;;;;CA1 part b
+;;;;;;;;CA1 part c
+;;;;;;;CA2
+;;;;;;;CA3
+;;;;;;;;CA3 part a
+;;;;;;;;CA3 part b
+;;;;;;;;CA3 part c
+;;;;;;;dentate gyrus [fascia dentata]
+;;;;;;;;suprablade
+;;;;;;;;crest
+;;;;;;;;infrablade
+;;;;;;;presubiculum
+;;;;;;;subiculum
+;;;;;;periamygdaloid cortex [PAC]
+;;;;;;piriform cortex [PIR]
+;;;;cerebral white matter
+;;;;;anterior commissure
+;;;;;corpus callosum
+;;;;;fornix
+;;;;;internal capsule
+;;;;subcortical forebrain structures
+;;;;;basal forebrain
+;;;;;basal ganglia
+;;;;;;amygdala
+;;;;;;claustrum
+;;;;;;globus pallidus
+;;;;;;striatum
+;;;;;;;caudate
+;;;;;;;putamen
+;;;;;lateral ventricles
+;;;;;;SVZ [subventricular zone]
+;;;;;nucleus accumbens
+;;;;;olfactory bulb
+;;;;diencephalon
+;;;;;hypothalamus
+;;;;;;hypophysis
+;;;;;thalamus
+;;;;;;anterior nuclei
+;;;;;;intralaminar nuclei
+;;;;;;lateral geniculate
+;;;;;;lateral nuclei
+;;;;;;;lateral dorsal nucleus
+;;;;;;;lateral posterior nucleus
+;;;;;;;pulvinar
+;;;;;;medial dorsal nucleus
+;;;;;;medial geniculate
+;;;;;;posterior nuclei
+;;;;;;ventral nuclei
+;;;;;;;ventral anterior nucleus
+;;;;;;;ventral lateral nucleus
+;;;;;;;ventral posterior nucleus
+;;;;;;;;ventral posterolateral nucleus [VPL]
+;;;;;;;;ventral posteromedial nucleus [VPM]
+;;;;;third ventricle
+;;;midbrain
+;;;;mesencephalic trigeminal nuclei
+;;;;periaqueduct gray
+;;;;substantia nigra
+;;;;;pars compacta
+;;;;;pars reticulata
+;;;;tectum
+;;;;;inferior colliculus
+;;;;;superior colliculus
+;;;;tegmentum [of midbrain]
+;;;;;red nucleus
+;;;;;reticular formation [of midbrain]
+;;;;;oculomotor nuclear complex
+;;;;;trochlear nucleus
+;;;;midbrain fiber tracts
+;;;;;crus cerebri
+;;;;;lateral lemniscus
+;;;;;medial lemniscus
+;;;;;medial longitudinal fasciculus [MLF]
+;;;;;spinothalamic tract
+;;;;;superior cerebellar peduncle
+;;;hindbrain
+;;;;cerebellum
+;;;;;cerebellar cortex
+;;;;;;vermis/medial part
+;;;;;;;cerebellar A
+;;;;;;;cerebellar X
+;;;;;;;cerebellar B
+;;;;;;cerebellar hemisphere
+;;;;;;;paravermis/intermediate part
+;;;;;;;;cerebellar C1
+;;;;;;;;cerebellar CX
+;;;;;;;;cerebellar C2
+;;;;;;;;cerebellar C3
+;;;;;;;lateral part
+;;;;;;;;cerebellar D1
+;;;;;;;;cerebellar D2
+;;;;;;;;cerebellar ANS
+;;;;;;;;cerebellar ANSU
+;;;;;;;;cerebellar PMD
+;;;;;cerebellar nuclei
+;;;;pons
+;;;;;abducens nuclei
+;;;;;basal pons [pontine nuclei]
+;;;;;cochlear nuclei
+;;;;;;dorsal cochlear nucleus
+;;;;;;ventral cochlear nucleus
+;;;;;facial motor nuclei
+;;;;;principal trigeminal nuclei
+;;;;;tegmentum [of pons]
+;;;;;;reticular formation [of pons]
+;;;;;;superior olivary complex
+;;;;;trapezoid body
+;;;;;vestibular nuclei
+;;;;;;inferior vestibular nucleus
+;;;;;;lateral vestibular nucleus
+;;;;;;medial vestibular nucleus
+;;;;;;superior vestibular nucleus
+;;;;;pontine fiber tracts
+;;;;;;corticospinal/cortical bulbar tracts
+;;;;;;lateral lemniscus
+;;;;;;medial lemniscus
+;;;;;;medial longitudinal fasciculus [MLF]
+;;;;;;middle cerebellar peduncle
+;;;;;;spinothalamic tract
+;;;;;fourth ventricle
+;;;;medulla
+;;;;;accessory cuneate nucleus
+;;;;;dorsal column nuclei
+;;;;;;cuneate nucleus
+;;;;;;gracile nucleus
+;;;;;dorsal motor vagal nuclei
+;;;;;hypoglossal nuclei
+;;;;;inferior olivary complex
+;;;;;;accessory olivary nuclei
+;;;;;;inferior olivary nuclei
+;;;;;raphe nuclei
+;;;;;reticular formation [of medulla]
+;;;;;salivary nuclei
+;;;;;solitary nuclei [NTS/nucleus of the solitary tract]
+;;;;;spinal trigeminal nuclei
+;;;;;medullary fiber tracts
+;;;;;;medial lemniscus
+;;;;;;spinothalamic tract
+;;;;;;pyramid
+;;;;;;inferior cerebellar peduncle
+;;spinal cord
+;;;cervical spinal cord
+;;;thoracic spinal cord
+;;;lumbar spinal cord
+;;;sacral spinal cord
+;peripheral nervous system [PNS]
+;;autonomic nervous system
+;;;autonomic preganglionic fibers
+;;;autonomic postganglionic fibers
+;;;parasympathetic ganglia
+;;;sympathetic ganglia
+;;cranial nerves
+;;;cranial nerve I [olfactory nerve]
+;;;cranial nerve II [optic nerve]
+;;;cranial nerve III [oculomotor nerve]
+;;;cranial nerve IV trochlear nerve]
+;;;cranial nerve V [trigeminal nerve]
+;;;;mandibular division of V nerve]
+;;;;maxillary division of V nerve]
+;;;;ophthalmic division of V nerve]
+;;;cranial nerve VI [abducens nerve]
+;;;cranial nerve VII [facial nerve]
+;;;cranial nerve VIII [auditory nerve]
+;;;;cochlear division of VIII nerve]
+;;;;vestibular division of VIII nerve]
+;;;cranial nerve IX [glossopharyngeal nerve]
+;;;cranial nerve X [vagus nerve]
+;;;cranial nerve XI [accessory nerve]
+;;;cranial nerve XII [hypoglossal nerve]
+;;peripheral nerves
+;;;radial nerve
+;;;median nerve
+;;;ulnar nerve
+;;;sural nerve
+;;;saphenous nerve
+;;;plantar nerve
+;;cochlea
+;;gustatory epithelium
+;;labyrinth
+;;olfactory epithelium
+;;muscle/joint
+;;;neuromuscular junction [NMJ;end-plate]
+;;;muscle/joint proprioceptors
+;;retina
+;;skin
+;;;cutaneous mechanoreceptors
+;;;cutaneous nociceptors
+;;;cutaneous polymodal receptors
+;;;cutaneous thermal receptors
+;;viscera/deep somatic structures
+;;;enteric nervous system
+;;;deep mechanoreceptors
+;;;deep nociceptors
+;;;deep polymodal receptors
+;extraneural support/vascular structures
+;;skull
+;;vertebral column
+;;arterial system
+;;venous system
+;;choroid plexus
+;;meninges
+;;;dura mater
+;;;arachnoid mater
+;;;;arachnoid villi
+;;;;subarachnoid cisternae
+;;;pia mater

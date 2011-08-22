@@ -1,0 +1,2654 @@
+ID;English Long Name;Acronym
+1;superior frontopolar gyrus (human);FPGS
+2;lingual white matter;liw
+3;isthmus of cingulate white matter;icgw
+4;supramarginal white matter;smw
+5;precentral white matter;prw
+6;posterior orbital gyrus (human);POrG
+7;parasolitary nucleus;PSol
+8;lateral orbital white matter;lorw
+9;inferior temporal white matter;itw
+10;medial orbital white matter;morw
+11;inferior rostral gyrus (human);IRoG
+12;posterior cingulate white matter;pcgw
+13;intermediate orbital gyrus (human);IOrG
+14;cuneate white matter;cuw
+15;inferior occipital white matter;iow
+16;superior temporal white matter;stw
+17;superior frontal white matter;sfw
+18;middle temporal white matter;mtw
+19;decussation of the anterior commissure;dac
+20;superior parietal white matter;spw
+21;brain;Br
+22;cerebrocerebellar fissure;ccbf
+23;superior pontine sulcus;sps
+24;choroidal fissure;chf
+25;interpeduncular cistern;icis
+26;superior cistern;scis
+27;forebrain;FB
+28;telodiencephalic fissure;tdf
+29;cistern of the lamina terminalis;cislt
+30;chiasmatic cistern;ccis
+31;telencephalon;Tel
+32;olfactory nerve;1n
+33;terminal nerve;trn
+34;olfactory trigone;olt
+35;longitudinal fissure;lf
+36;callosal sulcus;cas
+37;anterior parolfactory sulcus (human);aps
+38;posterior parolfactory sulcus;ppos
+39;cerebral cortex;Cx
+40;uncus;un
+41;rhinal sulcus;rhs
+42;hippocampal sulcus;his
+43;cingulate sulcus;cgs
+44;calcarine sulcus;ccs
+45;anterior calcarine sulcus (human);acs
+46;simian fossa (macaque);sf
+47;collateral sulcus;cos
+48;central sulcus;cs
+49;lateral sulcus;ls
+50;limen of the insula;lmi
+51;circular sulcus of the insula;crs
+52;parieto-occipital sulcus;pos
+53;anterior parieto-occipital sulcus (macaque);apos
+54;preoccipital notch;pon
+55;occipitotemporal sulcus;ots
+56;frontal lobe;FL
+57;frontal pole;frp
+58;frontal operculum;fro
+59;orbital operculum of the frontal lobe;oro
+60;precentral operculum;pro
+61;superior frontal sulcus (human);sfrs
+62;middle frontal sulcus (human);mfs
+63;inferior frontal sulcus (human);ifrs
+64;superior ramus of the arcuate sulcus (macaque);sras
+65;inferior ramus of the arcuate sulcus (macaque);iras
+66;principal sulcus (macaque);prs
+67;diagonal sulcus (human);dias
+68;anterior ascending limb of the lateral sulcus (human);aals
+69;anterior horizontal limb of the lateral sulcus (human);ahls
+70;paracentral sulcus (human);pcs
+71;superior precentral sulcus;sprs
+72;inferior precentral sulcus (human);iprs
+73;anterior subcentral sulcus;ascs
+74;superior rostral sulcus (human);sros
+75;inferior rostral sulcus (human);iros
+76;rostral sulcus;ros
+77;fronto-orbital sulcus;fros
+78;olfactory sulcus;olfs
+79;orbital sulcus (human);orbs
+80;transverse orbital sulcus (human);tos
+81;lateral orbital sulcus;los
+82;medial orbital sulcus;mos
+83;superior frontal gyrus;SFG
+84;middle frontal gyrus;MFG
+85;inferior frontal gyrus;IFG
+86;triangular part of the inferior frontal gyrus (human);TrIFG
+87;opercular part of the inferior frontal gyrus (human);OpIFG
+88;orbital part of the inferior frontal gyrus (human);OrIFG
+89;precentral gyrus;PrG
+90;fronto-orbital gyrus (macaque);FOG
+91;orbital gyri;OrG
+92;lateral orbital gyrus;LOrG
+93;medial orbital gyrus;MOrG
+94;straight gyrus;GRe
+95;parietal lobe;PL
+96;parietal operculum;pao
+97;intraparietal sulcus;itps
+98;marginal sulcus (human);ms
+99;postcentral sulcus;pocs
+100;superior postcentral sulcus;spcs
+101;inferior postcentral sulcus;ipcs
+102;subparietal sulcus;sbps
+103;posterior subcentral sulcus;pscs
+104;posterior ascending limb of the lateral sulcus (human);pals
+105;postcentral gyrus;PoG
+106;superior parietal lobule;SPL
+107;inferior parietal lobule;IPL
+108;supramarginal gyrus;SMG
+109;angular gyrus;AnG
+110;precuneus;PCu
+111;insula;Ins
+112;central sulcus of the insula;cis
+113;longitudinal sulcus of the insula (human);lsi
+114;posterior marginal sulcus (human);pms
+115;short insular gyri (human);SIG
+116;first short gyrus (human);SG1
+117;second short gyrus (human);SG2
+118;intermediate short gyrus (human);ISG
+119;precentral gyrus of the insula (human);PrGI
+120;long insular gyri (human);LIG
+121;first posterior central gyrus (human);PCG1
+122;second posterior central gyrus (human);PCG2
+123;accessory short gyrus (human);ASG
+124;anterior accessory gyrus (human);AAG
+125;temporal lobe;TL
+126;temporal pole;tmp
+127;temporal operculum;top
+128;transverse temporal sulcus (human);tts
+129;superior temporal sulcus;sts
+130;inferior temporal sulcus (human);its
+131;middle temporal sulcus;mts
+132;anterior middle temporal sulcus (macaque);amts
+133;posterior middle temporal sulcus (macaque);pmts
+134;anterior transverse temporal gyrus (human);ATTG
+135;posterior transverse temporal gyrus (human);PTTG
+136;superior temporal gyrus;STG
+137;middle temporal gyrus;MTG
+138;inferior temporal gyrus;ITG
+139;fusiform gyrus;FuG
+140;occipital lobe;OL
+141;occipital pole;ocp
+142;anterior occipital sulcus (human);aocs
+143;lateral occipital sulcus (human);locs
+144;inferior occipital sulcus;iocs
+145;transverse occipital sulcus (human);tocs
+146;ectocalcarine sulcus;ecs
+147;superior calcarine sulcus;sccs
+148;inferior calcarine sulcus;iccs
+149;posterior calcarine sulcus (human);pccs
+150;lunate sulcus;lus
+151;intralingual sulcus (human);ils
+152;occipital gyrus (macaque);OG
+153;annectant gyrus (macaque);AG
+154;superior occipital gyrus (human);SOG
+155;middle occipital gyrus;MOcG
+156;inferior occipital gyrus;IOG
+157;cuneus;Cun
+158;lingual gyrus;LiG
+159;cingulate gyrus;CgG
+160;horizontal dimple;icgd
+161;anterior cingulate gyrus;ACgG
+162;posterior cingulate gyrus;PCgG
+163;isthmus of the cingulate gyrus;ICgG
+164;parahippocampal gyrus;PHG
+165;prepyriform area;PPA
+166;periamygdalar area;PA
+167;presubiculum;PrS
+168;entorhinal area;Ent
+169;posterior parahippocampal gyrus;PPHG
+170;archicortex;ACx
+171;paraterminal gyrus;PTG
+172;supracallosal gyrus;SCG
+173;indusium griseum;IG
+174;lateral longitudinal stria;lls
+175;medial longitudinal stria;mls
+176;fasciolar gyrus;FG
+177;hippocampal formation;HiF
+178;fimbriodentate fissure;fdf
+179;dentate gyrus;DG
+180;fascia dentata;FD
+181;hilus of the dentate gyrus;HDG
+182;hippocampus;Hi
+183;CA1 field of the hippocampus;CA1
+184;CA2 field of the hippocampus;CA2
+185;CA3 field of the hippocampus;CA3
+186;alveus;alv
+187;fimbria of the hippocampus;fi
+188;subiculum;S
+189;cerebral white matter;cw
+190;semioval center;sovc
+191;corpus callosum;cc
+192;anterior forceps of the corpus callosum;acc
+193;rostrum of the corpus callosum;rcc
+194;genu of the corpus callosum;gcc
+195;body of the corpus callosum;bcc
+196;splenium of the corpus callosum;scc
+197;posterior forceps of the corpus callosum;pcc
+198;internal capsule;ic
+199;anterior limb of the internal capsule;aic
+200;genu of the internal capsule;gic
+201;posterior limb of the internal capsule;pic
+202;lenticulothalamic part of the internal capsule;ltic
+203;retrolenticular part of the internal capsule;rlic
+204;sublenticular part of the internal capsule;slic
+205;anterior commissure;ac
+206;anterior part of the anterior commissure;aca
+207;posterior part of the anterior commissure;acp
+208;lamina terminalis;LT
+209;lateral ventricle;LV
+210;calcar avis of the lateral ventricle;cal
+211;collateral eminence of the lateral ventricle;coe
+212;parieto-occipital eminence;poce
+213;lamina affixa of the lateral ventricle;lma
+214;tenia choroidea of the lateral ventricle;tnclv
+215;tenia of the fimbria;tfb
+216;tenia of the fornix;tfx
+217;collateral trigone of the lateral ventricle;clt
+218;choroid plexus of the lateral ventricle;cplv
+219;tela choroidea of the lateral ventricle;tclv
+220;frontal horn of the lateral ventricle;FLV
+221;body of the lateral ventricle;BLV
+222;temporal horn of the lateral ventricle;TLV
+223;occipital horn of the lateral ventricle;OLV
+224;basal ganglia;BG
+225;striatum;Str
+226;caudate nucleus;Cd
+227;head of the caudate nucleus;HCd
+228;body of the caudate nucleus;BCd
+229;tail of the caudate nucleus;TCd
+230;putamen;Pu
+231;globus pallidus;GP
+232;lateral segment of the globus pallidus;LGP
+233;medial segment of the globus pallidus;MGP
+234;lateral medullary lamina;lml
+235;medial medullary lamina;mml
+236;accessory medullary lamina;aml
+237;amygdala;Amg
+238;corticomedial nuclear group;CMA
+239;anterior amygdalar area;AA
+240;cortical amygdalar nucleus;CoA
+241;medial amygdalar nucleus;MeA
+242;nucleus of the lateral olfactory tract;LOT
+243;central amygdalar nucleus;CeA
+244;basolateral nuclear group;BL
+245;lateral amygdalar nucleus;LA
+246;basal nucleus of the amygdala;BA
+247;lateral part of the basal amygdalar nucleus;BAL
+248;medial part of the basal amygdalar nucleus;BAM
+249;accessory basal nucleus of the amygdala;ABA
+250;intercalated amygdalar nuclei;IA
+251;claustral amygdalar area;ClA
+252;claustrum;Cl
+253;external capsule;ec
+254;extreme capsule;exc
+255;septum;Spt
+256;septum pellucidum;spt
+257;cave of the septum pellucidum;CSP
+258;lamina of the septum pellucidum;lsp
+259;septal nuclei;SptN
+260;dorsal septal nucleus;DS
+261;lateral septal nucleus;LS
+262;medial septal nucleus;MS
+263;triangular septal nucleus;TS
+264;septofimbrial nucleus;SFi
+265;nucleus of the diagonal band;DB
+266;nucleus of the anterior commissure;AC
+267;nucleus of stria terminalis;StT
+268;fornix;fx
+269;anterior column of the fornix;afx
+270;precommissural fornix;pfx
+271;body of the fornix;bfx
+272;posterior column of the fornix;pcfx
+273;commissure of the fornix;cfx
+274;substantia innominata;SI
+275;basal forebrain nucleus;B
+276;islands of Calleja;IClj
+277;nucleus accumbens;Acb
+278;subcallosal area;SCA
+279;olfactory bulb;Olf
+280;anterior olfactory nucleus;AO
+281;medial olfactory gyrus;MOG
+282;anterior perforated substance;APS
+283;olfactory tract;olf
+284;lateral olfactory stria;lost
+285;diagonal band;db
+286;stria terminalis;st
+287;ventral amygdalofugal projection;vaf
+288;diencephalon;DiE
+289;optic nerve;2n
+290;anterior tubercle;at
+291;terminal sulcus;tms
+292;epithalamus;ETh
+293;habenular trigone;hbt
+294;habenula;Hb
+295;lateral habenular nucleus;LHb
+296;medial habenular nucleus;MHb
+297;pineal body;Pi
+298;stria medullaris of the thalamus;sm
+299;habenular commissure;hbc
+300;thalamus;Th
+301;interthalamic adhesion;itha
+302;anterior nuclear group of the thalamus;ANG
+303;anterodorsal nucleus of the thalamus;AD
+304;anteromedial nucleus of the thalamus;AM
+305;anteroventral nucleus of the thalamus;AV
+306;midline nuclear group;MNG
+307;paratenial nucleus;PT
+308;paraventricular nucleus of the thalamus;PV
+309;reuniens nucleus;Re
+310;rhomboidal nucleus;Rh
+311;subfascicular nucleus;SF
+312;medial dorsal nucleus;MD
+313;paralaminar part of the medial dorsal nucleus;MDPL
+314;magnocellular part of the medial dorsal nucleus;MDM
+315;parvicellular part of the medial dorsal nucleus;MDPC
+316;densocellular part of the medial dorsal nucleus;MDD
+317;intralaminar nuclear group;ILG
+318;rostral intralaminar nuclei;RIL
+319;central dorsal nucleus;CD
+320;central lateral nucleus;CL
+321;central medial nucleus;CM
+322;paracentral nucleus;PC
+323;centromedian nucleus;CMn
+324;parafascicular nucleus;PF
+325;lateral nuclear group;LNG
+326;lateral dorsal nucleus;LD
+327;lateral posterior nucleus;LP
+328;pulvinar;Pul
+329;oral pulvinar nucleus;OPul
+330;lateral pulvinar nucleus;LPul
+331;medial pulvinar nucleus;MPul
+332;inferior pulvinar nucleus;IPul
+333;ventral nuclear group;VNG
+334;ventral anterior nucleus;VA
+335;parvicellular part of the ventral anterior nucleus;VAPC
+336;magnocellular part of the ventral anterior nucleus;VAMC
+337;ventral lateral nucleus;VL
+338;oral part of the ventral lateral nucleus;VLO
+339;caudal part of the ventral lateral nucleus;VLC
+340;medial part of the ventral lateral nucleus;VLM
+341;pars postrema of the ventral lateral nucleus;VLP
+342;area X;X
+343;ventral posterior nucleus;VP
+344;ventral posterolateral nucleus;VPL
+345;oral part of the ventral posterolateral nucleus;VPLO
+346;caudal part of the ventral posterolateral nucleus;VPLC
+347;ventral posteromedial nucleus;VPM
+348;principal part of the ventral posteromedial nucleus;VPMPr
+349;parvicellular part of the ventral posteromedial nucleus;VPMPC
+350;ventral posteroinferior nucleus;VPI
+351;metathalamus;MTh
+352;lateral geniculate body;LGB
+353;lateral geniculate nucleus;LG
+354;pregeniculate nucleus;Pgn
+355;medial geniculate body;MG
+356;dorsal nucleus of the medial geniculate body;DMG
+357;ventral nucleus of the medial geniculate body;VMG
+358;magnocellular nucleus of the medial geniculate body;MMG
+359;capsule of the medial geniculate body;cmg
+360;posterior nuclear complex;PNC
+361;limitans nucleus;Lim
+362;posterior nucleus of the thalamus;PTh
+363;suprageniculate nucleus;SG
+364;submedial nucleus;SM
+365;thalamic reticular nucleus;Rt
+366;thalamic fiber tracts;thf
+367;external medullary lamina;eml
+368;internal medullary lamina;iml
+369;anterior thalamic peduncle;atp
+370;superior thalamic peduncle;sthp
+371;inferior thalamic peduncle;itp
+372;posterior thalamic peduncle;ptp
+373;mammillothalamic tract of the thalamus;mthth
+374;stratum zonale of the thalamus;SZ
+375;hypothalamus;Hy
+376;anterior hypothalamic region;AHR
+377;preoptic area;POA
+378;median preoptic nucleus;MnPO
+379;preoptic periventricular nucleus;POP
+380;medial preoptic nucleus;MPO
+381;lateral preoptic nucleus;LPO
+382;anteroventral periventricular nucleus;AVPe
+383;supraoptic crest;SoC
+384;suprachiasmatic nucleus;SCh
+385;supraoptic nucleus;SO
+386;anterior nucleus of the hypothalamus;AH
+387;paraventricular nucleus of the hypothalamus;Pa
+388;dorsal supraoptic decussation;dsox
+389;ventral supraoptic decussation;vsox
+390;anterior hypothalamic commissure;ahc
+391;supraopticohypophysial tract;soh
+392;intermediate hypothalamic region;IHR
+393;tuber cinereum;tbcn
+394;intermediate periventricular nucleus;IPe
+395;arcuate nucleus of the hypothalamus;ArcH
+396;retrochiasmatic area;RCh
+397;dorsomedial nucleus of the hypothalamus;DMH
+398;ventromedial nucleus of the hypothalamus;VMH
+399;hypophysis;Hp
+400;lateral eminence of the hypophysis;lehp
+401;neurohypophysis;NHP
+402;median eminence;ME
+403;anterior median eminence;AME
+404;posterior median eminence;PME
+405;infundibular stem;InfS
+406;pars nervosa of the pituitary;PNHP
+407;adenohypophysis;AHP
+408;tuberal part of the hypophysis;THP
+409;intermediate part of the hypophysis;IHP
+410;distal part of the hypophysis;DHP
+411;posterior hypothalamic region;PHR
+412;mammillary body;mmb
+413;lateral mammillary nucleus;LM
+414;medial mammillary nucleus;MM
+415;medial part of the medial mammillary nucleus;MMM
+416;lateral part of the medial mammillary nucleus;MML
+417;supramammillary nucleus;SuM
+418;premammillary nucleus;PMm
+419;posterior periventricular nucleus;PPe
+420;posterior nucleus of the hypothalamus;PH
+421;supramammillary commissure;sumx
+422;mammillary princeps fasciculus;mpr
+423;mammillotegmental fasciculus;mtg
+424;mammillothalamic tract of the hypothalamus;mthh
+425;mammillary peduncle;mpe
+426;lateral hypothalamic area;LH
+427;tuberomammillary nucleus;TM
+428;lateral tuberal nuclei;LTu
+429;lateral hypothalamic nucleus;LHy
+430;dorsal hypothalamic area;DH
+431;postcommissural fornix;pofx
+432;dorsal longitudinal fasciculus of the hypothalamus;dlfh
+433;medial forebrain bundle;mfb
+434;subthalamus;SbTh
+435;subthalamic nucleus;STh
+436;nucleus of the ansa lenticularis;AL
+437;nucleus of field H;FH
+438;zona incerta;ZI
+439;field H1;H1
+440;field H;H
+441;field H2;H2
+442;capsule of the subthalamic nucleus;csth
+443;pallidohabenular bundle;phb
+444;ansa lenticularis;al
+445;ansa peduncularis;ap
+446;third ventricle;3V
+447;interventricular foramen;IVF
+448;tenia of the thalamus;tt
+449;hypothalamic sulcus;hys
+450;habenular sulcus;hbs
+451;velum interpositum;vi
+452;choroid plexus of the third ventricle;cp3v
+453;tela choroidea of the third ventricle;tc3v
+454;subfornical organ;SFO
+455;suprapineal recess;SPiRe
+456;pineal recess;PiRe
+457;optic recess;ORe
+458;infundibular recess;IRe
+459;optic chiasm;ox
+460;optic tract;opt
+461;fasciculus retroflexus of the diencephalon;frd
+462;midbrain;MB
+463;oculomotor sulcus;ocs
+464;dorsolateral fissure of the midbrain;dfmb
+465;tectum;Tec
+466;trochlear nerve;4n
+467;pretectal region;PTec
+468;nucleus of the pretectal area;PTA
+469;principal pretectal nucleus;PPt
+470;nucleus of the optic tract;OT
+471;sublentiform nucleus;SLn
+472;olivary pretectal nucleus;OPt
+473;superior colliculus;SC
+474;brachium of the superior colliculus;bsc
+475;commissure of the superior colliculus;csc
+476;inferior colliculus;IC
+477;pericentral nucleus of the inferior colliculus;PCIC
+478;external nucleus of the inferior colliculus;EIC
+479;central nucleus of the inferior colliculus;CIC
+480;brachium of the inferior colliculus;bic
+481;commissure of the inferior colliculus;cic
+482;parabigeminal nucleus;PBG
+483;subcommissural organ;SCO
+484;posterior commissure;pc
+485;corticotectal tract;ctt
+486;trochlear nerve fibers;4nf
+487;cerebral peduncle;CP
+488;oculomotor nerve;3n
+489;interpeduncular fossa;ipf
+490;ventrolateral fissure of the midbrain;vlfmb
+491;midbrain tegmentum;MTg
+492;oculomotor nuclear complex;3
+493;dorsal oculomotor nucleus;D3
+494;intermediate oculomotor nucleus;I3
+495;medial oculomotor nucleus;M3
+496;ventral oculomotor nucleus;V3
+497;anterior median oculomotor nucleus;AM3
+498;parvocellular oculomotor nucleus;PC3
+499;central oculomotor nucleus;C3
+500;caudal central oculomotor nucleus;CC3
+501;midbrain reticular formation;MBRF
+502;cuneiform nucleus;CnF
+503;subcuneiform nucleus;SubCn
+504;pedunculopontine tegmental nucleus;PPTg
+505;red nucleus;R
+506;parvocellular part of the red nucleus;RPC
+507;magnocellular part of the red nucleus;RMC
+508;capsule of the red nucleus;cr
+509;cerebral aqueduct;Aq
+510;central gray substance of the midbrain;CGMB
+511;nucleus of the posterior commissure;PCom
+512;dorsal raphe nucleus;DR
+513;trochlear nucleus;4
+514;nucleus of Darkschewitsch;Dk
+515;interstitial nucleus of Cajal;ICjl
+516;rostral interstitial nucleus of the medial longitudinal fasciculus;RI
+517;dorsal tegmental nucleus;DTg
+518;ventral tegmental nucleus;VTg
+519;linear nucleus;Li
+520;peripeduncular nucleus;PPd
+521;ventral tegmental area;VTA
+522;interpeduncular nucleus;IP
+523;dorsal tegmental decussation;dtgx
+524;ventral tegmental decussation;vtgx
+525;dorsal longitudinal fasciculus of the midbrain;dlfmb
+526;medial longitudinal fasciculus of the midbrain;mlfmb
+527;decussation of the superior cerebellar peduncle;xscp
+528;central tegmental tract of the midbrain;ctgmb
+529;oculomotor nerve fibers;3nf
+530;pallidotegmental fasciculus;ptf
+531;lateral pes lemniscus;lpl
+532;medial pes lemniscus;mpl
+533;medial lemniscus of the midbrain;mlmb
+534;dentatothalamic tract;dt
+535;spinothalamic tract of the midbrain;stmb
+536;substantia nigra;SN
+537;pars compacta;SNC
+538;pars reticulata;SNR
+539;crus of the cerebral peduncle;ccr
+540;hindbrain;HB
+541;inferior pontine sulcus;ips
+542;cerebellomedullary cistern;cmcis
+543;metencephalon;Met
+544;cerebellopontine angle;cbpa
+545;lemniscal trigone;lmt
+546;pontocerebellar trigone;pcbt
+547;pons;Pons
+548;foramen cecum anterior;fca
+549;trigeminal nerve;5n
+550;abducens nerve;6n
+551;facial nerve;7n
+552;intermediate nerve;imn
+553;vestibulocochlear nerve;8n
+554;basilar sulcus;bss
+555;foramen cecum posterior;fcp
+556;pontine cistern;pcis
+557;pontine tegmentum;PTg
+558;mesencephalic nucleus of the trigeminal nerve;Me5
+559;motor nucleus of the trigeminal nerve;Mo5
+560;principal sensory nucleus of the trigeminal nerve;Pr5
+561;pontine reticular formation;PRF
+562;superior central nucleus;SuC
+563;inferior central nucleus of the pontine reticular formation;ICe
+564;nucleus of the medial eminence;MeE
+565;oral pontine reticular nucleus;PnO
+566;caudal pontine reticular nucleus;PnC
+567;central gray substance of the pons;CGPn
+568;reticulotegmental nucleus;RtTg
+569;superior olivary complex;SOlC
+570;superior olive;SOl
+571;lateral superior olivary nucleus;LSO
+572;medial superior olivary nucleus;MSO
+573;preolivary nucleus;PrO
+574;periolivary nucleus;PeO
+575;retro-olivary cell group;RO
+576;trapezoid nuclei;Tz
+577;olivocochlear bundle;ocb
+578;peduncle of the superior olive;pso
+579;facial nerve fibers;7nf
+580;ascending fibers of the facial nerve;asc7
+581;internal genu of the facial nerve;g7
+582;descending fibers of the facial nerve;d7
+583;locus ceruleus;LC
+584;nucleus subceruleus;SubC
+585;abducens nucleus;6
+586;facial nucleus;7
+587;medial parabrachial nucleus;MPB
+588;lateral parabrachial nucleus;LPB
+589;pontine raphe nucleus;RPn
+590;superior salivatory nucleus;SuS
+591;dorsal nucleus of the lateral lemniscus;DLL
+592;ventral nucleus of the lateral lemniscus;VLL
+593;superior medullary velum;smv
+594;trapezoid body;tz
+595;decussation of the trochlear nerve;4x
+596;mesencephalic tract of the trigeminal nerve;me5
+597;uncinate fasciculus of the pons;unc
+598;abducens nerve fibers;6nf
+599;dorsal longitudinal fasciculus of the pons;dlfp
+600;medial longitudinal fasciculus of the pons;mlfp
+601;central tegmental tract of pons;ctgp
+602;dorsal acoustic stria;das
+603;intermediate acoustic stria;ias
+604;ventral acoustic stria;vas
+605;vestibulocochlear nerve fibers;8nf
+606;dorsal trigeminal tract;d5
+607;trigeminal nerve fibers;5nf
+608;motor root of the trigeminal nerve;mo5
+609;lateral lemniscus;ll
+610;medial lemniscus of the pons;mlp
+611;spinothalamic tract of the pons;stp
+612;tectopontine tract;tp
+613;ventral trigeminal tract;v5
+614;spinal trigeminal tract of the pons;sp5p
+615;vestibulocerebellar tract;vcb
+616;basal part of the pons;BPons
+617;pontine nuclei;Pn
+618;longitudinal pontine fibers;lp
+619;transverse pontine fibers;tpf
+620;middle cerebellar peduncle;mcp
+621;fourth ventricle;4V
+622;fastigium;ft
+623;vestibular area;vba
+624;facial colliculus;fc
+625;superior fovea;sfv
+626;inferior fovea of the fourth ventricle;ifv
+627;funiculus separans;fsp
+628;striae medullares;strm
+629;sulcus limitans;slm
+630;median sulcus of the fourth ventricle;mds
+631;rhomboid fossa;rhf
+632;tenia of the fourth ventricle;t4v
+633;acoustic tubercle;act
+634;vagal trigone;10t
+635;hypoglossal trigone;12t
+636;obex;ob
+637;calamus scriptorius of the fourth ventricle;clst
+638;choroid plexus of the fourth ventricle;cp4v
+639;tela choroidea of the fourth ventricle;tc4v
+640;lateral aperture of the fourth ventricle;LA4V
+641;median aperture of the fourth ventricle;MA4V
+642;lateral recess of the fourth ventricle;LR4V
+643;cerebellum;Cb
+644;secondary fissure;scf
+645;posterior cerebellar incisure;pcbi
+646;vallecula cerebelli;vlcb
+647;cerebellar cortex;CbCx
+648;primary fissure of the cerebellum;pfcb
+649;posterolateral fissure;plf
+650;anterior lobe of the cerebellum;ALCb
+651;precentral fissure of the cerebellum;pce
+652;postcentral fissure of the cerebellum;pcuf
+653;hemisphere of the anterior lobe;HAL
+654;anterior quadrangular lobule;AQL
+655;alar central lobule;ACL
+656;vermis of the anterior lobe;VAL
+657;lingula of the cerebellar vermis;Lg
+658;central lobule of the cerebellum;CLb
+659;culmen of the cerebellum;Cul
+660;posterior lobe of the cerebellum;PLCb
+661;horizontal fissure of the cerebellum;hzf
+662;posterior superior fissure;psf
+663;prepyramidal fissure;ppyf
+664;hemisphere of the posterior lobe;HPL
+665;simple lobule;Sim
+666;ansiform lobule;An
+667;superior semilunar lobule;SSL
+668;inferior semilunar lobule;ISL
+669;gracile lobule;GrL
+670;biventer lobule;BvL
+671;cerebellar tonsil;CbT
+672;paraflocculus;PFl
+673;vermis of the posterior lobe;VPLb
+674;declive;Dec
+675;folium;Fol
+676;tuber of the vermis;TV
+677;pyramis of the vermis;PyV
+678;uvula;Uv
+679;flocculonodular lobe;FNL
+680;flocculus;Fl
+681;nodulus of the cerebellum;Nd
+682;cerebellar nuclei;DCb
+683;dentate nucleus;Dt
+684;neodentate part of the dentate nucleus;NDt
+685;paleodentate part of the dentate nucleus;PDt
+686;amiculum of the dentate nucleus;amdt
+687;hilum of the dentate nucleus;hdt
+688;emboliform nucleus;Emb
+689;globose nucleus;Glo
+690;fastigial nucleus;Fas
+691;cerebellar white matter;cbw
+692;arbor vitae;abv
+693;medullary body of the cerebellum;mdb
+694;peduncle of the flocculus;pfl
+695;superior medullary lamina;sml
+696;inferior medullary lamina;inml
+697;inferior medullary velum;imv
+698;medulla;MO
+699;inferior olive;ifol
+700;anterior median fissure of the medulla;amf
+701;glossopharyngeal nerve;9n
+702;vagus nerve;10n
+703;cranial part of the accessory nerve;c11n
+704;hypoglossal nerve;12n
+705;pyramid of the medulla;pym
+706;dorsolateral sulcus;dls
+707;dorsal intermediate sulcus;dis
+708;dorsal median sulcus;dms
+709;retro-olivary sulcus;rols
+710;ventrolateral sulcus;vls
+711;trigeminal tubercle;5t
+712;cuneate tubercle;cut
+713;gracilis tubercle of the medulla;grt
+714;vestibular nuclei;Ve
+715;superior vestibular nucleus;SuVe
+716;lateral vestibular nucleus;LVe
+717;medial vestibular nucleus;MVe
+718;inferior vestibular nucleus;IVe
+719;interstitial nucleus of the vestibular nerve;ISVe
+720;cochlear nuclei;Co
+721;dorsal cochlear nucleus;DCo
+722;ventral cochlear nuclei;VCo
+723;anteroventral cochlear nucleus;AVCo
+724;posteroventral cochlear nucleus;PVCo
+725;medullary reticular formation;MeRF
+726;lateral medullary reticular group;LMRt
+727;lateral reticular nucleus;LRt
+728;parvicellular reticular nucleus;PCRt
+729;central medullary reticular group;CMRt
+730;gigantocellular nucleus;Gi
+731;lateral paragigantocellular nucleus;LPGi
+732;dorsal paragigantocellular nucleus;DPGi
+733;ventral reticular nucleus;VRt
+734;paramedian medullary reticular group;PMRt
+735;dorsal paramedian reticular nucleus;DPRt
+736;accessory paramedian reticular nucleus;APRt
+737;ventral paramedian reticular nucleus;VPRt
+738;raphe nuclei of the medulla;RaM
+739;nucleus raphe magnus;RMg
+740;nucleus raphe obscurus;ROb
+741;nucleus raphe pallidus;RPa
+742;solitary nucleus;Sol
+743;dorsolateral subnucleus of the solitary tract;DLSol
+744;dorsomedial subnucleus of the solitary tract;DMSol
+745;medial subnucleus of the solitary tract;MSol
+746;parvicellular subnucleus of the solitary tract;PvSol
+747;ventrolateral subnucleus of the solitary tract;VLSol
+748;inferior olivary complex;IO
+749;principal inferior olivary nucleus;PrIO
+750;dorsal accessory nucleus of the inferior olive;DIO
+751;medial accessory nucleus of the inferior olive;MIO
+752;amiculum of the inferior olive;amio
+753;hilum of the inferior olive;hio
+754;commissural nucleus of the vagus nerve;Cm10
+755;dorsal motor nucleus of the vagus nerve;10
+756;central gray substance of the medulla;CGM
+757;hypoglossal nucleus;12
+758;nucleus prepositus;PrP
+759;nucleus intercalatus;In
+760;diffuse reticular nucleus;DfRt
+761;paratrigeminal nucleus;Pa5
+762;peritrigeminal nucleus;Pe5
+763;sublingual nucleus;SLg
+764;inferior salivatory nucleus;IS
+765;nucleus ambiguus;Amb
+766;gracile nucleus of the medulla;Gr
+767;cuneate nucleus of the medulla;Cu
+768;accessory cuneate nucleus;ACu
+769;lateral pericuneate nucleus;LPCu
+770;medial pericuneate nucleus;MPCu
+771;caudal part of the spinal trigeminal nucleus;CSp5
+772;area postrema;AP
+773;central canal of the medulla;CC
+774;pontobulbar nucleus;PnB
+775;arcuate nucleus of the medulla;ArcM
+776;supraspinal nucleus;SSp
+777;medullary anterior horn;MAH
+778;medullary white matter;mw
+779;juxtarestiform body;jx
+780;predorsal bundle;pd
+781;inferior cerebellar peduncle;icp
+782;dorsolateral fasciculus of the medulla;dfm
+783;dorsal longitudinal fasciculus of the medulla;dlfm
+784;medial longitudinal fasciculus of the medulla;mlfm
+785;solitary tract;sol
+786;tectospinal tract of the medulla;ts
+787;medial lemniscus of the medulla;mlm
+788;decussation of the medial lemniscus;mlx
+789;cuneate fasciculus of the medulla;cu
+790;gracile fasciculus of the medulla;gr
+791;spinal trigeminal tract of the medulla;sp5m
+792;accessory nerve fibers;11nf
+793;glossopharyngeal nerve fibers;9nf
+794;vagal nerve fibers;10nf
+795;internal arcuate fibers;ia
+796;dorsal external arcuate fibers;dea
+797;ventral external arcuate fibers;vea
+798;hypoglossal nerve fibers;12nf
+799;pyramidal decussation;pyx
+800;pyramidal tract;py
+801;lateral corticospinal tract;lcsp
+802;anterior corticospinal tract;acsp
+803;cuneocerebellar tract;ccb
+804;olivocerebellar tract;oc
+805;reticulospinal tracts;rts
+806;rubrospinal tract;rs
+807;dorsal spinocerebellar tract;dsc
+808;ventral spinocerebellar tract;vsc
+809;spino-olivary tracts;spo
+810;spinothalamic tract of the medulla;stm
+811;tectobulbar tract;tb
+812;vestibulospinal tracts;vs
+813;fusiform white matter;fuw
+814;entorhinal white matter;entw
+815;frontal white matter;fw
+816;superior rostral gyrus (human);SRoG
+817;interpolar part of the spinal trigeminal nucleus;ISp5
+818;fasciculus retroflexus of the midbrain;frm
+819;occipital white matter;ow
+820;superior cerebellar peduncle of the midbrain;scpmb
+821;cingulate white matter;cgw
+822;parahippocampal white matter;phw
+823;middle frontopolar gyrus (human);FPGM
+824;middle frontal white matter;mfw
+825;annectant white matter;aw
+826;straight white matter;sw
+827;posterior parahippocampal white matter;pphw
+828;lateral inferior limiting sulcus;lils
+829;inferior frontal white matter;ifw
+830;spur of the arcuate sulcus (macaque);sas
+831;transverse frontopolar gyri (human);FPG
+832;occipital lobe white matter;olw
+833;superior cerebellar peduncle of the pons;scpp
+834;limbic lobe;LL
+835;oral part of the spinal trigeminal nucleus;OSp5
+836;anterior cerebellar incisure;acbi
+837;limbic white matter;lw
+838;polar notch;pn
+839;paramedian raphe nucleus;PMR
+840;postcentral white matter;pow
+841;fronto-orbital white matter;fow
+842;inferior frontopolar gyrus (human);FPGI
+843;precuneate white matter;pcuw
+844;parietal white matter;pw
+846;anterior cingulate white matter;acgw
+847;temporal white matter;tw
+848;terminal velum;tv
+849;angular white matter;anw
+850;body of the fourth ventricle;B4V
+851;posterodorsal nucleus of the medial geniculate body;PDMG
+852;anterodorsal nucleus of the medial geniculate body;ADMG
+854;central nervous system;CNS
+855;spinal cord;SpC
+856;area Pro of Seltzer;Pro
+857;area TEm of Seltzer;TEm
+858;area TE1 of Seltzer;TE1
+859;area TE3 of Seltzer;TE3
+860;area PGa of Seltzer;PGa
+861;area TPO of Seltzer;TPO
+862;area TEa of Seltzer;TEa
+863;area TE2 of Seltzer;TE2
+864;area TE of Seltzer;TE
+865;area paI of Pandya;pal
+866;area Kalt of Pandya;Kalt
+867;area Kam of Pandya;Kam
+868;area paAr of Pandya;paAr
+869;area proA of Pandya;proA
+870;area Ts1 of Pandya;Ts1
+871;area paAlt of Pandya;paAlt
+872;koniocortex core of the auditory region;NULL
+873;parakoniocortex;NULL
+874;area reIt of Pandya;relt
+875;area reIpt of Pandya;relpt
+876;cortical areas of Pandya;NULL
+877;area paAc of Pandya;paAc
+878;superior temporal isocortical areas;NULL
+879;area Tpt of Pandya;Tpt
+880;area Ts2 of Pandya;Ts2
+881;area Ts3 of Pandya;Ts3
+882;area TAa of Seltzer;TAa
+883;area 30 of Mauss;30
+884;area 1 of Mauss;1
+885;area 10 of Mauss;10
+886;area 11 of Mauss;11
+887;area 12 of Mauss;12
+888;area 13 of Mauss;13
+889;area 14 of Mauss;14
+890;area 15 of Mauss;15
+891;area 17 of Mauss;17
+892;area 18 of Mauss;18
+893;area 19 of Mauss;19
+894;area 2 of Mauss;2
+895;area 20 of Mauss;20
+896;area 22 of Mauss;22
+897;area 23 of Mauss;23
+898;area 24 of Mauss;24
+899;area 26 of Mauss;26
+900;area 27 of Mauss;27
+901;area 28 of Mauss;28
+902;area 29 of Mauss;29
+903;area 3 of Mauss;3
+904;area 31 of Mauss;31
+905;area 32 of Mauss;32
+906;area 33 of Mauss;33
+907;area 4 of Mauss;4
+908;area 5 of Mauss;5
+909;area 6 of Mauss;6
+910;area 7 of Mauss;7
+911;area 8 of Mauss;8
+912;area 9 of Mauss;9
+913;Mauss's areas;NULL
+914;area 21 of Mauss;21
+915;insulo-orbito-temporopolar complex;NULL
+916;area 9c of Vogts;9c
+917;area 9d of Vogts;9d
+918;area 19b of Vogts;19b
+919;area 21 of Vogts;21
+920;area 6b of Vogts;6b
+921;area 6a alpha of Vogts;6a alpha
+922;area 9b of Vogts;9b
+923;area 9a of Vogts;9a
+924;area 6b alpha of Vogts;6b alpha
+925;area 6b beta of Vogts;6b beta
+926;area 22a alpha of Vogts;22a alpha
+927;area 7a of Vogts;7a
+928;area 22a beta of Vogts;22a beta
+929;area 22a gamma of Vogts;22a gamma
+930;area 10a of Vogts;10a
+931;area 4a of Vogts;4a
+932;area 4b of Vogts;4b
+933;area 4c of Vogts;4c
+934;area 8 alpha of Vogts;8 alpha
+935;area 8 beta of Vogts;8 beta
+936;area 8 delta of Vogts;8 delta
+937;area 8 gamma of Vogts;8 gamma
+938;area 19a of Vogts;19a
+939;area 22a of Vogts;22a
+940;area 6 of Vogts;6
+941;area 6a of Vogts;6a
+942;area 6a beta of Vogts;6a beta
+943;area 1 of Vogts;1
+944;area 2 of Vogts;2
+945;area 3a of Vogts;3a
+946;area 3b of Vogts;3b
+947;area 5a of Vogts;5a
+948;area 5b of Vogts;5b
+949;area 7b of Vogts;7b
+950;area 3 of Vogts;3
+951;area 4 of Vogts;4
+952;area 9 of Vogts;9
+953;area 7 of Vogts;7
+954;Vogts' areas;NULL
+955;area 5 of Vogts;5
+956;area 8 of Vogts;8
+957;area 19 of Vogts;19
+958;ventral orbital cortex;NULL
+959;area 8 of Walker;8
+960;area 10 of Walker;10
+961;area 11 of Walker;11
+962;area 46 of Walker;46
+963;area 12 of Walker;12
+964;area 13 of Walker;13
+965;area 9 of Walker;9
+966;Walker's areas;NULL
+968;area FA of Bonin;FA
+969;area PB of Bonin;PB
+970;area FB of Bonin;FB
+971;area FBA of Bonin;FBA
+972;area FC of Bonin;FC
+973;area FCBm of Bonin;FCBm
+974;area FCop of Bonin;FCop
+975;area FD of Bonin;FD
+976;area FD gamma of Bonin;FD gamma
+977;area FD delta of Bonin;FD delta
+978;area FF of Bonin;FF
+979;area FL of Bonin;FL
+980;area LA of Bonin;LA
+981;area LC of Bonin;LC
+982;area OA of Bonin;OA
+983;area OB of Bonin;OB
+984;area OC of Bonin;OC
+985;area PC of Bonin;PC
+986;area PCop of Bonin;PCop
+987;area PE of Bonin;PE
+988;area PEm of Bonin;PEm
+989;area PF of Bonin;PF
+990;area PG of Bonin;PG
+991;area TA of Bonin;TA
+992;area TE of Bonin;TE
+993;area TF of Bonin;TF
+994;area TH of Bonin;TH
+995;area TB of Bonin;TB
+996;area TC of Bonin;TC
+997;area FDL of Bonin;FDL
+998;area PA of Bonin;PA
+999;area FDE of Bonin;FDE
+1000;Bonin and Bailey's areas;NULL
+1001;area PFC of Bonin;PFC
+1002;area IA of Bonin;IA
+1003;area PEp of Bonin;PEp
+1004;area IB of Bonin;IB
+1005;area PD of Bonin;PD
+1006;area 3 of Brodmann (guenon);3
+1007;area 24 of Brodmann-1905 (guenon);24
+1008;area 14 of Brodmann (guenon);14
+1009;area 13 of Brodmann (guenon);13
+1010;area 15 of Brodmann (guenon);15
+1011;area 16 of Brodmann (guenon);16
+1012;area 8a of Brodmann (guenon);8a
+1013;area 43 of Brodmann (guenon);43
+1014;area 4 of Brodmann (guenon);4
+1015;area 5 of Brodmann (guenon);5
+1016;area 21 of Brodmann (guenon);21
+1017;area 22 of Brodmann (guenon);22
+1018;area 23 of Brodmann (guenon);23
+1019;area 24 of Brodmann-1909 (guenon);24
+1020;area 6 of Brodmann (guenon);6
+1021;area 32 of Brodmann (guenon);32
+1022;area 1 of Brodmann (guenon);1
+1023;area 10 of Brodmann (guenon);10
+1024;area 9 of Brodmann (guenon);9
+1025;area 20 of Brodmann (guenon);20
+1026;area 17 of Brodmann (guenon);17
+1027;area 18 of Brodmann (guenon);18
+1028;area 19 of Brodmann (guenon);19
+1029;area 25 of Brodmann (guenon);25
+1030;area 28 of Brodmann (guenon);28
+1031;area 26 of Brodmann (guenon);26
+1032;Brodmann's areas;NULL
+1033;area 2 of Brodmann (guenon);2
+1034;area 8 of Brodmann (guenon);8
+1035;area 7 of Brodmann (guenon);7
+1036;area 11 of Brodmann (guenon);11
+1037;area 12 of Brodmann (guenon);12
+1038;prefrontal area 11 of Brodmann-1909;NULL
+1039;area 27 of Brodmann (guenon);27
+1044;molecular layer of the piriform area;NULL
+1045;polymorph layer of the piriform area;NULL
+1046;body of the medial mammillary nucleus;NULL
+1047;magnocellular part of the midbrain reticular nucleus;NULL
+1048;parvicellular part of the midbrain reticular nucleus;NULL
+1049;retrorubral area of the midbrain reticular nucleus;NULL
+1050;ventrolateral part of the orbital area;NULL
+1051;area OFO of Roberts;OFO
+1052;area TG of Bonin;TG
+1053;area PrCO of Roberts;PrCO
+1054;lobule II;II
+1055;area MII of Woolsey;MII
+1056;area MI of Woolsey;MI
+1057;area SI of Woolsey;SI
+1058;area SII of Woolsey;SII
+1059;sublenticular extended amygdala;NULL
+1060;lateral area of the secondary visual cortex;NULL
+1061;dopaminergic group A8;A8
+1062;dorsal part of anterior cingulate cortex;1
+1063;marginal zone of the medial geniculate;NULL
+1064;dorsomedial cell column of the inferior olive;NULL
+1065;interoculomotor nucleus;NULL
+1066;intermedius nucleus of the medulla;NULL
+1067;cingulate/retrosplenial cortex;NULL
+1068;lateral parietal association cortex;NULL
+1069;medial terminal nucleus of the accessory optic tract;NULL
+1070;lateral periaqueductal gray;NULL
+1071;medial accessory oculomotor nucleus;NULL
+1072;frontal association cortex;NULL
+1073;posterodorsal tegmental nucleus;NULL
+1074;F cell group of the vestibular complex;F
+1075;primary auditory cortex;NULL
+1076;paracochlear glial substance;NULL
+1077;pararubral nucleus;NULL
+1078;prelimbic cortex;NULL
+1079;rostroventrolateral reticular nucleus;NULL
+1080;parasubthalamic nucleus;NULL
+1081;dorsal 3rd ventricle;NULL
+1082;dorsal endopiriform nucleus;NULL
+1083;striohypothalamic nucleus;NULL
+1084;interstitial nucleus of the posterior limb of the anterior commissure;NULL
+1085;semilunar nucleus;NULL
+1086;posterior intralaminar thalamic nucleus;NULL
+1087;Barrington's nucleus;NULL
+1088;median accessory nucleus of the medulla;NULL
+1089;magnocellular nucleus of  the lateral hypothalamus;NULL
+1090;nucleus of origin of efferents of the vestibular nerve;NULL
+1091;medial accessory optic tract;NULL
+1092;commissural stria terminalis;NULL
+1093;nucleus incertus;NULL
+1094;catecholaminergic group A3;A3
+1095;magnocellular nucleus of the posterior commissure;NULL
+1096;oval paracentral thalamic nucleus;NULL
+1097;peritrigeminal zone;NULL
+1098;epimicrocellular nucleus;NULL
+1099;dorsomedial tegmental area;NULL
+1100;intramedullary thalamic area;NULL
+1101;dorsolateral protuberance of the medial cerebellar nucleus;NULL
+1102;dorsal transition zone;NULL
+1103;dorsomedial spinal trigeminal nucleus;NULL
+1104;intermediate geniculate nucleus;NULL
+1105;postsubiculum;NULL
+1106;posteromedian thalamic nucleus;NULL
+1107;triangular part of the posterior thalamic nuclear group;NULL
+1108;perifacial zone;NULL
+1109;paratrochlear nucleus;NULL
+1110;ventrolateral protrusion of the inferior olive;NULL
+1111;paraabducens nucleus;Pa6
+1112;nucleus of the brachium of the inferior colliculus;NULL
+1113;medial entorhinal cortex;NULL
+1114;intermediate reticular nucleus;IRt
+1115;anterior tegmental nucleus;NULL
+1116;anterior pretectal nucleus;NULL
+1117;nucleus O;NULL
+1118;epifascicular nucleus;NULL
+1119;Botzinger complex;NULL
+1120;central nucleus of the inferior olivary complex;NULL
+1121;vestibulocerebellar nucleus;NULL
+1122;cap of Kooy of the medial nucleus, inferior olive;NULL
+1123;ventrolateral hypothalamic nucleus;NULL
+1124;ventromedial preoptic nucleus;NULL
+1125;raphe cap;NULL
+1126;supraoculomotor periaqueductal gray;NULL
+1127;ventrolateral preoptic nucleus;NULL
+1128;supraoculomotor cap;NULL
+1129;ventrolateral tegmental area;NULL
+1130;subbrachial nucleus;NULL
+1131;subincertal nucleus;NULL
+1132;subgeniculate nucleus;NULL
+1133;superficial glial zone of the cochlear nuclei;NULL
+1134;recess of the inferior colliculus;NULL
+1135;retroparafascicular nucleus;NULL
+1136;ventral reuniens thalamic nucleus;NULL
+1137;lateroventral periolivary nucleus;NULL
+1138;accessory olfactory tract;NULL
+1139;visual tegmental relay zone;NULL
+1140;retroethmoid nucleus;NULL
+1141;accessory trigeminal nucleus;NULL
+1142;subcommissural nucleus;NULL
+1143;angular thalamic nucleus;NULL
+1144;scaphoid thalamic nucleus;NULL
+1145;retrorubral nucleus;NULL
+1146;rhabdoid nucleus;NULL
+1147;ventral part of the pontine reticular nucleus;NULL
+1148;strial part of the preoptic area;NULL
+1149;accessory nucleus of the ventral horn;NULL
+1150;component 'a' of the medial forebrain bundle;a
+1151;cortex-amygdala transition zone;NULL
+1152;caudal linear nucleus of the raphe;NULL
+1153;medial tuberal nucleus;NULL
+1154;nucleus of the horizontal limb of the diagonal band;NULL
+1155;amygdalostriatal transition area;NULL
+1156;ventral area of the secondary auditory cortex;NULL
+1157;dorsal tegmental bundle;NULL
+1158;nucleus of the lateral lemniscus;NULL
+1159;deep mesencephalic nucleus;NULL
+1160;medial part of the supramammillary nucleus;NULL
+1161;subpedencular tegmental nucleus;NULL
+1162;lambdoid septal zone;NULL
+1163;shell of the nucleus accumbens;NULL
+1164;posterior hypothalamic area (rodent);NULL
+1165;dorsomedial pontine nucleus;NULL
+1166;dorsolateral orbital cortex;NULL
+1167;dorsomedial cell group of the inferior olive;NULL
+1168;ethmoid nucleus of the thalamus;NULL
+1169;amygdalopiriform transition area;NULL
+1171;intercollicular nucleus;NULL
+1172;dorsal part of the dorsomedial hypothalamic nucleus;NULL
+1173;epirubrospinal nucleus;NULL
+1174;stigmoid hypothalamic nucleus;NULL
+1175;septohypothalamic nucleus;NULL
+1176;medial pretectal nucleus;NULL
+1177;sphenoid nucleus;NULL
+1178;nucleus of stria medullaris;NULL
+1179;bed nucleus of the accessory olfactory tract;NULL
+1180;calbindin-containing nucleus of pons;NULL
+1181;anterior commissural nucleus;NULL
+1182;periolivary region;NULL
+1183;area 1 of Peele;1
+1184;area 3 of Peele;3
+1185;area 7 of Peele;7
+1186;mesencephalic reticular nucleus;NULL
+1187;linear nucleus of the medulla;NULL
+1188;subependymal zone;NULL
+1189;accessory optic tract;NULL
+1190;dorsal peduncular cortex;NULL
+1191;interfascicular nucleus;NULL
+1192;granular insular cortex;NULL
+1193;nucleus Y;Y
+1194;adrenergic group C3;C3
+1195;intergeniculate leaf;NULL
+1196;noradrenergic group A6sc;A6sc
+1197;locus ceruleus complex;NULL
+1198;serotonergic group B6;B6
+1199;noradrenergic group A5;A5
+1200;dopaminergic group A14;A14
+1201;caudoventrolateral reticular nucleus;NULL
+1202;encephale isole;NULL
+1203;cerveau isole;NULL
+1204;lateral lemniscal nuclei;NULL
+1205;tegmental nuclei;NULL
+1206;limiting medullary lamina of the globus pallidus;NULL
+1207;cerebellar peduncles;NULL
+1208;cerebral sulci;NULL
+1209;cerebellar fiber tracts;NULL
+1210;cerebral lobes;NULL
+1211;cerebral gyri;NULL
+1212;cerebellar folia;NULL
+1213;cerebellar fissures;NULL
+1214;cerebellar hemisphere;NULL
+1215;Nucleus dorsalis raphae;NULL
+1216;ventral raphe;NULL
+1217;thalamic medullary laminae;NULL
+1218;cerebral projection fibers;NULL
+1219;cerebral association fibers;NULL
+1220;cerebral commissural fibers;NULL
+1221;cerebral hemisphere;NULL
+1222;superior nucleus of cranial nerve 5 (Goldberg);NULL
+1223;reticular formation of the brainstem;NULL
+1224;reticular nuclei;NULL
+1225;ascending reticular activating system;RAS
+1226;sensorimotor strip;NULL
+1227;cranial nerves;NULL
+1228;spinal nerves;NULL
+1229;allocortex;NULL
+1230;occipital lobe (Ono);NULL
+1231;temporal lobe (Ono);NULL
+1232;isthmus of the hindbrain;NULL
+1233;Wernicke's area;NULL
+1234;lentiform nucleus;NULL
+1235;lentiform fibers;NULL
+1236;subthalamic reticular nucleus;NULL
+1237;falx cerebri;NULL
+1238;falx cerebelli;NULL
+1239;Sylvian triangle;NULL
+1240;cerebellar tentorium;NULL
+1241;parabigeminal area;NULL
+1242;circumventricular organs;NULL
+1243;interposed nucleus of the cerebellum;ICb
+1244;precerebellar nuclei;NULL
+1245;Area commissurae postopticae;NULL
+1246;basal part of the midbrain;NULL
+1247;Tractus olfactomesencephalicus;NULL
+1248;Nucleus medianus anuli aqueductus;NULL
+1249;Nucleus lateralis anuli aqueductus;NULL
+1250;Nucleus olivaris dissipatus;NULL
+1251;Nucleus parabrachialis;NULL
+1252;paranigral nucleus;NULL
+1253;annular nucleus;NULL
+1254;Nucleus rotundus;NULL
+1255;Nucleus lateralis mesencephali;NULL
+1256;laterodorsal tegmental nucleus;LdTg
+1257;lateroventral tegmental nucleus;NULL
+1258;nucleus papilliformis;NULL
+1259;Nucleus subputaminalis;NULL
+1260;Radices descendentes nervi vestibulari;RDV
+1261;Radiatio geniculotemporalis;NULL
+1262;Tractus opticus, radix medialis;NULL
+1263;Tractus opticus, radix lateralis;NULL
+1264;Margo inferior;NULL
+1265;Margo medialis;NULL
+1266;Margo superior;NULL
+1267;Bulbus cornus occipitalis;NULL
+1268;lumbar cistern;NULL
+1269;Area retro-olivaris;'NULL'
+1270;cortical amygdalar transition area;NULL
+1271;Nucleus centralis lateralis inferior thalami;NULL
+1272;Nucleus centralis superior thalami;NULL
+1273;interanterodorsal nucleus of the thalamus;NULL
+1274;Nucleus interanteroventralis;NULL
+1275;medial hypothalamic zone (Crosby);NULL
+1276;Nucleus reticularis magnocellularis;NULL
+1277;Nucleus subfascicularis, pars magnocellularis;NULL
+1278;Nucleus subfascicularis, pars parvocellularis;NULL
+1279;Corpus quadrigemina;NULL
+1280;Nucleus area H1;NULL
+1281;Nucleus area H2;NULL
+1282;Nucleus dorsalis corporis trapezoidei;NULL
+1283;Nucleus ventralis corporis trapezoidei;NULL
+1284;lacrimal nucleus;NULL
+1285;Nucleus paraventricularis anterior;NULL
+1286;Nucleus paraventricularis posterior;NULL
+1287;Nucleus ventralis medialis;NULL
+1288;capsule of nucleus lateralis dorsalis;NULL
+1289;anterior cerebellar commissure;NULL
+1290;posterior cerebellar commissure;NULL
+1291;capsule of the anterior nuclear group;can
+1292;Area medioradiata;'NULL'
+1293;thalamus (Crosby);NULL
+1294;ventral thalamus (Crosby);NULL
+1295;Stratum alba colliculi superioris;NULL
+1296;granular layer of the cerebellar cortex;NULL
+1297;Stratum grisea colliculi superioris;NULL
+1298;Purkinje cell layer;NULL
+1299;molecular layer of the cerebellar cortex;NULL
+1300;Nuclei conterminalis;NULL
+1301;Decussatio fibrarum vestibularium;NULL
+1302;ventral decussation of the pons;NULL
+1303;Decussatio corporis trapezoidei;NULL
+1304;anterior white column;NULL
+1305;supralemniscal process;NULL
+1306;Processus griseum pontis tegmentalis lateralis;NULL
+1307;Nucleus parvocellularis compactus;NULL
+1308;sagulum nucleus;NULL
+1309;Stratum gliosum subependymale;NULL
+1310;Nucleus supravestibularis;NULL
+1311;Tegmen ventriculi quarti;NULL
+1312;acoustic sulcus;NULL
+1313;Sulcus cunei;NULL
+1314;intralimbic sulcus;NULL
+1315;medial frontal gyrus;NULL
+1316;Gyrus parietalis occipitalis;NULL
+1319;corticobulbar fibers;NULL
+1320;corticospinal tract;NULL
+1321;pyramidal system;NULL
+1322;corticopontine fibers;NULL
+1323;corticoreticular fibers;NULL
+1324;corticorubral fibers;NULL
+1325;corticothalamic fibers;NULL
+1326;frontopontine fibers;NULL
+1327;parietopontine fibers;NULL
+1328;occipitopontine fibers;NULL
+1329;temporopontine fibers;NULL
+1330;Fibrae intrathalamicae;NULL
+1331;Fibrae paraventriculares;NULL
+1332;Fibrae parietotemporopontinae;NULL
+1333;Fibrae supraopticae;NULL
+1334;thalamoparietal fibers;NULL
+1335;parietotemporo-occipitopontine tract;NULL
+1336;radiations of the corpus callosum;NULL
+1337;thalamocortical radiations;NULL
+1338;deep transitional gyrus;NULL
+1339;interlocking gyri;NULL
+1340;anterior cuneolingual gyrus;NULL
+1341;paracentral lobule;NULL
+1342;anterior paracentral gyrus;NULL
+1343;posterior paracentral gyrus;NULL
+1344;fields of Forel;NULL
+1345;pontocerebellar fibers;NULL
+1346;vestibulo-oculomotor fibers;NULL
+1347;Economo's areas;NULL
+1348;association cortex;NULL
+1349;extrastriate areas;NULL
+1350;primary somesthetic area;NULL
+1351;prefrontal cortex (Zilles);NULL
+1352;medial prefrontal cortex;NULL
+1353;supplementary motor areas (Crosby);NULL
+1354;primary auditory area;NULL
+1355;auditory association cortex;NULL
+1356;paralimbic association cortex;NULL
+1357;visual parasensory association cortex;NULL
+1358;gustatory area;NULL
+1359;cervical flexure;NULL
+1360;cephalic flexure;NULL
+1361;pontine flexure;NULL
+1362;neural plate;NULL
+1363;neural groove;NULL
+1364;neural fold;NULL
+1365;neural tube;NULL
+1366;neural crest;NULL
+1367;mantle layer of the neural tube;NULL
+1368;marginal layer of the neural tube;NULL
+1369;ependymal layer of the neural tube;NULL
+1370;alar plate;NULL
+1371;roof plate;NULL
+1372;basal plate;NULL
+1373;cerebellar plate;NULL
+1374;quadrigeminal plate;NULL
+1375;cerebral vesicle;NULL
+1376;transverse rhombencephalic sulcus;NULL
+1377;choroid plexus;NULL
+1378;tela choroidea;NULL
+1379;general somatic afferents;GSA
+1380;general somatic efferents;GSE
+1381;general visceral afferents;GVA
+1382;general visceral efferents;GVE
+1383;special somatic afferents;SSA
+1384;special visceral afferents;SVA
+1385;special visceral efferents;SVE
+1386;gustatory nucleus;NULL
+1387;cell group f;f
+1388;cell group y;y
+1389;vestibular nerve;v8n
+1390;vestibular cortex;NULL
+1391;medial raphe nucleus;NULL
+1392;semilunar tract;NULL
+1393;vagus nerve nuclei;NULL
+1394;specific sensory thalamic relay nuclei;NULL
+1395;cortical thalamic relay nuclei;NULL
+1396;thalamic association nuclei;NULL
+1397;centromedian-parafascicular nuclear complex;NULL
+1398;perihypoglossal nuclei;NULL
+1399;paramedian pontine reticular formation;NULL
+1400;accessory nerve nuclei;NULL
+1401;supraoptic decussations;NULL
+1402;trigeminal ganglion;NULL
+1403;sensory root of the trigeminal nerve;se5
+1404;vestibular ganglion;NULL
+1405;spiral ganglion;NULL
+1406;cochlear nerve;c8n
+1407;dentatoreticular fibers;NULL
+1408;dentatorubral fibers;NULL
+1409;nigrotectal fibers;NULL
+1410;nigrotegmental fibers;NULL
+1411;nigrothalamic fibers;NULL
+1412;pallidonigral fibers;NULL
+1413;pallidosubthalamic fibers;NULL
+1414;pallidotegmental fibers;NULL
+1415;pallidothalamic fibers;NULL
+1416;reticulocerebellar fibers;NULL
+1417;retinotectal fibers;NULL
+1418;rubrobulbar fibers;NULL
+1419;rubro-olivary fibers;NULL
+1420;rubroreticular fibers;NULL
+1421;strionigral fibers;NULL
+1422;striopallidal fibers;NULL
+1423;tectoreticular fibers;NULL
+1424;tectothalamic fibers;NULL
+1425;tectal tracts;NULL
+1426;tegmentocerebellar fibers;NULL
+1427;thalamostriate fibers;NULL
+1428;trigeminocerebellar fibers;NULL
+1429;medullary-pontine junction;NULL
+1430;spinomedullary junction;NULL
+1431;midbrain-diencephalic junction;NULL
+1432;layers of the superior colliculus;NULL
+1433;lemniscal system;NULL
+1434;chorda tympani;NULL
+1435;septo-hypothalamo-mesencephalic continuum;NULL
+1436;Papez circuit;NULL
+1437;secondary trigeminal tracts;NULL
+1438;primary sensory areas;NULL
+1439;internal sagittal stratum;NULL
+1440;geniculocalcarine radiation;NULL
+1441;subcallosal stratum (Mai);NULL
+1442;inferior occipitofrontal fasciculus;NULL
+1443;inferior longitudinal fasciculus;NULL
+1444;uncinate fasciculus of the forebrain;NULL
+1445;cingulum;NULL
+1446;corona radiata;NULL
+1447;recesses of third ventricle;NULL
+1448;facial nerve nuclei;NULL
+1449;commissures of the cerebellum;NULL
+1450;metathalamus (Crosby);NULL
+1451;lateral nuclear group (Crosby);NULL
+1452;intralaminar nuclei (Crosby);NULL
+1453;medial nuclear group (Crosby);NULL
+1454;dorsal thalamus (Crosby);NULL
+1455;dorsal thalamus (Swanson);NULL
+1456;nuclei of the habenulopeduncular tract;NULL
+1457;Nuclei colliculi superioris;NULL
+1458;Nucleus colliculi inferioris;NULL
+1459;posterior column nuclei;NULL
+1460;Telencephalon medium;NULL
+1461;brain sand;NULL
+1462;dura mater;NULL
+1463;pia mater;NULL
+1464;arachnoid mater;NULL
+1465;meninges;NULL
+1466;inferior optic radiation;NULL
+1467;sublenticular gray;NULL
+1468;circle of Willis;NULL
+1469;decussation of the superior medullary velum;NULL
+1470;basal optic root;NULL
+1471;nucleus of the transverse peduncular tract;NULL
+1472;parasplenial lobules;NULL
+1473;total fissure;NULL
+1474;olfactory ventricle;NULL
+1475;deep tegmental gray;NULL
+1476;nucleus intracuneiformis;NULL
+1477;posterior part of the inferior parietal lobule;NULL
+1478;sensory radiation;NULL
+1479;ventral tegmental gray;NULL
+1480;rhinencephalon (Crosby);NULL
+1481;Cornu ammonis (Crosby);NULL
+1482;tegmental gray of the pons;NULL
+1483;paleocerebellum (Crosby);NULL
+1484;neocerebellum (Crosby);NULL
+1485;Lobulus simplex (Crosby);NULL
+1486;postnodular fissure;NULL
+1487;Lobulus medianus;NULL
+1488;pontine gray;NULL
+1489;medial tegmental process of Jacobsohn;NULL
+1490;lateral tegmental process of Jacobsohn;NULL
+1491;parahypoglossal gray;NULL
+1492;Paraphysis;NULL
+1493;motor nucleus of the tegmentum;NULL
+1494;parabducens nucleus;NULL
+1495;minimus nucleus;NULL
+1496;subcallosal gyrus (Crosby);NULL
+1497;precommissural septum;NULL
+1498;retrofacial nucleus;NULL
+1499;septohippocampal nucleus;NULL
+1500;posteromedian lobule;NULL
+1501;Nucleus tangentialis (Winkler);NULL
+1502;accessory trochlear nucleus;NULL
+1503;nucleus of the mammillary peduncle;NULL
+1504;interstitial nucleus of the mammillary peduncle;NULL
+1505;frontal nucleus of the lateral lemniscus;NULL
+1506;corticomedial nuclear group (Crosby);NULL
+1507;caudate-lenticular complex;NULL
+1508;dorsal premammillary nucleus;NULL
+1509;ventral premammillary nucleus;NULL
+1510;heterotypic cortex;NULL
+1511;limitrophic cortex;NULL
+1512;interlobar fissures;NULL
+1513;intralobar fissures;NULL
+1514;Nucleus intercalatus (Malone);NULL
+1515;Nucleus interfascicularis hypoglossi;NULL
+1516;Rathke's pouch;NULL
+1517;infundibular stalk (Crosby);NULL
+1518;infundibular process (Crosby);NULL
+1519;Nucleus lateralis pars caudalis of midbrain;NULL
+1520;transverse temporal gyrus (human);NULL
+1521;transcapsular caudatolenticular gray striae;NULL
+1522;superficial pontine stratum;NULL
+1523;subthalamicotegmental tract;NULL
+1524;cerebellorubrothalamic tract;NULL
+1525;orbitofrontal fibers;NULL
+1526;lamina cornea;NULL
+1527;peduncle of substantia nigra;NULL
+1528;prerubral tract;NULL
+1529;caudal nucleus of the zona incerta;NULL
+1530;interstitial nucleus of the habenular commissure;NULL
+1531;glomus of the choroid plexus;NULL
+1532;transverse cerebral fissure;NULL
+1533;intercollicular gray;NULL
+1534;cingulate gyrus (Crosby);NULL
+1535;geniculate ganglion;NULL
+1536;long association bundles;NULL
+1537;short association fibers;NULL
+1538;transverse fasciculus of the lingula;NULL
+1539;Gyrus parietalis medialis (Winters);NULL
+1540;transverse fasciculus of the cuneus;NULL
+1541;ventral occipital fasciculus;NULL
+1542;olfactory stalk;NULL
+1543;epithalamus (Crosby);NULL
+1544;occipital eye fields;NULL
+1545;preoccipital eye fields;NULL
+1546;amygdaloinsular fasciculus;NULL
+1547;amygdalotemporal fasciculus;NULL
+1548;periventricular layer;NULL
+1549;parieto-occipital cortex;NULL
+1550;temporo-occipital cortex;NULL
+1551;medullary lamina of the red nucleus;NULL
+1552;corticosubcortical gray;NULL
+1553;parietotemporal association cortex;NULL
+1554;temporal association areas;NULL
+1555;projection areas of the cortex;NULL
+1556;auditory cortex;NULL
+1557;second auditory area;NULL
+1558;commissures of the midbrain;NULL
+1559;commissures of the telencephalon;NULL
+1560;commissure of Probst;NULL
+1561;chiasmal ridge;NULL
+1562;Meckel's cave;NULL
+1563;vertical occipital fasciculus;NULL
+1564;thalamic commissure;NULL
+1565;accessory olfactory bulb;NULL
+1566;vomeronasal organ;NULL
+1567;vomeronasal nerve;NULL
+1568;vomeronasal-terminal nerve complex;NULL
+1569;Fasciculus obliquus crucis cerebri;NULL
+1570;Cingulum ammonale;NULL
+1571;ciliary body;NULL
+1572;trigeminal lemniscus;NULL
+1573;dorsal longitudinal fasciculus;NULL
+1574;pretectal area (Crosby);NULL
+1575;principal olivary nucleus (Martinez);NULL
+1576;Forel's Field H1+H2 (Olszewski);NULL
+1577;Nucleus principalis nervi oculomotorii;NULL
+1578;medial parietal gyrus;NULL
+1579;Cingulum limitans;NULL
+1580;posterior perforated substance;NULL
+1581;anterior cortical nucleus of the amygdala;NULL
+1582;medial nucleus of the amygdala (Amaral);NULL
+1583;medial lemniscus;NULL
+1584;central gray substance;NULL
+1585;grey commissure;NULL
+1586;lateral somatic cell columns;NULL
+1587;visceral oculomotor nuclei;NULL
+1588;medial longitudinal fasciculus;NULL
+1589;spinal trigeminal tract;NULL
+1590;tuberohypophysial tract;NULL
+1591;hypothalamohypophyseal tract;NULL
+1592;pontomedullary junction;NULL
+1593;periventricular nucleus of the hypothalamus;NULL
+1594;dorsal periventricular nucleus;NULL
+1595;ventral periventricular hypothalamic nucleus;NULL
+1596;tapetum;NULL
+1597;true isocortex;NULL
+1598;allocortex (Stephan);NULL
+1599;semicortex (Rose);NULL
+1600;septal region (Swanson);NULL
+1601;precommissural septum (Crosby);NULL
+1602;extended amygdala;NULL
+1603;striatopallidal system;NULL
+1604;dorsal pallidum;NULL
+1605;ventral pallidum;NULL
+1606;Subregio praecingularis;NULL
+1607;Subregio postcingularis;NULL
+1608;Area infraradiata dorsalis;NULL
+1609;descending terminal ramus;NULL
+1610;medial precentral sulcus;NULL
+1611;superior parietal sulcus;NULL
+1612;semiannular sulcus;NULL
+1613;sulcus of the preoccipital incisura;NULL
+1614;frontomarginal sulcus;NULL
+1615;frontomarginal gyrus;NULL
+1616;marginal precentral sulcus;NULL
+1617;intermediate precentral sulcus;NULL
+1618;medial frontal sulcus;NULL
+1619;stem of the lateral sulcus;NULL
+1620;accessory oculomotor nuclei;NULL
+1621;supraoptic region;NULL
+1622;tuberculum cinereum;NULL
+1623;intermediate olfactory stria;NULL
+1624;Nucleus centralis densocellularis;NULL
+1625;cortical maps;NULL
+1626;cauda equina;NULL
+1627;conus;NULL
+1628;spinospinal columns;NULL
+1629;Filum terminale;NULL
+1630;anterior cornucommissural nucleus;NULL
+1631;posterior cornucommissural nucleus;NULL
+1632;Nucleus pericornualis anterior;NULL
+1633;proper sensory nucleus;NULL
+1634;Nucleus proprius of the anterior horn;NULL
+1635;lamina II;II
+1636;Zona spongiosa;NULL
+1637;anterior gray commissure;NULL
+1638;anterior horn nuclei;NULL
+1639;anterior median fissure of the spinal cord;NULL
+1640;anterior spinothalamic tract;NULL
+1641;anterior white commissure;NULL
+1642;anterolateral corticospinal tract;NULL
+1643;anterolateral white column;NULL
+1644;anterolateral sulcus of the spinal cord;NULL
+1646;basal operculum;NULL
+1647;caput of the dorsal horn;NULL
+1648;central cervical nucleus;NULL
+1649;central glial substance;NULL
+1650;central gray columns of the spinal cord;NULL
+1652;centrobasal nucleus;NULL
+1653;cervical enlargement;NULL
+1654;cervical segments;NULL
+1655;cervicothalamic tract;NULL
+1656;coccygeal segments;NULL
+1658;commissural nucleus of the spinal cord;NULL
+1659;cuneate fasciculus of the spinal cord;NULL
+1660;dorsal nucleus of Clarke;NULL
+1661;dorsal root fibers;NULL
+1663;fastigiospinal tract;NULL
+1664;gracile fasciculus of the spinal cord;NULL
+1665;gray commissure;NULL
+1666;inferior commissure of the spinal cord;NULL
+1667;lateral gray column;NULL
+1668;intermediomedial cell column;NULL
+1669;internuncial nuclear group;NULL
+1670;interstitiospinal tract;NULL
+1671;lateral bundle;NULL
+1672;lateral cervical nucleus;NULL
+1673;lateral white column;NULL
+1674;lateral nuclear group of the anterior horn;NULL
+1675;lateral spinothalamic tract;NULL
+1676;lumbar enlargement;NULL
+1677;lumbar segments;NULL
+1678;lumbosacral nucleus;NULL
+1679;margo denticulatus;NULL
+1680;medial bundle;NULL
+1681;medial nuclear group of the anterior horn;NULL
+1682;lateral reticulospinal tract;NULL
+1683;olivospinal tract;NULL
+1684;pallidohypothalamic nucleus;NULL
+1685;medial reticulospinal tract;NULL
+1686;posterior gray column;NULL
+1688;posterior intermediate septum;NULL
+1689;posterior intermediate sulcus of the spinal cord;NULL
+1690;posterior median septum;NULL
+1691;posterior median sulcus of the spinal cord;NULL
+1692;posterior white column;NULL
+1693;posterolateral sulcus of the spinal cord;NULL
+1694;reticular nucleus of the spinal cord;NULL
+1695;lamina III;III
+1696;lamina IV;IV
+1697;lamina IX;IX
+1698;lamina V;V
+1699;lamina VI;VI
+1700;lamina VII;VII
+1701;lamina VIII;VIII
+1702;lamina X;X
+1703;gray spinal laminae;NULL
+1704;sacral autonomic nuclei;NULL
+1705;sacral parasympathetic cell column;NULL
+1706;sacral segments;NULL
+1707;septomarginal tract;NULL
+1708;spinal accessory nucleus;NULL
+1709;spinal part of the accessory nerve;NULL
+1710;spinocervical tract;NULL
+1711;spinocortical tract;NULL
+1712;spinopontine tract;NULL
+1713;spinoreticular tract;NULL
+1714;spinotectal tract;NULL
+1715;spinovestibular tract;NULL
+1716;subventricular terminal island;NULL
+1718;thoracic segments;NULL
+1719;tract of Phillippe-Gombault;NULL
+1720;sacral nerves;NULL
+1721;German horizontal plane;NULL
+1722;posterior intersegmental tract of the spinal cord;NULL
+1723;Vinculum lingulae;NULL
+1724;mediale magnozellulare Zone (Formatio reticularis);NULL
+1725;Thorakalnervenpaare;NULL
+1726;anterior thalamic radiations;NULL
+1727;plane of section;NULL
+1728;posterior basal cistern;NULL
+1729;sagittal section;NULL
+1730;lumbar nerves;NULL
+1731;central sulcus of Roland;NULL
+1732;spinal trigeminal nucleus;NULL
+1733;central canal of the spinal cord;NULL
+1735;anterior intersegmental tract of the spinal cord;NULL
+1736;superior cerebellar peduncle;NULL
+1737;mediane Zone (Formatio reticularis);NULL
+1738;aberrant fibers (Dejerine);NULL
+1740;Tractus spinobulbaris;NULL
+1741;Nucleus praestitialis;NULL
+1742;molecular layer of the  hippocampus;NULL
+1743;anterior basal cistern;NULL
+1744;lateral intersegmental tract of the spinal cord;NULL
+1746;spinal segments;NULL
+1747;branchiomeric cranial nerves;NULL
+1748;plexus of Exner;NULL
+1749;visual-auditory cortex;NULL
+1750;archicortex (Carpenter);NULL
+1751;anterior gray column;NULL
+1752;cerebellar commissure;NULL
+1753;noradrenergic group Acg;Acg
+1754;parvalbumin-containing nucleus of the hypothalamus;NULL
+1755;beta subnucleus of the inferior olive;NULL
+1756;medial part of the superior central raphe nucleus;NULL
+1757;supratrigeminal nucleus;NULL
+1758;adrenergic group C1;C1
+1759;ventromedial nucleus of the thalamus;NULL
+1760;ventral tuberomammillary nucleus;NULL
+1761;xiphoid nucleus of the thalamus;NULL
+1762;posterior intralaminar nucleus of the thalamus;NULL
+1763;ventral tenia tecta;NULL
+1764;dorsal hippocampal commissure;NULL
+1766;lobule V;V
+1767;medial parietal association cortex;NULL
+1768;precommissural nucleus;NULL
+1769;anterior part of the ventral cochlear nucleus;NULL
+1770;telencephalic dopaminergic group;NULL
+1771;parapyramidal nucleus;NULL
+1772;ventral part of the dorsomedial hypothalamic nucleus;NULL
+1773;lateral stripe of the striatum;NULL
+1774;amygdalar capsule;NULL
+1775;compact part of nucleus incertus;NULL
+1776;piriform amygdalar area;NULL
+1777;stratum lucidum;NULL
+1778;submammillothalamic nucleus;NULL
+1779;noradrenergic group A4;A4
+1780;dysgranular insular cortex;NULL
+1781;cell bridges of the ventral striatum;NULL
+1782;tuberal area of hypothalamus;NULL
+1783;subependymal glial membrane;NULL
+1784;fundus striati (rodent);NULL
+1785;dorsolateral periaqueductal gray;NULL
+1786;central part of the mediodorsal thalamic nucleus;NULL
+1787;serotonergic group B9;B9
+1788;terete hypothalamic nucleus;NULL
+1789;medullary reticular nucleus;NULL
+1790;anterodorsal preoptic nucleus;NULL
+1791;ventral part of anterior cingulate cortex;2
+1792;diffuse part of nucleus incertus;NULL
+1793;infracerebellar nucleus;Inf
+1794;ventral part of the medullary reticular nucleus;NULL
+1795;ectorhinal cortex;NULL
+1796;parafloccular sulcus;NULL
+1797;nucleus Z;Z
+1798;dopaminergic group A15;A15
+1799;noradrenergic group A2;A2
+1800;ventral hippocampal commissure;NULL
+1801;magnocellular reticular nucleus;NULL
+1802;retrosplenial granular cortex;NULL
+1803;ventrolateral periaqueductal gray;NULL
+1804;caudal periolivary nucleus;NULL
+1805;dorsal fornix (rodent);NULL
+1806;dorsal tenia tecta;NULL
+1807;magnocellular preoptic nucleus;NULL
+1808;rostral linear nucleus of the raphe;NULL
+1809;caudal interstitial nucleus of the medial longitudinal fasciculus;NULL
+1810;superficial white layer of the superior colliculus;scsw
+1811;dopaminergic group A9;A9
+1812;anterior cingulate area;NULL
+1813;anteroventral preoptic nucleus;NULL
+1814;intertrigeminal nucleus;NULL
+1815;lateral part of the mediodorsal thalamic nucleus;NULL
+1816;ventral anterolateral nucleus of the thalamus;NULL
+1817;external genu of the facial nerve;NULL
+1818;catecholaminergic group Ats;Ats
+1819;serotonergic group B4;B4
+1820;parietal association cortex;NULL
+1821;temporal association cortex;NULL
+1822;superficial gray layer of the superior colliculus;SCsg
+1823;dorsal terminal nucleus of the accessory optic tract;NULL
+1824;serotonergic group B8;B8
+1825;microcellular tegmental nucleus;NULL
+1826;simple fissure;NULL
+1827;stratum lemnisci of the superior colliculus;SCl
+1828;zonal layer of the superior colliculus;SCz
+1829;dorsal area of the secondary auditory cortex;NULL
+1830;interanteromedial thalamic nucleus;NULL
+1831;infralimbic cortex;NULL
+1832;dopaminergic group A17;A17
+1833;mediolateral area of the secondary visual cortex;NULL
+1834;prerubral field (mouse);NULL
+1835;dopaminergic group A10;A10
+1836;posterior mammillary nucleus;NULL
+1837;noradrenergic group A6;A6
+1838;gemini hypothalamic nucleus;NULL
+1839;rolandic areas;NULL
+1840;core of the nucleus accumbens;NULL
+1841;intermediate nucleus of the lateral lemniscus;NULL
+1842;posterior part of the ventral cochlear nucleus;NULL
+1843;lateral terminal nucleus of the accessory optic tract;NULL
+1844;lobule III;III
+1845;dorsomedial periaqueductal gray;NULL
+1846;mediomedial area of the secondary visual cortex;NULL
+1847;brachium pontis (Paxinos);NULL
+1848;paraflocculus (rodent);NULL
+1849;dorsal periolivary region;NULL
+1850;dopaminergic group A11;A11
+1851;dopaminergic group A13;A13
+1852;serotonergic group B5;B5
+1853;circular nucleus;NULL
+1854;medioventral periolivary nucleus;NULL
+1855;mammillary recess;NULL
+1856;ependyma;NULL
+1857;serotonergic group B2;B2
+1858;lobule IV;IV
+1859;serotonergic group B3;B3
+1860;accessory abducens nucleus;NULL
+1861;compact part of the dorsomedial hypothalamic nucleus;NULL
+1862;retina;NULL
+1863;zona limitans;NULL
+1864;noradrenergic group A1;A1
+1865;posterior pretectal nucleus;NULL
+1866;nucleus X;X
+1867;dopaminergic group A16;A16
+1868;intermediodorsal thalamic nucleus;NULL
+1869;subparaventricular zone of the hypothalamus;NULL
+1870;tenia tecta;NULL
+1871;noradrenergic group A7;A10
+1872;retrochiasmatic part of the supraoptic nucleus;NULL
+1873;serotonergic group B1;B1
+1874;perirhinal cortex (rodent);NULL
+1876;nucleus of the vertical limb of the diagonal band;NULL
+1877;adrenergic group C2;C2
+1878;agranular insular area;NULL
+1879;parastrial nucleus;NULL
+1880;dopaminergic group A12;A12
+1881;dorsal tuberomammillary nucleus;NULL
+1882;dorsal part of the medullary reticular nucleus;NULL
+1883;lateral entorhinal cortex;NULL
+1884;folium-tuber;NULL
+1885;retrosplenial agranular cortex;NULL
+1886;medial part of the mediodorsal thalamic nucleus;MDm
+1887;ventral endopiriform nucleus;NULL
+1888;retrorubral field;NULL
+1889;dopaminergic group Aaq;Aaq
+1890;tuberal nucleus;NULL
+1891;dorsal lateral olfactory tract;NULL
+1892;waist part of the parabrachial nucleus;NULL
+1893;beta part of the central gray;NULL
+1894;copula of the pyramis;NULL
+1895;serotonergic group B7;B7
+1896;area 2 of Peele;2
+1897;area 5 of Peele;5
+1898;parvicellular part of the motor nucleus of the trigeminal nerve;NULL
+1899;olfactory fila;NULL
+1900;olfactory epithelium;NULL
+1901;subventricular zone;NULL
+1902;median part of the medial mammillary nucleus;NULL
+1903;lateroanterior hypothalamic nucleus;NULL
+1904;lateral orbital cortex;NULL
+1905;medial orbital cortex;NULL
+1906;lateral occipital sulcus (VEL);NULL
+1907;prefrontal cortex (M);NULL
+1909;secondary somesthetic area;NULL
+1910;primary motor cortex;NULL
+1911;visual cortex (rodent);V
+1912;lateral part of the superior central raphe nucleus;NULL
+1913;orbital area (rodent);NULL
+1914;dorsal;NULL
+1915;ventral;NULL
+1916;caudal;NULL
+1917;rostral;NULL
+1918;lateral;NULL
+1919;medial;NULL
+1920;retrodorsolateral nucleus of the spinal cord;NULL
+1921;dorsomedial nucleus of the spinal cord;NULL
+1922;medial eminence;NULL
+1923;piriform cortex of the frontal lobe;NULL
+1924;accessory facial nucleus;NULL
+1925;horizontal nucleus of the diagonal band;NULL
+1926;vertical nucleus of the diagonal band;NULL
+1927;parabrachial nucleus;NULL
+1928;angular bundle;NULL
+1929;dorsal part of the anterior hypothalamic nucleus;NULL
+1930;posterior part of the anterior hypothalamic nucleus;NULL
+1931;anterior hypothalamic area (Swanson);NULL
+1932;central part of the anterior hypothalamic nucleus;NULL
+1933;anterior laterolateral visual area;NULL
+1934;anterolateral visual area;NULL
+1935;anteromedial visual area;NULL
+1936;caudal intracentral fissure;NULL
+1939;choroid fissure of the fourth ventricle;NULL
+1940;choroid fissure of the third ventricle;NULL
+1941;granular lamina of the cochlear nuclei;NULL
+1942;subpeduncular granular region of the cochlear nuclei;NULL
+1943;commissural nucleus of the periaqueductal gray;NULL
+1944;declival fissure 2;NULL
+1945;magnocellular part of the dentate nucleus;NULL
+1946;parvicellular part of the dentate nucleus;NULL
+1947;dorsal column nuclei;NULL
+1948;efferent cochleovestibular bundle;NULL
+1949;efferent vestibular nucleus;NULL
+1950;intermediolateral visual area;NULL
+1951;mediolateral visual area;NULL
+1953;internuclear area of the periventricular region;NULL
+1954;interstitial nucleus of the auditory nerve;NULL
+1955;intracentral fissure 2;2
+1956;intergeniculate leaflet of the lateral geniculate complex;NULL
+1957;lateral tegmental nucleus;NULL
+1958;medial septal complex;NULL
+1959;external lamina of the median eminence;NULL
+1960;internal lamina of the median eminence;NULL
+1961;magnocellular part of the motor nucleus of the trigeminal nerve;NULL
+1962;nodular fissure;NULL
+1963;paragigantocellular reticular nucleus;NULL
+1964;paramedian sulcus;pmds
+1965;perireuniens nucleus;NULL
+1966;pineal stalk;NULL
+1967;pontine reticular nucleus;NULL
+1968;pyramidal layer of the piriform area;NULL
+1969;posterior auditory area;NULL
+1970;posterodorsal preoptic nucleus;NULL
+1971;postpiriform transition area;NULL
+1972;precentral fissure a;a
+1973;preparasubthalamic nucleus;NULL
+1974;pyramidal fissure;NULL
+1975;rhinal incisure;NULL
+1976;somatomotor areas;NULL
+1977;somatosensory areas;NULL
+1978;spinocerebellar tracts;sct
+1979;sublaterodorsal nucleus;NULL
+1980;suprachiasmatic preoptic nucleus;NULL
+1981;supragenual nucleus;Sg
+1982;thalamic peduncles;NULL
+1983;hypothalamic part of the third ventricle;NULL
+1984;periventricular recess of the third ventricle;NULL
+1985;thalamic part of the third ventricle;NULL
+1986;uvular fissure 1;1
+1987;ventral posterior complex of the thalamus;NULL
+1988;parvicellular part of the ventral posterolateral nucleus of the thalamus;NULL
+1989;principal part of the ventral posterolateral nucleus of the thalamus;NULL
+1990;posterolateral visual area;NULL
+1991;posteromedial visual area;NULL
+1992;rostrolateral visual area;NULL
+1993;midbrain reticular nucleus;NULL
+1994;laterolateral visual area;NULL
+1995;intraculminate fissure;icu
+1996;posterodorsal intraculminate fissure;NULL
+1997;basal forebrain;NULL
+1998;terminal ventricle of the spinal cord;NULL
+1999;ventrolateral nucleus of the spinal cord;NULL
+2000;ventromedial nucleus of the spinal cord;NULL
+2001;dorsolateral nucleus of the spinal cord;NULL
+2002;central nucleus of the spinal cord;NULL
+2003;nucleus of the accessory nerve;NULL
+2004;nucleus of the phrenic nerve;NULL
+2005;apex of the posterior horn;NULL
+2006;neck of the posterior horn;NULL
+2007;base of the posterior horn;NULL
+2008;second visceral substance of the spinal cord;NULL
+2012;reticular formation of the spinal cord;NULL
+2014;bulboreticulospinal tract;NULL
+2015;pontoreticulospinal tract;NULL
+2016;piriform cortex of the temporal lobe;NULL
+2017;dorsal gray commissure;NULL
+2020;planum polare;NULL
+2021;trigeminal nuclei;NULL
+2022;Polus insulae;NULL
+2023;mixed cell part of the substantia nigra;NULL
+2024;Gyrus fasciolaris (Amaral);NULL
+2025;Fasciola cinerea (Amaral);NULL
+2026;hippocampal formation (Amaral);NULL
+2027;subicular complex;NULL
+2028;amygdalohippocampal area;NULL
+2029;diverticulum unci;NULL
+2030;prosubiculum;NULL
+2031;intrarhinal sulcus;NULL
+2032;basal nucleus of the amygdala (Amaral);NULL
+2033;dorsomedial division of the lateral nucleus of the amygdala;NULL
+2034;ventrolateral division of the lateral nucleus of the amygdala;NULL
+2035;medial division of the central nucleus of the amygdala;NULL
+2036;lateral division of the central nucleus of the amygdala;NULL
+2037;magnocellular division of the accessory basal nucleus;NULL
+2038;parvicellular division of the accessory basal nucleus;NULL
+2039;ventromedial division of the accessory basal nucleus;NULL
+2040;medial fiber bundle of the amygdala;NULL
+2041;magnocellular division of the basal nucleus;NULL
+2042;intermediate division of the basal nucleus;NULL
+2043;parvicellular division of the basal nucleus (Amaral);NULL
+2044;paralaminar nucleus of the amygdala;NULL
+2045;lateral fiber bundle of the amygdala;NULL
+2046;intermediate fiber bundle of the amygdala;NULL
+2047;true septum;NULL
+2048;intralimbic gyrus;NULL
+2049;medial vestibulospinal tract;NULL
+2050;uncinate gyrus;NULL
+2051;basal ganglia (Carpenter);NULL
+2052;brainstem;NULL
+2053;cerebral peduncle (Hensyl);NULL
+2054;autonomic nervous system;NULL
+2055;limbic system;NULL
+2056;secondary olfactory areas;NULL
+2057;medial olfactory area;NULL
+2058;spinothalamic tract;NULL
+2059;basal ganglia (Crosby);NULL
+2060;basal ganglia (clinical definition);NULL
+2061;limbic lobe (Anthoney);NULL
+2062;Broca's area;NULL
+2063;arcuate fasciculus;NULL
+2064;basal ganglia (Martin);NULL
+2065;frontal eye field;NULL
+2066;intermediate zone of the cerebellum;NULL
+2067;pyriform lobe;NULL
+2068;cerebrum;NULL
+2069;supratrochlear nucleus;NULL
+2070;extrapyramidal system;NULL
+2071;Gyrus occipitotemporalis medialis (Nomina);NULL
+2072;ambiens gyrus;NULL
+2073;hippocampal rudiment;NULL
+2074;prehippocampal rudiment;NULL
+2075;Hypophysis (Carpenter);NULL
+2076;isthmus of the brain;NULL
+2077;Rhinencephalon (Nomina);NULL
+2078;rhinencephalon;NULL
+2079;septal area;NULL
+2080;superior longitudinal fasciculus;NULL
+2081;superior thalamic radiations;NULL
+2082;inferior thalamic radiations;NULL
+2083;posterior thalamic radiations;NULL
+2084;auditory radiation;NULL
+2085;accessory nerve;NULL
+2086;simian sulcus;NULL
+2087;regio inferior of the hippocampus;NULL
+2088;layers of the fascia dentata;NULL
+2089;layers of CA3 field;NULL
+2090;layers of CA1 field;NULL
+2091;layers of CA2 field;NULL
+2092;layers of the subiculum;NULL
+2093;layers of the presubiculum;NULL
+2094;lateral dorsal subnucleus of the midbrain central gray;NULL
+2095;lateral ventral subnucleus of the midbrain central gray;NULL
+2096;lateral subnucleus of the midbrain central gray;NULL
+2097;medial subnucleus of the midbrain central gray;NULL
+2098;dorsal subnucleus of the midbrain central gray;NULL
+2099;cingulate gigantopyramidal field;NULL
+2100;solitary cells of Meynert;NULL
+2101;area 22 of Brodmann (human);22
+2102;area 17 of Brodmann (human);17
+2103;area 25 of Brodmann (human);25
+2104;area 29 of Brodmann-1909 (human);29
+2105;area 46 of Brodmann (human);46
+2106;area 41 of Brodmann (human);41
+2107;area 23 of Brodmann (human);23
+2108;area 42 of Brodmann (human);42
+2109;area 18 of Brodmann (human);18
+2110;area 43 of Brodmann (human);43
+2111;area 19 of Brodmann (human);19
+2112;area 20 of Brodmann (human);20
+2113;area 24 of Brodmann (human);24
+2114;area 26 of Brodmann (human);26
+2115;area 34 of Brodmann (human);34
+2116;area 48 of Brodmann (human);48
+2117;area 11 of Brodmann (human);11
+2118;band of Gennari;NULL
+2120;stripe of Kaes;NULL
+2121;molecular layer of the dentate gyrus;NULL
+2122;granular layer of the dentate gyrus;NULL
+2123;polymorphic layer of the dentate gyrus;NULL
+2124;corticostriate fibers;NULL
+2125;nigrostriatal fibers;NULL
+2126;nucleus of the bulbar accessory nerve;11
+2127;paravermal cortex;NULL
+2128;lateral zone of the cerebellum;NULL
+2129;paravermal zone of the cerebellum;NULL
+2130;tuberal region;NULL
+2131;medial corticohypothalamic tract;NULL
+2132;septal region (Carpenter);NULL
+2133;corticofugal fibers;NULL
+2134;amygdalohypothalamic fibers;NULL
+2135;striatonigral fibers;NULL
+2136;striatopallidal fibers;NULL
+2137;amygdalostriate fibers;NULL
+2138;lamina I;I
+2139;Nucleus intercalatus (Le Gros Clark);NULL
+2140;mammillo-infundibular nucleus;NULL
+2141;subcallosal fasciculus;NULL
+2142;prothalamus;NULL
+2143;middle lobe of Elliot Smith;NULL
+2144;middle lobe of Ingvar;NULL
+2145;capsule of the inferior colliculus;NULL
+2146;medial medullary lamina of the inferior colliculus;NULL
+2147;lateral medullary lamina of the inferior colliculus;NULL
+2148;paralemniscal gray;NULL
+2149;Nucleus amygdaloideus corticalis;NULL
+2150;Nucleus intercalatus (Rose);NULL
+2151;posterior parolfactory gyrus;NULL
+2152;anterior parolfactory gyrus;NULL
+2153;longitudinal striae;NULL
+2154;bands of Baillarger;NULL
+2155;temporal vestibular area;NULL
+2156;prefrontal cortex (Crosby);NULL
+2157;Fissura intraparafloccularis;NULL
+2158;fundus striati (primate);NULL
+2159;pars lateralis of the substantia nigra;NULL
+2160;Nucleus alaris (Olszewski);NULL
+2161;Nucleus parataenialis parvocellularis (Hassler);NULL
+2162;Nucleus parataenialis interstitialis (Hassler);NULL
+2163;Nucleus intralamellaris (Hassler);NULL
+2164;Nucleus intralamellaris oralis (Hassler);NULL
+2165;intralamellar thalamic nuclei;NULL
+2166;Nucleus intralamellaris interpolaris (Hassler);NULL
+2167;Nucleus intralamellaris caudalis (Hassler);NULL
+2168;Nucleus centralis thalami, parvocellularis (Hassler);NULL
+2169;Nucleus centralis thalami, magnocellularis (Hassler);NULL
+2170;Nucleus anteroreuniens (Hassler);NULL
+2171;Nucleus limitans (Hassler);NULL
+2172;Nucleus limitans medialis (Hassler);NULL
+2173;Nucleus limitans portae (Hassler);NULL
+2174;Nucleus centralis latocellularis;NULL
+2175;Nucleus centralis inferior thalami;NULL
+2176;Nucleus centralis intermedialis;NULL
+2177;dorsomedial central lateral nucleus;NULL
+2178;commissural nucleus of the thalamus;NULL
+2179;superficial pulvinar nucleus;NULL
+2180;Nucleus pulvinaris medialis (Hassler);NULL
+2181;Nucleus pulvinaris medialis internus (Hassler);NULL
+2182;Nucleus pulvinaris medialis dorsalis (Hassler);NULL
+2183;Nucleus pulvinaris medialis zentralis (Hassler);NULL
+2184;Nucleus pulvinaris medialis ventralis (Hassler);NULL
+2185;Nucleus pulvinaris ventralis (Hassler);NULL
+2186;intergeniculate pulvinar;NULL
+2187;Nucleus pulvinaris suprabrachialis (Hassler);NULL
+2188;Nucleus pulvinaris oralis (Hassler);NULL
+2189;Nucleus pulvinaris orolateralis (Hassler);NULL
+2190;Nucleus pulvinaris oromedialis (Hassler);NULL
+2191;Nucleus pulvinaris oroventralis (Hassler);NULL
+2192;Nucleus geniculatus lateralis ventralis, pars caudalis;NULL
+2193;Nucleus geniculatus lateralis ventralis, pars oralis;NULL
+2194;Nucleus habenularis lateralis magnocellularis (Hassler);NULL
+2195;Nucleus habenularis lateralis interstitialis (Hassler);NULL
+2196;Nucleus habenularis lateralis mixtocellularis (Hassler);NULL
+2197;Nucleus habenularis lateralis, pars parvocellularis;NULL
+2198;Nucleus geniculatus medialis (Hassler);NULL
+2199;Nucleus geniculatus medialis limitans (Hassler);NULL
+2200;Nucleus geniculatus medialis, pars parvocellularis;NULL
+2201;Nucleus paramedianus oralis (Hassler);NULL
+2202;Nucleus paramedianus caudalis (Hassler);NULL
+2203;Nucleus paramedianus principalis (Hassler);NULL
+2204;central tegmental tract;ctg
+2205;Nucleus ventralis oralis, pars medialis (Dewulf);NULL
+2206;Nucleus ventralis lateralis (Walker);NULL
+2207;ventral lateral nucleus (Ilinsky);NULL
+2208;Nucleus dorsooralis (Hassler);NULL
+2209;Nucleus dorsooralis internus (Hassler);NULL
+2210;Nucleus dorsooralis externus (Hassler);NULL
+2211;Nucleus lateropolaris (Hassler);NULL
+2212;Nucleus dorsointermedius externus (Hassler);NULL
+2213;Nucleus dorsointermedius internus (Hassler);NULL
+2214;Nucleus dorsointermedius superior (Hassler);NULL
+2215;Nucleus ventrointermedius internus (Hassler);NULL
+2216;Nucleus ventrointermedius externus (Hassler);NULL
+2217;Nucleus zentrolateralis intermedius internus (Hassler);NULL
+2218;Nucleus zentrolateralis intermedius externus (Hassler);NULL
+2219;Nucleus zentrolateralis caudalis internus (Hassler);NULL
+2220;Nucleus zentrolateralis caudalis externus (Hassler);NULL
+2221;Nucleus ventrocaudalis anterior externus (Hassler);NULL
+2222;motor thalamus;NULL
+2223;anterolateral region of the motor thalamus;NULL
+2224;anteromedial region of the motor thalamus;NULL
+2225;posterior region of the motor thalamus;NULL
+2226;anterior division of the ventral posterior lateral nucleus;NULL
+2227;posterior division of the ventral posterior lateral nucleus;NULL
+2228;ventrolateral anterior nucleus;NULL
+2229;ventrolateral posterior nucleus;NULL
+2230;nonmotor region of the ventral nuclear group;NULL
+2231;uncal sulcus;NULL
+2232;inferior division of the oculomotor nerve;NULL
+2233;subhabenular nucleus;NULL
+2234;striatal cell bridges;NULL
+2235;substriatal terminal island;NULL
+2236;tubercular terminal island(s);NULL
+2237;amygdalostriate transition area;NULL
+2238;frontopolar area (Mai);NULL
+2239;corticoamygdalar transition area;NULL
+2240;subependymal gray;NULL
+2241;supracapsular part of the globus pallidus;NULL
+2242;subcaudate terminal island;NULL
+2243;sexual dimorphic nucleus;NULL
+2244;sublenticular stria;NULL
+2245;pallidohypothalamic fasciculus;NULL
+2246;peduncle of the lenticular nucleus;NULL
+2247;medial occipitotemporal gyrus (Mai);NULL
+2248;amygdalar island;NULL
+2249;posterior limitans nucleus of the thalamus;NULL
+2250;precommissural archicortex;NULL
+2251;uncal notch;NULL
+2252;parafornical nucleus;NULL
+2253;subparafascicular nucleus of the thalamus;NULL
+2254;superficial medullary stratum;NULL
+2255;falciform fold;NULL
+2256;orbitoinsular sulcus;NULL
+2257;posterior inferior sulcus;NULL
+2258;superior marginal sulcus of the insula;NULL
+2259;inferior marginal sulcus of the insula;NULL
+2260;area 12 of Brodmann (human);12
+2261;tuberal nuclei;NULL
+2262;Regio hypothalamica dorsalis;NULL
+2263;perifornical nucleus;NULL
+2264;parabrachial pigmented nucleus;NULL
+2265;posterior descending limb of the lateral sulcus;NULL
+2266;posterior limb of the lateral sulcus;NULL
+2267;intralingual ramus of the collateral sulcus;NULL
+2268;frontal operculum (Ono);NULL
+2269;anterior part of the brainstem;NULL
+2270;paramedian lobule (Carpenter);NULL
+2271;absteigendes Retikularissystem;NULL
+2272;ansoparamedian fissure;NULL
+2273;large island of Calleja;NULL
+2274;olfactory entorhinal cortex;NULL
+2275;primary olfactory areas;NULL
+2276;endopiriform nucleus;NULL
+2277;accessory olfactory cortical areas;NULL
+2278;medial olfactory stria;NULL
+2279;Cisterna pontocerebellaris;NULL
+2280;subthalamic fasciculus;NULL
+2281;Fasciculus subthalamicus (Riley);NULL
+2282;comb system;NULL
+2283;Pes hippocampi;NULL
+2284;entopeduncular nucleus;NULL
+2285;septal region (Riley);NULL
+2286;triangular area of Wernicke;NULL
+2287;area 1-2 of Roberts;02. Jan
+2288;opercular region;NULL
+2289;area SS II of Roberts;SS II
+2290;lateral zone of the hypothalamus;NULL
+2291;medial zone of the hypothalamus;NULL
+2292;periventricular zone of the hypothalamus;NULL
+2293;intermediate nucleus of the preoptic area;NULL
+2294;accessory neurosecretory nuclei;NULL
+2295;transverse parietal sulcus;NULL
+2296;fissura transversa cerebelli;NULL
+2297;Cortex piriformis (Shantha);NULL
+2298;Pes anserinus;NULL
+2299;Cornu Ammonis (Shaw);NULL
+2300;frenulum;NULL
+2301;Allocortex primitivus;NULL
+2302;Periarchicortex;NULL
+2303;Schizocortex (Rose);NULL
+2304;parasubicular area;NULL
+2305;semicortex;NULL
+2306;Allocortex bulbi olfactorii;NULL
+2307;retrocommissural hippocampus;NULL
+2308;paleocortex;NULL
+2309;Regio periseptalis;NULL
+2310;Regio diagonalis;NULL
+2311;proisocortex;NULL
+2312;periarchicortical cingulate areas;NULL
+2313;area infraradiata ventralis;
+2314;isocortex;NULL
+2315;periallocortex;NULL
+2316;Regio entorhinalis;NULL
+2317;Regio praesubicularis;NULL
+2318;fasciculus retroflexus;fr
+2319;retroambiguus nucleus;NULL
+2320;periventricular fibers;NULL
+2321;anterior marginal sulcus of the insula;NULL
+2322;bundle of Probst;NULL
+2323;area 25 of Walker;25
+2324;area 14 of Walker;14
+2325;area 8A of Walker;8A
+2326;area 45 of Walker;45
+2327;area 8B of Walker;8B
+2328;area 24 of Walker;24
+2329;tail of the dentate gyrus;NULL
+2330;Gyrus temporalis occipitalis lateralis;NULL
+2331;premotor cortex;NULL
+2332;motor cortex;NULL
+2333;planum temporale;NULL
+2334;supplementary motor cortex;NULL
+2335;mesocortex;NULL
+2336;paleocortex (Zilles);NULL
+2337;area 16 of Brodmann;16
+2338;area 6 of Walker;6
+2339;corpus striatum;NULL
+2340;dorsal striatum;NULL
+2341;ventral striatum;NULL
+2342;ventricular system of the brainstem;NULL
+2343;brainstem tegmentum;NULL
+2344;paralimbic brain;NULL
+2345;Lamina IVC;IVC
+2346;coronal section;NULL
+2347;leptomeninges;NULL
+2348;postcentral opercular areas;NULL
+2349;somesthetic areas;NULL
+2350;cerebellovestibular fibers;NULL
+2351;cervical nerves;NULL
+2352;Anterior tegmental fasciculus (Spitzer);NULL
+2353;basal cistern;NULL
+2354;mesencephalic aberrant tract;NULL
+2355;Tractus cerebellocerebralis;NULL
+2356;Lamina IVA;IVA
+2357;laterale parvozellulare Zone (Formatio reticularis);NULL
+2358;Nuclei salivatorii;NULL
+2359;pituitary fossa;NULL
+2360;somatosensorischen Assoziationsgebiete;NULL
+2361;pontine aberrant tract;NULL
+2362;lateral fossa;NULL
+2363;cranial nerve nuclei;NULL
+2364;canthomeatal plane;NULL
+2365;Tractus cerebello-thalamo-cerebralis;NULL
+2366;Tectum (Schiebler);NULL
+2367;rubrozerebellare Fasern;NULL
+2368;arcuatocerebellar tract;NULL
+2369;Kokzygealnervenpaar;NULL
+2370;reticulo-olivary fibers;NULL
+2371;Tractus cerebelloreticularis;NULL
+2372;Cisterna fossae lateralis cerebri;NULL
+2373;horizontal section;NULL
+2374;dorsal fornix (primate);NULL
+2375;Nucleus tegmentalis anterior;NULL
+2376;Gyrus hippocampi (Shantha);NULL
+2377;Cortex praestriatus;NULL
+2378;prearcuate notch;NULL
+2379;arcuate sulcus;NULL
+2380;ocular nerves;NULL
+2381;anterior hypothalamic group;NULL
+2382;primary intermediate sulcus;NULL
+2383;bicommissural line;NULL
+2384;secondary intermediate sulcus;NULL
+2385;tentorial incisure;NULL
+2386;angular sulcus;NULL
+2387;ventral thalamus (Martinez);NULL
+2388;paramedian zone of the cerebellum;NULL
+2389;parahippocampal ramus;NULL
+2390;frontoparietal operculum (Ono);NULL
+2391;area 1 of Brodmann (human);1
+2392;area 2 of Brodmann (human);2
+2393;area 3 of Brodmann (human);3
+2394;area 4 of Brodmann (human);4
+2395;area 6 of Brodmann (human);6
+2396;area 8 of Brodmann (human);8
+2397;nonprimary motor cortex;NULL
+2398;area 9 of Brodmann-1909 (human);9
+2399;superior cingulate sulcus;NULL
+2400;superior cingulate gyrus;NULL
+2401;main cingulate gyrus;NULL
+2402;opercular area 44;44
+2403;area 45 of Brodmann (human);45
+2404;area 47 of Brodmann (human);47
+2405;area 10 of Brodmann (human);10
+2406;area 5 of Brodmann (human);5
+2407;area 7 of Brodmann (human);7
+2408;area 40 of Brodmann (human);40
+2409;area 39 of Brodmann;39
+2410;area 36 of Brodmann (human);36
+2411;area 37 of Brodmann (human);37
+2412;area 38 of Brodmann (human);38
+2413;area 21 of Brodmann (human);21
+2414;area 52 of Brodmann (human);52
+2415;area 31 of Brodmann (human);31
+2416;area 24c of Vogt (macaque);24c
+2417;area 23c of Vogt (macaque);23c
+2418;area 24b of Vogt (macaque);24b
+2419;area 23b of Vogt (macaque);23b
+2420;area 24a of Vogt (macaque);24a
+2421;area 23a of Vogt (macaque);23a
+2422;area 32 of Brodmann (human);32
+2423;area 33 of Brodmann (human);33
+2424;area 30 of Brodmann (human);30
+2425;perirhinal area 35;35
+2426;postcentral region;NULL
+2427;precentral region;NULL
+2428;precentral area;NULL
+2429;frontal region;NULL
+2430;parietal region;NULL
+2431;occipital region;NULL
+2432;temporal region;NULL
+2433;insular region;NULL
+2434;cingulate region;NULL
+2435;Area cingularis intermedia;NULL
+2436;retrosplenial region;NULL
+2437;hippocampal region;NULL
+2438;mammillothalamic tract;NULL
+2439;cuneate fasciculus;NULL
+2440;gracile fasciculus;NULL
+2441;superficial features;NULL
+2442;Radices ventrales nervi spinalis;NULL
+2443;Radix dorsalis nervi spinalis;NULL
+2444;molecular layer of the cerebral cortex;NULL
+2445;Stria laminae molecularis;NULL
+2446;external granular layer;NULL
+2447;Stria laminae granularis externa;NULL
+2448;external pyramidal layer;NULL
+2449;internal granular layer;NULL
+2450;internal pyramidal layer;NULL
+2451;multiform layer;NULL
+2452;layer VI (Cajal);VI
+2453;layer VII (Cajal);VII
+2454;anterior amygdaloid area (Lauer);NULL
+2455;infragranular layers;NULL
+2456;lacunosum moleculare layer of the hippocampus;NULL
+2457;pyramidal cell layer of the hippocampus;NULL
+2458;oriens layer of the hippocampus;NULL
+2459;stratum radiatum of the hippocampus;NULL
+2460;Regio rolandica;NULL
+2461;supragranular layers;NULL
+2462;white laminae of the cerebellum;NULL
+2463;vermis of the cerebellum;NULL
+2464;lobule VII of cerebellar vermis;VII
+2465;basal forebrain bundle;NULL
+2466;Frankfurt zero plane;NULL
+2467;Horsley-Clarke zero plane;NULL
+2468;basal lamina;NULL
+2469;agranular cortex;NULL
+2470;modified granular cortex;NULL
+2471;granulous cortex;NULL
+2472;frontal type cortex;NULL
+2473;parietal type cortex;NULL
+2474;polar type cortex;NULL
+2475;outer band of Baillarger;NULL
+2476;inner band of Baillarger;NULL
+2477;corticohypothalamic fibers;NULL
+2478;vermal zone of the cerebellum;NULL
+2479;Paleothalamus;NULL
+2480;Substantia nigra (Francois);NULL
+2481;Substantia nigra (Poirier);NULL
+2482;Subnucleus compactus, pars beta;NULL
+2483;Subnucleus compactus, pars alpha;NULL
+2484;Subnucleus compactus, pars gamma;NULL
+2485;Subnucleus compactus (Olszewski & Baxter);NULL
+2486;Subnucleus reticulatus;NULL
+2487;Nucleus substantia nigrae;NULL
+2488;Substantia nigra, pars compacta (Francois);NULL
+2489;Substantia nigra, pars reticulata (Francois);NULL
+2490;pars reticulata (Crosby);NULL
+2491;Colliculus superior, stratum intermedium;NULL
+2492;Colliculus superior, stratum profundum;NULL
+2493;Colliculus superior, stratum superficiale;NULL
+2494;median raphe;NULL
+2495;raphe nuclei;NULL
+2496;paraoptic nucleus;NULL
+2497;ventricular system;NULL
+2498;ventricles of the brain;NULL
+2499;vesicles of the brain;NULL
+2500;horns of the lateral ventricle;NULL
+2613;area OAa of Seltzer;OAa
+2616;area PEa of Pandya;PEa
+2618;thoracic column;NULL
+2619;spinal central gray;NULL
+2620;ventral root fibers;NULL
+2621;dorsolateral fasciculus of the spinal cord;NULL
+2632;dorsomedial funiculus;NULL
+2633;head of the posterior horn;NULL
+2634;anterior spino-olivary tract;NULL
+2635;posterior spino-olivary tract;NULL
+2636;anterior superior temporal sulcus;NULL
+2637;posterior superior temporal sulcus;NULL
+2638;superior temporal sulcus posterior branch;NULL
+2639;cortical amygdalar area, anterior part;NULL
+2640;cortical amygdalar area, posterior part;NULL
+2641;descending branches of the dorsal root fibers;NULL
+2642;spinal white matter;NULL
+2643;isthmus of the corpus callosum;NULL
+2644;corpus callosum (Witelson);NULL
+2645;rostral body of the corpus callosum;NULL
+2646;anterior midbody of the corpus callosum;NULL
+2647;posterior midbody of the corpus callosum;NULL
+2648;superior lingual gyrus;NULL
+2649;inferior lingual gyrus;NULL
+2650;intra-occipital sulcus;NULL
+2651;descending gyrus of Ecker;NULL
+2652;retrocalcarine sulcus;NULL
+2653;gyrus of Andreas Retzius;NULL
+2654;inferior parallel sulcus;NULL
+2671;bulbocerebellar tract;NULL
+2672;lateral septal complex;NULL
+2673;extended pallidum;NULL
+2674;extended striatum;NULL
+2677;extended cerebral nuclei;NULL
+2678;area 17 of Swanson;
+2679;area 17 of Paxinos;NULL
+2680;ventricular ridge;NULL
+2681;dorsal column;NULL
+2682;dorsal tegmental tract;NULL
+2683;endorhinal groove;NULL
+2684;medial group of the dorsal thalamus;NULL
+2685;midline group of the dorsal thalamus;NULL
+2686;perforant path;NULL
+2687;posterior parietal association areas;
+2696;commissural connections of the occipital lobe;NULL
+2697;nucleus Pul of Olszewski;NULL
+2698;nucleus Pul.l of Olszewski;NULL
+2699;central canal;NULL
+2700;nucleus of the bulbocavernosus;NULL
+2701;Onuf's nucleus;NULL
+2702;cortical plate;NULL
+2703;primary somatosensory area, barrel field;NULL
+2704;primary somatosensory area, lower limb;NULL
+2705;primary somatosensory area, mouth;NULL
+2706;primary somatosensory area, nose;NULL
+2707;primary somatosensory area, trunk;NULL
+2708;primary somatosensory area, upper limb;NULL
+2709;visceral sensory-motor areas;NULL
+2710;main olfactory bulb, glomerular layer;NULL
+2711;main olfactory bulb, outer plexiform layer;NULL
+2712;main olfactory bulb, mitral layer;NULL
+2713;main olfactory bulb, inner plexiform layer;NULL
+2714;main olfactory bulb, granule cell layer;NULL
+2715;accessory olfactory bulb, glomerular layer;NULL
+2716;accessory olfactory bulb, mitral layer;NULL
+2717;accessory olfactory bulb, granular layer;NULL
+2718;anterior olfactory nucleus, dorsal part;NULL
+2719;anterior olfactory nucleus, external part;NULL
+2720;anterior olfactory nucleus, lateral part;NULL
+2721;anterior olfactory nucleus, medial part;NULL
+2722;anterior olfactory nucleus, posteroventral part;NULL
+2723;nucleus of the lateral olfactory tract, molecular layer;NULL
+2724;nucleus of the lateral olfactory tract, pyramidal layer;NULL
+2725;polymodal association cortex;NULL
+2726;agranular insular area, dorsal part;NULL
+2727;agranular insular area, ventral part;NULL
+2728;agranular insular area, posterior part;NULL
+2729;retrohippocampal region;NULL
+2730;subiculum, dorsal part;NULL
+2731;subiculum, ventral part;NULL
+2732;dentate gyrus, crest;NULL
+2733;dentate gyrus, lateral blade;NULL
+2734;dentate gyrus, medial blade;NULL
+2735;cortical subplate;NULL
+2736;entorhinal area, lateral part;NULL
+2737;entorhinal area, medial part;NULL
+2738;basomedial amygdalar nucleus, anterior part;NULL
+2739;basomedial amygdalar nucleus, posterior part;NULL
+2740;basolateral amygdalar nucleus, anterior part;NULL
+2741;basolateral amygdalar nucleus, posterior part;NULL
+2742;basolateral amygdalar nucleus, ventral part;NULL
+2743;lateral septal nucleus, caudal part;NULL
+2744;lateral septal nucleus, rostral part;NULL
+2745;lateral septal nucleus, ventral part;NULL
+2746;central amygdalar nucleus, medial part;NULL
+2747;central amygdalar nucleus, lateral part;NULL
+2748;central amygdalar nucleus, capsular part;NULL
+2749;medial amygdalar nucleus, anterodorsal part;NULL
+2750;medial amygdalar nucleus, anteroventral part;NULL
+2751;medial amygdalar nucleus, posterodorsal part;NULL
+2752;medial amygdalar nucleus, posteroventral part;NULL
+2753;bed nuclei of the stria terminalis, anterior division;NULL
+2754;bed nuclei of the stria terminalis, posterior division;NULL
+2755;lateral vestibulospinal tract;lvsp
+2757;lateral vestibulospinal tract of the medulla;NULL
+2758;lateral vestibulospinal tract of the spinal cord;NULL
+2759;medial longitudinal fasciculus of the spinal cord;NULL
+2760;white columns of the spinal cord;NULL
+2761;olivospinal tract of the medulla;NULL
+2762;olivospinal tract of the spinal cord;NULL
+2763;anterior spino-olivary tract of the medulla;NULL
+2764;anterior spino-olivary tract of the spinal cord;NULL
+2765;posterior spino-olivary tract of the medulla;NULL
+2766;posterior spino-olivary tract of the spinal cord;NULL
+2767;tectospinal tract of the tectum;NULL
+2768;tectospinal tract of the pons;NULL
+2769;tectospinal tract;NULL
+2770;tectospinal tract of the spinal cord;NULL
+2771;spinotectal tract of the tectum;NULL
+2772;spinotectal tract of the pons;NULL
+2773;spinotectal tract of the medulla;NULL
+2774;spinotectal tract of the spinal cord;NULL
+2776;anterior spinothalamic tract of the medulla;NULL
+2777;anterior spinothalamic tract of the spinal cord;NULL
+2778;lateral spinothalamic tract of the spinal cord;NULL
+2779;lateral spinothalamic tract of the medulla;NULL
+2783;spinothalamic tract of the forebrain;NULL
+2786;ventral spinocerebellar tract of the cerebellum;NULL
+2787;ventral spinocerebellar tract of the medulla;NULL
+2788;ventral spinocerebellar tract of the spinal cord;NULL
+2789;dorsal spinocerebellar tract of the cerebellum;NULL
+2790;dorsal spinocerebellar tract of the medulla;NULL
+2791;dorsal spinocerebellar tract of the spinal cord;NULL
+2793;pars anterior of the paramedian lobule;PAP
+2794;lobule VIIIA;VIIIA
+2795;lobule VIIIB;VIIIB
+2796;crus Ia;crusIa
+2797;crus Ip;crusIp
+2798;crus IIa;crusIIa
+2799;crus IIp;crusIIp
+2800;peduncle of the paraflocculus;ppfl
+2801;intracentral fissure;ice
+2802;intrapyramidal fissure;NULL
+2803;intracrural fissure 1;NULL
+2804;intracrural fissure;NULL
+2805;intracrural fissure 2;NULL
+2806;cranial cavity;NULL
+2808;lenticular fasciculus;lfs
+2815;occipital gyri;OcG
+2816;pretectal region - not otherwise specified;PTec-n
+2817;medullary white matter - not otheriwise specified;mw-n
+2818;medial dorsal nucleus - not otherwise specified;MD-n
+2819;midbrain reticular formation - not otherwise specified;MBRF-n
+2820;lateral hypothalamic area - not otherwise specified;LH-n
+2821;inferior olivary complex - not otherwise specified;IO-n
+2822;inferior colliculus - not otherwise specified;IC-n
+2823;hypothalamus - not otherwise specified;Hy-n
+2824;cochlear nuclei - not otherwise specified;Co-n
+2825;central medullary reticular group - not otherwise specified;CMRt-n
+2828;fasciolar white matter;faw
+2834;;
+2838;lateral reticulospinal tract of the medulla;NULL
+2839;lateral reticulospinal tract of the spinal cord;NULL
+2840;rubrospinal tract of the midbrain;NULL
+2841;rubrospinal tract of the hindbrain;NULL
+2842;rubrospinal tract of the spinal cord;NULL
+2843;spinoreticular tract of the pons;NULL
+2844;spinoreticular tract of the medulla;NULL
+2845;spinoreticular tract of the spinal cord;NULL
+2846;nucleus of the trapezoid body;NTz
+2847;middle gray layer of the superior colliculus;SCmg
+2848;middle white layer of the superior colliculus;scmw
+2849;deep gray layer of the superior colliculus;SCdg
+2850;deep white layer of the superior colliculus;scdw
+2851;medial trapezoid nucleus;MTz
+2852;lateral trapezoid nucleus;LTz
+2853;medullary tegmentum;MOTg
+2856;sensory circumventricular organs;NULL
+2857;secretory circumventricular organs;NULL
+2858;interposed nucleus of the medulla;IMO
+2859;medial reticular nucleus;MRt
+2860;dorsal reticular nucleus;DRt
+2861;vagal complex;NULL
+2862;ventral part of the gigantocellular nucleus;Giv
+2863;alpha part of the gigantocellular nucleus;Gia

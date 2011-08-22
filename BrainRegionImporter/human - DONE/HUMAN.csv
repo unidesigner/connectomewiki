@@ -1,0 +1,821 @@
+Br;Brain;LN:Encephalon;WL:Brain;NL:Category:Regional part of brain
+	FB;Forebrain;LN:Prosencephalon;WL:Prosencephalon;NL:Category:Regional part of forebrain
+		Tel;Telencephalon;LN:Cerebrum;ON:Cerebral hemispheres;WL:Telencephalon;NL:Category:Regional part of telencephalon
+			Cx;Cerebral Cortex;LN:Neopallium;WL:Cerebral_cortex;NL:Category:Regional part of cerebral cortex;CRI:anatomy;CAT:Cortex
+			CH;Cerebral hemisphere;CRI:anatomy;WL:Cerebral_hemisphere
+				FL;Frontal lobe;WL:Frontal_lobe;NL:Category:Regional part of frontal lobe;CRI:anatomy
+					as;Ascending sulcus;ON:ascending ramus of the lateral fissure;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					acsfs;Accessory superior frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					ascs;Anterior subcentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					cs;Central sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus;WL:Central_sulcus
+						SSCx;Somatic sensory cortex;WL:Somatic_sensory_cortex
+					dias;Diagonal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					prs;Principal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					sras;Superior ramus of arcuate sulcus;IMP:NeuroNames;CRI:anatomy;CAT:Sulcus
+					iras;Inferior ramus of arcuate sulcus;IMP:NeuroNames;CRI:anatomy;CAT:Sulcus
+					sas;Spur of arcuate sulcus;IMP:Neurolex;CRI:anatomy;CAT:Sulcus
+					he;Horizontal extension of the inferior precentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					hs;Horizontal sulcus (horizontal ramus of the lateral fissure);IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					ImFS;Intermediate frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						infs-h;Horizontal part of the intermediate frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						infs-v;Vertical part of the intermediate frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					IFG;Inferior frontal gyrus;WL:Inferior frontal gyrus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus
+						IFGOr;Orbital part of inferior frontal gyrus;IMP:NeuroNames;CRI:anatomy;CAT:Gyrus
+						IFGTr;Triangular part of inferior frontal gyrus;LA:PTr;LN:Pars Triangularis;WL:Pars_triangularis;IMP:Wikipedia;CRI:anatomy;FS:parstriangularis
+						IFGOp;Opercular part of inferior frontal gyrus;LA:POp;LN:Pars Opercularis;ON:Opercular part of inferior frontal gyrus;WL:Pars_opercularis;IMP:Wikipedia;CRI:anatomy
+					fro;Frontal operculum;WL:Operculum_(brain);DEF:Broca's area is a notable of the operculum, which plays a key role in conversation or speech production, reading and writing.;IMP:Paxinos-HNS;CRI:anatomy;FS:parsopercularis
+					oro;Orbital operculum;WL:Operculum_(brain);IMP:Paxinos-HNS;CRI:anatomy;FS:parsorbitalis
+					pro;Precentral operculum;WL:Operculum_(brain);IMP:Paxinos-HNS;CRI:anatomy
+					fms;Frontomarginal sulci;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						ifms;Intermediate frontomarginal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						lfms;Lateral frontomarginal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						mfms;Medial frontomarginal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					IFS;Inferior frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					PCS;Precentral sulcus;IMP:Wikipedia;CAT:Sulcus;WL:Precentral_sulcus
+						iprs;Inferior precentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						mprs;Medial precentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						maprs;Marginal precentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					lf;Lateral fissure;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					MFG;Middle frontal gyrus;WL:Middle frontal gyrus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus
+						MFGc;Caudal middle frontal gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus;FS:caudalmiddlefrontal
+						MFGr;Rostral middle frontal gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus;FS:rostralmiddlefrontal
+					irg;Inferior rostral gyrus;IMP:Paxinos-HNS;CRI:anatomy
+					pscs;Posterior subcentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					olfs;Olfactory frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					RG;Gyrus rectus;ON:Straight gyrus;LA:GRe;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus
+					SFG;Superior frontal gyrus;WL:Superior frontal gyrus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus;FS:superiorfrontal
+					fs;Frontal sulci;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus;ON:Frontal sulcus
+						painfs;Paraintermediate frontal sulci;IMP:Paxinos-HNS;CRI:anatomy
+						pmfs-a;Anterior posterior middle frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						pmfs-i;Intermediate posterior frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						pmfs-p;Posterior posterior frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					PrG;Precentral gyrus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus;FS:precentral
+						M1;Primary motor cortex;ON:F1;IMP:BrainML;WL:Primary motor cortex;CAT:Isocortex;DEF:The motor cortex can be regarded as a synthetic organ for compounding and recompounding in varied ways movements of varied kinds.
+						M2;Secondary motor cortex;IMP:BrainML;CAT:Isocortex
+							PMC;Premotor cortex;ON:PMA;DEF:Responsible for motor guidance of movement and control of proximal and trunk muscles of the body.;IMP:BrainML;WL:Premotor cortex;CAT:Isocortex
+								PMd;Premotor area (dorsal);ON:F2/F7;IMP:BrainML;CAT:Isocortex
+								PMv;Premotor area (ventral);ON:F4/F5;IMP:BrainML;CAT:Isocortex;FUN:mirror-neuron system
+							SMA;Supplementary motor area;DEF:Responsible for planning and coordination of complex movements such as those requiring two hands.;IMP:BrainML;WL:Supplementary motor cortex;CAT:Isocortex
+								preSMA;(Pre-)supplementary motor area [F3/F6 SMA/preSMA];IMP:BrainML;CAT:Isocortex
+					SCG;Subcentral gyrus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus
+					sfpams;Superior frontal paramidline sulci;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					sfs-a;Anterior branch of superior frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					sfs-p;Posterior branch of superior frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					sprs;Superior precentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					Tr;Triangular part of inferior frontal gyrus (pars triangularis);IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus
+					ts;Triangular sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					r;Radiate sulcus of Eberstaller;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					aals;Anterior ascending limb of lateral sulcus;IMP:Paxinos-HNS;CRI:anatomy
+					ahls;Anterior horizontal limb of lateral sulcus;IMP:Paxinos-HNS;CRI:anatomy
+					appcl;Anterior portion of the paracentral lobule;WL:Paracentral_lobule;IMP:Paxinos-HNS;CRI:anatomy
+						ParaCS;Paracentral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus;FS:paracentral
+					ros;Rostral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						sros;Superior rostral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+						iros;Inferior rostral sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+					OrG;Orbital gyri complex;IMP:Neurolex;CRI:anatomy
+						AOrG;Anterior orbital gyrus;CAT:Gyrus				
+						LOrG;Lateral orbital gyrus;IMP:NeuroNames;CRI:anatomy;CAT:Gyrus
+						MOrG;Medial orbital gyrus;IMP:NeuroNames;CRI:anatomy;CAT:Gyrus
+						POG;Posterior orbital gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus
+						FOG;Fronto-orbital gyrus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Gyrus
+						ImOG;Intermediate orbital gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus
+					tfpg;Transverse frontopolar gyri complex;IMP:Neurolex;CRI:anatomy
+						tfpg-i;Inferior transverse frontopolar gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus
+						tfpg-m;Medial transverse frontopolar gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus
+						tfpg-s;Superior transverse frontopolar gyrus;IMP:Neurolex;CRI:anatomy;CAT:Gyrus
+					sfs;Superior frontal sulcus;IMP:Neurolex;CRI:anatomy;CAT:Sulcus
+						sfsp;Posterior superior frontal sulcus;IMP:Neurolex;CRI:anatomy;CAT:Sulcus
+						sfsa;Anterior superior frontal sulcus;IMP:Neurolex;CRI:anatomy;CAT:Sulcus
+					frp;Frontal pole;IMP:Neurolex;CRI:anatomy;CAT:Pole;FS:frontalpole;CAT:Pole
+					FCx;Frontal cortex;CAT:Isocortex
+						PFC;Prefrontal cortex;WL:Prefrontal cortex;DEF:The prefrontal cortex is defined by the presence of an internal granular layer IV (in contrast to the agranular premotor cortex).;IMP:Paxinos-HNS;CRI:anatomy;CAT:Isocortex
+							DLPFC;Dorsolateral prefrontal cortex;DEF:It has been identified as critical for working memory, especially as task difficulty increases.;IMP:Paxinos-HNS;WL:Dorsolateral_prefrontal_cortex;CAT:Isocortex
+							VLPFC;Ventrolateral prefrontal cortex;IMP:Wikipedia;CAT:Isocortex
+							LPFC;Lateral prefrontal cortex;IMP:Wikipedia;CAT:Isocortex
+								FEF;frontal eye fields;IMP:BrainML;CAT:Isocortex
+							VMPFC;Ventromedial prefrontal cortex;WL:Ventromedial_prefrontal_cortex;IMP:Wikipedia;CAT:Isocortex
+							APFC;Anterior prefrontal cortex;WL:Anterior_prefrontal_cortex;IMP:Wikipedia;CAT:Isocortex
+							FPC;Frontopolar cortex;CAT:Isocortex
+							OMPFC;orbital and medial prefrontal cortex;CRI:anatomy;REF:{{cite journal | last1=Ongur | first1=Dost | last2=Price |first2=Joseph L.| last3=Ferry| first3=Amon T.| title=Architectonic Subdivision of the Human Orbital and Medial Prefrontal Cortex | journal=J. Comp. Neurol. | year=2003 | pmid=12692859 | doi=10.1002/cne.10609 }};CAT:Isocortex
+								MPFC;Medial prefrontal cortex;WL:Medial_prefrontal_cortex;CRI:anatomy;CAT:Isocortex
+									InfraLCx;Infralimbic cortex;WL:Infralimbic_cortex;CAT:Isocortex
+								OFC;Orbital frontal cortex;WL:Orbitofrontal_cortex;ON:Orbital frontal surface;CRI:anatomy;CAT:Isocortex
+									LOFC;Lateral orbital frontal cortex;IMP:Neurolex;CRI:anatomy;CAT:Isocortex;FS:lateralorbitofrontal
+									MOFC;Medial orbital frontal cortex;IMP:Neurolex;CRI:anatomy;CAT:Isocortex;FS:medialorbitofrontal
+									Fr;Sulcus fragmentosus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+									ios;Intermediate orbital frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+										IOSm;Medial intermediate orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+										IOSl;Lateral intermediate orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+									mos;Medial orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+										MOSc;Caudal part of medial orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+										MOSr;Rostral part of medial orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy
+									los;Lateral orbital frontal sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+										LOSc;Caudal lateral orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+										LOSr;Rostral lateral orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+									Olf;Olfactory sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+									POSm;Medial posterior orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+									POSl;Lateral posterior orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+									TOS;Transverse orbital sulcus;IMP:Paxinos-HNS;CRI:anatomy;CAT:Sulcus
+								OA12r;Area 12r;CAT:Ongur (2003)
+								OA12m;Area 12m;CAT:Ongur (2003)
+								OA12l;Area 12l;CAT:Ongur (2003)
+								OA12s;Area 12s;CAT:Ongur (2003)
+								OA13a;Area 13a;CAT:Ongur (2003)
+								OA13b;Area 13b;CAT:Ongur (2003)
+								OA13m;Area 13m;CAT:Ongur (2003)
+								OA13l;Area 13l;CAT:Ongur (2003)
+								OA10p;Area 10p;CAT:Ongur (2003)
+								OA10r;Area 10r;CAT:Ongur (2003)
+								OA10m;Area 10m;CAT:Ongur (2003)
+								OA11m;Area 11m;CAT:Ongur (2003)
+								OA11l;Area 11l;CAT:Ongur (2003)
+								OA24a;Area 24a;CAT:Ongur (2003)
+								OA24b;Area 24b;CAT:Ongur (2003)
+								OA32ac;Area 32ac;CAT:Ongur (2003)
+								OA25;Area 25;CAT:Ongur (2003)
+								OA32pl;Area 32pl;CAT:Ongur (2003)
+								OA14r;Area 14r;CAT:Ongur (2003)
+								OA14c;Area 14c;CAT:Ongur (2003)
+								agIC;agranular insular cortex;CAT:Cortex
+									OAIam;Area Iam;CAT:Ongur (2003)
+									OAIapm;Area Iapm;CAT:Ongur (2003)
+									OAIai;Area Iai;CAT:Ongur (2003)
+									OAIal;Area Ial;CAT:Ongur (2003)
+				TL;Temporal lobe;WL:Temporal_lobe;NL:Category:Regional part of temporal lobe;CRI:anatomy
+					MTG;Middle temporal gyrus;WL:Middle_temporal_gyrus;NL:Category:Middle_temporal_gyrus;CAT:Gyrus;FS:middletemporal
+						AITd;Anterior inferotemporal cortex dorsal;CAT:Cortex
+						CITd;Central inferotemporal cortex dorsal;CAT:Cortex
+						PITd;Posterior inferotemporal dorsal
+					STG;Superior temporal gyrus;NL:Category:Superior_temporal_gyrus;WL:Superior_temporal_gyrus;CAT:Gyrus;FS:superiortemporal
+						ARL;Auditory rostral and rostrolateral
+						CM;Auditory caudomedial
+						AL;Auditory lateral
+						FST;Floor of superior temporal sulcus;CAT:Sulcus
+						MSTd;Medial superior temporal cortex dorsal;CAT:Cortex
+						MSTl;Medial superior temporal cortex ventral;CAT:Cortex
+						STPa;Superior temporal polysensory cortex anterior;CAT:Cortex
+						STPp;Superior temporal polysensory cortex posterior;CAT:Cortex
+					ITG;Inferior temporal gyrus;WL:Inferior temporal gyrus;NL:Category:Inferior_temporal_gyrus;CAT:Gyrus;FS:inferiortemporal
+						AITv;Anterior inferotemporal cortex ventral;CAT:Cortex
+						CITv;Central inferotemporal cortex ventral;CAT:Cortex
+						PITv;Pposterior inferotemporal cortex ventral;CAT:Cortex
+						caTF;Cortical area TF
+						caTH;Cortical area TH
+					FuG;Fusiform gyrus;WL:Fusiform_gyrus;NL:Category:Inferior_temporal_gyrus;CAT:Gyrus;FS:fusiform
+						FFA;Fusiform face area;WL:Fusiform_face_area;DEF:The Fusiform face area (FFA) is a part of the human visual system which might be specialized for facial recognition, although there is some evidence that it also processes categorical information about other objects.
+					TTG;Transverse temporal gyrus;WL:Transverse_temporal_gyrus;CAT:Gyrus;FS:transversetemporal
+						ATTG;Anterior transverse temporal gyrus;NL:Category:Anterior_transverse_temporal_gyrus;CAT:Gyrus
+						PTTG;Posterior transverse temporal gyrus;NL:Category:Posterior_transverse_temporal_gyrus;CAT:Gyrus
+					heschl;Transverse gyrus of Heschl;ON:Heschl's gyrus, Transverse temporal gyrus;CAT:Gyrus;WL:Transverse_temporal_gyrus
+						A1;Primary auditory cortex;ON:AI;CAT:Isocortex;WL:Primary_auditory_cortex
+					PT;Planum temporale;WL:Planum_temporale
+					ssc;Supra-sylvian cortex;CAT:Isocortex
+					TP;Temporal pole;WL:Temporal_pole;NL:Category:Temporal_pole;FS:temporalpole;CAT:Pole
+					top;Temporal operculum
+					lils;Lateral inferior limiting sulcus;CAT:Sulcus
+					tts;Transverse temporal sulcus;CAT:Sulcus
+					sts;Superior temporal sulcus;LN:Sulcus temporalis superior;CAT:Sulcus
+						bankssts;Posterior banks of the superior temporal sulcus;CAT:Sulcus;FS:banksst
+					its;Inferior temporal sulcus;CAT:Sulcus
+					mts;Middle temporal sulcus;CAT:Sulcus
+					amts;Anterior middle temporal sulcus;CAT:Sulcus
+					pmts;Posterior middle temporal sulcus;CAT:Sulcus
+					MeTG;Medial temporal lobe;WL:Medial_temporal_lobe
+						PeCx;Perirhinal cortex;WL:Perirhinal_cortex
+				PL;Parietal lobe;WL:Parietal_lobe;NL:Category:Regional part of parietal lobe;CRI:anatomy
+					PCG;Postcentral gyrus;IMP:Neurolex;WL:Postcentral gyrus;CAT:Gyrus;FS:postcentral
+						SI;Primary somatosensory cortex;ON:Anterior Parietal Cortex;DEF:Each subregion constitutes a separate representation of the body;WL:Primary_somatosensory_cortex;CAT:Isocortex
+					PPL;Posterior Parietal Lobe
+						PPCx;Posterior Parietal Cortex;DEF:Responsible for transforming visual information into motor commands, in both somatosensory and visual functions as well as in premotor planning, rather complex fields and no specific sensory or motor responses elicited;FUN:motor intention;WL:Posterior parietal cortex;CAT:Isocortex;IMP:BrainML
+							SPL;Superior parietal lobule;IMP:BrainML		
+								PE;Rostral SPL cortical area 5a;IMP:BrainML
+									PEc;Apex SPL cortical area 5b;IMP:BrainML
+									PEa;Rostral intraparietal cortex area 5v;IMP:BrainML;CAT:Isocortex
+								PEci;Cingulate parietal cortex;IMP:BrainML;CAT:Isocortex
+								MIP;Medial intraparietal cortex;IMP:BrainML;CAT:Isocortex
+								LIP;Lateral intraparietal cortex;IMP:BrainML;CAT:Isocortex
+									AIP;Anterior intraparietal cortex;IMP:BrainML;CAT:Isocortex
+									VIP;Ventral intraparietal cortex;IMP:BrainML;CAT:Isocortex
+							IPL;Inferior parietal lobule;IMP:BrainML
+								PG;Caudal IPL cortical area 7a;ON:Opt 7a;IMP:BrainML
+								PF;Rostral IPL cortical area 7;ON:PFG 7b;IMP:BrainML
+								AngG;Angular gyrus;IMP:Neurolex;WL:Angular_gyrus;CAT:Gyrus
+								SMG;Supramarginal gyrus;IMP:Neurolex;CAT:Gyrus;FS:supramarginal
+					LS;Lateral Sulcus;NL:Category:Lateral_sulcus;ON:Sylvian fissure;CAT:Sulcus;WL:Lateral_sulcus
+						SII;Secondary somatosensory cortex;ON:Lateral Parietal Cortex;CAT:Isocortex
+							S2;S2 central area
+							PV;Parietal ventral area
+							PR;Parietal rostroventral area
+							PFop;Parietal operculum area;ON:PGop;IMP:BrainML
+					POcC;Parieto-occipital cortex;IMP:BrainML;CAT:Isocortex
+						DP;Dorsal prelunate cortex;IMP:BrainML;CAT:Cortex
+						MDP;Medial dorsal parietal cortex;IMP:BrainML;CAT:Cortex
+						PIP;Posterior intraparietal cortex;IMP:BrainML;CAT:Cortex
+						V6a;Parietooccipital cortex;ON:PO V6;IMP:BrainML;CAT:Isocortex
+						V3A;Cortical visual area 3A;IMP:BrainML;CAT:Isocortex
+					PCu;Precuneus;IMP:Neurolex;ON:Precuneus Cortex;WL:Precuneus;FS:precuneus
+					CAS;Pericalcarine cortex;IMP:Neurolex;CAT:Cortex;FS:pericalcarine
+					SPC;Superior parietal cortex;IMP:Neurolex;CAT:Cortex;FS:superiorparietal
+					TPS;Transverse parietal sulcus;IMP:Neurolex;CAT:Sulcus
+					IPS;Inferior parietal sulcus;IMP:Neurolex;CAT:Sulcus
+					SPS;Superior parietal sulcus;IMP:Neurolex;CAT:Sulcus
+					IPC;Inferior parietal cortex;IMP:Neuronames;CAT:Cortex;FS:inferiorparietal
+					AnS;Angular sulcus;IMP:Neurolex;CAT:Sulcus
+					sbps;Subparietal sulcus;IMP:Neurolex;CAT:Sulcus
+					pals;Posterior ascending limb of lateral sulcus;IMP:Neurolex;CAT:Sulcus
+					pop;Parietal operculum;IMP:Neurolex
+					ms;Marginal sulcus;IMP:Neurolex;CAT:Sulcus
+					itps;Intraparietal sulcus;IMP:Neurolex;CAT:Sulcus
+					pocs;Postcentral sulcus;IMP:Neurolex;CAT:Sulcus;WL:Postcentral_sulcus
+						spcs;Superior postcentral sulcus;IMP:Neurolex;CAT:Sulcus
+						ipcs;Inferior postcentral sulcus;IMP:Neurolex;CAT:Sulcus
+					PCL;Paracentral Lobule;WL:Paracentral_lobule;IMP:Wikipedia
+				OL;Occipital lobe;WL:Occipital_lobe;NL:Category:Regional part of occipital lobe
+					ocp;Occipital pole;CAT:Pole
+					aocs;Anterior occipital sulcus;CAT:Sulcus
+					locs;Lateral occipital sulcus;CAT:Sulcus
+					iocs;Inferior occipital sulcus;CAT:Sulcus
+					tocs;Transverse occipital sulcus;CAT:Sulcus
+					ocs;Ectocalcarine sulcus;CAT:Sulcus;WL:Calcarine_fissure
+					sccs;Superior calcarine sulcus;CAT:Sulcus;WL:Calcarine_fissure
+					iccs;Inferior calcarine sulcus;CAT:Sulcus;WL:Calcarine_fissure
+					pccs;Posterior calcarine sulcus;CAT:Sulcus;WL:Calcarine_fissure
+					lus;Lunate sulcus;CAT:Sulcus
+					ils;Intralingual sulcus;CAT:Sulcus
+					OG;Occipital gyrus;CAT:Gyrus
+					AG;Annectant gyrus;CAT:Gyrus
+					SOG;Superior occipital gyrus;CAT:Gyrus
+					LOG;Lateral occipital gyrus;WL:Lateral occipital gyrus;CAT:Gyrus
+					IOG;Inferior occipital gyrus;CAT:Gyrus
+					Cun;Cuneus;ON:Cuneus cortex;WL:Cuneus;FS:cuneus
+					LinG;Lingual gyrus;CAT:Gyrus;FS:lingual
+					VCx;Visual Cortex;CAT:Isocortex;WL:Visual_cortex
+						StCx;Striate cortex;ON:Primary visual cortex;WL:Primary visual cortex;CAT:Isocortex
+							V1;Visual area 1;ON:Primary visual cortex;WL:Visual_area_V1;CAT:Isocortex
+							HAV1d;Area V1d;CAT:Hadjikhani_(1998)
+							HAV1v;Area V1v;CAT:Hadjikhani_(1998)
+						EStCx;Extrastriate cortex;CAT:Isocortex
+							V2;Visual area 2;WL:Visual_area_V2;CAT:Isocortex
+							V3;Visual area 3;WL:Visual_area_V3;CAT:Isocortex
+							V4;Visual area 4;WL:Visual_area_V4;CAT:Isocortex
+							V4t;Visual area 4 transitional
+							VOT;Ventral occipitotemporal cortex;CAT:Isocortex
+							VP;Ventral posterior cortex;CAT:Isocortex
+							MT;Middle temporal cortex (occipital);ON:V5;ON:Dorsolateral inferior occipital cortex;CAT:Isocortex
+							DM;Dorsomedial area;WL:Dorsomedial_area;ON:V6
+							V7;Visuotopic area V7;REF:William A. Press, Alyssa A. Brewer, Robert F. Dougherty, Alex R. Wade, Brian A. Wandell (2001) Visual areas and spatial summation in human visual cortex, Visual Res, v41, i10-11, p1321.;NL:Category:Press%2C_Brewer%2C_Dougherty%2C_Wade_and_Wandell_(2001)_Visuotopic_area_V7
+							LOC;Lateral occipital cortex;ON:LOP complex;REF:Robert B.H. Tootell and Nouchine Hadjikhani (2001) Cerebral Cortex, v11 n4 p298;NL:Category:Tootell_and_Hadjikhani_(2001)_LOC/LOP_complex;CAT:Cortex;FS:lateraloccipital
+							HAV2d;Area V2d;CAT:Hadjikhani_(1998)
+							HAV2v;Area V2v;CAT:Hadjikhani_(1998)
+							HAV3;Area V3;CAT:Hadjikhani_(1998)
+							HAV3A;Area V3A;CAT:Hadjikhani_(1998)
+							HAVP;Area VP;CAT:Hadjikhani_(1998)
+							HAV4v;Area V4v;CAT:Hadjikhani_(1998)
+							HAV8;Area V8;CAT:Hadjikhani_(1998)
+				LL;Limbic lobe;WL:Limbic_lobe;NL:Category:Regional part of limbic lobe;CRI:anatomy;DEF:The limbic lobe is a synthetic lobe located on the medial margin (or limbus) of the hemisphere.<br>Composed of adjacent portions of the frontal, parietal, and temporal lobes that surround the corpus callosum, the limbic lobe is involved with autonomic and related somatic behavioral activities.<br/>The limbic lobe receives input from thalamic nuclei that are connected with parts of the hypothalamus and with the hippocampal formation, a primitive cortical structure within the inferior horn of the lateral ventricle.
+					SCaG;Supracallosal gyrus;CAT:Archicortex;CAT:Gyrus
+					PTG;Paraterminal gyrus;CAT:Archicortex;CAT:Gyrus						
+					ForG;Fornicate gyrus;IMP:Wikipedia;WL:Fornicate_gyrus;CAT:Gyrus
+					CgCx;Cingulate cortex;WL:Cingulate_cortex;CAT:Cortex
+					CgG;Cingulate gyrus;WL:Cingulate_gyrus;CAT:Gyrus
+						icgs;Intracingulate sulcus;CAT:Sulcus
+						CGS;Cingulate Sulcus;CAT:Sulcus;WL:Cingulate_sulcus
+						ACgG;Anterior cingulate gyrus;ON:Anterior cingulate cortex;CAT:Gyrus,Cortex;WL:Anterior cingulate cortex
+							ACgCc;Caudal anterior cingulate cortex;FS:caudalanteriorcingulate
+							ACgCr;Rostral anterior cingulate cortex;FS:rostralanteriorcingulate
+						PCgG;Posterior cingulate gyrus;ON:Posterior cingulate cortex;CAT:Gyrus,Cortex;FS:posteriorcingulate;WL:Posterior_cingulate
+						ICgG;Isthmus of cingulate gyrus;ON:Isthmus of cingulate cortex;CAT:Gyrus,Cortex;FS:isthmuscingulate
+					PHG;Parahippocampal gyrus;IMP:Neurolex;CAT:Gyrus;FS:parahippocampalNL:Category:Regional_part_of_Parahippocampal_gyrus;WL:Parahippocampal_gyrus
+						UN;Uncus;WL:Uncus
+						PPHG;Posterior parahippocampal gyrus;CAT:Gyrus
+						PPA;Prepyriform area;WL:Pyriform_cortex
+						PAa;Periamygdaloid area;ON:Periamygdaloid cortex PAC;CAT:Cortex
+						Ent;Entorhinal cortex;ON:Entorhinal area;CAT:Archicortex;FS:entorhinal;WL:Entorhinal_cortex
+							mEnt;Medial entorhinal cortex;CAT:Archicortex
+							lEnt;Lateral entorhinal cortex;CAT:Archicortex
+						SubiC;Subicular complex
+							alv;Alveus;WL:Alveus_of_the_hippocampus
+							fi;Fimbria of hippocampus
+							PreS;Presubiculum;CAT:Archicortex
+							ParS;Parasubiculum;CAT:Archicortex
+					HiF;Hippocampal formation;ON:Hippocampus;IMP:Paxinos;WL:Hippocampus_anatomy
+						CA1;CA 1 field;WL:CA1;ON:Region CA1
+						CA2;CA 2 field;WL:CA2;ON:Region CA2
+						CA3;CA 3 field;WL:CA3;ON:Region CA3
+						DG;Dentate gyrus;IMP:Neurolex;CAT:Archicortex;CAT:Gyrus;WL:Dentate_gyrus
+							fd;Fascia dentata;CRI:anatomy;DEF:Gray regional part of dentate gyrus;IMP:Neurolex
+							hdg;Hilus of dentate gyrus;ON:CA 4 field;LA:CA4;DEF:Gray regional part of dentate gyrus;IMP:Neurolex
+						fds;Fimbriodentate sulcus;ON:Fimbriodentate fissure;LA:fdf;IMP:Neuronames;CAT:Sulcus
+						Subi;Subiculum;CAT:Archicortex;WL:Subiculum
+						AH;Ammons horn;CAT:Archicortex
+				IL;Insula;ON:Insular lobe, Insular Cortex;WL:Insular Cortex;NL:Category:Insula;DEF:Not visible from the surface of the cerebrum is the insular, or central, lobe, an invaginated triangular area on the medial surface of the lateral sulcus, it can be seen in the intact brain only by separating the frontal and parietal lobes from the temporal lobe.;FUN:visceral sensory regulation, visceral motor regulation, taste perception
+					Id;Insular disgranular cortex;IMP:BrainML;CAT:Cortex
+					Ig;Insular granular cortex;IMP:BrainML;CAT:Cortex
+					PaCx;Postauditory cortex;IMP:BrainML;CAT:Cortex
+					cis;Central insular sulcus;IMP:Neuronames;CAT:Sulcus
+					lsi;Longitudinal sulcus of insula;IMP:Neuronames;CAT:Sulcus
+					pms;Posterior marginal sulcus;IMP:Neuronames;CAT:Sulcus
+					SIG;Short insular gyri;ON:Short insular gyrus;IMP:Neuronames;CAT:Gyrus
+						SG1;First short gyrus;IMP:Neuronames;CAT:Gyrus
+						SG2;Second short gyrus;IMP:Neuronames;CAT:Gyrus
+						ISG;Intermediate short gyrus;IMP:Neuronames
+					PrGI;Precentral gyrus of insula;IMP:Neuronames;CAT:Gyrus
+					LIG;Long insular gyri;ON:Long insular gyrus;IMP:Neuronames;CAT:Gyrus
+						PCG1;First posterior central gyrus;IMP:Neuronames;CAT:Gyrus
+						PCG2;Second posterior central gyrus;IMP:Neuronames;CAT:Gyrus
+					ASG;Accessory short gyrus;IMP:Neuronames;CAT:Gyrus
+						AAG;Anterior accessory gyrus;IMP:Neuronames;CAT:Gyrus
+			SCx;Subcortex of cerebral hemisphere
+				cc;Corpus callosum;WL:Corpus_callosum;CAT:White Matter;CAT:Commisural fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					rcc;Rostrum of corpus callosum;WL:Rostrum_of_corpus_callosum
+					gcc;Genu of corpus callosum;WL:Genu_of_the_corpus_callosum;ON:Anterior forceps
+					bcc;Body of corpus callosum;ON:Truncus
+					scc;Splenium of corpus callosum;WL:Splenium;ON:Posterior forceps
+						mscc;Middle of Splenium of corpus callosum;DEF:The dorsal visual maps (dorsal V3, V3A, V3B, V7) send projections through a large band in the middle of the splenium.;REF:http://www.pnas.org/content/102/20/7350.abstract?ck=nck
+						cscc;Inferior anterior corner of Splenium of corpus callosum;DEF:Ventral visual maps (ventral V3, V4) send projections through the inferior-anterior corner of the splenium.;REF:http://www.pnas.org/content/102/20/7350.abstract?ck=nck
+					ac;Anterior commissure;CAT:White Matter;WL:Anterior_commissure;CAT:Commisural fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					tap;Tapetum;CAT:White Matter;WL:Tapetum_of_corpus_callosum;CAT:Commisural fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+				inc;Internal capsule;CAT:White Matter;WL:Internal capsule;DEF:A brain region of white matter in the brain that separates the caudate nucleus and the thalamus from the lenticular nucleus. The internal capsule contains both ascending and descending axons.
+					alic;Anterior limb of the internal capsule;WL:Anterior_limb_of_internal_capsule;CAT:Pojection fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					plic;Posterior limb of the internal capsule;WL:Posterior_limb_of_internal_capsule;CAT:Pojection fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					rlic;Retrolenticular part of the internal capsule;CAT:Pojection fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					slic;Sublenticular part of the internal capsule;CAT:Pojection fiber
+					gic;Genu of internal capsule;WL:Genu_of_internal_capsule;CAT:Pojection fiber
+				ec;External capsule;WL:External capsule;CAT:White Matter;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					slf;Superior longitudinal fasciculus;CAT:Association fiber;DEF:Association fibers, may appear in DTI as a long tract connecting the frontal and temporal lobes, is actually an assembly of short-range tracts merging in and exiting out at many points along the tract.;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+						af;Arcuate fasciculus;WL:Arcuate_fasciculus;DEF:Connecting the posterior part of the temporoparietal junction with the frontal cortex
+					unc;Uncinate fasciculus;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					ifo;Inferior fronto-occipital fasciculus;ON:Inferior occipitofrontal fasciculus;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+				cr;Corona radiata;WL:Corona radiata;CAT:Projection fiber;CAT:White Matter;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					acr;Anterior part of corona radiata
+					scr;Superior part of corona radiata
+					pcr;Posterior part of corona radiata
+				ss;Sagittal stratum;CAT:White Matter;REF:http://brain.oxfordjournals.org/cgi/content/full/126/9/2093 and ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+				WMT;White Matter Tract;CAT:White Matter Tract
+					ml;Medial lemniscus;CAT:Brainstem fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					mlf;Medial longitudinal fasciculus;CAT:Brainstem fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					icp;Inferior cerebellar peduncle;CAT:Brainstem fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					mcp;Middle cerebellar peduncle;CAT:Brainstem fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					scp;Superior cerebellar peduncle;CAT:Brainstem fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+						dscp;Decussation of the superior cerebellar peduncles
+					sfo;Superior fronto-occipital fasciculus;ON:Superior occipitofrontal fasciculus;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					ilf;Inferior longitudinal fasciculus;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					cg;Cingulum;CAT:White Matter,Association fiber;WL:Cingulum_(anatomy);DEF:A collection of white matter fibers projecting from the cingulate gyrus to the entorhinal cortex in the brain.;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					st;Stria terminals;WL:Terminal_stria;LN:Stria terminalis;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+					fx;Fornix;WL:Fornix_of_brain;CAT:Association fiber;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml
+						postfx;Postcommissural part of the fornix;ON:Postcommissural fornix;CAT:Association fiber;
+						prefx;Precommissural part of the fornix;ON:Precommissural fornix;CAT:Association fiber;
+						cfx;Column of the fornix
+					sf;Subcallosal fasciculus;CAT:Association fiber;DEF:A bundle of thin nerve fibers running longitudinally beneath the corpus callosum in the angle between the latter and the caudate nucleus; it forms a rostral continuation of the tapetum of the temporal lobe and appears to consist largely of fibers projecting from the cerebral cortex to the caudate nucleus.;REF:http://www.medilexicon.com/medicaldictionary.php?t=32262
+					exc;Extreme capsule;WL:Extreme capsule;CAT:White Matter Tract,Projection fiber;DEF:The extreme capsule is a series of white matter fiber tracts in the brain. These fibers run between the claustrum and the insular cortex.
+			NSCx;Nuclei of cerebral subcortex;ON:Basal Nuclear complex;NL:Category:Regional part of basal nuclear complex
+				BG;Basal ganglia of cerebral hemisphere;WL:Basal_ganglia
+					LFN;Lentiform nucleus;WL:Lentiform_nucleus;ON:Lenticular nucleus;CAT:Nucleus
+					Amg;Amygdala;CAT:Nucleus;WL:Amygdala;IMP:Paxinos-HNS
+						APir;Amygdalopirform transition area
+						ACo;Anterior cortical nuclei of amygdala
+						VCo;Ventral cortical nuclei of amygadala
+						Me;Medial amygdaloid nucleus
+					CL;Claustrum;WL:Claustrum;CAT:Nucleus
+					CSTR;Corpus striatum of cerebral hemisphere;WL:Corpus_striatum;CAT:Nucleus
+						GP;Globus pallidus;WL:Globus_pallidus;CAT:Nucleus
+							GPe;External segment of the globus pallidus;WL:Lateral_globus_pallidus
+							GPi;Internal segment of the globus pallidus;DEF:Stimulated under Dystonia condition.;WL:Medial_globus_pallidus
+						STR;Striatum;ON:Striatum of cerebral hemisphere;WL:Striatum;CAT:Nucleus
+							CAN;Caudate nucleus;CAT:Nucleus;WL:Caudate_nucleus
+							PU;Putamen;WL:Putamen;CAT:Nucleus
+							ACC;Nucleus accumbens;CAT:Nucleus;WL:Nucleus_accumbens
+				snCH;Septal nuclei of cerebral hemisphere;WL:Septal_nuclei
+					snCHd;Dorsal septal nucleus;CAT:Nucleus
+					snCHl;Lateral septal nucleus;CAT:Nucleus
+					snCHt;Triangular septal nucleus;CAT:Nucleus
+					snCHfn;Septofimbrial nucleus;CAT:Nucleus
+					SNm;Medial septal nucleus of brain;CAT:Nucleus
+					Ndb;Nucleus of diagonal band;CAT:Nucleus
+					Nac;Nucleus of anterior commissure;CAT:Nucleus
+					Nst;Nucleus of stria terminalis;CAT:Nucleus;WL:Terminal_stria
+						BST;Bed nucleus of the stria terminalis;CAT:Nucleus;IMP:Paxinos-HNS
+		DiE;Diencephalon;WL:Diencephalon;NL:Category:Regional part of diencephalon;CRI:anatomy
+			TH;Thalamus;WL:Thalamus;NL:Category:Regional part of thalamus
+				ANG;Anterior nuclear group of thalamus;WL:Anterior_nuclei_of_thalamus
+					THad;Anterodorsal nucleus;CAT:Nucleus
+					THam;Anteromedial nucleus;CAT:Nucleus
+					THav;Anteroventral nucleus;CAT:Nucleus
+				LNG;Lateral nuclear group of thalamus;WL:Lateral_nuclear_group
+					ldn;Lateral dorsal nucleus;CAT:Nucleus
+					lpn;Lateral posterior nucleus;CAT:Nucleus
+					Pul;Pulvinar;WL:Pulvinar;CAT:Nucleus;REF:http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=2233985
+						Pa;Anterior Pulvinar;CAT:Nucleus
+						Pulo;Oral pulvinar nucleus;CAT:Nucleus
+						Pull;Lateral pulvinar nucleus;CAT:Nucleus
+						Pulm;Medial pulvinar nucleus;CAT:Nucleus
+						Puli;Inferior pulvinar nucleus;CAT:Nucleus
+				VNG;Ventral nuclear group of thalamus;WL:Ventral_nuclear_group
+					VAN;Ventral anterior nucleus;CAT:Nucleus;WL:Ventral_anterior_nucleus
+						VANp;Parvicellular part of ventral anterior nucleus
+						VANm;Magnocellular part of ventral anterior nucleus
+					VLN;Ventral lateral nucleus;CAT:Nucleus;WL:Ventral_lateral_nucleus
+						VLNo;Oral part of ventral lateral nucleus
+							Voa;Ventral oral anterior part of VLN
+							Vop;Ventral oral posterior part of VLN 
+						VLNc;Caudal part of ventral lateral nucleus;ON:Ventrocaudal nucleus
+						VLNm;Medial part of ventral lateral nucleus
+						VLNpp;Pars postrema of ventral lateral nucleus
+						VLNX;Area X
+					VPN;Ventral posterior nucleus;FUN:somatosensory processing;CAT:Nucleus;WL:Ventral posterior nucleus
+						VPI;Ventral posteroinferior nucleus;DEF:Spinothalamic afferent termination;CAT:Nucleus
+							VPIc;Caudal part of ventral posteroinferior nucleus;DEF:Distinguished as a distinct relay nucleus for pain and temperature;IMP:Paxinos-HNS
+						VPL;Ventral posterolateral nucleus;DEF:body representation;CAT:Nucleus;WL:Ventral_posterolateral_nucleus
+							VPLo;Oral part of ventral posterolateral nucleus
+							VPLc;Caudal part of ventral posterolateral nucleus
+						VPM;Ventral posteromedial nucleus;FUN:face representation;IMP:Paxinos-HNS;CAT:Nucleus;WL:Ventral_posteromedial_nucleus
+							VPMpc;Parvicellular part of ventral posteromedial nucleus
+							VPMp;Principal part of ventral posteromedial nucleus
+						VPS;Ventral posterosuperior nucleus;DEF:Deep muscle spindle receptor;CAT:Nucleus
+					VIM;Ventral intermediate nucleus;DEF:Cerebellar receiving area. Stimulated by essential tremor (The motor thalamus);CAT:Nucleus
+				MTH;Metathalamus;WL:Metathalamus
+					LGN;Lateral geniculate body;FUN:visual processing;WL:Lateral_geniculate_nucleus
+						LGNdn;Dorsal nucleus of lateral geniculate body;CAT:Nucleus
+						LGNvn;Ventral nucleus of lateral geniculate body;CAT:Nucleus
+					MGB;Medial geniculate body;FUN:auditory processing;ON:Medial geniculate nucleus;WL:Medial_geniculate_nucleus
+						VMGB;Ventral nucleus of the medial geniculate body;IMP:Wikipedia;CAT:Nucleus
+						DMGB;Dorsal nucleus of the medial geniculate body;IMP:Wikipedia;CAT:Nucleus
+						MMGB;Medial nucleus of the medial geniculate body;IMP:Wikipedia;CAT:Nucleus				
+				ILN;Intralaminar nuclear group of thalamus;WL:Intralaminar_nucleus
+					ILNr;Rostral intralaminar nuclear group
+						ILNcd;Central dorsal nucleus;CAT:Nucleus
+						ILNcl;Central lateral nucleus;CAT:Nucleus
+						ILNcm;Central medial nucleus;CAT:Nucleus
+						ILNpa;Paracentral nucleus;CAT:Nucleus
+					ILNcmn;Centromedian nucleus;CAT:Nucleus;WL:Centromedian_nucleus
+					ILNparan;Parafascicular nucleus;CAT:Nucleus
+				MiNG;Midline nuclear group of thalamus;WL:Midline_nuclear_group
+					MiNGpt;Paratenial nucleus;CAT:Nucleus
+					MiNGpv;Paraventricular nucleus of thalamus;CAT:Nucleus
+					MiNren;Reuniens nucleus;CAT:Nucleus
+					MiNrhon;Rhomboidal nucleus;CAT:Nucleus
+					MiNsub;Subfascicular nucleus;CAT:Nucleus
+				TRN;Thalamic reticular nucleus;CAT:Nucleus;WL:Thalamic reticular nucleus
+				PNG;Posterior nuclear group of thalamus
+					PNGl;Limitans nucleus;CAT:Nucleus
+					PNGp;Posterior nucleus of thalamus;CAT:Nucleus
+					PNGsupra;Suprageniculate nucleus;CAT:Nucleus
+					PNGsub;Submedial nucleus;CAT:Nucleus
+				MNG;Medial nuclear group of thalamus;CAT:Nucleus
+					MNGm;Magnocellular part of medial dorsal nucleus
+					MNGd;Densocellular part of medial dorsal nucleus
+					MNGpara;Paralaminar part of medial dorsal nucleus
+					MNGparvi;Parvicellular part of medial dorsal nucleus
+			HY;Hypothalamus;WL:Hypothalamus;NL:Category:Regional part of hypothalamus;CRI:anatomy
+				HYa;Anterior hypothalamic region
+					preOPT;Preoptic area;WL:Preoptic_area
+						preOPTmdn;Median preoptic nucleus;CAT:Nucleus
+						preOPTpvn;Preoptic periventricular nucleus;CAT:Nucleus
+						preOPTmln;Medial preoptic nucleus;CAT:Nucleus
+						preOPTan;Anterior nucleus of hypothalamus;CAT:Nucleus
+						VLPO;Ventrolateral preoptic nucleus;WL:Ventrolateral preoptic nucleus;CAT:Nucleus
+					ApN;Anteroventral periventricular nucleus;CAT:Nucleus;WL:Periventricular_nucleus
+					SOCr;Supraoptic crest;LN:organum vasculosum of the lamina terminalis (OVLT);WL:Organum_vasculosum_of_the_lamina_terminalis
+					SCN;Suprachiasmatic nucleus;CAT:Nucleus;WL:Suprachiasmatic_nucleus;FUN:circadian ryhthm
+					SON;Supraoptic nucleus;CAT:Nucleus
+					PVN;Paraventricular nucleus of hypothalamus;CAT:Nucleus;WL:Paraventricular_nucleus
+					SODd;Dorsal supraoptic decussation
+					SODv;Ventral supraoptic decussation
+				HYi;Intermediate hypothalamic region
+					Tcin;Tuber cinereum
+					IPeN;Intermediate periventricular nucleus;CAT:Nucleus
+					ArcN;Arcuate nucleus of hypothalamus;CAT:Nucleus
+					RCA;Retrochiasmatic area
+					DMN;Dorsomedial nucleus of hypothalamus;CAT:Nucleus
+					VMN;Ventromedial nucleus of hypothalamus;CAT:Nucleus
+				HYp;Posterior hypothalamic region
+					LMN;Lateral mammillary nucleus;CAT:Nucleus
+					MMN;Medial mammillary nucleus;CAT:Nucleus
+					SMN;Supramammillary nucleus;CAT:Nucleus
+					preMN;Premammillary nucleus;CAT:Nucleus
+					ppeN;Posterior periventricular nucleus of hypothalamus;CAT:Nucleus
+					pN;Posterior nucleus of hypothalamus;CAT:Nucleus;WL:Posterior_nucleus_(hypothalamus)
+					SMC;Supramammillary commissure
+					MPF;Mammillary princeps fasciculus
+					MTF;Mammillotegmental fasciculus
+					MP;Mammillary peduncle
+				HYl;Lateral hypothalamic region
+					TubmN;Tuberomammillary nucleus;CAT:Nucleus;WL:Tuberomammillary_nucleus
+					LTN;Lateral tuberal nucleus;CAT:Nucleus
+					LHYN;Lateral hypothalamic nucleus;CAT:Nucleus
+					PCfor;Postcommissural fornix
+					HYdlf;Dorsal longitudinal fasciculus of hypothalamus
+			ETH;Epithalamus;WL:Epithalamus;NL:Category:Regional part of epithalamus
+				HAB;Habenula;WL:Habenula
+					HABl;Lateral habenular nucleus;CAT:Nucleus
+					HABm;Medial habenular nucleus;CAT:Nucleus
+					HABc;Habenular commissure
+				ETHpin;Pineal body
+				PC;Posterior commissure;WL:Posterior_commissure
+			SubTH;Subthalamus;NL:Category:Subthalamus;WL:Subthalamus
+				ALent;Ansa_lenticularis;WL:Ansa_lenticularis
+				STN;Subthalamic nucleus;WL:Subthalamic_nucleus;DEF:Is stimulated under Parkinson condition.;CAT:Nucleus
+					STNcap;Capsule of subthalamic nucleus
+				SubTHaln;Nucleus of ansa lenticularis;CAT:Nucleus
+				FieldHN;Nucleus of field H;CAT:Nucleus
+					FieldH1;Field H1;WL:Thalamic_fasciculus
+					FieldH;Field H
+					FieldH2;Field H2
+				ZonaIn;Zona incerta;WL:Zona_incerta
+				AnsaL;Ansa lenticularis
+				AnsaP;Ansa peduncularis
+	MB;Midbrain;LN:Mesencephalon;NL:Category:Regional part of midbrain;WL:Mesencephalon
+		MBTec;Midbrain tectum;WL:Tectum;NL:Category:Regional part of midbrain tectum
+			PTR;Pretectal region;NL:Category:Regional_part_of_pretectal_region
+				PTN;Nucleus of pretectal area;ON:Pretectum;WL:Pretectum;CAT:Nucleus
+				PTNp;Principal pretectal nucleus;CAT:Nucleus
+				OTN;Nucleus of optic tract;CAT:Nucleus
+				SLN;Sublentiform nucleus;CAT:Nucleus
+				OPN;Olivary pretectal nucleus;CAT:Nucleus
+			SC;Superior colliculus;ON:Optic tectum;WL:Superior_colliculus;NL:Category:Superior_colliculus
+			IC;Inferior colliculus;NL:Category:Inferior_colliculus;WL:Inferior_colliculus
+				CNIC;Central Nucleus of the Inferior colliculus;CAT:Nucleus
+		MBTeg;Midbrain tegmentum;WL:Midbrain_tegmentum
+			MRF;Midbrain reticular formation
+				CFN;Cuneiform nucleus;CAT:Nucleus
+				SubCFN;Subcuneiform nucleus;CAT:Nucleus
+				PPTN;Pedunculopontine tegmental nucleus;ON:Pedunculopontine nucleus (PPN);WL:Pedunculopontine_nucleus;DEF:The PPN is involved in many functions, including arousal, attention, learning, reward, and locomotion. It is also implicated in the generation and maintenance of REM sleep.;IMP:Wikipedia;CAT:Nucleus
+			RN;Red nucleus;WL:Red_nucleus;FUN:motor coordination;CAT:Nucleus
+				RNpc;Parvocellular part of red nucleus
+				RNmc;Magnocellular part of red nucleus
+				RNc;Capsule of red nucleus
+			PCn;Nucleus of posterior commissure;CAT:Nucleus
+			RNd;Dorsal raphe nucleus;CAT:Nucleus
+			PCvn;Ventral nucleus of posterior commissure;CAT:Nucleus
+			TNd;Dorsal tegmental nucleus;CAT:Nucleus
+			TNv;Ventral tegmental nucleus;CAT:Nucleus
+			LinN;Linear nucleus;CAT:Nucleus
+			PPN;Peripeduncular nucleus;CAT:Nucleus
+			VTA;Ventral tegmental area;FUN: male orgasm
+			IPN;Interpeduncular nucleus;CAT:Nucleus
+			TDecd;Dorsal tegmental decussation
+			TDecv;Ventral tegmental decussation
+			SCPdec;Decussation of superior cerebellar peduncle
+			PLl;Lateral pes lemniscus
+			PLm;Medial pes lemniscus
+			ML;Medial lemniscus of midbrain;DEF:correct, same as ML white matter tract ml
+		SN;Substantia nigra;WL:Substantia_nigra
+			SNc;Substantia nigra pars compacta;WL:Pars_compacta
+			SNr;Substantia nigra pars reticulata;WL:Pars_reticulata
+			SNl;Substantia nigra pars lateralis
+		Ccr;Cerebral crus
+		cp;Cerebral peduncle;WL:Cerebral_peduncle;DEF:At the midbrain level, the internal capsule converges into the cerebral peduncle.;NL:Category:Regional part of cerebral peduncle;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml;CAT:Projection fiber
+	HB;Hindbrain;LN:Rhombencephalon;WL:Rhombencephalon;NL:Category:Regional part of hindbrain
+		MetE;Metencephalon;DEF:The metencephalon develops from the hindbrain, and is differentiated from the myelencephalon in the embryo by approximately 5 weeks of age. By the third month, the metencephalon differentiates into its two main structures, the pons and the cerebellum.;WL:Metencephalon;NL:Category:Regional part of metencephalon
+			Pons;Pons;WL:Pons;NL:Category:Regional part of pons;CRI:anatomy;FUN:breathing
+				PTEG;Pontine tegmentum
+					TNC;Trigeminal nuclear complex
+						SNTN;Spinal nucleus of trigeminal nerve;CAT:Nucleus
+					PRF;Pontine reticular formation
+						SCeN;Superior central nucleus;CAT:Nucleus
+						POnsCG;Central gray substance of pons;CAT:Gray Matter
+						PRNc;Caudal pontine reticular nucleus;CAT:Nucleus
+						NME;Nucleus of medial eminence;CAT:Nucleus
+						RTN;Reticulotegmental nucleus;CAT:Nucleus
+						PRNo;Oral pontine reticular nucleus;CAT:Nucleus
+						ICN;Inferior central nucleus;CAT:Nucleus
+					SOC;Superior olivary complex
+						SOCvn;Ventral nucleus of trapezoid body;CAT:Nucleus
+						DPON;Dorsal periolivary nucleus;CAT:Nucleus
+						preON;Preolivary nucleus;CAT:Nucleus
+						roCG;Retro-olivary cell group
+						SONm;Medial superior olivary nucleus;CAT:Nucleus
+						SONl;Lateral superior olivary nucleus;CAT:Nucleus
+					LocC;Locus ceruleus
+					NSubC;Nucleus subceruleus;CAT:Nucleus
+					PBNm;Medial parabrachial nucleus;CAT:Nucleus
+					PBNl;Lateral parabrachial nucleus;CAT:Nucleus
+					PRN;Pontine raphe nucleus;CAT:Nucleus
+					SSN;Superior salivatory nucleus;CAT:Nucleus
+					LLNd;Dorsal nucleus of lateral lemniscus;CAT:Nucleus
+					LLNv;Ventral nucleus of lateral lemniscus;CAT:Nucleus
+					OCB;Olivocochlear bundle
+					SOpe;Peduncle of superior olive
+					TBod;Trapezoid body
+					SCP;Superior cerebellar peduncle
+					ASd;Dorsal acoustic stria
+					ASi;Intermediate acoustic stria
+					ASv;Ventral acoustic stria
+				Ponsb;Basal part of pons
+					PonNG;Pontine nuclear group
+					MCP;Middle cerebellar peduncle
+			CeB;Cerebellum;CRI:anatomy;FUN:muscle movement, posture, sensory information integration;WL:Cerebellum;NL:Category:Regional part of cerebellum
+				CeBAL;Anterior lobe of cerebellum
+					CeBALvermis;Vermis part of anterior lobe of cerebellum
+						CeBALcL;Central lobule
+							CeBALcLp;Central lobule proper
+							CeBALra;Right alar central lobule
+							CeBALla;Left alar central lobule
+						Lingu;Lingula of cerebellum
+						Cu;Culmen of cerebellum
+					CeBALhemi;Hemispheric part of anterior lobe of cerebellum
+						Qa;Anterior quadrangular lobule
+						Acl;Alar central lobule
+					CeBALmed;Medulla of anterior lobe of cerebellum
+					CeBALCx;Cortex of anterior lobe of cerebellum
+				CeBPL;Posterior lobe of cerebellum
+					CEBPLvermis;Vermis part of posterior lobe of cerebellum
+						DV;Declive of cerebellum
+						FV;Folium of vermis of cerebellum
+						TV;Tuber of vermis of cerebellum
+						PyV;Pyramis of vermis of cerebellum
+						UvV;Uvula of vermis of cerebellum
+						NCeB;Nodulus of cerebellum
+					CEBLhemi;Hemispheric part of posterior lobe of cerebellum
+						Qp;Posterior quadrangular lobule
+						SiL;Superior semilunar lobule
+						SsL;Inferior semilunar lobule
+						BivL;Biventer lobule
+						Tons;Tonsil of cerebellum
+						Flo;Flocculus of cerebellum
+					WmV;White matter of vermis							
+				CeBM;Cerebellar medulla
+					DN;Dentate nucleus;CAT:Nucleus
+						DNnd;Neodentate part of dentate nucleus
+						DNpd;Paleodentate part of dentate nucleus
+						DNa;Amiculum of dentate nucleus
+					CeBMgn;Globose nucleus;CAT:Nucleus
+					CeBMen;Emboliform nucleus;CAT:Nucleus
+					CeBMfn;Fastigial nucleus;LN:Fastigium;CAT:Nucleus
+				CeBapmf;Ansoparamedian fissure;CAT:Sulcus
+				CeBhf;Horizontal fissure;CAT:Sulcus
+				CeBplf;Posterolateral fissure;CAT:Sulcus
+				CeBppf;Prepyramidal fissure;CAT:Sulcus
+				CeBprf;Posterior superior fissure;CAT:Sulcus
+				CeBpsf;Primary fissure;CAT:Sulcus
+				CeBsf;Secondary fissure;CAT:Sulcus
+				CeBBi;Biventral lobule
+				CeBbp;Brachium pontis
+				CeBCe;Central lobule
+				CeBFla;Accessory paraflocculus of Henle
+				CeBGr;Lobulus gracilis
+				CeBTo;Tonsilla
+				CeBTox;Cross-section of the peduncle of the tonsilla
+				CeBvma;Anterior medullary velum
+				CeBvmp;Posterior medullary velum
+			MO;Medulla oblongata;CRI:anatomy;DEF:It deals with autonomic functions, such as breathing and blood pressure. The cardiac center is the part of the medulla oblongata responsible for controlling the heart rate.;FUN:breathing, blood pressure, heart rate;WL:Medulla oblongata;NL:Category:Regional part of medulla oblongata
+				MOr;Rostral segment of medulla oblongata
+				MOm;Middle segment of medulla oblongata
+				MOc;Caudal segment of medulla oblongata
+				VNC;Vestibular nuclear complex
+					VNCin;Interstitial nucleus of vestibular nerve;CAT:Nucleus
+					VNCsn;Superior vestibular nucleus;CAT:Nucleus
+					VNCmn;Medial vestibular nucleus;CAT:Nucleus
+					VNCln;Lateral vestibular nucleus;CAT:Nucleus;SYN:Nucleus of Deiters
+						VNClnp;Parvocellular part of lateral vestibular nucleus
+						VNClncL;Cell group L
+					VNCinfn;Inferior vestibular nucleus;CAT:Nucleus
+				MOcn;Cuneate nucleus;CAT:Nucleus
+				MOlpn;Lateral pericuneate nucleus;CAT:Nucleus
+				MOdrn;Diffuse reticular nucleus;CAT:Nucleus
+				MOdml;Decussation of medial lemniscus
+				MOaIOC;Amiculum of inferior olivary complex
+				MOptn;Peritrigeminal nucleus;CAT:Nucleus
+				MOcgs;Central gray substance of medulla
+				MOpn;Nucleus prepositus;CAT:Nucleus
+				MOisn;Inferior salivatory nucleus;CAT:Nucleus
+				MOpdb;Predorsal bundle
+				STNc;Caudal part of spinal trigeminal nucleus
+				MOah;Anterior horn of medulla oblongata
+				MOpbn;Pontobulbar nucleus;CAT:Nucleus
+				MOjux;Juxtarestiform body
+				MOmpn;Medial pericuneate nucleus;CAT:Nucleus				
+				IOC;Inferior olivary complex
+					IOChilum;Hilum of inferior olivary complex
+					IOCp;Principal inferior olivary nucleus;CAT:Nucleus
+					IOCdn;Dorsal accessory inferior olivary nucleus;CAT:Nucleus
+					IOCmn;Medial accessory inferior olivary nucleus;CAT:Nucleus
+				MOsn;Sublingual nucleus;CAT:Nucleus
+				MOml;Medial lemniscus of medulla;DEF:correct, the same as medial lemniscus of midbrain
+				MOin;Nucleus intercalatus;CAT:Nucleus
+				MOgn;Gracile nucleus;CAT:Nucleus
+				MeRF;Medullary reticular formation
+					MRFp;Paramedian medullary reticular complex
+						PRNv;Ventral paramedian reticular nucleus;CAT:Nucleus
+						aPRN;Accessory paramedian reticular nucleus;CAT:Nucleus
+						PRNd;Dorsal paramedian reticular nucleus;CAT:Nucleus
+						NRO;Nucleus raphe obscurus;CAT:Nucleus
+						NRP;Nucleus raphe pallidus;CAT:Nucleus
+						NRM;Nucleus raphe magnus;CAT:Nucleus
+						IONp;Principal inferior olivary nucleus;CAT:Nucleus
+						IONda;Dorsal accessory inferior olivary nucleus;CAT:Nucleus
+						IONma;Medial accessory inferior olivary nucleus;CAT:Nucleus
+					MRFl;Lateral medullary reticular complex
+						LRN;Lateral reticular nucleus;CAT:Nucleus
+						PaRN;Parvicellular reticular nucleus;CAT:Nucleus
+					MRFc;Central medullary reticular complex
+						RNv;Ventral reticular nucleus;CAT:Nucleus
+						dpgN;Dorsal paragigantocellular nucleus;CAT:Nucleus
+						gigN;Gigantocellular nucleus;CAT:Nucleus
+						lpgN;Lateral paragigantocellular nucleus;CAT:Nucleus
+				ICP;Inferior cerebellar peduncle
+				MOcna;Accessory cuneate nucleus;CAT:Nucleus
+				MRNC;Medullary raphe nuclear complex
+					MRon;Nucleus raphe obscurus;CAT:Nucleus
+					MRpn;Nucleus raphe pallidus;CAT:Nucleus
+					MRmn;Nucleus raphe magnus;CAT:Nucleus
+				MOap;Area postrema;WL:Area_postrema
+				MOpan;Paratrigeminal nucleus;CAT:Nucleus
+				CNC;Cochlear nuclear complex
+					CNCavn;Anteroventral cochlear nucleus;CAT:Nucleus
+					CNCpvn;Posteroventral cochlear nucleus;CAT:Nucleus
+CN;Cranial nerves;WL:Cranial_nerves;CAT:White Matter Tract
+	CN0;Cranial nerve zero;WL:Cranial nerve zero;CAT:Cranial nerve
+	CN1;Olfactory nerve;ON:CNI;WL:Olfactory nerve;CAT:Cranial nerve
+	CN2;Optic nerve;ON:CNII;WL:Optic nerve;CAT:Cranial nerve
+	CN3;Oculomotor nerve;ON:CNIII;WL:Oculomotor nerve;CAT:Cranial nerve
+	CN4;Trochlear nerve;ON:CNIV;WL:Trochlear nerve;CAT:Cranial nerve
+	CN5;Trigeminal nerve;ON:CNV;WL:Trigeminal nerve;CAT:Cranial nerve
+	CN6;Abducens nerve;ONVI;WL:Abducens nerve;CAT:Cranial nerve
+	CN7;Facial nerve;ON:CNVII;WL:Facial nerve;CAT:Cranial nerve
+	CN8;Vestibulocochlear nerve;WL:Vestibulocochlear nerve;ON:CNVIII,auditory-vestibular nerve, statoacustic nerve;CAT:Cranial nerve
+	CN9;Glossopharyngeal nerve;ON:CNIX;WL:Glossopharyngeal nerve;CAT:Cranial nerve
+	CN10;Vagus nerve;WL:Vagus nerve;ON:CNX;CAT:Cranial nerve
+	CN11;Accessory nerve;WL:Accessory nerve;ON:CNXI,cranial accessory nerve, spinal accessory nerve;CAT:Cranial nerve
+	CN12;Hypoglossal nerve;ON:CNXII;WL:Hypoglossal nerve;CAT:Cranial nerve
+tract;Tract;CAT;White_Matter_Tract;DEF:Tracts are defined here as a set of brain regions (starts and terminations of the tracts) as well as a set of brain connections, usually connecting the brain regions. Often, the tract relates to a sensory or motor system. The particular details, like the functional ordering of the stations, have to be described on the individual tract pages, since this wiki does not yet implement functional parthood relationships.
+	audtrc;Auditory tract;DEF:http://www.biology-online.org/dictionary/Auditory_tract
+	optrc;Optic tract;WL:Optic_tract
+		optrad;Optic radiation;ON:Geniculo-calcarine tract;WL:Optic radiation
+	mttrc;Motor tract;WL:Corticospinal_tract
+	otrc;Olfactory tract;WL:Olfactory tract
+	pctrc;Pontine crossing tract
+	mtrc;Mammillothalamic tract;WL:Mammillothalamic_tract
+	spcertrc;Spinocerebellar tract;CAT:Cerebelloafferent fibers;WL:Spinocerebellar_tract
+		spcerdtrc;Dorsal spinocerebellar tract;CAT:Cerebelloafferent fibers;WL:Dorsal_spinocerebellar_tract
+		spcervtrc;Ventral spinocerebellar tract;CAT:Cerebelloafferent fibers;WL:Ventral_spinocerebellar_tract
+		spcucertrc;Spinocuneocerebellar tract;CAT:Cerebelloafferent fibers;WL:Spinocuneocerebellar_tract
+		spcerrtrc;Rostral spinocerebellar tract;CAT:Cerebelloafferent fibers;WL:Rostral_spinocerebellar_tract
+	vecertrc;Vestibulocerebellar tract;WL:Vestibulocerebellar tract;CAT:Cerebelloafferent fibers
+	certhtrc;Cerebellothalamic tract;WL:Cerebellothalamic_tract;CAT:Cerebelloefferent fibers
+	vesptrc;Vestibulospinal tract;CAT:Spinoafferent fibers;WL:Vestibulospinal_tract
+	rusptrc;Rubrospinal tract;CAT:Spinoafferent fibers;WL:Rubrospinal_tract
+	tesptrc;Tectospinal tract;CAT:Spinoafferent fibers;WL:Tectospinal_tract
+	resptrc;Reticulospinal tract;WL:Reticulospinal_tract;CAT:Spinoafferent fibers
+	olsptrc;Olivospinal tract;WL:Olivospinal_tract;CAT:Spinoafferent fibers
+	olcertrc;Olivocerebellar tract;WL:Olivocerebellar tract;CAT:Cerebelloafferent fibers
+	spthtrc;Spinothalamic tract;WL:Spinothalamic_tract;DEF:Destination is the thalamus, it is important in the localization of painful or thermal stimuli;CAT:Spinoefferent fibers
+		spthltrc;Lateral spinothalamic tract;WL:Lateral_spinothalamic_tract;CAT:Spinoefferent fibers
+		spthatrc;Anterior spinothalamic tract;WL:Anterior_spinothalamic_tract;CAT:Spinoefferent fibers
+	sptetrc;Spinotectal tract;WL:Spinotectal_tract;DEF:Destinatino is the tectum, orients the eyes and head towards the stimuli;CAT:Spinoefferent fibers
+	spretrc;Spinoreticular tract;WL:Spinoreticular_tract;Destination is the reticular formation, causes alertness and arousal in response to painful stimuli;CAT:Spinoefferent fibers
+	thcxtrc;Thalamocortical tract;CAT:Corticoafferent fibers
+	cxthtrc;Corticothalamic tract;CAT:Corticoefferent fibers
+	cxsttrc;Corticostriatal tract;REF:Changes of Cortico-striatal Effective Connectivity during Visuomotor Learning http://cercor.oxfordjournals.org/cgi/content/full/12/10/1040;CAT:Corticoefferent fibers
+	cxpontrc;Corticopontine tract;CAT:Corticoefferent fibers
+	cxbultrc;Corticobulbar tract;WL:Corticobulbar_tract;CAT:Corticoefferent fibers
+	cxsptrc;Corticospinal tract;SYN:Pyramidal tract;REF:ICBM DTI-81 Atlas, http://www.loni.ucla.edu/ICBM/Downloads/Downloads_DTI-81.shtml;CAT:Corticoefferent fibers,Brainstem fiber;WL:Corticospinal tract
+			cxspatrc;Anterior corticospinal tract;WL:Anterior_corticospinal_tract;CAT:Corticoefferent fibers
+			cxspltrc;Lateral corticospinal tract;WL:Lateral_corticospinal_tract;CAT:Corticoefferent fibers
+	cxrettrc;Corticoreticular tract;CAT:Corticoefferent fibers
+	tegtrc;Central tegmental tract;WL:Central tegmental tract;CAT:Thalamoafferent fibers
+	trthtrc;Trigeminothalamic tract;CAT:Thalamoafferent fibers
+		trthvtrc;Ventral trigeminothalamic tract;WL:Ventral_trigeminothalamic_tract;CAT:Thalamoafferent fibers
+		trthdtrc;Dorsal trigeminal tract;WL:Dorsal_trigeminal_tract;CAT:Thalamoafferent fibers
+	dethtrc;Dentatothalamic tract;WL:Dentatothalamic tract;CAT:Thalamoafferent fibers
+	spoltrc;Spinoolivary tract;WL:Spino-olivary tract;CAT:Spinoefferent fibers
+	ruoltrc;Rubroolivary tract;WL:Rubro-olivary_tract
+	rhyptrc;Retinohypothalamic tract;WL:Retinohypothalamic tract
+	hyptetrc;Hypothalamotegmental tract;WL:Hypothalamotegmental_tract
+	postltrc;Posterolateral tract;WL:Lissauer's_tract
+SpinC;Spinal cord;WL:Spinal_cord;DEF:The spinal cord functions primarily in the transmission of neural signals between the brain and the rest of the body, but also contains neural circuits that can independently control. numerous reflexes and central pattern generators.;CRI:anatomy
+	CSegs;Cervical segment of spinal cord
+		C1seg;C1 segment
+		C2seg;C2 segment
+		C3seg;C3 segment
+		C4seg;C4 segment
+		C5seg;C5 segment
+		C6seg;C6 segment
+		C7seg;C7 segment
+		C8seg;C8 segment
+	TSegs;Thoracic segment of spinal cord
+		T1seg;T1 segment
+		T2seg;T2 segment
+		T3seg;T3 segment
+		T4seg;T4 segment
+		T5seg;T5 segment
+		T6seg;T6 segment
+		T7seg;T7 segment
+		T8seg;T8 segment
+		T9seg;T9 segment
+		T10seg;T10 segment
+		T11seg;T11 segment
+		T12seg;T12 segment
+	LSegs;Lumbar segment of spinal cord
+		L1seg;L1 segment
+		L2seg;L2 segment
+		L3seg;L3 segment
+		L4seg;L4 segment
+		L5seg;L5 segment
+	SSegs;Sacral segment of spinal cord
+		S1seg;S1 segment
+		S2seg;S2 segment
+		S3seg;S3 segment
+		S4seg;S4 segment
+		S5seg;S5 segment
+	CocSeg;Coccygeal segment of spinal cord

@@ -1,0 +1,413 @@
+1-2;cortical areas 1 & 2;primate;Tel::Cx::SI::1-2
+17;cortical area 17;primate;Tel::Cx::17
+3a;cortical area 3a;primate;Tel::Cx::SI::3a
+3b;cortical area 3b;primate;Tel::Cx::SI::3b
+3V;third ventricle;rodent, carnivore, primate;Die::3V
+4;cortical area 4;rodent, carnivore, primate;Tel::Cx::SI::4
+4V;fourth ventricle;rodent, carnivore, primate;Pons::4V
+5ME;mesencephalic trigeminal nucleus;rodent, carnivore, primate;Pons::5ME
+6;cortical area 6;rodent, carnivore, primate;Tel::Cx::6
+8;cortical area 8;primate;Tel::Cx::8
+A;auditory cortical areas;rodent, carnivore, primate;Tel::Cx::A
+AAA;anterior amygdaloid area;rodent, carnivore, primate;Tel::Am::AAA
+ABL;basolateral nucleus of amygdala;rodent, carnivore, primate;Tel::Am::ABL
+ABM;basomedial nucleus of amygdala;rodent, carnivore, primate;Tel::Am::ABM
+AC;anterior commissure;rodent, carnivore, primate;Tel::AC
+Ac;nucleus accumbens;avian;<Null>
+ACC;nucleus accumbens;rodent, carnivore, primate;Tel::ACC
+ACE;central nucleus of amygdala;rodent, carnivore, primate;Tel::Am::ACE
+ACN;nucleus of anterior commissure;rodent, carnivore, primate;Tel::ACN
+ACO;cortical nucleus of amygdala;rodent, carnivore, primate;Tel::Am::ACO
+ACX;decussation of anterior commissure;rodent, carnivore, primate;Tel::ACX
+AD;anterodorsal nucleus of thalamus;rodent, carnivore, primate;Die::Th::AD
+AHA;amygdalo-hippocampal area;rodent, carnivore, primate;Tel::AHA
+AHy;adenohypophysis;primate;<Null>
+AL;ansa lenticularis;avian;<Null>
+AL;ansa lenticularis;primate;<Null>
+ALA;lateral nucleus of amygdala;rodent, carnivore, primate;Tel::Am::ALA
+Am;amygdala;rodent, carnivore, primate;Tel::Am
+AM;anteromedial nucleus of thalamus;rodent, carnivore, primate;Die::AM
+AMB;nucleus ambiguus;rodent, carnivore, primate;Me::AMB
+AME;medial nucleus of amygdala;rodent, carnivore, primate;Tel::Am::AME
+APH;area parahippocampalis;avian;<Null>
+AQ;cerebral aqueduct;rodent, carnivore, primate;MB::AQ
+ARCO;archistriatum;avian;<Null>
+AS;arcuate sulcus;rodent, carnivore, primate;Tel::Cx::AS
+AV;anteroventral nucleus of thalamus;rodent, carnivore, primate;Die::AV
+AVT;nucleus ventralis (Tsai);avian;<Null>
+AW;anterior Wulst;avian;<Null>
+BAS;nucleus basalis;avian;<Null>
+BC;brachium conjunctivum;rodent, carnivore, primate;<Null>
+BCX;decussation of brachium conjunctivum;rodent, carnivore, primate;<Null>
+BF;basal forebrain;rodent, carnivore, primate;Tel::BF
+BG;basal ganglia;rodent, carnivore, primate;Tel::BG
+BIC;brachium of inferior colliculus;rodent, carnivore, primate;MB::BSC
+BNM;basal nucleus of Meynert;rodent, carnivore, primate;Tel::BNM
+BNST;bed nucleus of stria terminalis;avian;<Null>
+BP;brachium pontis;rodent, carnivore, primate;Pons::BP
+BSC;brachium of superior colliculus;rodent, carnivore, primate;MB::BSC
+CA;caudate nucleus;carnivore, primate;Tel::CA
+CA;commissura anterior;avian;<Null>
+CAM;cornu ammonis;rodent, carnivore, primate;Tel::CAM
+CAS;calcarine sulcus;primate;Tel::Cx::CAS
+CB;cerebellum;rodent, carnivore, primate;CB
+CBIN;interposed nucleus of cerebellum;rodent, carnivore, primate;CB::CBIN
+CBL;lateral nucleus of cerebellum;rodent, carnivore, primate;CB::CBL
+CBM;medial nucleus of cerebellum;rodent, carnivore, primate;CB::CBM
+Cbx;cerebellar cortex;rodent, carnivore, primate;CB::Cbx
+CC;corpus callosum;rodent, carnivore, primate;Tel::CC
+CD;dorsal cochlear nucleus;rodent, carnivore, primate;Me::CD
+CDL;area corticoidea dorsolateralis;avian;<Null>
+CeM;central medial nucleus of thalamus;rodent, carnivore, primate;Die::CeM
+CF;cuneate fasciculus;rodent, carnivore, primate;Me::CF
+CG;cingulate gyrus;carnivore, primate;Tel::CG
+Cg;cingulate cortex;rodent, carnivore, primate;Tel::Cx::Cg
+CGr;central gray;rodent, carnivore, primate;<Null>
+CGS;cingulate sulcus;carnivore, primate;Tel::Cx::CGS
+CL;central lateral nucleus of the thalamus;rodent, carnivore, primate;Die::CL
+Cl;claustrum;rodent, carnivore, primate;Tel::Cl
+CM;centre median nucleus of thalamus;rodent, carnivore, primate;Die::CM
+CMRt;central medullary reticular group;rodent, carnivore, primate;Me::CMRt
+CNF;cuneiform nucleus;rodent, carnivore, primate;MB::CNF
+Co;cochlear nuclei;rodent, carnivore, primate;Me::Co
+CO;chiasma opticum;avian;<Null>
+CoS;nucleus commissuralis septi;avian;<Null>
+CP;cerebral peduncle;rodent, carnivore, primate;<Null>
+CPa;commissura pallii;avian;<Null>
+CPi;cortex piriformis;avian;<Null>
+CPP;cortex prepiriformis;avian;<Null>
+CPu;caudate-putamen;rodent;Tel::C-Pu
+CR;central lineal nucleus of the raphe;primate;<Null>
+CS;central sulcus;carnivore, primate;Tel::Cx::CS
+CST;corticospinal tract;rodent, carnivore, primate;<Null>
+CTT;cortico-tectal tract;rodent, carnivore, primate;<Null>
+Cu;cuneate nucleus;carnivore, primate;Me::Cu
+CV;ventral cochlear nucleus;rodent, carnivore, primate;<Null>
+CX;external cuneate nucleus;rodent, carnivore, primate;Me::CX
+Cx;cerebral cortex;rodent, carnivore, primate;Tel::Cx
+D;nucleus of Darkschewitsch;rodent, carnivore, primate;MB::D
+DBH;horizontal nucleus of diagonal band;rodent, carnivore, primate;Tel::DBH
+DBV;vertical nucleus of diagonal band;rodent, carnivore, primate;Tel::DBV
+DCH;dorsal chiasmatic nucleus;rodent, carnivore, primate;Die::Hy::DCH
+DG;dentate gyrus;rodent, carnivore, primate;Tel::DG
+DH;dorsal horn;rodent, carnivore, primate;SpC::DH
+Die;diencephalon;rodent, carnivore, primate;Die
+DIP;nucleus dorsointermedius posterior thalami;avian;<Null>
+DIVA;dorsalis intermedius pars ventralis anterior;avian;<Null>
+DLL;nucleus dorsolateralis anterior thalami, pars lateralis;avian;<Null>
+DLP;nucleus dorsolateralis posterior thalami;avian;<Null>
+DMA;nucleus dorsomedialis anterior thalami;avian;<Null>
+DMH;dorsomedial nucleus of hypothalamus;rodent, carnivore, primate;Die::Hy::DMH
+DMP;nucleus dorsomedialis posterior thalami;avian;<Null>
+DR;dorsal raphe;rodent, carnivore, primate;MB::DR
+DSCT;dorsal spinocerebellar tract;rodent, carnivore, primate;<Null>
+DSD;decussatio supraoptica dorsalis;avian;<Null>
+DX;dorsal vagal nucleus;rodent, carnivore, primate;<Null>
+E;ectostriatum;avian;<Null>
+EM;nucleus ectomamillaris;avian;<Null>
+ENT;entorhinal cortex;rodent, carnivore, primate;Tel::Cx::ENT
+Epi;epithalamus;rodent, carnivore, primate;Die::Epi
+EW;Edinger-Westphal nucleus;rodent, carnivore, primate;<Null>
+F;fornix of hippocampus;rodent, carnivore, primate;Tel::F
+FA;tractus fronto-archistriatalis;avian;<Null>
+FF;fields of Forel;rodent, carnivore, primate;Die::VTh::FF
+FI;fimbria of hippocampus;rodent, carnivore, primate;Tel::FI
+FPL;fasciculus prosencephali lateralis;avian;<Null>
+FR;frontal region;rodent;Tel::Cx::FR
+FTC;central tegmental field;rodent, carnivore, primate;<Null>
+GF;gracile fasciculus;rodent, carnivore, primate;Me::GF
+GLd;dorsal lateral geniculate nucleus;avian;<Null>
+GLv;nucleus geniculatus lateralis, pars ventralis;avian;<Null>
+GPe;external division of globus pallidus;rodent, carnivore, primate;Tel::GPe
+GPi;internal division of globus pallidus;rodent, carnivore, primate;Tel::GPi
+Gr;gracile nucleus;rodent, carnivore, primate;Me::Gr
+HA;hyperstriatum accessorium;avian;<Null>
+HAA;anterior hypothalamic area;rodent, carnivore, primate;Die::Hy::HAA
+HAr;arcuate nucleus of hypothalamus;rodent;<Null>
+HC;habenular commissure;rodent, carnivore, primate;Die::Epi::HC
+HD;hyperstriatum dorsale;avian;<Null>
+HD;dorsal hypothalamic nucleus;primate;<Null>
+HDA;dorsal hypothalamic area;rodent, carnivore, primate;Die::Hy::HDA
+HF;hippocampal formation;rodent, carnivore, primate;Tel::HF
+Hl;lateral habenular nucleus;rodent, carnivore, primate;Die::Epi::Hl
+HL;nucleus habenularis lateralis;avian;<Null>
+HLA;lateral hypothalamic area;rodent, carnivore, primate;Die::Hy::HLA
+HLmc;magnocellular nucleus of lateral hypothalamus;primate;<Null>
+HM;medial habenular nucleus;rodent, carnivore, primate;Die::Epi::HM
+HM;nucleus habenularis medialis;avian;<Null>
+HMA;medial hypothalamic area;rodent, carnivore, primate;Die::Hy::HMA
+Hp;hippocampus;avian;<Null>
+HPA;posterior hypothalamic area;rodent, carnivore, primate;Die::Hy::HPA
+HPT;habenulopeduncular tract;rodent, carnivore, primate;<Null>
+HV;hyperstriatum ventrale;avian;<Null>
+HY;hypophysis;rodent, carnivore, primate;Die::Hy::HY
+Hy;hypothalamus;rodent, carnivore, primate, avian;Die::Hy
+IC;internal capsule;rodent, carnivore, primate;<Null>
+ICA;interstitial nucleus of Cajal;rodent, carnivore, primate;MB::ICA
+ICAS;inferior ramus of calcarine sulcus;primate;Tel::Cx::ICAS
+ICC;central nucleus of inferior colliculus;rodent, carnivore, primate;MB::Tec::ICC
+ICP;pericentral nucleus of inferior colliculus;rodent, carnivore, primate;MB::Tec::ICP
+ICX;external nucleus of inferior colliculus;rodent, carnivore, primate;MB::Tec::ICX
+IHA;hyperstriatum intercalatus superior;avian;<Null>
+III;oculomotor nucleus;rodent, carnivore, primate;MB::III
+IIIN;oculomotor nerve;rodent, carnivore, primate;MB::IIIN
+INF;infundibular nucleus;rodent, carnivore, primate;Die::Hy::INF
+Ins;insular cortex;carnivore, primate;Tel::Cx::Ins
+IO;inferior olivary complex;rodent, carnivore, primate;Me::IO
+IOD;dorsal accessory nucleus of inferior olivary complex;rodent, carnivore, primate;Me::IOD
+IOM;medial accessory nucleus of inferior olivary complex;rodent, carnivore, primate;Me::IOM
+IOP;principal nucleus of inferior olivary complex;rodent, carnivore, primate;<Null>
+IOS;inferior occipital sulcus;primate;Tel::Cx::IOS
+IP;interpeduncular nucleus;rodent, carnivore, primate;MB::IP
+IPS;intraparietal sulcus;carnivore, primate;Tel::Cx::IPS
+ISC;islands of Calleja;rodent, carnivore, primate;Tel::ISC
+ITG;inferior temporal gyrus;primate;Tel::ITG
+ITS;inferior temporal sulcus;primate;Tel::Cx::ITS
+IV;trochlear nucleus;rodent, carnivore, primate;MB::IV
+IVN;trochlear nerve;rodent, carnivore, primate;<Null>
+L;limitans nucleus of thalamus;rodent, carnivore, primate;Die::Th::L
+L;area L;avian;<Null>
+L1;area L1;avian;<Null>
+L2;area L2;avian;<Null>
+L3;area L3;avian;<Null>
+LC;locus coeruleus;rodent, carnivore, primate;Pons::LC
+LD;lateral dorsal nucleus of thalamus;rodent, carnivore, primate;Die::Th::LD
+LF;lenticular fascicularis;primate;<Null>
+LGd;dorsal lateral geniculate nucleus;rodent, carnivore, primate;Die::Th::LGd
+LGv;ventral lateral geniculate nucleus;rodent;<Null>
+LH;lamina hyperstriatica;avian;<Null>
+LL;lateral lemniscus;rodent, carnivore, primate;Pons::LL
+LLD;dorsal nucleus of lateral lemniscus;rodent, carnivore, primate;<Null>
+LLV;ventral nucleus of lateral lemniscus;rodent, carnivore, primate;<Null>
+LM;medial lemniscus;rodent, carnivore, primate;<Null>
+LM;lemniscus medialis;avian;<Null>
+LMD;lamina medullaris dorsalis;avian;<Null>
+LMX;decussation of medial lemniscus;rodent, carnivore, primate;Me::LMX
+LOT;lateral olfactory tract;rodent, carnivore, primate;Tel::LOT
+LP;lateral posterior nucleus of thalamus;rodent, carnivore, primate;Die::Th::LP
+LPO;lateral preoptic area;rodent, carnivore, primate;Die::Hy::LPO
+LPO;lobus parolfactorius;avian;<Null>
+LR;lateral reticular nucleus;rodent, carnivore, primate;<Null>
+LS;lateral sulcus;primate;Tel::Cx::LS
+LT;lamina terminalis;primate;<Null>
+LUS;lunate sulcus;primate;Tel::Cx::LUS
+LV;lateral ventricle;rodent, carnivore, primate;Tel::LV
+M1;primary motor cortex;rodent, carnivore, primate;Tel::Cx::M1
+MB;midbrain;rodent, carnivore, primate;MB
+MBRF;midbrain reticular formation;rodent, carnivore, primate;MB::MBRF
+MD;mediodorsal nucleus of thalamus;rodent, carnivore, primate;Die::Th::MD
+Me;medulla;rodent, carnivore, primate;Me
+ME;median eminence;primate;<Null>
+MeRF;medullary reticular formation;rodent, carnivore, primate;Me::MeRF
+MG;medial geniculate complex;rodent, carnivore, primate;Die::Th::MG
+MGad;anterodorsal nucleus of medial geniculate complex;rodent, carnivore, primate;Die::Th::MG::MGad
+MGmc;magnocellular nucleus of medial geniculate complex;rodent, carnivore, primate;Die::Th::MG::MGmc
+MGpd;posterodorsal nucleus of medial geniculate complex;rodent, carnivore, primate;Die::Th::MG::MGpd
+MGv;ventral nucleus of medial geniculate complex;rodent, carnivore, primate;Die::Th::MG::MGv
+ML;lateral mamillary nucleus;rodent, carnivore, primate;Die::Hy::ML
+MLB;medial longitudinal bundle;rodent, carnivore, primate;MB::MLB
+MM;medial mamillary nucleus;rodent, carnivore, primate;Die::Hy::MM
+MP;premamillary nucleus;rodent;Die::Hy::MP
+MP;mamillary peduncle;primate;<Null>
+MPO;median preoptic nucleus;primate;<Null>
+MR;median raphe nucleus;rodent, carnivore, primate;<Null>
+MS;supramamillary nucleus;rodent, carnivore, primate;Die::Hy::MS
+MTS;middle temporal sulcus;primate;Tel::Cx::MTS
+MTT;mamillothalamic tract;rodent, carnivore, primate;Die::MTT
+MV;medioventral nucleus of thalamus;rodent, carnivore, primate;Die::Th::MV
+N;neostriatum;avian;<Null>
+NBOR;nucleus of basal optic root;avian;<Null>
+NC;central nucleus of brainstem;rodent, carnivore, primate;<Null>
+NCPa;nucleus of commissura pallii;avian;<Null>
+NEx;nucleus externus;avian;<Null>
+NF;neostriatum frontale;avian;<Null>
+NFL;nidopallium frontale, pars laterale;avian;<Null>
+NLOT;nucleus of lateral olfactory tract;rodent, carnivore, primate;Tel::NLOT
+NPC;nucleus of posterior commissure;rodent, carnivore, primate;<Null>
+NPC;nucleus of posterior commissure;avian;<Null>
+NS;nucleus of solitary tract;rodent, carnivore, primate;Me::NS
+NST;nucleus of stria terminalis;rodent, carnivore, primate;<Null>
+NTB;nucleus of trapezoid body;rodent, carnivore, primate;<Null>
+NY;neurohypophysis;primate;<Null>
+OAN;anterior olfactory nucleus;rodent, carnivore, primate;Tel::OAN
+OB;olfactory bulb;rodent, carnivore, primate;Tel::OB
+OCX;optic chiasm;rodent, carnivore, primate;Tel::OCX
+OFS;orbitofrontal sulcus;primate;Tel::Cx::OFS
+OLS;olfactory sulcus;carnivore, primate;Tel::Cx::OFS
+OLT;olfactory tubercle;rodent, carnivore, primate;Tel::OLT
+OM;tractus occipitomesencephalicus;avian;<Null>
+OPT;olivary pretectal nucleus;rodent, carnivore, primate;MB::Tec::OPT
+OR;optic radiation;rodent, carnivore, primate;Tel::OR
+ORS;orbital sulcus;primate;Tel::Cx::ORS
+OT;optic tract;rodent, carnivore, primate;Tel::OT
+OTS;occipito-temporal sulcus;primate;Tel::Cx::OTS
+Ov;nucleus ovoidalis;avian;<Null>
+OVH;organum vasculosum hypothalamus;avian;<Null>
+P;corpus pineale;avian;<Null>
+Pa;paraventricular nuclei of thalamus;rodent, carnivore, primate;Die::Th::Pa
+PA;paleostriatum augmentatum;avian;<Null>
+PAG;periaqueductal gray;rodent, carnivore, primate;MB::PAG
+PAH;paraventricular nucleus of hypothalamus;rodent, carnivore, primate;Die::Hy::PAH
+PAM;periamygdaloid area;rodent, carnivore, primate;Tel::Cx::PAM
+PASB;parasubiculum;rodent, carnivore, primate;Tel::Cx::PASB
+PB;parabrachial nucleus;rodent, carnivore, primate;<Null>
+PBG;parabigeminal nucleus;rodent, carnivore, primate;<Null>
+Pc;paracentral nucleus of thalamus;rodent, carnivore, primate;Die::Th::Pc
+PC;posterior commissure;rodent, carnivore, primate;MB::Tec::PC
+PCS;precentral sulcus;primate;Tel::Cx::PCS
+Pe;periventricular hypothalamic area;primate;<Null>
+Pf;parafascicular nucleus of thalamus;rodent, carnivore, primate;Die::Th::Pf
+PF;perifornical nuclei;primate;<Null>
+PGr;pontine gray;rodent, carnivore, primate;Pons::PGr
+PIN;pineal;rodent, carnivore, primate;Die::Epi::PIN
+Pl;pulvinar;rodent, carnivore, primate;Die::Th::Pl
+Pla;anterior nucleus of pulvinar;rodent, carnivore, primate;Die::Th::Pl::Pla
+Pli;inferior nucleus of pulvinar;rodent, carnivore, primate;Die::Th::Pl::Pli
+Plil;inferior nucleus of pulvinar, lateral division;primate;Die::Th::Pl::Plil
+Plim;inferior nucleus of pulvinar, medial division;primate;Die::Th::Pl::Plim
+Pll;lateral nucleus of pulvinar;rodent, carnivore, primate;Die::Th::Pl::Pll
+Plm;medial nucleus of pulvinar;rodent, carnivore, primate;Die::Th::Pl::Plm
+PM;premamillary nucleus;primate;<Null>
+PMI;nucleus paramedianus internus thalami;avian;<Null>
+Po;posterior nucleus of thalamus;rodent, carnivore, primate;Die::Th::Po
+PO;nucleus preopticus;avian;<Null>
+POA;preoptic area;rodent, carnivore, primate;Die::Hy::POA
+PoCS;postcentral sulcus;primate;Tel::Cx::PoCS
+Pons;pons;rodent, carnivore, primate;Pons
+POS;parieto-occipital sulcus;primate;Tel::Cx::POS
+PP;paleostriatum primitivum;avian;<Null>
+PPC;nucleus principalis precommissuralis;avian;<Null>
+PPH;nucleus prepositus hypoglossi;rodent, carnivore, primate;<Null>
+PPN;peripeduncular nucleus;rodent, carnivore, primate;MB::PPN
+PPT;pedunculopontine tegmental nucleus;rodent, carnivore, primate;Pons::PPT
+PR;prerubral field;primate;<Null>
+PRF;pontine reticular formation;rodent, carnivore, primate;Pons::PRF
+Prg;pregeniculate (ventral lateral geniculate) nucleus;rodent, carnivore, primate;Die::VTh::Prg
+PRh;perirhinal cortex;rodent, carnivore, primate;Tel::Cx::PRh
+PRP;prepiriform cortex;rodent, carnivore, primate;Tel::PRP
+PRS;principal sulcus;primate;Tel::Cx::PRS
+PSB;presubiculum;rodent, carnivore, primate;Tel::Cx::PSB
+Pt;parataenial nucleus of thalamus;rodent, carnivore, primate;Die::Th::Pt
+PT;pretectum;rodent, carnivore, primate;MB::Tec::PT
+PT;nucleus pretectalis;avian;<Null>
+PTA;anterior pretectal nucleus;rodent, carnivore, primate;MB::Tec::PTA
+PTO;pregeniculatus tecti optici;avian;<Null>
+Pu;putamen;carnivore, primate;Tel::Pu
+PVH;paraventricular nucleus of hypothalamus;avian;<Null>
+PvT;paraventricular nucleus of thalamus;avian;<Null>
+Py;pyramid;rodent, carnivore, primate;Me::Py
+PyT;pyramidal tract;rodent, carnivore, primate;Me::PyT
+PyX;pyramidal decussation;rodent, carnivore, primate;Me::PyX
+QF;tractus quintofrontalis;avian;<Null>
+R;reticular nucleus of thalamus;rodent, carnivore, primate;Die::VTh::R
+RB;restiform body;rodent, carnivore, primate;<Null>
+Rh;rhomboid (central) nucleus of thalamus;rodent, carnivore, primate;Die::Th::Rh
+RN;red nucleus;rodent, carnivore, primate;MB::RN
+RS;rhinal sulcus;carnivore, primate;Tel::Cx::RS
+Rs;retrosplenial cortex;rodent, carnivore, primate;Tel::Cx::Rs
+RS;nucleus reticularis superior;avian;<Null>
+RSP;retrosplenium;primate, carnivore, rodent;<Null>
+Rt;nucleus rotundus;avian;<Null>
+RTP;reticulotegmental pontine nucleus;rodent, carnivore, primate;Pons::RTP
+Ru;nucleus ruber;avian;<Null>
+S1;primary somatosensory cortex;rodent;Tel::Cx::S1
+S2;secondary somatosensory cortex;rodent;Tel::Cx::S2
+Sb;subthalamic nucleus;rodent, carnivore, primate;Die::Sb
+SB;subiculum;rodent, carnivore, primate;Tel::Cx::SB
+SbCS;subcentral sulcus;primate;Tel::Cx::SbCS
+SC;superior colliculus;rodent, carnivore, primate;MB::Tec::SC
+SCAS;superior ramus of calcarine sulcus;primate;Tel::Cx::SCAS
+SCD;deep layer of superior colliculus;rodent, carnivore, primate;MB::Tec::SCD
+SCI;intermediate layer of superior colliculus;rodent, carnivore, primate;MB::Tec::SCI
+SCN;suprachiasmatic nucleus;rodent, carnivore, primate, avian;Die::Hy::SCN
+SCS;superficial layer of superior colliculus;rodent, carnivore, primate;MB::Tec::SCS
+SCX;commissure of superior colliculus;rodent, carnivore, primate;MB::Tec::SC::SCX
+SFN;septofimbrial nucleus;primate;<Null>
+SG;suprageniculate nucleus of thalamus;rodent, carnivore, primate;Die::Th::SG
+SHM;nucleus subhabenularis medialis;avian;<Null>
+SHN;septohypothalamic nucleus;primate;<Null>
+SI;substantia innominata;rodent, carnivore, primate;Tel::SI
+SII;second somatosensory area of cerebral cortex;primate;Tel::Cx::SII
+SL;nucleus septalis lateralis;avian;<Null>
+SLN;lateral septal nucleus;rodent, carnivore, primate;Tel::Spt::SLN
+SM;stria medullaris of thalamus;rodent, carnivore, primate;Die::SM
+SM;nucleus septalis medialis;avian;<Null>
+SMN;medial septal nucleus;rodent, carnivore, primate;Tel::Spt::SMN
+SNc;pars compacta of substantia nigra;rodent, carnivore, primate;MB::SNc
+SNr;pars reticulata of substantia nigra;rodent, carnivore, primate;MB::SNr
+SOL;lateral superior olivary nucleus;rodent, carnivore, primate;Pons::SOL
+SOM;medial superior olivary nucleus;rodent, carnivore, primate;Pons::SOM
+SON;supraoptic nucleus;rodent, carnivore, primate;Die::Hy::SON
+SOX;supraoptic commissure;primate;<Null>
+SpC;spinal cord;rodent, carnivore, primate;SpC
+SPC;nucleus superficialis parvocellularis (nucleus tractus septomesencephalici);avian;<Null>
+SPf;subparafascicular nucleus;rodent, carnivore, primate;Die::Th::SPf
+SpL;nucleus spiriformis lateralis;avian;<Null>
+SpM;nucleus spiriformis medialis;avian;<Null>
+SPS;subparietal sulcus;primate;Tel::Cx::SPS
+Spt;septum;rodent, carnivore, primate;Tel::Spt
+SpTV;spinal tract of trigeminal;rodent, carnivore, primate;<Null>
+SRt;nucleus subrotundus;avian;<Null>
+SSp;supraspinal nucleus;rodent, carnivore, primate;<Null>
+ST;solitary tract;rodent, carnivore, primate;Me::ST
+ST;stria terminalis;avian;<Null>
+STG;superior temporal gyrus;primate;Tel::STG
+STN;triangular septal nucleus;rodent, carnivore, primate;Tel::Spt::STN
+STr;stria terminalis;rodent, carnivore, primate;<Null>
+STS;superior temporal sulcus;primate;Tel::Cx::STS
+TB;trapezoid body;rodent, carnivore, primate;<Null>
+TD;dorsal tegmental nucleus;rodent, carnivore, primate;<Null>
+Te;temporal cortex;rodent, carnivore, primate;Tel::Cx::Te
+Tec;tectum;rodent, carnivore, primate;MB::Tec
+Tel;telencephalon;rodent, carnivore, primate;Tel
+TeO;tectum opticum;avian;<Null>
+Th;dorsal thalamus;rodent, carnivore, primate;Die::Th
+TM;tubero-mamillary area;rodent, carnivore, primate;Die::Hy::TM
+Tn;nucleus taeniae;avian;<Null>
+TO;tuberculum olfactorium;avian;<Null>
+TOv;tractus nuclei ovoidalis;avian;<Null>
+TrO;tractus opticus;avian;<Null>
+TSM;tractus septomesencephalicus;avian;<Null>
+TSp;tectospinal tract;rodent, carnivore, primate;<Null>
+TT;taenia tecta (including indusium griseum);rodent, carnivore, primate;Tel::TT
+TU;lateral tuberal nucleus;primate;<Null>
+TX;tegmental decussations;rodent, carnivore, primate;MB::TX
+V;trigeminal nuclear complex;rodent, carnivore, primate;<Null>
+V1;primary visual cortex;rodent, carnivore, primate;Tel::Cx::V1
+V2;secondary visual cortex;rodent, carnivore, primate;Tel::Cx::V2
+VA;ventral anterior nucleus of thalamus;rodent, carnivore, primate;Die::Th::VA
+Va;vallecula;avian;<Null>
+VAmc;ventral anterior nucleus of thalamus, magnocellular division;rodent, carnivore, primate;Die::Th::VA::VAmc
+VH;ventral horn;rodent, carnivore, primate;SpC::VH
+VI;abducens nucleus;rodent, carnivore, primate;Pons::VI
+VII;facial nucleus;rodent, carnivore, primate;Pons::VII
+VIIIN;auditory nerve;rodent, carnivore, primate;<Null>
+VIIN;facial nerve;rodent, carnivore, primate;Pons::VIIN
+VIN;abducens nerve;rodent, carnivore, primate;Pons::VIN
+VL;ventral lateral nucleus of thalamus;rodent, carnivore, primate;Die::Th::VL
+VLa;ventral lateral anterior nucleus of thalamus;rodent, carnivore, primate;Die::Th::VLa
+VLp;ventral lateral posterior nucleus of thalamus;rodent, carnivore, primate;Die::Th::VLp
+Vm;motor nucleus of trigeminal;rodent, carnivore, primate;<Null>
+VM;ventral medial nucleus of thalamus;rodent, carnivore, primate;Die::Th::VM
+VMb;basal ventral medial nucleus of thalamus;rodent, carnivore, primate;Die::Th::VMb
+VMH;ventral medial nucleus of hypothalamus;rodent, carnivore, primate;Die::Hy::VMH
+VMH;ventromedial nucleus of hypothalamus;avian;<Null>
+VN;trigeminal nerve;rodent, carnivore, primate;<Null>
+VP;principal trigeminal nucleus;rodent, carnivore, primate;<Null>
+VPa;ventral pallidum;rodent, carnivore, primate;Tel::VPa
+VPa;ventral pallidum;avian;<Null>
+VPI;ventral posterior inferior nucleus of thalamus;rodent, carnivore, primate;Die::Th::VPI
+VPL;ventral posterior lateral nucleus of thalamus;rodent, carnivore, primate;Die::Th::VPL
+VPM;ventral posterior medial nucleus of thalamus;rodent, carnivore, primate;Die::Th::VPM
+VR;ventral raphe;rodent, carnivore, primate;<Null>
+VS;vestibular nuclei;rodent, carnivore, primate;Me::VS
+VSI;inferior vestibular nucleus;rodent, carnivore, primate;Me::VS::VSI
+VSL;lateral vestibular nucleus;rodent, carnivore, primate;Me::VS::VSL
+VSM;medial vestibular nucleus;rodent, carnivore, primate;Me::VS::VSM
+VSp;spinal trigeminal nucleus;rodent, carnivore, primate;<Null>
+VSS;superior vestibular nucleus;rodent, carnivore, primate;Me::VS::VSS
+VTA;ventral tegmental area;rodent, carnivore, primate;MB::VTA
+VTh;ventral thalamus;rodent, carnivore, primate;Die::VTh
+W;Wulst;avian;<Null>
+XII;hypoglossal nucleus;rodent, carnivore, primate;<Null>
+ZI;zona incerta;rodent, carnivore, primate;Die::VTh::ZI

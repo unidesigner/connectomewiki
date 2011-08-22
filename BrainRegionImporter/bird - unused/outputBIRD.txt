@@ -1,0 +1,3984 @@
+{{-start-}}
+'''Br_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Br
+|Species=Bird
+|English Name=Brain
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Bird (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Bst_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Bst
+|Species=Bird
+|English Name=Brainstem Cell Groups
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''nXII_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=nXII
+|Species=Bird
+|English Name=Hypoglossal nucleus - the twelfth cranial nerve nucleus
+|Latin Abbreviation=nXII
+|Latin Name=Nucleus nervi hypoglossi
+|Other Name=Nucleus intermedius of the medulla
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=This error in the Karten and Hodos atlas has long been known 
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SSp_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SSp
+|Species=Bird
+|English Name=Supraspinal nucleus
+|Latin Abbreviation=SSp
+|Latin Name=Nucleus supraspinalis
+|Other Name=Nucleus nervi hypoglossi - the twelfth cranial nerve nucleus
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=This error in the Karten and Hodos atlas has long been known
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''LoC_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=LoC
+|Species=Bird
+|English Name=Locus ceruleus or A6
+|Latin Abbreviation=LoC
+|Latin Name=Locus ceruleus
+|Other Name=Locus ceruleus - caudal part
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Noradrenergic neurons of A6 as defined by Dahlstroem & Fuxe, 1984
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''A8_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=A8
+|Species=Bird
+|English Name=A8
+|Latin Abbreviation=None
+|Latin Name=None
+|Other Name=Locus ceruleus - rostral part
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Dopaminergic neurons of A8 as defined by Dahlstroem & Fuxe, 1984
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SNc_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SNc
+|Species=Bird
+|English Name=Substantia nigra, pars compacta or A9
+|Latin Abbreviation=SNc
+|Latin Name=Substantia nigra, pars compacta
+|Other Name=Nucleus tegmenti - pedunculopontinus, pars compacta, except lateral edge
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Dopaminergic neurons of A9 as defined by Dahlstroem & Fuxe, 1984
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SNr_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SNr
+|Species=Bird
+|English Name=Substantia nigra, pars reticulata
+|Latin Abbreviation=SNr
+|Latin Name=Substantia nigra, pars reticulata
+|Other Name=Lateral edge of nucleus tegmenti-pedunculopontinus, pars compacta, plus small area lateral to TPc
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Previously called substantia nigra, pars lateralis in birds, but switching to SNr indicates homology to mammal SNr
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''VTA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=VTA
+|Species=Bird
+|English Name=Ventral tegmental area or A10 
+|Latin Abbreviation=AVT
+|Latin Name=Area ventralis tegmenti
+|Other Name=Area ventralis (Tsai)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Dopaminergic neurons of A10 as defined by Dahlstroem & Fuxe, 1984
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PPT_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=PPT
+|Species=Bird
+|English Name=Pedunculopontine tegmental nucleus
+|Latin Abbreviation=PPT
+|Latin Name=Nucleus pedunculopontinus tegmenti
+|Other Name=Partly identified as nucleus profundus mesencephali pars ventralis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Cholinergic cell group of isthmic region, English term commonly used
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''STN_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=STN
+|Species=Bird
+|English Name=Subthalamic nucleus
+|Latin Abbreviation=STN
+|Latin Name=Nucleus subthalamicus
+|Other Name=Region medial to ansa lenticularis identified as anterior nucleus of ansa lenticularis in Karten & Dubbeldam (1973)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=English term more commonly used for mammals 
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Brst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SubPall_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SubPall
+|Species=Bird
+|English Name=Subpallial Cell Groups
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MSt_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MSt
+|Species=Bird
+|English Name=Medial striatum
+|Latin Abbreviation=StM
+|Latin Name=Striatum mediale
+|Other Name=Lobus parolfactorius
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=English term more commonly used than Latin term 
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''X_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=X
+|Species=Bird
+|English Name=Area X
+|Latin Abbreviation=X
+|Latin Name=Area X
+|Other Name=Area X within male songbird LPO first named by Nottebohm et al., 1976
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Continued use of the entrenched term Area X recommended by  Forum
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MStm_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MStm
+|Species=Bird
+|English Name=Magnocellular part of medial striatum
+|Latin Abbreviation=StMm
+|Latin Name=Striatum mediale, pars magnocellularis
+|Other Name=Vocal control region in parrot LPO termed magnocellular nucleus of LPO
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Comparable to area X, but independently evolved
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''LSt_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=LSt
+|Species=Bird
+|English Name=Lateral striatum
+|Latin Abbreviation=StL 
+|Latin Name=Striatum laterale
+|Other Name=Paleostriatum augmentatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=English term more commonly used than Latin term
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''GP_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=GP
+|Species=Bird
+|English Name=Globus pallidus
+|Latin Abbreviation=GP
+|Latin Name=Globus pallidus
+|Other Name=Paleostriatum primitivum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Use of globus pallidus for birds emphasizes homology to mammalian GP
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''INP_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=INP
+|Species=Bird
+|English Name=Intrapeduncular nucleus
+|Latin Abbreviation=INP
+|Latin Name=Nucleus intrapeduncularis
+|Other Name=Nucleus intrapeduncularis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Subpallial region unique to birds and has largely striatal traits 
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Ac_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Ac
+|Species=Bird
+|English Name=Nucleus accumbens (ventromedial rostral LPO)
+|Latin Abbreviation=Ac
+|Latin Name=Nucleus accumbens (ventromedial rostral LPO)
+|Other Name=Ventromedial part of rostral lobus parolfactorius
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Precise borders remain undefined
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''OTu_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=OTu
+|Species=Bird
+|English Name=Olfactory tubercle
+|Latin Abbreviation=TuO
+|Latin Name=Tuberculum olfactorium
+|Other Name=Tuberculum olfactorium
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Homologous to structure of same name in mammals
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''VP_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=VP
+|Species=Bird
+|English Name=Ventral pallidum
+|Latin Abbreviation=PVt
+|Latin Name=Pallidum ventrale
+|Other Name=Unnamed circumscribed region between LPO and quintofrontal tract 
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Large scattered GABAergic neurons in MFB (FPM)1 homologous to mammalian cell group of same name
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''BSTL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=BSTL
+|Species=Bird
+|English Name=Lateral part of the bed nucleus of the stria terminalis
+|Latin Abbreviation=NSTL
+|Latin Name=Nucleus striae terminalis lateralis
+|Other Name=Nucleus accumbens
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Erroneously identified as nucleus accumbens in Karten and Hodos
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''BSTM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=BSTM
+|Species=Bird
+|English Name=Medial part of the bed nucleus of the stria terminalis
+|Latin Abbreviation=NSTM
+|Latin Name=Nucleus striae terminalis medialis
+|Other Name=Unnamed region around the lateral edge of the anterior commissure
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Homology to mammalian cell group of same name supported by neurochemical, hodological and functional similarity
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NBM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NBM
+|Species=Bird
+|English Name=Basal magnocellular cholinergic nucleus
+|Latin Abbreviation=NBM
+|Latin Name=Nucleus basalis magnocellularis
+|Other Name=Region encompassing FPL and unnamed circumscribed region between LPO and QF
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Large cholinergic neurons scattered in Lateral forebrain bundle (fasciculus prosencephali lateralis) & Medial forebrain bundle (fasciculus prosencephali medialis), overlaps Ventral pallidum
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NDB_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NDB
+|Species=Bird
+|English Name=Nucleus of the diagonal band
+|Latin Abbreviation=NDB
+|Latin Name=Nucleus diagonalis Brocae
+|Other Name=Region of fasciculus of diagonal band
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Cholinergic neurons in and around FDB
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SM
+|Species=Bird
+|English Name=Medial  septal nucleus
+|Latin Abbreviation=SM
+|Latin Name=Nucleus septalis medialis
+|Other Name=Nucleus septalis medialis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SL
+|Species=Bird
+|English Name=Lateral septal nucleus
+|Latin Abbreviation=SL
+|Latin Name=Nucleus septalis lateralis
+|Other Name=Nucleus septalis lateralis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=SubPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HypST_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HypST
+|Species=Bird
+|English Name=Hyperstriatum
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Wulst_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Wulst
+|Species=Bird
+|English Name=Wulst
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HA
+|Species=Bird
+|English Name=Apical part of the hyperpallium
+|Latin Abbreviation=HA
+|Latin Name=Hyperpallium apicale
+|Other Name=Hyperstriatum accessorium
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Latin abbreviation and term are more consistent with prior use for this structure
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Wulst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''IHA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=IHA
+|Species=Bird
+|English Name=Interstitial part of the hyperpallium apicale
+|Latin Abbreviation=IHA
+|Latin Name=Nucleus interstitialis hyperpallii apicale
+|Other Name=Nucleus intercalatus hyperstriatum accessorium in Karten et al. (JCN1973)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=The term interstitial more aptly describes this region than does the term intercalated
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Wulst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HI_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HI
+|Species=Bird
+|English Name=Intercalated part of the hyperpallium 
+|Latin Abbreviation=HI
+|Latin Name=Hyperpallium intercalatum 
+|Other Name=Hyperstriatum intercalatus superior
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Superior in name not appropriate
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Wulst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HD_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HD
+|Species=Bird
+|English Name=Densocellular part of the hyperpallium
+|Latin Abbreviation=HD
+|Latin Name=Hyperpallium densocellulare
+|Other Name=Hyperstriatum dorsale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Dorsale in name no longer apt since the region termed HV now called mesopallium
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Wulst (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HypSTv_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HypSTv
+|Species=Bird
+|English Name=Hyperstriatum Ventrale
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''M_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=M
+|Species=Bird
+|English Name=Mesopallium
+|Latin Abbreviation=M
+|Latin Name=Mesopallium
+|Other Name=Hyperstriatum ventrale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypSTv (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MD_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MD
+|Species=Bird
+|English Name=Dorsal mesopallium
+|Latin Abbreviation=MD
+|Latin Name=Mesopallium dorsale
+|Other Name=Hyperstriatum ventrale dorso-ventrale 
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypSTv (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MV_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MV
+|Species=Bird
+|English Name=Ventral mesopallium
+|Latin Abbreviation=MV
+|Latin Name=Mesopallium ventrale
+|Other Name=Hyperstriatum ventrale ventro-ventrale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Recommend motor nucleus of trigeminus be abbreviated MNV to prevent conflict with abbreviation for ventral mesopallium
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypSTv (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MO_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MO
+|Species=Bird
+|English Name=Oval nucleus of mesopallium
+|Latin Abbreviation=MO
+|Latin Name=Mesopallium ovale
+|Other Name=Oval nucleus of the hyperstriatum ventrale 
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Part of parrot vocal control circuit
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypSTv (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''CMM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=CMM
+|Species=Bird
+|English Name=Caudomedial mesopallium
+|Latin Abbreviation=CMM
+|Latin Name=Mesopallium  caudomediale
+|Other Name=Caudal medial hyperstriatum ventrale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Part of auditory circuit studied in several species of vocal learners
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypSTv (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''IMM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=IMM
+|Species=Bird
+|English Name=Intermediate medial mesopallium
+|Latin Abbreviation=IMM
+|Latin Name=Mesopallium intermediomediale
+|Other Name=Intermediate medial hyperstriatum ventrale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Involved in filial imprinting in chicks
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HypSTv (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NeoST_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NeoST
+|Species=Bird
+|English Name=Neostriatum
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''N_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=N
+|Species=Bird
+|English Name=Nidopallium
+|Latin Abbreviation=N
+|Latin Name=Nidopallium
+|Other Name=Neostriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NF_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NF
+|Species=Bird
+|English Name=Frontal nidopallium
+|Latin Abbreviation=NF
+|Latin Name=Nidopallium frontale
+|Other Name=Neostriatum frontale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NI_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NI
+|Species=Bird
+|English Name=Intermediate nidopallium
+|Latin Abbreviation=NI
+|Latin Name=Nidopallium intermedium
+|Other Name=Neostriatum intermedium
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NC_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NC
+|Species=Bird
+|English Name=Caudal nidopallium
+|Latin Abbreviation=NC
+|Latin Name=Nidopallium caudale
+|Other Name=Neostriatum caudale
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NCL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NCL
+|Species=Bird
+|English Name=Caudolateral nidopallium
+|Latin Abbreviation=NCL
+|Latin Name=Nidopallium caudolaterale
+|Other Name=Neostriatum caudolaterale -  defined by work of Divac and Guentuerkuen 
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''E_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=E
+|Species=Bird
+|English Name=The entopallial nucleus or the entopallium
+|Latin Abbreviation=E
+|Latin Name=Nucleus entopalliallis or entopallium
+|Other Name=Ectostriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Bas_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Bas
+|Species=Bird
+|English Name=The basorostral pallial nucleus
+|Latin Abbreviation=Bas
+|Latin Name=Nucleus basorostralis pallii
+|Other Name=Nucleus basalis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Changed name to avoid confusion with cholinergic basal forebrain cell group
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''L_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=L
+|Species=Bird
+|English Name=Field L
+|Latin Abbreviation=L
+|Latin Name=Area L pallii
+|Other Name=Field L identified as auditory area by Karten (1968)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No change recommended
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HVC_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HVC
+|Species=Bird
+|English Name=HVC
+|Latin Abbreviation=
+|Latin Name=HVC
+|Other Name=Nidopallial area mistakenly called caudal nucleus of hyperstriatum ventrale by Nottebohm et al., 1976
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No easy solution for correcting original naming error for this structure, thus, HVC recommended as formal name
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''LMAN_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=LMAN
+|Species=Bird
+|English Name=Lateral magnocellular nucleus of anterior nidopallium
+|Latin Abbreviation=LMAN
+|Latin Name=Nucleus lateralis magnocellularis nidopallii anterioris 
+|Other Name=Lateral magnocellular nucleus of the anterior neostriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained, but capitalize L for clarity
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MMAN_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MMAN
+|Species=Bird
+|English Name=Medial magnocellular nucleus of anterior nidopallium
+|Latin Abbreviation=MMAN
+|Latin Name=Nucleus medialis magnocellularis nidopallii anterioris 
+|Other Name=Medial magnocellular nucleus of the anterior neostriatum 
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained but capitalize M for consistency
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NIf_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NIf
+|Species=Bird
+|English Name=Nucleus interface of the nidopallium
+|Latin Abbreviation=NIf
+|Latin Name=Nucleus interfacialis nidopallialis
+|Other Name=Nucleus interface of the neostriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained, but capitalize I for consistency
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NCM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NCM
+|Species=Bird
+|English Name=Caudal medial nidopallium
+|Latin Abbreviation=NCM
+|Latin Name=Nidopallium caudomediale
+|Other Name=Caudomedial neostriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained 
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NAO_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NAO
+|Species=Bird
+|English Name=Oval nucleus of the anterior nidopallium
+|Latin Abbreviation=NAO
+|Latin Name=Nucleus ovalis nidopallii anterioris 
+|Other Name=Oval nucleus of the anterior neostriatum in parrots
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained, but capitalize O for consistency
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NAOM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NAOM
+|Species=Bird
+|English Name=Medial oval nucleus of the anterior nidopallium
+|Latin Abbreviation=NAOM
+|Latin Name=Nucleus ovalis nidopallii anterioris, pars medialis
+|Other Name=Medial oval nucleus of the anterior neostriatum in parrots
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained but capitalize OM for consistency
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''NLC_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=NLC
+|Species=Bird
+|English Name=Central nucleus of the lateral nidopallium
+|Latin Abbreviation=NLC
+|Latin Name=Nucleus centralis nidopallii lateralis 
+|Other Name=Central nucleus of the lateral neostriatum in parrots
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained, but capitalize C for consistency
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=NeoST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''ArchiST_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=ArchiST
+|Species=Bird
+|English Name=Archistriatum
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''ArcoPall_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=ArcoPall
+|Species=Bird
+|English Name=Arcopallium
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArchiST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''A_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=A
+|Species=Bird
+|English Name=Arcopallium
+|Latin Abbreviation=A
+|Latin Name=Arcopallium
+|Other Name=Archistriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Distinctness and extensibility of abbreviation enhanced by lower case "r"
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''AA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=AA
+|Species=Bird
+|English Name=Anterior arcopallium
+|Latin Abbreviation=AA
+|Latin Name=Arcopallium anterius
+|Other Name=Nucleus archistriatalis anterior
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''AD_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=AD
+|Species=Bird
+|English Name=Dorsal arcopallium
+|Latin Abbreviation=AD
+|Latin Name=Arcopallium dorsale 
+|Other Name=Archistriatum, pars dorsalis (archistriatum intermedium, pars dorsalis in Zeier & Karten, 1971)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Delete intermediate from name to simplify
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''AI_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=AI
+|Species=Bird
+|English Name=Intermediate arcopallium
+|Latin Abbreviation=AI
+|Latin Name=Arcopallium intermedium
+|Other Name=Upper part of Archistriatum, pars ventralis (archistriatum intermedium in Zeier & Karten, 1971)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Limit the word intermediate to this subdivision to simplify
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''AM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=AM
+|Species=Bird
+|English Name=Medial arcopallium
+|Latin Abbreviation=AM
+|Latin Name=Arcopallium mediale
+|Other Name=Medial part of Archistriatum, pars ventralis (archistriatum mediale in Zeier & Karten, 1971)
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Needs to be determined if this region can be subdivided into separate limbic and somatic territories
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''RA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=RA
+|Species=Bird
+|English Name=Robust nucleus of arcopallium
+|Latin Abbreviation=RA
+|Latin Name=Nucleus robustus arcopallialis
+|Other Name=Robust nucleus of archistriatum in male songbirds
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''AAC_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=AAC
+|Species=Bird
+|English Name=Central nucleus of anterior arcopallium
+|Latin Abbreviation=AAC
+|Latin Name=Nucleus centralis arcopallii anterioris
+|Other Name=Central nucleus of anterior archistriatum in parrots
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArcoPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Amygd_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Amygd
+|Species=Bird
+|English Name=Amygdala
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=ArchiST (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PoA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=PoA
+|Species=Bird
+|English Name=Posterior nucleus of the pallial amygdala
+|Latin Abbreviation=PoA
+|Latin Name=Nucleus posterior amygdalopallialis
+|Other Name=Ventral part of Archistriatum, pars ventralis plus caudal part of Archistriatum
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviations for amygdaloid nuclei similar in form to emphasize shared amygdaloid nature
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Amygd (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''TnA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=TnA
+|Species=Bird
+|English Name=Nucleus taeniae of the amygdala
+|Latin Abbreviation=TnA
+|Latin Name=Nucleus taeniae amygdalae
+|Other Name=Nucleus taeniae
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Add amygdala to name to emphasize amygdaloid nature
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Amygd (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SpA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SpA
+|Species=Bird
+|English Name=Subpallial amygdaloid area
+|Latin Abbreviation=SpA
+|Latin Name=Area subpallialis amygdalae
+|Other Name=Region below paleostriatum primitivum posterior to anterior commissure
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Homologous to at least sublenticular part of extended amygdala in mammals
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Amygd (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''OtPall_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=OtPall
+|Species=Bird
+|English Name=Other Pallial Structures
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HippoOt_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HippoOt
+|Species=Bird
+|English Name=Hippocampal and Corticoid Areas
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=OtPall (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''APH_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=APH
+|Species=Bird
+|English Name=Area parahippocampalis
+|Latin Abbreviation=APH
+|Latin Name=Area parahippocampalis
+|Other Name=Area parahippocampalis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No change in term needed
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HippoOt (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Hp_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Hp
+|Species=Bird
+|English Name=Hippocampus
+|Latin Abbreviation=Hp
+|Latin Name=Hippocampus
+|Other Name=Hippocampus
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No change in term needed
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HippoOt (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''CPi_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=CPi
+|Species=Bird
+|English Name=Cortex piriformis
+|Latin Abbreviation=CPi
+|Latin Name=Cortex piriformis
+|Other Name=Cortex piriformis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No change in term needed
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HippoOt (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''CDL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=CDL
+|Species=Bird
+|English Name=Area corticoidea dorsolateralis
+|Latin Abbreviation=CDL
+|Latin Name=Area corticoidea dorsolateralis
+|Other Name=Area corticoidea dorsolateralis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No change in term needed
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HippoOt (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''TPO_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=TPO
+|Species=Bird
+|English Name=Area temporo-parieto-occipitalis
+|Latin Abbreviation=TPO
+|Latin Name=Area temporo-parieto-occipitalis
+|Other Name=Area temporo-parieto-occipitalis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Ill-defined region, but no change in term needed
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=HippoOt (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Lamina_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Lamina
+|Species=Bird
+|English Name=Intratelencephalic Lamina and Boundaries
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''PSL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=PSL
+|Species=Bird
+|English Name=Pallial-subpallial lamina
+|Latin Abbreviation=LPS
+|Latin Name=Lamina pallio-subpallialis
+|Other Name=Lamina medullaris dorsalis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Change to a clear descriptive name 
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Lamina (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''LAD_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=LAD
+|Species=Bird
+|English Name=Dorsal arcopallial lamina
+|Latin Abbreviation=LAD
+|Latin Name=Lamina arcopallialis dorsalis
+|Other Name=Lamina archistriatalis Dorsalis in Zeier and Karten, 1971
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained if Latin used
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Lamina (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''LaM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=LaM
+|Species=Bird
+|English Name=Mesopallial lamina
+|Latin Abbreviation=LaM
+|Latin Name=Lamina mesopallialis
+|Other Name=Lamina hyperstriatica 
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Change needed since region above lamina now the mesopallium
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Lamina (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''SFL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=SFL
+|Species=Bird
+|English Name=Superior frontal lamina
+|Latin Abbreviation=LFS
+|Latin Name=Lamina frontalis superior
+|Other Name=Lamina frontalis superior
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No reason to change
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Lamina (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''MFL_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=MFL
+|Species=Bird
+|English Name=Supreme frontal lamina
+|Latin Abbreviation=LFM
+|Latin Name=Lamina frontalis suprema
+|Other Name=Lamina frontalis suprema
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No reason to change
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Lamina (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''Fiber_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=Fiber
+|Species=Bird
+|English Name=Telencephalic Fiber Tracts
+|Latin Abbreviation=
+|Latin Name=
+|Other Name=
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Br (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''TTP_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=TTP
+|Species=Bird
+|English Name=Thalamopallial tract
+|Latin Abbreviation=TTP
+|Latin Name=Tractus thalamopallialis
+|Other Name=Tractus thalamostriaticus
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Changed because pallial structures are targets of tract
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Fiber (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''DA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=DA
+|Species=Bird
+|English Name=Dorsal arcopallial tract
+|Latin Abbreviation=DA
+|Latin Name=Tractus dorso-arcopallialis
+|Other Name=Tractus archistriatalis dorsalis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Fiber (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''FA_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=FA
+|Species=Bird
+|English Name=Fronto-arcopallial tract
+|Latin Abbreviation=FA
+|Latin Name=Tractus fronto-arcopallialis
+|Other Name=Tractus fronto-archistriatalis
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Abbreviation retained
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Fiber (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''TSM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=TSM
+|Species=Bird
+|English Name=Septopallio-mesencephalic tract
+|Latin Abbreviation=TSM
+|Latin Name=Tractus septopallio-mesencephalicus
+|Other Name=Tractus septomesencephalicus
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=Not of purely septal origin, abbreviation retained with Latin term
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Fiber (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''OM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=OM
+|Species=Bird
+|English Name=Occipito-mesencephalic tract
+|Latin Abbreviation=OM
+|Latin Name=Tractus occipito-mesencephalicus
+|Other Name=Tractus occipito-mesencephalicus
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No reason to change
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Fiber (Bird) 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''HOM_(Bird)'''
+{{Connectome Brain Region
+|Abbreviation=HOM
+|Species=Bird
+|English Name=Hypothalamic part of occipitomesencephalic tract
+|Latin Abbreviation=HOM
+|Latin Name=Tractus occipito-mesencephalicus, pars hypothalamica
+|Other Name=Tractus occipito-mesencephalicus, pars hypothalami in Zeier and Karten, 1971
+|Synonym=
+|FreesurferLabelID=
+|Defining Criteria=anatomy
+|IsMandatory=Yes
+|Definition=No reason to change
+|Function Tag=
+|Neural Code=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+|BraininfoID=
+|Bredewiki Link=
+}}
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+== References ==
+<references/>
+* {{cite journal|title=Revised Nomenclature for Avian Telencephalon and Some Related Brainstem Nuclei|journal=THE JOURNAL OF COMPARATIVE NEUROLOGY|date=2004|first=Anton|last=Reiner|coauthors=DJ Perkel, L Bruce, AB Butler, A Csillag, W Kuenzel, L Medina, G Paxinos, T Shimizu, GF Striedter, M Wild, GF Ball, S Durand, O Gunturkun, DW Lee, CV Mello, A Powers, SA White, G Hough, L Kubikova, TV Smulders, K Wada, J Dugas-Ford, S Husband, K Yamamoto, J Yu, C Siang, ED Jarvis|volume=|issue=473|pages=377-414|id= |url=http://avianbrain.org/papers/RevisedNomenclature.pdf|format=|accessdate=2009-06-16 }}
+* {{cite web|url=http://avianbrain.org/index.html |title=AvianBrain.org |accessdate=2009-06-16 }}
+
+
+{{Connectome Brain Region Hierarchy
+|Part of=Fiber (Bird) 
+}}
+{{-stop-}}
+

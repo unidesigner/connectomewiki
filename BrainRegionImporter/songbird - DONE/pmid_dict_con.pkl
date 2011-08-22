@@ -1,0 +1,150 @@
+(dp0
+S'10366643'
+p1
+S'{{cite journal|title=Gradual emergence of song selectivity in sensorimotor structures of the male zebra finch song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1999|author=Janata P|coauthors=Margoliash D|volume=19|pages=5108-18|id=PMID 10366643|accessdate=2009-09-23}}'
+p2
+sS'18451295'
+p3
+S'{{cite journal|title=A specialized forebrain circuit for vocal babbling in the juvenile songbird.|journal=Science (New York, N.Y.)|year=2008|author=Aronov D|coauthors=Andalman AS, Fee MS|volume=320|pages=630-4|id=PMID 18451295|accessdate=2009-09-23}}'
+p4
+sS'7724575'
+p5
+S'{{cite journal|title=Decrements in auditory responses to a repeated conspecific song are long-lasting and require two periods of protein synthesis in the songbird forebrain.|journal=Proceedings of the National Academy of Sciences of the United States of America|year=1995|author=Chew SJ|coauthors=Mello C, Nottebohm F, Jarvis E, Vicario DS|volume=92|pages=3406-10|id=PMID 7724575|accessdate=2009-09-23}}'
+p6
+sS'15317851'
+p7
+S'{{cite journal|title=Synaptic transformations underlying highly selective auditory representations of learned birdsong.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2004|author=Coleman MJ|coauthors=Mooney R|volume=24|pages=7251-65|id=PMID 15317851|accessdate=2009-09-23}}'
+p8
+sS'15728835'
+p9
+S'{{cite journal|title=The HVC microcircuit: the synaptic basis for interactions between song motor and vocal plasticity pathways.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2005|author=Mooney R|coauthors=Prather JF|volume=25|pages=1952-64|id=PMID 15728835|accessdate=2009-09-23}}'
+p10
+sS'7119147'
+p11
+S'{{cite journal|title=Connections of vocal control nuclei in the canary telencephalon.|journal=The Journal of comparative neurology|year=1982|author=Nottebohm F|coauthors=Kelley DB, Paton JA|volume=207|pages=344-57|id=PMID 7119147|accessdate=2009-09-23}}'
+p12
+sS'17855617'
+p13
+S'{{cite journal|title=Thalamic gating of auditory responses in telencephalic song control nuclei.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2007|author=Coleman MJ|coauthors=Roy A, Wild JM, Mooney R|volume=27|pages=10024-36|id=PMID 17855617|accessdate=2009-09-23}}'
+p14
+sS'12878713'
+p15
+S'{{cite journal|title=Song system auditory responses are stable and highly tuned during sedation, rapidly modulated and unselective during wakefulness, and suppressed by arousal.|journal=Journal of neurophysiology|year=2003|author=Cardin JA|coauthors=Schmidt MF|volume=90|pages=2884-99|id=PMID 12878713|accessdate=2009-09-23}}'
+p16
+sS'15313781'
+p17
+S'{{cite journal|title=Neural systems for individual song recognition in adult birds.|journal=Annals of the New York Academy of Sciences|year=2004|author=Gentner TQ|coauthors=|volume=1016|pages=282-302|id=PMID 15313781|accessdate=2009-09-23}}'
+p18
+sS'18256272'
+p19
+S'{{cite journal|title=A synaptic basis for auditory-vocal integration in the songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Bauer EE|coauthors=Coleman MJ, Roberts TF, Roy A, Prather JF, Mooney R|volume=28|pages=1509-22|id=PMID 18256272|accessdate=2009-09-23}}'
+p20
+sS'11535690'
+p21
+S'{{cite journal|title=Feature analysis of natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2001|author=Sen K|coauthors=Theunissen FE, Doupe AJ|volume=86|pages=1445-58|id=PMID 11535690|accessdate=2009-09-23}}'
+p22
+sS'8994068'
+p23
+S'{{cite journal|title=Song- and order-selective neurons in the songbird anterior forebrain and their emergence during vocal development.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1997|author=Doupe AJ|coauthors=|volume=17|pages=1147-67|id=PMID 8994068|accessdate=2009-09-23}}'
+p24
+sS'12904792'
+p25
+S'{{cite journal|title=Neuronal populations and single cells representing learned auditory objects.|journal=Nature|year=2003|author=Gentner TQ|coauthors=Margoliash D|volume=424|pages=669-74|id=PMID 12904792|accessdate=2009-09-23}}'
+p26
+sS'17977927'
+p27
+S'{{cite journal|title=Hemispheric coordination is necessary for song production in adult birds: implications for a dual role for forebrain nuclei in vocal motor control.|journal=Journal of neurophysiology|year=2007|author=Ashmore RC|coauthors=Bourjaily M, Schmidt MF|volume=99|pages=373-85|id=PMID 17977927|accessdate=2009-09-23}}'
+p28
+sS'16510728'
+p29
+S'{{cite journal|title=Stimulus-dependent auditory tuning results in synchronous population coding of vocalizations in the songbird midbrain.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2006|author=Woolley SM|coauthors=Gill PR, Theunissen FE|volume=26|pages=2499-512|id=PMID 16510728|accessdate=2009-09-23}}'
+p30
+sS'10368416'
+p31
+S'{{cite journal|title=Long-range inhibition within the zebra finch song nucleus RA can coordinate the firing of multiple projection neurons.|journal=Journal of neurophysiology|year=1999|author=Spiro JE|coauthors=Dalva MB, Mooney R|volume=81|pages=3007-20|id=PMID 10368416|accessdate=2009-09-23}}'
+p32
+sS'11052946'
+p33
+S'{{cite journal|title=Song replay during sleep and computational rules for sensorimotor vocal learning.|journal=Science (New York, N.Y.)|year=2000|author=Dave AS|coauthors=Margoliash D|volume=290|pages=812-6|id=PMID 11052946|accessdate=2009-09-23}}'
+p34
+sS'14724261'
+p35
+S'{{cite journal|title=Auditory responses in multiple sensorimotor song system nuclei are co-modulated by behavioral state.|journal=Journal of neurophysiology|year=2004|author=Cardin JA|coauthors=Schmidt MF|volume=91|pages=2148-63|id=PMID 14724261|accessdate=2009-09-23}}'
+p36
+sS'17433683'
+p37
+S'{{cite journal|title=Birdsong memory: a neural dissociation between song recognition and production.|journal=Current biology : CB|year=2007|author=Gobes SM|coauthors=Bolhuis JJ|volume=17|pages=789-93|id=PMID 17433683|accessdate=2009-09-23}}'
+p38
+sS'12522195'
+p39
+S'{{cite journal|title=Selectivity for conspecific song in the zebra finch auditory forebrain.|journal=Journal of neurophysiology|year=2003|author=Grace JA|coauthors=Amin N, Singh NC, Theunissen FE|volume=89|pages=472-87|id=PMID 12522195|accessdate=2009-09-23}}'
+p40
+sS'10196550'
+p41
+S'{{cite journal|title=Gating of auditory responses in the vocal control system of awake songbirds.|journal=Nature neuroscience|year=1999|author=Schmidt MF|coauthors=Konishi M|volume=1|pages=513-8|id=PMID 10196550|accessdate=2009-09-23}}'
+p42
+sS'15313778'
+p43
+S'{{cite journal|title=Song selectivity in the song system and in the auditory forebrain.|journal=Annals of the New York Academy of Sciences|year=2004|author=Theunissen FE|coauthors=Amin N, Shaevitz SS, Woolley SM, Fremouw T, Hauber ME|volume=1016|pages=222-45|id=PMID 15313778|accessdate=2009-09-23}}'
+p44
+sS'12471486'
+p45
+S'{{cite journal|title=Evaluating theories of bird song learning: implications for future directions.|journal=Journal of comparative physiology. A, Neuroethology, sensory, neural, and behavioral physiology|year=2002|author=Margoliash D|coauthors=|volume=188|pages=851-66|id=PMID 12471486|accessdate=2009-09-23}}'
+p46
+sS'19005471'
+p47
+S'{{cite journal|title=Neural processing of auditory feedback during vocal practice in a songbird.|journal=Nature|year=2008|author=Keller GB|coauthors=Hahnloser RH|volume=457|pages=187-90|id=PMID 19005471|accessdate=2009-09-23}}'
+p48
+sS'15342742'
+p49
+S'{{cite journal|title=Noradrenergic inputs mediate state dependence of auditory responses in the avian song system.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2004|author=Cardin JA|coauthors=Schmidt MF|volume=24|pages=7745-53|id=PMID 15342742|accessdate=2009-09-23}}'
+p50
+sS'18463257'
+p51
+S'{{cite journal|title=Spikes and bursts in two types of thalamic projection neurons differentially shape sleep patterns and auditory responses in a songbird.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2008|author=Hahnloser RH|coauthors=Wang CZ, Nager A, Naie K|volume=28|pages=5040-52|id=PMID 18463257|accessdate=2009-09-23}}'
+p52
+sS'16495362'
+p53
+S'{{cite journal|title=Sleep-related neural activity in a premotor and a basal-ganglia pathway of the songbird.|journal=Journal of neurophysiology|year=2006|author=Hahnloser RH|coauthors=Kozhevnikov AA, Fee MS|volume=96|pages=794-812|id=PMID 16495362|accessdate=2009-09-23}}'
+p54
+sS'8824335'
+p55
+S'{{cite journal|title=Hierarchical organization of auditory temporal context sensitivity.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Lewicki MS|coauthors=Arthur BJ|volume=16|pages=6987-98|id=PMID 8824335|accessdate=2009-09-23}}'
+p56
+sS'15321071'
+p57
+S'{{cite journal|title=Neural correlates of learned song in the avian forebrain: simultaneous representation of self and others.|journal=Current opinion in neurobiology|year=2004|author=Prather JF|coauthors=Mooney R|volume=14|pages=496-502|id=PMID 15321071|accessdate=2009-09-23}}'
+p58
+sS'15590726'
+p59
+S'{{cite journal|title=Sensorimotor nucleus NIf is necessary for auditory processing but not vocal motor output in the avian song system.|journal=Journal of neurophysiology|year=2004|author=Cardin JA|coauthors=Raksin JN, Schmidt MF|volume=93|pages=2157-66|id=PMID 15590726|accessdate=2009-09-23}}'
+p60
+sS'12352977'
+p61
+S"{{cite journal|title=Birdsong's clockwork.|journal=Nature neuroscience|year=2002|author=Nottebohm F|coauthors=|volume=5|pages=925-6|id=PMID 12352977|accessdate=2009-09-23}}"
+p62
+sS'12214232'
+p63
+S'{{cite journal|title=An ultra-sparse code underlies the generation of neural sequences in a songbird.|journal=Nature|year=2002|author=Hahnloser RH|coauthors=Kozhevnikov AA, Fee MS|volume=419|pages=65-70|id=PMID 12214232|accessdate=2009-09-23}}'
+p64
+sS'17360830'
+p65
+S'{{cite journal|title=Development of selectivity for natural sounds in the songbird auditory forebrain.|journal=Journal of neurophysiology|year=2007|author=Amin N|coauthors=Doupe A, Theunissen FE|volume=97|pages=3517-31|id=PMID 17360830|accessdate=2009-09-23}}'
+p66
+sS'18202651'
+p67
+S'{{cite journal|title=Precise auditory-vocal mirroring in neurons for learned vocal communication.|journal=Nature|year=2008|author=Prather JF|coauthors=Peters S, Nowicki S, Mooney R|volume=451|pages=305-10|id=PMID 18202651|accessdate=2009-09-23}}'
+p68
+sS'8833113'
+p69
+S'{{cite journal|title=Auditory pathways of caudal telencephalon and their relation to the song system of adult male zebra finches.|journal=The Journal of comparative neurology|year=1996|author=Vates GE|coauthors=Broome BM, Mello CV, Nottebohm F|volume=366|pages=613-42|id=PMID 8833113|accessdate=2009-09-23}}'
+p70
+sS'15616963'
+p71
+S'{{cite journal|title=Neural auditory selectivity develops in parallel with song.|journal=Journal of neurobiology|year=2004|author=Nick TA|coauthors=Konishi M|volume=62|pages=469-81|id=PMID 15616963|accessdate=2009-09-23}}'
+p72
+sS'10884326'
+p73
+S'{{cite journal|title=Different subthreshold mechanisms underlie song selectivity in identified HVc neurons of the zebra finch.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=2000|author=Mooney R|coauthors=|volume=20|pages=5420-36|id=PMID 10884326|accessdate=2009-09-23}}'
+p74
+s.

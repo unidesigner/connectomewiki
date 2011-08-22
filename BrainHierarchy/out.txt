@@ -1,0 +1,2064 @@
+/table/record/abbrev=1-2
+/table/record/term=cortical areas 1 & 2
+/table/record/path=Tel::Cx::SI::1-2
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=17
+/table/record/term=cortical area 17
+/table/record/path=Tel::Cx::17
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=3a
+/table/record/term=cortical area 3a
+/table/record/path=Tel::Cx::SI::3a
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=3b
+/table/record/term=cortical area 3b
+/table/record/path=Tel::Cx::SI::3b
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=3V
+/table/record/term=third ventricle
+/table/record/path=Die::3V
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=4
+/table/record/term=cortical area 4
+/table/record/path=Tel::Cx::SI::4
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=4V
+/table/record/term=fourth ventricle
+/table/record/path=Pons::4V
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=5ME
+/table/record/term=mesencephalic trigeminal nucleus
+/table/record/path=Pons::5ME
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=6
+/table/record/term=cortical area 6
+/table/record/path=Tel::Cx::6
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=8
+/table/record/term=cortical area 8
+/table/record/path=Tel::Cx::8
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=A
+/table/record/term=auditory cortical areas
+/table/record/path=Tel::Cx::A
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AAA
+/table/record/term=anterior amygdaloid area
+/table/record/path=Tel::Am::AAA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ABL
+/table/record/term=basolateral nucleus of amygdala
+/table/record/path=Tel::Am::ABL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ABM
+/table/record/term=basomedial nucleus of amygdala
+/table/record/path=Tel::Am::ABM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AC
+/table/record/term=anterior commissure
+/table/record/path=Tel::AC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Ac
+/table/record/term=nucleus accumbens
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=ACC
+/table/record/term=nucleus accumbens
+/table/record/path=Tel::ACC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ACE
+/table/record/term=central nucleus of amygdala
+/table/record/path=Tel::Am::ACE
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ACN
+/table/record/term=nucleus of anterior commissure
+/table/record/path=Tel::ACN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ACO
+/table/record/term=cortical nucleus of amygdala
+/table/record/path=Tel::Am::ACO
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ACX
+/table/record/term=decussation of anterior commissure
+/table/record/path=Tel::ACX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AD
+/table/record/term=anterodorsal nucleus of thalamus
+/table/record/path=Die::Th::AD
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AHA
+/table/record/term=amygdalo-hippocampal area
+/table/record/path=Tel::AHA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AHy
+/table/record/term=adenohypophysis
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=AL
+/table/record/term=ansa lenticularis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=AL
+/table/record/term=ansa lenticularis
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=ALA
+/table/record/term=lateral nucleus of amygdala
+/table/record/path=Tel::Am::ALA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Am
+/table/record/term=amygdala
+/table/record/path=Tel::Am
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AM
+/table/record/term=anteromedial nucleus of thalamus
+/table/record/path=Die::AM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AMB
+/table/record/term=nucleus ambiguus
+/table/record/path=Me::AMB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AME
+/table/record/term=medial nucleus of amygdala
+/table/record/path=Tel::Am::AME
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=APH
+/table/record/term=area parahippocampalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=AQ
+/table/record/term=cerebral aqueduct
+/table/record/path=MB::AQ
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ARCO
+/table/record/term=archistriatum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=AS
+/table/record/term=arcuate sulcus
+/table/record/path=Tel::Cx::AS
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AV
+/table/record/term=anteroventral nucleus of thalamus
+/table/record/path=Die::AV
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=AVT
+/table/record/term=nucleus ventralis (Tsai)
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=AW
+/table/record/term=anterior Wulst
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=BAS
+/table/record/term=nucleus basalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=BC
+/table/record/term=brachium conjunctivum
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BCX
+/table/record/term=decussation of brachium conjunctivum
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BF
+/table/record/term=basal forebrain
+/table/record/path=Tel::BF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BG
+/table/record/term=basal ganglia
+/table/record/path=Tel::BG
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BIC
+/table/record/term=brachium of inferior colliculus
+/table/record/path=MB::BSC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BNM
+/table/record/term=basal nucleus of Meynert
+/table/record/path=Tel::BNM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BNST
+/table/record/term=bed nucleus of stria terminalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=BP
+/table/record/term=brachium pontis
+/table/record/path=Pons::BP
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=BSC
+/table/record/term=brachium of superior colliculus
+/table/record/path=MB::BSC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CA
+/table/record/term=caudate nucleus
+/table/record/path=Tel::CA
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=CA
+/table/record/term=commissura anterior
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CAM
+/table/record/term=cornu ammonis
+/table/record/path=Tel::CAM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CAS
+/table/record/term=calcarine sulcus
+/table/record/path=Tel::Cx::CAS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=CB
+/table/record/term=cerebellum
+/table/record/path=CB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CBIN
+/table/record/term=interposed nucleus of cerebellum
+/table/record/path=CB::CBIN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CBL
+/table/record/term=lateral nucleus of cerebellum
+/table/record/path=CB::CBL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CBM
+/table/record/term=medial nucleus of cerebellum
+/table/record/path=CB::CBM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Cbx
+/table/record/term=cerebellar cortex
+/table/record/path=CB::Cbx
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CC
+/table/record/term=corpus callosum
+/table/record/path=Tel::CC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CD
+/table/record/term=dorsal cochlear nucleus
+/table/record/path=Me::CD
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CDL
+/table/record/term=area corticoidea dorsolateralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CeM
+/table/record/term=central medial nucleus of thalamus
+/table/record/path=Die::CeM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CF
+/table/record/term=cuneate fasciculus
+/table/record/path=Me::CF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CG
+/table/record/term=cingulate gyrus
+/table/record/path=Tel::CG
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=Cg
+/table/record/term=cingulate cortex
+/table/record/path=Tel::Cx::Cg
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CGr
+/table/record/term=central gray
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CGS
+/table/record/term=cingulate sulcus
+/table/record/path=Tel::Cx::CGS
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=CL
+/table/record/term=central lateral nucleus of the thalamus
+/table/record/path=Die::CL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Cl
+/table/record/term=claustrum
+/table/record/path=Tel::Cl
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CM
+/table/record/term=centre median nucleus of thalamus
+/table/record/path=Die::CM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CMRt
+/table/record/term=central medullary reticular group
+/table/record/path=Me::CMRt
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CNF
+/table/record/term=cuneiform nucleus
+/table/record/path=MB::CNF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Co
+/table/record/term=cochlear nuclei
+/table/record/path=Me::Co
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CO
+/table/record/term=chiasma opticum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CoS
+/table/record/term=nucleus commissuralis septi
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CP
+/table/record/term=cerebral peduncle
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CPa
+/table/record/term=commissura pallii
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CPi
+/table/record/term=cortex piriformis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CPP
+/table/record/term=cortex prepiriformis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=CPu
+/table/record/term=caudate-putamen
+/table/record/path=Tel::C-Pu
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=CR
+/table/record/term=central lineal nucleus of the raphe
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=CS
+/table/record/term=central sulcus
+/table/record/path=Tel::Cx::CS
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=CST
+/table/record/term=corticospinal tract
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CTT
+/table/record/term=cortico-tectal tract
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Cu
+/table/record/term=cuneate nucleus
+/table/record/path=Me::Cu
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=CV
+/table/record/term=ventral cochlear nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=CX
+/table/record/term=external cuneate nucleus
+/table/record/path=Me::CX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Cx
+/table/record/term=cerebral cortex
+/table/record/path=Tel::Cx
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=D
+/table/record/term=nucleus of Darkschewitsch
+/table/record/path=MB::D
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DBH
+/table/record/term=horizontal nucleus of diagonal band
+/table/record/path=Tel::DBH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DBV
+/table/record/term=vertical nucleus of diagonal band
+/table/record/path=Tel::DBV
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DCH
+/table/record/term=dorsal chiasmatic nucleus
+/table/record/path=Die::Hy::DCH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DG
+/table/record/term=dentate gyrus
+/table/record/path=Tel::DG
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DH
+/table/record/term=dorsal horn
+/table/record/path=SpC::DH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Die
+/table/record/term=diencephalon
+/table/record/path=Die
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DIP
+/table/record/term=nucleus dorsointermedius posterior thalami
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DIVA
+/table/record/term=dorsalis intermedius pars ventralis anterior
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DLL
+/table/record/term=nucleus dorsolateralis anterior thalami, pars lateralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DLP
+/table/record/term=nucleus dorsolateralis posterior thalami
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DMA
+/table/record/term=nucleus dorsomedialis anterior thalami
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DMH
+/table/record/term=dorsomedial nucleus of hypothalamus
+/table/record/path=Die::Hy::DMH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DMP
+/table/record/term=nucleus dorsomedialis posterior thalami
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DR
+/table/record/term=dorsal raphe
+/table/record/path=MB::DR
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DSCT
+/table/record/term=dorsal spinocerebellar tract
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=DSD
+/table/record/term=decussatio supraoptica dorsalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=DX
+/table/record/term=dorsal vagal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=E
+/table/record/term=ectostriatum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=EM
+/table/record/term=nucleus ectomamillaris
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=ENT
+/table/record/term=entorhinal cortex
+/table/record/path=Tel::Cx::ENT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Epi
+/table/record/term=epithalamus
+/table/record/path=Die::Epi
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=EW
+/table/record/term=Edinger-Westphal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=F
+/table/record/term=fornix of hippocampus
+/table/record/path=Tel::F
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=FA
+/table/record/term=tractus fronto-archistriatalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=FF
+/table/record/term=fields of Forel
+/table/record/path=Die::VTh::FF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=FI
+/table/record/term=fimbria of hippocampus
+/table/record/path=Tel::FI
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=FPL
+/table/record/term=fasciculus prosencephali lateralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=FR
+/table/record/term=frontal region
+/table/record/path=Tel::Cx::FR
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=FTC
+/table/record/term=central tegmental field
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=GF
+/table/record/term=gracile fasciculus
+/table/record/path=Me::GF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=GLd
+/table/record/term=dorsal lateral geniculate nucleus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=GLv
+/table/record/term=nucleus geniculatus lateralis, pars ventralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=GPe
+/table/record/term=external division of globus pallidus
+/table/record/path=Tel::GPe
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=GPi
+/table/record/term=internal division of globus pallidus
+/table/record/path=Tel::GPi
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Gr
+/table/record/term=gracile nucleus
+/table/record/path=Me::Gr
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HA
+/table/record/term=hyperstriatum accessorium
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=HAA
+/table/record/term=anterior hypothalamic area
+/table/record/path=Die::Hy::HAA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HAr
+/table/record/term=arcuate nucleus of hypothalamus
+/table/record/path=<Null>
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=HC
+/table/record/term=habenular commissure
+/table/record/path=Die::Epi::HC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HD
+/table/record/term=hyperstriatum dorsale
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=HD
+/table/record/term=dorsal hypothalamic nucleus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=HDA
+/table/record/term=dorsal hypothalamic area
+/table/record/path=Die::Hy::HDA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HF
+/table/record/term=hippocampal formation
+/table/record/path=Tel::HF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Hl
+/table/record/term=lateral habenular nucleus
+/table/record/path=Die::Epi::Hl
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HL
+/table/record/term=nucleus habenularis lateralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=HLA
+/table/record/term=lateral hypothalamic area
+/table/record/path=Die::Hy::HLA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HLmc
+/table/record/term=magnocellular nucleus of lateral hypothalamus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=HM
+/table/record/term=medial habenular nucleus
+/table/record/path=Die::Epi::HM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HM
+/table/record/term=nucleus habenularis medialis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=HMA
+/table/record/term=medial hypothalamic area
+/table/record/path=Die::Hy::HMA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Hp
+/table/record/term=hippocampus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=HPA
+/table/record/term=posterior hypothalamic area
+/table/record/path=Die::Hy::HPA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HPT
+/table/record/term=habenulopeduncular tract
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=HV
+/table/record/term=hyperstriatum ventrale
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=HY
+/table/record/term=hypophysis
+/table/record/path=Die::Hy::HY
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Hy
+/table/record/term=hypothalamus
+/table/record/path=Die::Hy
+/table/record/used_in=rodent, carnivore, primate, avian
+/table/record
+/table/record/abbrev=IC
+/table/record/term=internal capsule
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ICA
+/table/record/term=interstitial nucleus of Cajal
+/table/record/path=MB::ICA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ICAS
+/table/record/term=inferior ramus of calcarine sulcus
+/table/record/path=Tel::Cx::ICAS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=ICC
+/table/record/term=central nucleus of inferior colliculus
+/table/record/path=MB::Tec::ICC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ICP
+/table/record/term=pericentral nucleus of inferior colliculus
+/table/record/path=MB::Tec::ICP
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ICX
+/table/record/term=external nucleus of inferior colliculus
+/table/record/path=MB::Tec::ICX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IHA
+/table/record/term=hyperstriatum intercalatus superior
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=III
+/table/record/term=oculomotor nucleus
+/table/record/path=MB::III
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IIIN
+/table/record/term=oculomotor nerve
+/table/record/path=MB::IIIN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=INF
+/table/record/term=infundibular nucleus
+/table/record/path=Die::Hy::INF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Ins
+/table/record/term=insular cortex
+/table/record/path=Tel::Cx::Ins
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=IO
+/table/record/term=inferior olivary complex
+/table/record/path=Me::IO
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IOD
+/table/record/term=dorsal accessory nucleus of inferior olivary complex
+/table/record/path=Me::IOD
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IOM
+/table/record/term=medial accessory nucleus of inferior olivary complex
+/table/record/path=Me::IOM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IOP
+/table/record/term=principal nucleus of inferior olivary complex
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IOS
+/table/record/term=inferior occipital sulcus
+/table/record/path=Tel::Cx::IOS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=IP
+/table/record/term=interpeduncular nucleus
+/table/record/path=MB::IP
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IPS
+/table/record/term=intraparietal sulcus
+/table/record/path=Tel::Cx::IPS
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=ISC
+/table/record/term=islands of Calleja
+/table/record/path=Tel::ISC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ITG
+/table/record/term=inferior temporal gyrus
+/table/record/path=Tel::ITG
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=ITS
+/table/record/term=inferior temporal sulcus
+/table/record/path=Tel::Cx::ITS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=IV
+/table/record/term=trochlear nucleus
+/table/record/path=MB::IV
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=IVN
+/table/record/term=trochlear nerve
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=L
+/table/record/term=limitans nucleus of thalamus
+/table/record/path=Die::Th::L
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=L
+/table/record/term=area L
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=L1
+/table/record/term=area L1
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=L2
+/table/record/term=area L2
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=L3
+/table/record/term=area L3
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=LC
+/table/record/term=locus coeruleus
+/table/record/path=Pons::LC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LD
+/table/record/term=lateral dorsal nucleus of thalamus
+/table/record/path=Die::Th::LD
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LF
+/table/record/term=lenticular fascicularis
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=LGd
+/table/record/term=dorsal lateral geniculate nucleus
+/table/record/path=Die::Th::LGd
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LGv
+/table/record/term=ventral lateral geniculate nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=LH
+/table/record/term=lamina hyperstriatica
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=LL
+/table/record/term=lateral lemniscus
+/table/record/path=Pons::LL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LLD
+/table/record/term=dorsal nucleus of lateral lemniscus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LLV
+/table/record/term=ventral nucleus of lateral lemniscus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LM
+/table/record/term=medial lemniscus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LM
+/table/record/term=lemniscus medialis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=LMD
+/table/record/term=lamina medullaris dorsalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=LMX
+/table/record/term=decussation of medial lemniscus
+/table/record/path=Me::LMX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LOT
+/table/record/term=lateral olfactory tract
+/table/record/path=Tel::LOT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LP
+/table/record/term=lateral posterior nucleus of thalamus
+/table/record/path=Die::Th::LP
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LPO
+/table/record/term=lateral preoptic area
+/table/record/path=Die::Hy::LPO
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LPO
+/table/record/term=lobus parolfactorius
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=LR
+/table/record/term=lateral reticular nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=LS
+/table/record/term=lateral sulcus
+/table/record/path=Tel::Cx::LS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=LT
+/table/record/term=lamina terminalis
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=LUS
+/table/record/term=lunate sulcus
+/table/record/path=Tel::Cx::LUS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=LV
+/table/record/term=lateral ventricle
+/table/record/path=Tel::LV
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=M1
+/table/record/term=primary motor cortex
+/table/record/path=Tel::Cx::M1
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MB
+/table/record/term=midbrain
+/table/record/path=MB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MBRF
+/table/record/term=midbrain reticular formation
+/table/record/path=MB::MBRF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MD
+/table/record/term=mediodorsal nucleus of thalamus
+/table/record/path=Die::Th::MD
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Me
+/table/record/term=medulla
+/table/record/path=Me
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ME
+/table/record/term=median eminence
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=MeRF
+/table/record/term=medullary reticular formation
+/table/record/path=Me::MeRF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MG
+/table/record/term=medial geniculate complex
+/table/record/path=Die::Th::MG
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MGad
+/table/record/term=anterodorsal nucleus of medial geniculate complex
+/table/record/path=Die::Th::MG::MGad
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MGmc
+/table/record/term=magnocellular nucleus of medial geniculate complex
+/table/record/path=Die::Th::MG::MGmc
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MGpd
+/table/record/term=posterodorsal nucleus of medial geniculate complex
+/table/record/path=Die::Th::MG::MGpd
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MGv
+/table/record/term=ventral nucleus of medial geniculate complex
+/table/record/path=Die::Th::MG::MGv
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ML
+/table/record/term=lateral mamillary nucleus
+/table/record/path=Die::Hy::ML
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MLB
+/table/record/term=medial longitudinal bundle
+/table/record/path=MB::MLB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MM
+/table/record/term=medial mamillary nucleus
+/table/record/path=Die::Hy::MM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MP
+/table/record/term=premamillary nucleus
+/table/record/path=Die::Hy::MP
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=MP
+/table/record/term=mamillary peduncle
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=MPO
+/table/record/term=median preoptic nucleus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=MR
+/table/record/term=median raphe nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MS
+/table/record/term=supramamillary nucleus
+/table/record/path=Die::Hy::MS
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MTS
+/table/record/term=middle temporal sulcus
+/table/record/path=Tel::Cx::MTS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=MTT
+/table/record/term=mamillothalamic tract
+/table/record/path=Die::MTT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=MV
+/table/record/term=medioventral nucleus of thalamus
+/table/record/path=Die::Th::MV
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=N
+/table/record/term=neostriatum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NBOR
+/table/record/term=nucleus of basal optic root
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NC
+/table/record/term=central nucleus of brainstem
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=NCPa
+/table/record/term=nucleus of commissura pallii
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NEx
+/table/record/term=nucleus externus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NF
+/table/record/term=neostriatum frontale
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NFL
+/table/record/term=nidopallium frontale, pars laterale
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NLOT
+/table/record/term=nucleus of lateral olfactory tract
+/table/record/path=Tel::NLOT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=NPC
+/table/record/term=nucleus of posterior commissure
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=NPC
+/table/record/term=nucleus of posterior commissure
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=NS
+/table/record/term=nucleus of solitary tract
+/table/record/path=Me::NS
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=NST
+/table/record/term=nucleus of stria terminalis
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=NTB
+/table/record/term=nucleus of trapezoid body
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=NY
+/table/record/term=neurohypophysis
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=OAN
+/table/record/term=anterior olfactory nucleus
+/table/record/path=Tel::OAN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=OB
+/table/record/term=olfactory bulb
+/table/record/path=Tel::OB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=OCX
+/table/record/term=optic chiasm
+/table/record/path=Tel::OCX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=OFS
+/table/record/term=orbitofrontal sulcus
+/table/record/path=Tel::Cx::OFS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=OLS
+/table/record/term=olfactory sulcus
+/table/record/path=Tel::Cx::OFS
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=OLT
+/table/record/term=olfactory tubercle
+/table/record/path=Tel::OLT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=OM
+/table/record/term=tractus occipitomesencephalicus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=OPT
+/table/record/term=olivary pretectal nucleus
+/table/record/path=MB::Tec::OPT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=OR
+/table/record/term=optic radiation
+/table/record/path=Tel::OR
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ORS
+/table/record/term=orbital sulcus
+/table/record/path=Tel::Cx::ORS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=OT
+/table/record/term=optic tract
+/table/record/path=Tel::OT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=OTS
+/table/record/term=occipito-temporal sulcus
+/table/record/path=Tel::Cx::OTS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Ov
+/table/record/term=nucleus ovoidalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=OVH
+/table/record/term=organum vasculosum hypothalamus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=P
+/table/record/term=corpus pineale
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=Pa
+/table/record/term=paraventricular nuclei of thalamus
+/table/record/path=Die::Th::Pa
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PA
+/table/record/term=paleostriatum augmentatum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=PAG
+/table/record/term=periaqueductal gray
+/table/record/path=MB::PAG
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PAH
+/table/record/term=paraventricular nucleus of hypothalamus
+/table/record/path=Die::Hy::PAH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PAM
+/table/record/term=periamygdaloid area
+/table/record/path=Tel::Cx::PAM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PASB
+/table/record/term=parasubiculum
+/table/record/path=Tel::Cx::PASB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PB
+/table/record/term=parabrachial nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PBG
+/table/record/term=parabigeminal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Pc
+/table/record/term=paracentral nucleus of thalamus
+/table/record/path=Die::Th::Pc
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PC
+/table/record/term=posterior commissure
+/table/record/path=MB::Tec::PC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PCS
+/table/record/term=precentral sulcus
+/table/record/path=Tel::Cx::PCS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Pe
+/table/record/term=periventricular hypothalamic area
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Pf
+/table/record/term=parafascicular nucleus of thalamus
+/table/record/path=Die::Th::Pf
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PF
+/table/record/term=perifornical nuclei
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=PGr
+/table/record/term=pontine gray
+/table/record/path=Pons::PGr
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PIN
+/table/record/term=pineal
+/table/record/path=Die::Epi::PIN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Pl
+/table/record/term=pulvinar
+/table/record/path=Die::Th::Pl
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Pla
+/table/record/term=anterior nucleus of pulvinar
+/table/record/path=Die::Th::Pl::Pla
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Pli
+/table/record/term=inferior nucleus of pulvinar
+/table/record/path=Die::Th::Pl::Pli
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Plil
+/table/record/term=inferior nucleus of pulvinar, lateral division
+/table/record/path=Die::Th::Pl::Plil
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Plim
+/table/record/term=inferior nucleus of pulvinar, medial division
+/table/record/path=Die::Th::Pl::Plim
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Pll
+/table/record/term=lateral nucleus of pulvinar
+/table/record/path=Die::Th::Pl::Pll
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Plm
+/table/record/term=medial nucleus of pulvinar
+/table/record/path=Die::Th::Pl::Plm
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PM
+/table/record/term=premamillary nucleus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=PMI
+/table/record/term=nucleus paramedianus internus thalami
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=Po
+/table/record/term=posterior nucleus of thalamus
+/table/record/path=Die::Th::Po
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PO
+/table/record/term=nucleus preopticus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=POA
+/table/record/term=preoptic area
+/table/record/path=Die::Hy::POA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PoCS
+/table/record/term=postcentral sulcus
+/table/record/path=Tel::Cx::PoCS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Pons
+/table/record/term=pons
+/table/record/path=Pons
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=POS
+/table/record/term=parieto-occipital sulcus
+/table/record/path=Tel::Cx::POS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=PP
+/table/record/term=paleostriatum primitivum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=PPC
+/table/record/term=nucleus principalis precommissuralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=PPH
+/table/record/term=nucleus prepositus hypoglossi
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PPN
+/table/record/term=peripeduncular nucleus
+/table/record/path=MB::PPN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PPT
+/table/record/term=pedunculopontine tegmental nucleus
+/table/record/path=Pons::PPT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PR
+/table/record/term=prerubral field
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=PRF
+/table/record/term=pontine reticular formation
+/table/record/path=Pons::PRF
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Prg
+/table/record/term=pregeniculate (ventral lateral geniculate) nucleus
+/table/record/path=Die::VTh::Prg
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PRh
+/table/record/term=perirhinal cortex
+/table/record/path=Tel::Cx::PRh
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PRP
+/table/record/term=prepiriform cortex
+/table/record/path=Tel::PRP
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PRS
+/table/record/term=principal sulcus
+/table/record/path=Tel::Cx::PRS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=PSB
+/table/record/term=presubiculum
+/table/record/path=Tel::Cx::PSB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Pt
+/table/record/term=parataenial nucleus of thalamus
+/table/record/path=Die::Th::Pt
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PT
+/table/record/term=pretectum
+/table/record/path=MB::Tec::PT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PT
+/table/record/term=nucleus pretectalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=PTA
+/table/record/term=anterior pretectal nucleus
+/table/record/path=MB::Tec::PTA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PTO
+/table/record/term=pregeniculatus tecti optici
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=Pu
+/table/record/term=putamen
+/table/record/path=Tel::Pu
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=PVH
+/table/record/term=paraventricular nucleus of hypothalamus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=PvT
+/table/record/term=paraventricular nucleus of thalamus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=Py
+/table/record/term=pyramid
+/table/record/path=Me::Py
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PyT
+/table/record/term=pyramidal tract
+/table/record/path=Me::PyT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=PyX
+/table/record/term=pyramidal decussation
+/table/record/path=Me::PyX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=QF
+/table/record/term=tractus quintofrontalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=R
+/table/record/term=reticular nucleus of thalamus
+/table/record/path=Die::VTh::R
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=RB
+/table/record/term=restiform body
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Rh
+/table/record/term=rhomboid (central) nucleus of thalamus
+/table/record/path=Die::Th::Rh
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=RN
+/table/record/term=red nucleus
+/table/record/path=MB::RN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=RS
+/table/record/term=rhinal sulcus
+/table/record/path=Tel::Cx::RS
+/table/record/used_in=carnivore, primate
+/table/record
+/table/record/abbrev=Rs
+/table/record/term=retrosplenial cortex
+/table/record/path=Tel::Cx::Rs
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=RS
+/table/record/term=nucleus reticularis superior
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=RSP
+/table/record/term=retrosplenium
+/table/record/path=<Null>
+/table/record/used_in=primate, carnivore, rodent
+/table/record
+/table/record/abbrev=Rt
+/table/record/term=nucleus rotundus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=RTP
+/table/record/term=reticulotegmental pontine nucleus
+/table/record/path=Pons::RTP
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Ru
+/table/record/term=nucleus ruber
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=S1
+/table/record/term=primary somatosensory cortex
+/table/record/path=Tel::Cx::S1
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=S2
+/table/record/term=secondary somatosensory cortex
+/table/record/path=Tel::Cx::S2
+/table/record/used_in=rodent
+/table/record
+/table/record/abbrev=Sb
+/table/record/term=subthalamic nucleus
+/table/record/path=Die::Sb
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SB
+/table/record/term=subiculum
+/table/record/path=Tel::Cx::SB
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SbCS
+/table/record/term=subcentral sulcus
+/table/record/path=Tel::Cx::SbCS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=SC
+/table/record/term=superior colliculus
+/table/record/path=MB::Tec::SC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SCAS
+/table/record/term=superior ramus of calcarine sulcus
+/table/record/path=Tel::Cx::SCAS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=SCD
+/table/record/term=deep layer of superior colliculus
+/table/record/path=MB::Tec::SCD
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SCI
+/table/record/term=intermediate layer of superior colliculus
+/table/record/path=MB::Tec::SCI
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SCN
+/table/record/term=suprachiasmatic nucleus
+/table/record/path=Die::Hy::SCN
+/table/record/used_in=rodent, carnivore, primate, avian
+/table/record
+/table/record/abbrev=SCS
+/table/record/term=superficial layer of superior colliculus
+/table/record/path=MB::Tec::SCS
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SCX
+/table/record/term=commissure of superior colliculus
+/table/record/path=MB::Tec::SC::SCX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SFN
+/table/record/term=septofimbrial nucleus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=SG
+/table/record/term=suprageniculate nucleus of thalamus
+/table/record/path=Die::Th::SG
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SHM
+/table/record/term=nucleus subhabenularis medialis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SHN
+/table/record/term=septohypothalamic nucleus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=SI
+/table/record/term=substantia innominata
+/table/record/path=Tel::SI
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SII
+/table/record/term=second somatosensory area of cerebral cortex
+/table/record/path=Tel::Cx::SII
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=SL
+/table/record/term=nucleus septalis lateralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SLN
+/table/record/term=lateral septal nucleus
+/table/record/path=Tel::Spt::SLN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SM
+/table/record/term=stria medullaris of thalamus
+/table/record/path=Die::SM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SM
+/table/record/term=nucleus septalis medialis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SMN
+/table/record/term=medial septal nucleus
+/table/record/path=Tel::Spt::SMN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SNc
+/table/record/term=pars compacta of substantia nigra
+/table/record/path=MB::SNc
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SNr
+/table/record/term=pars reticulata of substantia nigra
+/table/record/path=MB::SNr
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SOL
+/table/record/term=lateral superior olivary nucleus
+/table/record/path=Pons::SOL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SOM
+/table/record/term=medial superior olivary nucleus
+/table/record/path=Pons::SOM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SON
+/table/record/term=supraoptic nucleus
+/table/record/path=Die::Hy::SON
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SOX
+/table/record/term=supraoptic commissure
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=SpC
+/table/record/term=spinal cord
+/table/record/path=SpC
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SPC
+/table/record/term=nucleus superficialis parvocellularis (nucleus tractus septomesencephalici)
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SPf
+/table/record/term=subparafascicular nucleus
+/table/record/path=Die::Th::SPf
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SpL
+/table/record/term=nucleus spiriformis lateralis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SpM
+/table/record/term=nucleus spiriformis medialis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SPS
+/table/record/term=subparietal sulcus
+/table/record/path=Tel::Cx::SPS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=Spt
+/table/record/term=septum
+/table/record/path=Tel::Spt
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SpTV
+/table/record/term=spinal tract of trigeminal
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=SRt
+/table/record/term=nucleus subrotundus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=SSp
+/table/record/term=supraspinal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ST
+/table/record/term=solitary tract
+/table/record/path=Me::ST
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ST
+/table/record/term=stria terminalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=STG
+/table/record/term=superior temporal gyrus
+/table/record/path=Tel::STG
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=STN
+/table/record/term=triangular septal nucleus
+/table/record/path=Tel::Spt::STN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=STr
+/table/record/term=stria terminalis
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=STS
+/table/record/term=superior temporal sulcus
+/table/record/path=Tel::Cx::STS
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=TB
+/table/record/term=trapezoid body
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=TD
+/table/record/term=dorsal tegmental nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Te
+/table/record/term=temporal cortex
+/table/record/path=Tel::Cx::Te
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Tec
+/table/record/term=tectum
+/table/record/path=MB::Tec
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Tel
+/table/record/term=telencephalon
+/table/record/path=Tel
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=TeO
+/table/record/term=tectum opticum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=Th
+/table/record/term=dorsal thalamus
+/table/record/path=Die::Th
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=TM
+/table/record/term=tubero-mamillary area
+/table/record/path=Die::Hy::TM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Tn
+/table/record/term=nucleus taeniae
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=TO
+/table/record/term=tuberculum olfactorium
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=TOv
+/table/record/term=tractus nuclei ovoidalis
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=TrO
+/table/record/term=tractus opticus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=TSM
+/table/record/term=tractus septomesencephalicus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=TSp
+/table/record/term=tectospinal tract
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=TT
+/table/record/term=taenia tecta (including indusium griseum)
+/table/record/path=Tel::TT
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=TU
+/table/record/term=lateral tuberal nucleus
+/table/record/path=<Null>
+/table/record/used_in=primate
+/table/record
+/table/record/abbrev=TX
+/table/record/term=tegmental decussations
+/table/record/path=MB::TX
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=V
+/table/record/term=trigeminal nuclear complex
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=V1
+/table/record/term=primary visual cortex
+/table/record/path=Tel::Cx::V1
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=V2
+/table/record/term=secondary visual cortex
+/table/record/path=Tel::Cx::V2
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VA
+/table/record/term=ventral anterior nucleus of thalamus
+/table/record/path=Die::Th::VA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Va
+/table/record/term=vallecula
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=VAmc
+/table/record/term=ventral anterior nucleus of thalamus, magnocellular division
+/table/record/path=Die::Th::VA::VAmc
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VH
+/table/record/term=ventral horn
+/table/record/path=SpC::VH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VI
+/table/record/term=abducens nucleus
+/table/record/path=Pons::VI
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VII
+/table/record/term=facial nucleus
+/table/record/path=Pons::VII
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VIIIN
+/table/record/term=auditory nerve
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VIIN
+/table/record/term=facial nerve
+/table/record/path=Pons::VIIN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VIN
+/table/record/term=abducens nerve
+/table/record/path=Pons::VIN
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VL
+/table/record/term=ventral lateral nucleus of thalamus
+/table/record/path=Die::Th::VL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VLa
+/table/record/term=ventral lateral anterior nucleus of thalamus
+/table/record/path=Die::Th::VLa
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VLp
+/table/record/term=ventral lateral posterior nucleus of thalamus
+/table/record/path=Die::Th::VLp
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=Vm
+/table/record/term=motor nucleus of trigeminal
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VM
+/table/record/term=ventral medial nucleus of thalamus
+/table/record/path=Die::Th::VM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VMb
+/table/record/term=basal ventral medial nucleus of thalamus
+/table/record/path=Die::Th::VMb
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VMH
+/table/record/term=ventral medial nucleus of hypothalamus
+/table/record/path=Die::Hy::VMH
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VMH
+/table/record/term=ventromedial nucleus of hypothalamus
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=VN
+/table/record/term=trigeminal nerve
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VP
+/table/record/term=principal trigeminal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VPa
+/table/record/term=ventral pallidum
+/table/record/path=Tel::VPa
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VPa
+/table/record/term=ventral pallidum
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=VPI
+/table/record/term=ventral posterior inferior nucleus of thalamus
+/table/record/path=Die::Th::VPI
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VPL
+/table/record/term=ventral posterior lateral nucleus of thalamus
+/table/record/path=Die::Th::VPL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VPM
+/table/record/term=ventral posterior medial nucleus of thalamus
+/table/record/path=Die::Th::VPM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VR
+/table/record/term=ventral raphe
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VS
+/table/record/term=vestibular nuclei
+/table/record/path=Me::VS
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VSI
+/table/record/term=inferior vestibular nucleus
+/table/record/path=Me::VS::VSI
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VSL
+/table/record/term=lateral vestibular nucleus
+/table/record/path=Me::VS::VSL
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VSM
+/table/record/term=medial vestibular nucleus
+/table/record/path=Me::VS::VSM
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VSp
+/table/record/term=spinal trigeminal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VSS
+/table/record/term=superior vestibular nucleus
+/table/record/path=Me::VS::VSS
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VTA
+/table/record/term=ventral tegmental area
+/table/record/path=MB::VTA
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=VTh
+/table/record/term=ventral thalamus
+/table/record/path=Die::VTh
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=W
+/table/record/term=Wulst
+/table/record/path=<Null>
+/table/record/used_in=avian
+/table/record
+/table/record/abbrev=XII
+/table/record/term=hypoglossal nucleus
+/table/record/path=<Null>
+/table/record/used_in=rodent, carnivore, primate
+/table/record
+/table/record/abbrev=ZI
+/table/record/term=zona incerta
+/table/record/path=Die::VTh::ZI
+/table/record/used_in=rodent, carnivore, primate

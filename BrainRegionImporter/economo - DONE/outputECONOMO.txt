@@ -1,0 +1,4880 @@
+{{-start-}}
+'''EK39_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK39
+|Species=Homo sapiens
+|English Name=Anterior ultracingulate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLa (Homo sapiens)
+|CorrespondingRegion=BA24 (Homo sapiens), BA33 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK38_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK38
+|Species=Homo sapiens
+|English Name=Cingulate agranular anterior limbic area limitans
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLa (Homo sapiens)
+|CorrespondingRegion=BA24 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK31_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK31
+|Species=Homo sapiens
+|English Name=Secondary parolfactory area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA14 (Homo sapiens), BA25 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK30_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK30
+|Species=Homo sapiens
+|English Name=Primary parolfactory area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA14 (Homo sapiens), BA25 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK33_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK33
+|Species=Homo sapiens
+|English Name=Geniculate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA25 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK32_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK32
+|Species=Homo sapiens
+|English Name=Tertiary parolfactory area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA14 (Homo sapiens), BA25 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK35_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK35
+|Species=Homo sapiens
+|English Name=Precommissural area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK34_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK34
+|Species=Homo sapiens
+|English Name=Geniculate area of olfactory triangle
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA25 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK37_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK37
+|Species=Homo sapiens
+|English Name=Anterior cingulate agranular anterior limbic area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLa (Homo sapiens)
+|CorrespondingRegion=BA24 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK36_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK36
+|Species=Homo sapiens
+|English Name=Precingulate agranular anterior limbic area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLa (Homo sapiens)
+|CorrespondingRegion=BA24 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKTLPol_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKTLPol
+|Species=Homo sapiens
+|English Name=Temporopolar region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKPreRo_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKPreRo
+|Species=Homo sapiens
+|English Name=Prerolandic region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKPLPost_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKPLPost
+|Species=Homo sapiens
+|English Name=Postcentral region (anterior parietal)
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK48_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK48
+|Species=Homo sapiens
+|English Name=Ultracingulate area obtecta
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLresp (Homo sapiens)
+|CorrespondingRegion=BA26 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK49_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK49
+|Species=Homo sapiens
+|English Name=Dorsal precentral insular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKIL (Homo sapiens)
+|CorrespondingRegion=BA14 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK44_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK44
+|Species=Homo sapiens
+|English Name=Agranular retrosplenial area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLresp (Homo sapiens)
+|CorrespondingRegion=BA30 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK45_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK45
+|Species=Homo sapiens
+|English Name=Superior retrosplenial area granulosa
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLresp (Homo sapiens)
+|CorrespondingRegion=BA29 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK46_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK46
+|Species=Homo sapiens
+|English Name=Inferior retrosplenial area granulosa
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLresp (Homo sapiens)
+|CorrespondingRegion=BA26 (Homo sapiens), BA29 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK47_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK47
+|Species=Homo sapiens
+|English Name=Posterior ultracingulate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLresp (Homo sapiens)
+|CorrespondingRegion=BA26 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK40_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK40
+|Species=Homo sapiens
+|English Name=Area of the induseum
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLa (Homo sapiens)
+|CorrespondingRegion=BA24 (Homo sapiens), BA33 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK41_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK41
+|Species=Homo sapiens
+|English Name=Dorsal posterior cingulate area11
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLp (Homo sapiens)
+|CorrespondingRegion=BA31 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK42_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK42
+|Species=Homo sapiens
+|English Name=Ventral posterior cingulate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLp (Homo sapiens)
+|CorrespondingRegion=BA23 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK43_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK43
+|Species=Homo sapiens
+|English Name=Posterior cingulate area limitans
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLLp (Homo sapiens)
+|CorrespondingRegion=BA33 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK100_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK100
+|Species=Homo sapiens
+|English Name=Presubicular area granulosa limitans
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA27 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK101_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK101
+|Species=Homo sapiens
+|English Name=Middle presubicular area granulosa
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA27 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK102_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK102
+|Species=Homo sapiens
+|English Name=Glomerular presubicular area granulosa
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA27 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK103_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK103
+|Species=Homo sapiens
+|English Name=Glomerular subicular pyramidal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK104_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK104
+|Species=Homo sapiens
+|English Name=Subicular pyramidal area simplex
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK105_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK105
+|Species=Homo sapiens
+|English Name=Pyramidal area of Ammon’s horn
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK106_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK106
+|Species=Homo sapiens
+|English Name=Pyramidal area of digitate gyrus of uncus
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK107_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK107
+|Species=Homo sapiens
+|English Name=Area of fascia dentata
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKLLa_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKLLa
+|Species=Homo sapiens
+|English Name=Anterior superior limbic region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKLLp_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKLLp
+|Species=Homo sapiens
+|English Name=Posterior superior limbic region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK59_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK59
+|Species=Homo sapiens
+|English Name=Intermediate postcentral area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLPost (Homo sapiens)
+|CorrespondingRegion=BA1 (Homo sapiens), BA2 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK58_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK58
+|Species=Homo sapiens
+|English Name=Oral postcentral area granulosa
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLPost (Homo sapiens)
+|CorrespondingRegion=BA3 (Homo sapiens), BA3b (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK57_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK57
+|Species=Homo sapiens
+|English Name=Oral postcentral area simplex
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLPost (Homo sapiens)
+|CorrespondingRegion=BA3 (Homo sapiens), BA3b (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK56_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK56
+|Species=Homo sapiens
+|English Name=Giant pyramidal postparacentral area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLPost (Homo sapiens)
+|CorrespondingRegion=BA3a (Homo sapiens), BA5 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK55_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK55
+|Species=Homo sapiens
+|English Name=Giant pyramidal postcentral area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLPost (Homo sapiens)
+|CorrespondingRegion=BA3a (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK54_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK54
+|Species=Homo sapiens
+|English Name=Piriform insular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKIL (Homo sapiens)
+|CorrespondingRegion=BA16 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK53_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK53
+|Species=Homo sapiens
+|English Name=Orbitoinsular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKIL (Homo sapiens)
+|CorrespondingRegion=BA15 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK52_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK52
+|Species=Homo sapiens
+|English Name=Postcentral insular area at temporal entrance
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKIL (Homo sapiens)
+|CorrespondingRegion=BA13 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK51_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK51
+|Species=Homo sapiens
+|English Name=Postcentral insular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKIL (Homo sapiens)
+|CorrespondingRegion=BA13 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK50_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK50
+|Species=Homo sapiens
+|English Name=Ventral precentral insular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKIL (Homo sapiens)
+|CorrespondingRegion=BA14 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKTLHipp_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKTLHipp
+|Species=Homo sapiens
+|English Name=Hippocampal (inferior limbic) lobe (H)
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKFro_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKFro
+|Species=Homo sapiens
+|English Name=Frontal region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKPLBas_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKPLBas
+|Species=Homo sapiens
+|English Name=Basal parietal region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKTLFusi_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKTLFusi
+|Species=Homo sapiens
+|English Name=Fusiform region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK68_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK68
+|Species=Homo sapiens
+|English Name=Posterior (magnocellular) supramarginal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLInf (Homo sapiens)
+|CorrespondingRegion=BA40 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK69_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK69
+|Species=Homo sapiens
+|English Name=Angular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLInf (Homo sapiens)
+|CorrespondingRegion=BA39 (Homo sapiens), BA7a (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK62_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK62
+|Species=Homo sapiens
+|English Name=Magnocellular superior parietal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLSup (Homo sapiens)
+|CorrespondingRegion=BA7 (Homo sapiens), BA7a (Homo sapiens), BA5 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK63_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK63
+|Species=Homo sapiens
+|English Name=Parvicellular superior parietal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLSup (Homo sapiens)
+|CorrespondingRegion=BA7 (Homo sapiens), BA7b (Homo sapiens), BA5b (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK60_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK60
+|Species=Homo sapiens
+|English Name=Caudal postcentral area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLPost (Homo sapiens)
+|CorrespondingRegion=BA2 (Homo sapiens), BA5a (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK61_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK61
+|Species=Homo sapiens
+|English Name=Superior parietal area (transition parietal postcentral area)
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLSup (Homo sapiens)
+|CorrespondingRegion=BA40 (Homo sapiens), BA2 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK66_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK66
+|Species=Homo sapiens
+|English Name=Tenuicortical supramarginal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLInf (Homo sapiens)
+|CorrespondingRegion=BA40 (Homo sapiens), BA7b (Homo sapiens), BA22 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK67_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK67
+|Species=Homo sapiens
+|English Name=Opercular supramarginal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLInf (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK64_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK64
+|Species=Homo sapiens
+|English Name=Giant pyramidal posterior superior parietal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLSup (Homo sapiens)
+|CorrespondingRegion=BA7 (Homo sapiens), BA7b (Homo sapiens), BA5b (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK65_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK65
+|Species=Homo sapiens
+|English Name=Supramarginal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLInf (Homo sapiens)
+|CorrespondingRegion=BA40 (Homo sapiens), BA7b (Homo sapiens), BA22 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK75_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK75
+|Species=Homo sapiens
+|English Name=Magnocellular peristriate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=BA19 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK74_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK74
+|Species=Homo sapiens
+|English Name=Posterior peristriate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=BA19 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK77_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK77
+|Species=Homo sapiens
+|English Name=Giant pyramidal parastriate boundary
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK76_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK76
+|Species=Homo sapiens
+|English Name=Parastriate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=BA18 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK71_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK71
+|Species=Homo sapiens
+|English Name=Basal (temporooccipital) parietal area at temporal entrance
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLBas (Homo sapiens)
+|CorrespondingRegion=BA37 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK70_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK70
+|Species=Homo sapiens
+|English Name=Basal (temporooccipital) parietal area at parietal entrance
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLBas (Homo sapiens)
+|CorrespondingRegion=BA37 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK73_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK73
+|Species=Homo sapiens
+|English Name=Anterior peristriate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=BA19 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK72_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK72
+|Species=Homo sapiens
+|English Name=Basal (temporooccipital) parietal area at occipital entrance
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPLBas (Homo sapiens)
+|CorrespondingRegion=BA37 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK79_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK79
+|Species=Homo sapiens
+|English Name=Striate area (granulosa)
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=BA17 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK78_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK78
+|Species=Homo sapiens
+|English Name=Maculae granulosae of parastriate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOL (Homo sapiens)
+|CorrespondingRegion=BA18 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKLLresp_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKLLresp
+|Species=Homo sapiens
+|English Name=Retrosplenial subregion
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKLL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKTLprop_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKTLprop
+|Species=Homo sapiens
+|English Name=Temporal region proper
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKTLSupra_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKTLSupra
+|Species=Homo sapiens
+|English Name=Supratemporal region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKPLSup_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKPLSup
+|Species=Homo sapiens
+|English Name=Superior parietal region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK88_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK88
+|Species=Homo sapiens
+|English Name=Hippocampotemporal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLFusi (Homo sapiens)
+|CorrespondingRegion=BA35 (Homo sapiens), BA36 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK89_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK89
+|Species=Homo sapiens
+|English Name=Agranular hippocampotemporal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLFusi (Homo sapiens)
+|CorrespondingRegion=BA35 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK80_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK80
+|Species=Homo sapiens
+|English Name=Posterior superior temporal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLSupra (Homo sapiens)
+|CorrespondingRegion=BA22 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK81_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK81
+|Species=Homo sapiens
+|English Name=Anterior superior temporal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLSupra (Homo sapiens)
+|CorrespondingRegion=BA22 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK82_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK82
+|Species=Homo sapiens
+|English Name=Magnocellular supratemporal area simplex
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLSupra (Homo sapiens)
+|CorrespondingRegion=BA42 (Homo sapiens), BA22 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK83_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK83
+|Species=Homo sapiens
+|English Name=Supratemporal area granulosa
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLSupra (Homo sapiens)
+|CorrespondingRegion=BA41 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK84_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK84
+|Species=Homo sapiens
+|English Name=Intercalated supratemporal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLSupra (Homo sapiens)
+|CorrespondingRegion=BA42 (Homo sapiens), BA22 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK85_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK85
+|Species=Homo sapiens
+|English Name=Middle temporal area proper
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLprop (Homo sapiens)
+|CorrespondingRegion=BA21 (Homo sapiens), BA37 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK86_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK86
+|Species=Homo sapiens
+|English Name=Inferior temporal area proper
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLprop (Homo sapiens)
+|CorrespondingRegion=BA20 (Homo sapiens), BA21 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK87_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK87
+|Species=Homo sapiens
+|English Name=Fusiform area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLFusi (Homo sapiens)
+|CorrespondingRegion=BA36 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK9_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK9
+|Species=Homo sapiens
+|English Name=Intermediate frontal area at the beginning of the insula
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA8 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK8_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK8
+|Species=Homo sapiens
+|English Name=Broca area (magnocellular agranular intermediate frontal area)
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA44 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK7_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK7
+|Species=Homo sapiens
+|English Name=Intermedio-limbic frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK6_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK6
+|Species=Homo sapiens
+|English Name=Intermediate frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA6 (Homo sapiens), BA8 (Homo sapiens), BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK5_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK5
+|Species=Homo sapiens
+|English Name=Agranular frontal area in operculum
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA6 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK4_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK4
+|Species=Homo sapiens
+|English Name=Agranular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA6 (Homo sapiens), BA8 (Homo sapiens), BA9 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK3_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK3
+|Species=Homo sapiens
+|English Name=Precentral area in operculum
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA4 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK2_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK2
+|Species=Homo sapiens
+|English Name=Giant pyramidal precentral area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA4 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK1_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK1
+|Species=Homo sapiens
+|English Name=Precentral area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA4 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK13_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK13
+|Species=Homo sapiens
+|English Name=Parvicellular granular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA9 (Homo sapiens), BA10 (Homo sapiens), BA11 (Homo sapiens), BA12 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK12_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK12
+|Species=Homo sapiens
+|English Name=Magnocellular granular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA9 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK11_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK11
+|Species=Homo sapiens
+|English Name=Granular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA9 (Homo sapiens), BA32 (Homo sapiens), BA46 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK10_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK10
+|Species=Homo sapiens
+|English Name=Opercular intermediate frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPreRo (Homo sapiens)
+|CorrespondingRegion=BA8 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK17_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK17
+|Species=Homo sapiens
+|English Name=Triangular granular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA45 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK16_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK16
+|Species=Homo sapiens
+|English Name=Middle granular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA8 (Homo sapiens), BA9 (Homo sapiens), BA46 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK15_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK15
+|Species=Homo sapiens
+|English Name=Limbic granular frontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK14_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK14
+|Species=Homo sapiens
+|English Name=Granular frontal area in operculum
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA9 (Homo sapiens), BA10 (Homo sapiens), BA11 (Homo sapiens), BA12 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK19_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK19
+|Species=Homo sapiens
+|English Name=Limbic frontopolar area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK18_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK18
+|Species=Homo sapiens
+|English Name=Frontopolar area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFro (Homo sapiens)
+|CorrespondingRegion=BA10 (Homo sapiens), BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKOrb_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKOrb
+|Species=Homo sapiens
+|English Name=Orbital (orbitomedial) region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKFL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK99_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK99
+|Species=Homo sapiens
+|English Name=Rhinal area limitans25
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA28 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK98_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK98
+|Species=Homo sapiens
+|English Name=Secondary parauncinate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA28 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EKPLInf_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EKPLInf
+|Species=Homo sapiens
+|English Name=Inferior parietal region
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKPL (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK93_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK93
+|Species=Homo sapiens
+|English Name=Posterior area of substantia perforata
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLPol (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK92_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK92
+|Species=Homo sapiens
+|English Name=Temporal piriform area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLPol (Homo sapiens)
+|CorrespondingRegion=BA16 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK91_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK91
+|Species=Homo sapiens
+|English Name=Agranular temporopolar area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLPol (Homo sapiens)
+|CorrespondingRegion=BA38 (Homo sapiens), BA35 (Homo sapiens), BA36 (Homo sapiens), BA52 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK90_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK90
+|Species=Homo sapiens
+|English Name=Temporopolar area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLPol (Homo sapiens)
+|CorrespondingRegion=BA38 (Homo sapiens), BA35 (Homo sapiens), BA36 (Homo sapiens), BA52 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK97_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK97
+|Species=Homo sapiens
+|English Name=Primary parauncinate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA28 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK96_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK96
+|Species=Homo sapiens
+|English Name=Tertiary uncinate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA34 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK95_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK95
+|Species=Homo sapiens
+|English Name=Secondary uncinate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA34 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK94_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK94
+|Species=Homo sapiens
+|English Name=Primary uncinate area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKTLHipp (Homo sapiens)
+|CorrespondingRegion=BA34 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK28_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK28
+|Species=Homo sapiens
+|English Name=Frontoinsular area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA16 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK29_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK29
+|Species=Homo sapiens
+|English Name=Frontal piriform area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA16 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK26_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK26
+|Species=Homo sapiens
+|English Name=Parolfactory prefrontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA11 (Homo sapiens), BA12 (Homo sapiens), BA13 (Homo sapiens), BA14 (Homo sapiens), BA25 (Homo sapiens), BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK27_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK27
+|Species=Homo sapiens
+|English Name=Limbic prefrontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK24_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK24
+|Species=Homo sapiens
+|English Name=Internal straight area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK25_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK25
+|Species=Homo sapiens
+|English Name=Prefrontal area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA11 (Homo sapiens), BA12 (Homo sapiens), BA13 (Homo sapiens), BA14 (Homo sapiens), BA25 (Homo sapiens), BA32 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK22_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK22
+|Species=Homo sapiens
+|English Name=Pretriangular orbital area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA47 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK23_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK23
+|Species=Homo sapiens
+|English Name=Area of straight gyrus (area recta)
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA11 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK20_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK20
+|Species=Homo sapiens
+|English Name=Granular orbital area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA13 (Homo sapiens), BA47 (Homo sapiens), 
+}}
+{{-stop-}}
+
+{{-start-}}
+'''EK21_(Homo sapiens)'''
+{{Connectome Brain Region
+|Abbreviation=EK21
+|Species=Homo sapiens
+|English Name=Agranular orbital area
+|Latin Name=
+|Other Name=
+|Defining Criteria=cytoarchitecture
+|Brain Region Partition Scheme=Economo and Koskinas (1925)
+|Definition=
+}}
+{{Connectome Brain Region LinkOut
+|Wikipedia Link=
+|Neurolex Link=
+}}
+= More Information =
+
+== Images ==
+<br>
+
+== Neuronal populations ==
+<br>
+
+== Putative function ==
+<br>
+
+== Electrophysiology data ==
+<br>
+
+= References =
+* {{Cite journal  | last1 = Triarhou | first1 = LC. | last2 = von Economo | first2 = C. | last3 = Koskinas | first3 = GN. | title = A proposed number system for the 107 cortical areas of Economo and Koskinas, and Brodmann area correlations. | journal = Stereotact Funct Neurosurg | volume = 85 | issue = 5 | pages = 204-15 | month =  | year = 2007 | doi = 10.1159/000103259 | PMID = 17534133 }}
+<references/>
+
+{{Connectome Brain Region Hierarchy
+|Part of=EKOrb (Homo sapiens)
+|CorrespondingRegion=BA47 (Homo sapiens), 
+}}
+{{-stop-}}
+

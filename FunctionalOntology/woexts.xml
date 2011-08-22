@@ -1,0 +1,5659 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- $Id: woexts.xml,v 1.178 2008/01/02 18:45:10 fn Exp $ -->
+<?xml-stylesheet type="text/xml" href="exts.xsl"?>
+<!DOCTYPE Exts SYSTEM "exts.dtd">
+
+<Exts>
+ 
+  <Ext>
+    <woext>1</woext>
+    <name>Mental process</name>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>2</woext>
+    <name>Cognition</name>
+    <description>A mental process that is not directly associated with
+    emotion, perception and motion</description>   
+    <meshUid>D003071</meshUid>
+    <type>ext</type>
+    <wikipedia>Cognition</wikipedia>
+    <parent>1</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>3</woext>
+    <name>Emotion</name>
+    <meshUid>D004644</meshUid>
+    <Reference>
+      <title>The Nonverbal Dictionary of Gestures, Signs and Body
+      Language Cues</title>
+      <author>David B. Givens</author>
+      <url>http://members.aol.com/nonverbal2/emotion.htm</url>
+    </Reference>
+    <type>ext</type>
+    <wikipedia>Emotion</wikipedia>
+    <parent>1</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>4</woext>
+    <name>Motion, movement, locomotion</name>
+    <type>ext</type>
+    <parent>1</parent>
+  </Ext>
+
+  <Ext>
+    <woext>5</woext>
+    <name>Perception</name>
+    <type>ext</type>
+    <wikipedia>Perception</wikipedia>
+    <parent>1</parent>
+  </Ext>
+  
+  <Ext>		
+    <woext>6</woext>
+    <name>Attention</name>
+    <description>Focusing on, e.g., certain parts of sensory
+    stimuli</description> 
+    <meshUid>D001288</meshUid>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>7</woext>
+    <name>Language</name>
+    <description>Language, linguistics and verbal behavior.</description>
+    <meshUid>D007802</meshUid>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>8</woext>
+    <name>Mathematics</name>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>9</woext>
+    <name>Memory</name>
+    <meshUid>D008568</meshUid>
+    <type>ext</type>
+    <wikipedia>Memory</wikipedia>
+    <parent>2</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>10</woext>
+    <name>Motor execution</name>
+    <type>ext</type>
+    <parent>4</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>11</woext>
+    <name>Music</name>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>12</woext>
+    <name>Motor preparation</name>
+    <type>ext</type>
+    <parent>4</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>13</woext>
+    <name>Speech production</name>
+    <description>Generation of spoken language</description>
+    <type>ext</type>
+    <parent>4</parent>
+    <parent>62</parent>
+    <parent>215</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>14</woext>
+    <name>Audition</name>
+    <description>Audition, auditory perception and
+    hearing</description>	
+    <meshUid>D001307</meshUid>
+    <type>ext</type>
+    <wikipedia>Hearing (sense)</wikipedia>
+    <parent>5</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>15</woext>
+    <name>Gustation</name>
+    <description>Sense of taste: sweet, sour, salt and
+    bitter</description> 
+    <meshUid>D013649</meshUid>
+    <type>ext</type>
+    <wikipedia>Taste</wikipedia>
+    <parent>5</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>16</woext>
+    <name>Olfaction</name>
+    <description>The sense of smell. The sensation of of scents,
+    odors</description>
+    <meshUid>D012903</meshUid>
+    <type>ext</type>
+    <wikipedia>Olfaction</wikipedia>
+    <parent>5</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>17</woext>
+    <name>Somesthesis</name>
+    <description>Bodily perception: The sense of touch, thermal, pain,
+    skin senses proprioception</description> 
+    <type>ext</type>
+    <parent>5</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>18</woext>
+    <name>Vision (visual perception)</name>
+    <description>All forms of vision and visual
+    perception</description>
+    <meshUid>D014796</meshUid>
+    <type>ext</type>
+    <wikipedia>Visual perception</wikipedia>
+    <parent>5</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>19</woext>
+    <name>Short-term memory</name>
+    <description>A memory system with a limited capacity (3-9 items?)
+    and with temporal maintenance from fractions of seconds to a
+    minute</description> 
+    <meshUid>D008570</meshUid>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>20</woext>
+    <name>Precategorical acoustic storage</name>
+    <parent>14</parent>
+    <type>ext</type>
+  </Ext>
+  
+  <Ext>
+    <woext>21</woext>
+    <name>Second language acquisition</name>
+    <type>ext</type>
+    <parent>7</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>22</woext>
+    <name>Object recognition</name>
+    <type>ext</type>
+    <Reference>
+      <pmid>10545400</pmid>
+      <authors>Christian Gerlach et al</authors>
+      <title>Perceptual differentiation and category effects in normal
+    object recognition: a PET study</title> 
+    </Reference>
+    <Reference>
+      <pmid>10545400</pmid>
+      <authors>Christian Gerlach et al</authors>
+      <title>Perceptual differentiation and category effects in normal
+      object recognition: a PET study</title> 
+    </Reference>
+    <parent>190</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>23</woext>
+    <name>Face recognition</name>
+    <description>Processing of face images</description>
+    <type>ext</type>
+    <parent>126</parent>
+  </Ext>
+
+  <Ext>
+    <woext>24</woext>
+    <name>Memory retrieval</name>
+    <description>Recall of previously stored memories</description>
+    <meshUid>D011939</meshUid>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>25</woext>
+    <name>Imagery and imagination</name>
+    <meshUid>D007092</meshUid>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>26</woext>
+    <name>Visual association</name>
+    <type>ext</type>
+    <parent>457</parent>
+    <parent>472</parent>
+  </Ext>
+
+  <Ext>
+    <woext>27</woext>
+    <name>Sexual arousal</name>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>28</woext>
+    <name>Motivation</name>
+    <meshUid>D009042</meshUid>
+    <type>ext</type>
+    <wikipedia>Motivation</wikipedia>
+  </Ext>
+
+  <Ext>
+    <woext>29</woext>
+    <name>Reading</name>
+    <description>Reading silent or aloud of written words or sentence
+    as letters or braille</description>
+    <meshUid>D011932</meshUid>
+    <type>ext</type>
+    <wikipedia>Reading (activity)</wikipedia>
+    <parent>7</parent>
+    <child>30</child>
+    <child>31</child>
+    <child>32</child>
+  </Ext>
+
+  <Ext>
+    <woext>30</woext>
+    <name>Word recognition</name>
+    <type>ext</type>
+    <Reference>
+      <pmid>9698579</pmid>
+      <authors>Terry L. Jernigan et al</authors>
+      <title>Brain activation during word identification and word
+      recognition</title> 
+    </Reference> 
+    <parent>317</parent>
+    <parent>190</parent>
+  </Ext>
+
+  <Ext>
+    <woext>31</woext>
+    <name>Sentence comprehension</name>
+    <type>ext</type>
+    <parent>142</parent>
+  </Ext>
+
+  <Ext> 
+    <woext>32</woext>
+    <name>Text comprehension</name>
+    <description>Understanding of written text</description>
+    <type>ext</type>
+    <parent>142</parent>
+  </Ext>
+
+  <Ext>
+    <woext>33</woext>
+    <name>Learning</name>
+    <meshUid>D007858</meshUid>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>34</woext>
+    <name>Category learning</name>
+    <type>ext</type>
+    <parent>33</parent>
+  </Ext>
+
+  <Ext>
+    <woext>35</woext>
+    <name>Anxiety</name>
+    <meshUid>D001007</meshUid>
+    <type>ext</type>
+    <wikipedia>Anxiety</wikipedia>
+    <parent>3</parent>
+    <parent>153</parent>
+    <parent>488</parent>
+    <parent>489</parent>
+  </Ext>
+
+  <Ext>
+    <woext>36</woext>
+    <name>Phobia</name>
+    <description>Phobic anxiety disorders</description>
+    <meshUid>D010698</meshUid>
+    <whoIcdTen>F40</whoIcdTen>
+    <type>ext</type>
+    <wikipedia>Phobia</wikipedia>
+    <parent>227</parent>
+  </Ext>
+
+  <Ext>
+    <woext>37</woext>
+    <name>Navigation</name>
+    <Reference>
+      <title>The retrosplenial contribution to human navigation: A
+      review of lesion and neuroimaging findings</title>
+      <author>Eleanor Maguire</author>
+      <journal>Scandinavian Journal of Psychology</journal>
+      <pmid>10088900</pmid>
+    </Reference>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>38</woext>
+    <name>Spatial navigation</name>
+    <type>ext</type>
+    <parent>37</parent>
+    <parent>555</parent>
+  </Ext>
+
+
+  <Ext>
+    <woext>39</woext>
+    <name>Non-spatial navigation</name>
+    <type>ext</type>
+    <parent>37</parent>
+  </Ext>
+
+  <Ext>
+    <woext>40</woext>
+    <name>Pain</name>
+    <description>An unpleasant experience that involves the conscious
+    awareness of noxious sensations, hurting and aversive feelings
+    associated with actual or potential tissue
+    damage. Algesia. Nociception</description>  
+    <meshUid>D010146</meshUid>
+    <type>ext</type>
+    <wikipedia>Pain</wikipedia>
+    <parent>17</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>41</woext>
+    <name>Cold pain</name>
+    <Reference>
+      <author>John W. Kimball</author>
+      <title>Heat, Cold, and Pain</title>
+      <url>http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/P/Pain.html</url>
+    </Reference>
+    <type>ext</type>
+    <parent>206</parent>
+    <parent>261</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>42</woext>
+    <name>Self-initiation</name>
+    <type>ext</type>
+  </Ext>
+  
+  <Ext>
+    <woext>43</woext>
+    <name>Dreaming</name>
+    <meshUid>D004325</meshUid>
+    <wikipedia>Dream</wikipedia>
+    <parent>25</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>44</woext>
+    <name>Phonological retrieval</name>
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>84</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>45</woext>
+    <name>Object naming</name>
+    <type>ext</type>
+    <child>22</child>
+  </Ext>
+
+  <Ext>
+    <woext>46</woext>
+    <name>Rhyme judgement</name>
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>550</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>47</woext>
+    <name>Prosody perception</name>
+    <description>The perception of the non-linguistic aspects of
+    language: rhythm and intonation in speech, 'voice quality', 'vocal
+    pitch contour and tempi'. Used in speaker identification and the
+    speaker emotional state</description> 
+    <Reference>
+      <pmid>9295122</pmid>
+      <brainMapId>273</brainMapId>
+      <authors>Imaizumi</authors>
+      <year>1997</year>
+      <title>Vocal identifcation of speaker and emotion activates
+      different brain regions</title>
+    </Reference>
+    <parent>7</parent>
+    <parent>14</parent>
+    <parent>63</parent>
+    <parent>168</parent>
+    <parent>216</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>48</woext>
+    <name>Speaker identification</name>
+    <Reference>
+      <pmid>9295122</pmid>
+      <brainMapId>273</brainMapId>
+      <authors>Imaizumi</authors>
+      <year>1997</year>
+      <title>Vocal identification of speaker and emotion activates
+      different brain regions</title>
+    </Reference>
+    <parent>168</parent>
+  </Ext>
+
+  <Ext>
+    <woext>49</woext>
+    <name>Episodic memory</name>
+    <description>A type of memory associated with 'time stamped'
+    events and episodes, eg, autobiographical memory. Contrary to
+    semantic and procedural memory</description>
+    <Reference>
+      <author>Tulving</author>
+      <year>1972</year>
+    </Reference>
+    <Reference>
+      <pmid>9295098</pmid>
+      <authors>Busatto</authors>
+      <title>A functional magnetic resonance imaging study of episodic
+      memory</title> 
+    </Reference>
+    <parent>9</parent>
+    <parent>112</parent>
+    <parent>319</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>50</woext>
+    <name>Phonetic processing</name>
+    <description>Processing of phonemes either for perception or for
+    production of words.</description>
+    <Reference>
+      <pmid>10864231</pmid>
+      <authors>Tervaniemi</authors>
+      <year>2000</year>
+      <title>Lateralized Automatic Sound Precessing</title>
+    </Reference> 
+    <parent>7</parent>
+  </Ext>
+
+  <Ext>
+    <woext>51</woext>
+    <name>Musical information processing</name>
+    <parent>11</parent>
+  </Ext>
+
+  <Ext>
+    <woext>52</woext>
+    <name>Musical chord processing</name>
+    <Reference>
+      <pmid>10864231</pmid>
+      <authors>Tervaniemi</authors> 
+      <year>2000</year> 
+      <title>Lateralized Automatic Sound Precessing</title>
+    </Reference> 
+    <parent>51</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>53</woext>
+    <name>Obsessive compulsive disorder</name>
+    <description>A psychiatry disorder characterized my repetitive
+    stereotyped behaviours behaviors such as washing (compultions) and
+    recurrent obsessional thoughts.</description>
+    <meshUid>D009771</meshUid>
+    <whoIcdTen>F42</whoIcdTen>
+    <wikipedia>Obsessive-compulsive disorder</wikipedia>
+    <Reference>
+      <authors>Marazziti D, Akiskal HS, Rossi A, Cassano GB.</authors>
+      <title>Alteration of the platelet serotonin transporter in
+      romantic love</title>
+      <pmid>10405096</pmid>
+    </Reference>
+    <Reference>
+      <authors>Elsebet Steno Hansen, Steen Hasselbalch, Ian Law, Tom
+	G. Bolwig</authors>
+      <title>The caudate nucleus in obsessive-compulsive
+	disorder. Reduced metabolism following treatment with
+	paroxetine: a PET study</title>
+      <pmid>12057027</pmid>
+    </Reference>
+    <parent>227</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>54</woext>
+    <name>Romantic love</name>
+    <meshUid>D008149</meshUid>
+    <Reference>
+      <authors>Marazziti D, Akiskal HS, Rossi A, Cassano GB.</authors>
+      <title>Alteration of the platelet serotonin transporter in
+      romantic love</title>
+      <pmid>10405096</pmid>
+    </Reference>
+    <wikipedia>Romantic love</wikipedia>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>55</woext>
+    <name>Micturition</name>
+    <Reference>
+      <pmid>10734009</pmid>
+      <authors>Sam Nour et al.</authors>
+      <title>Cerebral activation during micturition in normal
+      men</title> 
+    </Reference> 
+    <wikipedia>Urination</wikipedia>
+  </Ext>
+
+  <Ext>
+    <woext>56</woext>
+    <name>Saccadic eye movements</name>
+    <description>Eye movements where the direction of gaze is changed
+    suddenly, - as opposed to smooth eye movements.</description>
+    <meshUid>D012438</meshUid>
+    <Reference>
+      <pmid>9401596</pmid>
+      <Author>
+	<name>Ian Law</name>
+	<woper>9</woper>
+      </Author>
+      <title>The activation pattern in normal humans during
+      suppression, imagination and performance of saccadic eye
+      movements</title> 
+      <journal>Acta Physiol Scand</journal>
+      <year>1997</year>
+      <month>November</month>
+      <volume>161</volume>
+      <number>3</number>
+      <pages>419-434</pages>
+    </Reference> 
+    <wikipedia>Saccade</wikipedia>
+    <parent>150</parent>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>57</woext>
+    <name>Self-generated eye movements</name>
+    <reference>Ian Law et al: 'Parieto-occipital cortex activation
+    during self-generated eye movements in the dark'</reference>
+    <parent>56</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>58</woext>
+    <name>Religion</name>
+    <Reference>
+      <pmid>2258366</pmid>
+      <authors>B. A. Fallon et al</authors>
+      <title>The pharmacotherapy of moral or religious
+      scrupulosity</title> 
+    </Reference> 
+    <wikipedia>Religion</wikipedia>
+  </Ext>
+
+  <Ext>
+    <woext>59</woext>
+    <name>Self-mutilation</name>
+    <description>Self-destruction or oedipism</description>
+    <Reference>
+      <pmid>8081352</pmid>
+      <authors>Waldfogel S, Field HL, Wu L</authors>
+      <title>Oedipism in a patient with frontal lobe
+      encephalomalacia</title> 
+    </Reference> 
+  </Ext>
+  
+
+  <Ext>
+    <woext>60</woext>
+    <name>Word identification</name>
+    <Reference>
+      <pmid>9698579</pmid>
+      <authors>Terry L. Jernigan et al</authors>
+      <title>Brain activation during word identification and word
+      recognition</title>  
+    </Reference> 
+    <parent>7</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>61</woext>
+    <name>Allesthesia</name>
+    <description>Confusing events in the neglected side to be in the 
+    other side. More generally: Confusing a sensation to be on a
+    remote part of the body from the actual affected
+    area</description>  
+    <parent>83</parent>
+    <parent>209</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>62</woext>
+    <name>Productive language</name>
+    <description>By Cannestra attributed to the Broca's area as
+    opposed to the receptive area attributed to Wernicke's
+    area.</description> 
+    <Reference>
+      <pmid>10875901</pmid>
+      <authors>Cannestra et al</authors>
+      <title>Temporal and topographical characterization of language
+      cortices using intraoperative optical intrinsic signals</title> 
+    </Reference> 
+    <parent>7</parent>
+    <sibling>63</sibling>
+  </Ext>
+
+  <Ext>
+    <woext>63</woext>
+    <name>Receptive language</name>
+    <Reference>
+      <pmid>10875901</pmid>
+      <authors>Cannestra et al</authors>
+      <title>Temporal and topographical characterization of language
+      cortices using intraoperative optical intrinsic signals</title> 
+    </Reference> 
+    <parent>7</parent>
+  </Ext>
+
+  <Ext>
+    <woext>64</woext>
+    <name>Syntactic processing</name>
+    <description>Often attributed to be in Broca's area</description>
+    <Reference>
+      <pmid>10811887</pmid>
+      <authors>D. Embick</authors>
+      <title>A syntactic specialization for Broca's area</title>
+    </Reference> 
+    <parent>7</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>65</woext>
+    <name>Set shifting</name>
+    <description>Switching between tasks. (BA 45/44)</description>
+    <reference>Konishi et al, 1998, 2001</reference>
+    <parent>143</parent>
+  </Ext>
+
+  <Ext>
+    <woext>66</woext>
+    <name>Sensation seeking</name>
+    <description>Personality trait measured, e.g., in the Sensation
+    Seeking Scale (SSS) of Zuckerman. 'Disinhibition' and 'boredom
+    susceptibility', 'thrill and adventure seeking' and 'experience
+    seeking' are subcomponents for sensation seeking in the Zuckerman
+    inventory. Maybe taken to be the same as
+    'excitement-seeking'.</description>  
+    <keyword>Sensation seeking scale</keyword>
+    <Reference>
+      <pmid>11127418</pmid>
+      <title>Greater sensitivity to subjective effects of nicotine in
+      nonsmokers high in sensation seeking</title> 
+    </Reference>
+    <Reference>
+      <pmid>9858032</pmid>
+      <title>Impulse-control disorders in alcoholics are related to
+      sensation seeking and not to impulsivity</title> 
+    </Reference> 
+    <Reference>
+      <title>Findings on Happiness and Sensation seeking</title>
+      <url>http://www2.eur.nl/fsw/research/happiness/hap_cor/reports/Subject/SD3877.HTM</url>
+    </Reference>
+    <parent>81</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>67</woext>
+    <name>Impulsivity</name>
+    <description>Impulsivity as a personality trait. Impulsiveness is
+    a subcomponent within the 'neuroticism' personality
+    trait.</description> 
+    <keyword>Barratt Impulsiveness Rating Scale (BIS)</keyword> 
+    <parent>81</parent>
+    <parent>511</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>68</woext>
+    <name>Musical syntax</name>
+    <Reference>
+      <pmid>11319564</pmid>
+      <author>B. Maess</author>
+      <author>S. Koelsch</author>
+      <author>T. C. Gunter</author>
+      <author>A. D. Friederici</author>
+      <title>Musical syntax is processed in Broca's area: an MEG
+      study</title> 
+    </Reference>
+    <parent>51</parent>
+  </Ext>
+
+  <Ext>
+    <woext>69</woext>
+    <name>Hot pain</name>
+    <description>Pain from heating</description>
+    <Reference>
+      <author>John W. Kimball</author>
+      <title>Heat, Cold, and Pain</title>
+      <url>http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/P/Pain.html</url>
+    </Reference>
+    <type>ext</type>
+    <parent>261</parent>
+    <parent>207</parent>
+    <sibling>41</sibling>
+  </Ext>
+  
+  <Ext>
+    <woext>70</woext>
+    <name>Headache</name>
+    <description>Pain in the head</description>
+    <meshUid>D006261</meshUid>
+    <type>ext</type>
+    <wikipedia>Headache</wikipedia>
+    <parent>40</parent>
+  </Ext>
+
+  <Ext>
+    <woext>71</woext>
+    <name>Cloninger's temperament and character inventory (TCI)</name>
+    <Reference>
+      <author>Cloninger</author>
+    </Reference>
+    <type>ext</type>
+    <parent>81</parent>
+  </Ext>
+
+  <Ext>
+    <woext>72</woext>
+    <name>Harm avoidance</name>
+    <description>Personality trait where there 'is a tendency to
+    respond intensely to aversive stimuli and to learn to avoid
+    punishment, novelty, and nonreward passively and is assumed to be
+    correlated with high serotonergic acticity' (Surgiura). Pujol et
+    al found that harm avoidance correlated with size of right
+    anterior cingulate gyrus</description> 
+    <Reference>
+      <authors>Motoaki  Sugiura; Ryuta  Kawashima; Manabu  Nakagawa;
+      Ken  Okada; Tachio  Sato; Ryoi  Goto; Kazunori  Sato; Shuichi
+      Ono; Torsten  Schormann; Karl  Zilles; Hiroshi  Fukuda</authors> 
+      <title>Correlation between Human Personality and Neural Activity
+      in Cerebral Cortex</title>
+      <journal>NeuroImage</journal>
+      <number>5</number>
+      <pages>541-546</pages>
+      <pmid>10806039</pmid>
+      <volume>11</volume>
+      <year>2000</year>
+    </Reference>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>73</woext>
+    <name>Novelty seeking</name>
+    <description>A personality trait where there there is a 'tendency
+    toward frequent exploratory activity and intense excitement in
+    responose to novel stimuli and is assumed to be correlated with
+    low basal dopaminergic activity' (Surgiura).</description>
+    <Reference>
+      <authors>Motoaki  Sugiura; Ryuta  Kawashima; Manabu  Nakagawa;
+      Ken  Okada; Tachio  Sato; Ryoi  Goto; Kazunori  Sato; Shuichi
+      Ono; Torsten  Schormann; Karl  Zilles; Hiroshi  Fukuda</authors> 
+      <title>Correlation between Human Personality and Neural Activity
+      in Cerebral Cortex</title>
+      <journal>NeuroImage</journal>
+      <number>5</number>
+      <pages>541-546</pages>
+      <pmid>10806039</pmid>
+      <volume>11</volume>
+      <year>2000</year>
+    </Reference>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+
+  <Ext>
+    <woext>74</woext>
+    <name>Reward dependence</name>
+    <description>A personality trait  where there 'is a tendency to
+    respond intensely to rewrd and sucorance and to maintain rewarded
+    behavior and is assumed to be correlated with low basal
+    noradrenergic activity' (Surgiura)</description>
+    <Reference>
+      <authors>Motoaki  Sugiura; Ryuta  Kawashima; Manabu  Nakagawa;
+      Ken  Okada; Tachio  Sato; Ryoi  Goto; Kazunori  Sato; Shuichi
+      Ono; Torsten  Schormann; Karl  Zilles; Hiroshi  Fukuda</authors> 
+      <title>Correlation between Human Personality and Neural Activity
+      in Cerebral Cortex</title>
+      <journal>NeuroImage</journal>
+      <number>5</number>
+      <pages>541-546</pages>
+      <pmid>10806039</pmid>
+      <volume>11</volume>
+      <year>2000</year>
+    </Reference>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+
+  <Ext>
+    <woext>75</woext>
+    <name>Persistence</name>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+
+  <Ext>
+    <woext>76</woext>
+    <name>Self-directedness</name>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+
+  <Ext>
+    <woext>77</woext>
+    <name>Cooperativeness</name>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+
+  <Ext>
+    <woext>78</woext>
+    <name>Self-transcedence</name>
+    <type>ext</type>
+    <parent>71</parent>
+  </Ext>
+
+  <Ext>
+    <woext>79</woext>
+    <name>Disease</name>
+    <description>Diseases or disorders</description>
+    <type>ext</type>
+    <wikipedia>Disease</wikipedia>
+    <child>82</child>
+  </Ext>
+
+  <Ext>
+    <woext>80</woext>
+    <name>Agoraphobia</name>
+    <description>Fear of open places</description>
+    <meshUid>D000379</meshUid>
+    <type>ext</type>
+    <whoIcdTen>F40.0</whoIcdTen>
+    <wikipedia>Agoraphobia</wikipedia>
+    <parent>36</parent>
+  </Ext>
+
+  <Ext>
+    <woext>81</woext>
+    <name>Personality</name>
+    <meshUid>D010551</meshUid>
+    <type>ext</type>
+    <wikipedia>Personality psychology</wikipedia>
+    <parent>374</parent>
+  </Ext>
+
+  <Ext>
+    <woext>82</woext>
+    <name>Psychiatric disorder</name>
+    <type>ext</type>
+    <variation>Mental illness</variation>
+    <wikipedia>Mental illness</wikipedia>
+    <parent>79</parent>
+  </Ext>
+
+  <Ext>
+    <woext>83</woext>
+    <name>Neurological disorder</name>
+    <type>ext</type>
+    <wikipedia>Neurology</wikipedia>
+    <parent>79</parent>
+  </Ext>
+
+  <Ext>
+    <woext>84</woext>
+    <name>Word production</name>
+    <type>ext</type>
+    <reference>Peter Indefrey et al., The Neural Correlates of
+    Language Production, In M. Gazzaniga, figure 59.2</reference>  
+    <parent>62</parent>
+  </Ext>
+
+  <Ext>
+    <woext>85</woext>
+    <name>Articulation</name>
+    <type>ext</type>
+    <parent>84</parent>
+    <parent>13</parent>
+  </Ext>
+
+  <Ext>
+    <woext>86</woext>
+    <name>Phonetic encoding</name>
+    <description>Levelt's core process in word production from
+    phonological word to gestural score</description> 
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>84</parent>
+  </Ext>
+
+  <Ext>
+    <woext>87</woext>
+    <name>Phonological encoding</name>
+    <description>Levelt's process from phonological code to
+    phonological word</description>
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>84</parent>
+  </Ext>
+
+  <Ext>
+    <woext>88</woext>
+    <name>Proprioception</name>
+    <description>The sense of posture and movement of joints</description>
+    <meshUid>D011434</meshUid>
+    <type>ext</type>
+    <wikipedia>Proprioception</wikipedia>
+    <parent>17</parent>
+  </Ext>
+
+  <Ext>
+    <woext>89</woext>
+    <name>Agraphia</name>
+    <description>Inability to write</description>
+    <meshUid>D000381</meshUid>
+    <type>ext</type>
+    <parent>128</parent>
+  </Ext>
+
+  <Ext>
+    <woext>90</woext>
+    <name>Alphabetic agraphia</name>
+    <description>Agraphia for alphabetic writing but not for, e.g., arabic numeral</description>
+    <reference>M. Delazer et al: When writing 0 (zero) is easier than writing O (o): a neuropsychological case study of agraphia, Neuropsychologia, 40:2167+</reference>
+    <type>ext</type>
+    <parent>89</parent>
+  </Ext>	
+
+  <Ext>
+    <woext>91</woext>
+    <name>Drug</name>
+  </Ext>
+
+  <Ext>
+    <woext>92</woext>
+    <name>Nitroglycerin</name>
+    <description>Produces cluster headache. Nitroglycerine is also
+    called, e.g., glyceryl trinitrate</description>
+    <casrn>55-63-0</casrn>
+    <meshUid>D005996</meshUid>
+    <type>ext</type>
+    <wikipedia>Nitroglycerin</wikipedia>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>93</woext>
+    <name>Capsaicin</name>
+    <casrn>404-86-4</casrn>
+    <description>Produces cluster headache</description>
+    <meshUid>D002211</meshUid>
+    <wikipedia>Capsaicin</wikipedia>
+    <parent>91</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>94</woext>
+    <name>Dobutamine</name>
+    <casrn>34368-04-2</casrn>
+    <description>Produces cardiac pain</description>
+    <type>ext</type>
+    <wikipedia>Dobutamine</wikipedia>
+    <parent>91</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>95</woext>
+    <name>Histamine</name>
+    <description>Pain inducer</description>
+    <casrn>51-45-6</casrn>
+    <meshUid>D006632</meshUid>
+    <type>ext</type>
+    <wikipedia>Histamine</wikipedia>
+    <parent>91</parent>
+    <parent>405</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>96</woext>
+    <name>Humphrey's object naming</name>
+    <description>3 Stage model of normal object naming by Humphreys et
+    al</description>
+    <reference>Gerlach C., 1999</reference>
+    <type>ext</type>
+    <parent>45</parent>
+  </Ext>
+
+  <Ext>
+    <woext>97</woext>
+    <name>Structural stage</name>
+    <description>Structural stage of Humphrey's object
+    naming as the first stage where the object form is represented</description>
+    <reference>Gerlach C., 1999</reference>
+    <type>ext</type>
+    <parent>96</parent>
+  </Ext>
+
+  <Ext>
+    <woext>98</woext>
+    <name>Semantic stage</name>
+    <description>Semantic stage of Humphrey's object
+    naming second stage where the object is associated with
+    functional/associative knowledge</description>
+    <reference>Gerlach C., 1999</reference>
+    <type>ext</type>
+    <parent>96</parent>
+  </Ext>
+
+  <Ext>
+    <woext>99</woext>
+    <name>Phonological stage</name>
+    <description>Phonological stage in Humprey's object
+    naming as the third stage where the object is associated with a
+    name</description> 
+    <reference>Gerlach C., 1999</reference>
+    <type>ext</type>
+    <parent>96</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>100</woext>
+    <name>Visual motion</name>
+    <description>Real or apparent visual motion</description>
+    <meshUid>D009039</meshUid>
+    <type>ext</type>
+    <parent>18</parent>
+    <parent>132</parent>
+  </Ext>
+
+  <Ext>
+    <woext>101</woext>
+    <name>Biological visual motion</name>
+    <description>Visual motion resembling motion performed by an animal,
+    e.g., a human karate kick.</description>
+    <reference>Grossman et al 2000, J Cogn Neurosci</reference>
+    <type>ext</type>
+    <parent>100</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>102</woext>
+    <name>Kinetic boundaries</name>
+    <description>Edges in images formed by incoherent visual motion,
+    e.g., motion in two different directions in two separate areas of
+    an image</description>
+    <type>ext</type>
+    <parent>100</parent>
+    <parent>200</parent>
+  </Ext>
+
+  <Ext>
+    <woext>103</woext>
+    <name>Coherent visual motion</name>
+    <type>ext</type>
+    <parent>100</parent>
+  </Ext>
+
+  <Ext>
+    <woext>104</woext>
+    <name>3D surface shape from motion parallax</name>
+    <type>ext</type>
+    <parent>100</parent>
+  </Ext>
+
+  <Ext>
+    <woext>105</woext>
+    <name>Conscious state</name>
+    <type>ext</type>
+    <parent>307</parent>
+  </Ext>
+
+  <Ext>
+    <woext>106</woext>
+    <name>Relaxed conscious state</name>
+    <type>ext</type>
+    <parent>105</parent>
+  </Ext>
+
+  <Ext>
+    <woext>107</woext>
+    <name>Normal resting consciousness</name>
+    <type>ext</type>
+    <parent>106</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>108</woext>
+    <name>Relaxation meditation</name>
+    <type>ext</type>
+    <parent>106</parent>
+  </Ext>
+
+  <Ext>
+    <woext>109</woext>
+    <name>Episodic memory retrieval</name>
+    <description>Retrieval of memories of a kind as, e.g., 'I was in
+    Leipzig in 2000'</description> 
+    <type>ext</type>
+    <parent>24</parent>
+    <parent>49</parent>
+  </Ext>
+
+  <Ext>
+    <woext>110</woext>
+    <name>Time-context-specific memory</name>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>111</woext>
+    <name>Time-context specific memory recall</name>
+    <type>ext</type>
+    <parent>110</parent>
+    <parent>24</parent>
+  </Ext>
+
+  <Ext>
+    <woext>112</woext>
+    <name>Long-term memory</name>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>113</woext>
+    <name>Amnesia</name>
+    <description>Pathological inability to form new or recall
+    memories</description> 
+    <meshUid>D000647</meshUid>
+    <type>ext</type>
+    <wikipedia>Amnesia</wikipedia>
+    <parent>9</parent>
+    <parent>79</parent>
+  </Ext>
+
+  <Ext>
+    <woext>114</woext>
+    <name>Retrograde amnesia</name>
+    <meshUid>D000648</meshUid>
+    <type>ext</type>
+    <parent>113</parent>
+  </Ext>
+
+  <Ext>
+    <woext>115</woext>
+    <name>Anterograde amnesia</name>
+    <description>Inability to remember new events</description>
+    <meshUid>D020324</meshUid>
+    <type>ext</type>
+    <parent>113</parent>
+  </Ext>
+
+  <Ext>
+    <woext>116</woext>
+    <name>Person-context-specific memory</name>
+    <description>Remembering with respect to a person, eg, who said
+    what</description> 
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>117</woext>
+    <name>Person-context-specific memory recall</name>
+    <type>ext</type>
+    <parent>116</parent>
+    <parent>24</parent>
+  </Ext>
+
+  <Ext>
+    <woext>118</woext>
+    <name>Comprehension of artefacts</name>
+    <type>ext</type>
+    <parent>123</parent>
+    <parent>142</parent>
+  </Ext>
+
+  <Ext>
+    <woext>119</woext>
+    <name>Action knowledge for artefact comprehension</name>
+    <description>Motor-based knowledge of object
+    utilization for comprehension of artefacts</description>
+    <reference>Gerlach et al., 2002</reference>
+    <type>ext</type>
+    <parent>118</parent>
+    <parent>120</parent>
+  </Ext>
+
+  <Ext>
+    <woext>120</woext>
+    <name>Action knowledge</name>
+    <description>Motor-based knowledge of object
+    utilization</description>
+    <reference>Gerlach et al., 2002, p. 143</reference>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>121</woext>
+    <name>Semantic knowledge for artefact comprehension</name>
+    <description>Objects function and inter object association</description>
+    <reference>Gerlach et al., 2002, p. 143 footnote</reference>
+    <type>ext</type>
+    <parent>118</parent>
+    <parent>548</parent>
+  </Ext>
+
+  <Ext>
+    <woext>122</woext>
+    <name>Objects (processing)</name>
+    <type>ext</type>
+    <child>22</child>
+    <child>45</child>
+  </Ext>
+
+  <Ext>
+    <woext>123</woext>
+    <name>Artefact objects</name>
+    <description>Man-made objects such as cigar, hammer, boat, umbrella
+    windmill, bell, church, motor cycle. These objects are often
+    manipulated</description> 
+    <type>ext</type>
+    <parent>122</parent>
+  </Ext>
+
+  <Ext>
+    <woext>124</woext>
+    <name>Natural objects</name>
+    <description>Objects such as an animal</description>
+    <type>ext</type>
+    <parent>122</parent>
+  </Ext>
+
+  <Ext>
+    <woext>125</woext>
+    <name>Object categorization</name>
+    <type>ext</type>
+    <child>22</child>
+    <parent>122</parent>
+    <parent>467</parent>
+  </Ext>
+
+  <Ext>
+    <woext>126</woext>
+    <name>Visual object recognition</name>
+    <type>ext</type>
+    <parent>18</parent>
+    <parent>22</parent>
+    <parent>470</parent>
+  </Ext>
+
+  <Ext>
+    <woext>127</woext>
+    <name>Phonological agraphia</name>
+    <description>Condition with loss or impairment of ability to write
+    nonwords, but not words or oral repetition of words or
+    nonwords</description>
+    <reference>Kim HJ et al., Arch Neurol, 2002, </reference>
+    <type>ext</type>
+    <parent>89</parent>
+  </Ext>
+
+  <Ext>
+    <woext>128</woext>
+    <name>Language disorders</name>
+    <meshUid>D007806</meshUid>
+    <parent>7</parent>
+    <parent>79</parent>
+  </Ext>
+
+  <Ext>
+    <woext>129</woext>
+    <name>Artefact object categorization</name>
+    <parent>123</parent>
+    <parent>125</parent>
+  </Ext>
+
+  <Ext>
+    <woext>130</woext>
+    <name>Visual artefact object categorization</name>
+    <parent>129</parent>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>131</woext>
+    <name>Kinesthesis</name>
+    <description>Sense of bodily (muscular) motion</description>
+    <meshUid>D007699</meshUid>
+    <parent>88</parent>
+    <parent>132</parent>
+  </Ext>
+
+  <Ext>
+    <woext>132</woext>
+    <name>Motion perception</name>
+    <description>E.g., visual or proprioceptive motion</description>
+    <parent>5</parent>
+    <parent>538</parent>
+  </Ext>
+
+  <Ext>
+    <woext>133</woext>
+    <name>Fixation</name>
+    <description>Fixation, e.g., on a neutral item in the middle of a
+    computer screen. This state is often used as baseline</description>
+    <type>ext</type>
+    <parent>106</parent>
+  </Ext>
+
+  <Ext>
+    <woext>134</woext>
+    <name>Explicit memory</name>
+    <description>Memory involving conscious recollection or
+    encoding, contrary or implicit memory</description>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>135</woext>
+    <name>Implicit memory</name>
+    <description>Memory involving unconscious recollection or
+    encoding, contrary to explicit</description> 
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>136</woext>
+    <name>Visual word recognition</name>
+    <description>Recognition by means of vision of groups of letters
+    in orthographic representation as a perceptual whole. The left
+    fusiform gyrus - 'visual word form 
+    area' (VWFA) is thought to be specialized for this
+    function.</description>  
+    <Reference>
+      <authors>Bruce D. McCandliss; Laurent Cohen; Stanislas
+    Dehaene</authors> 
+      <title>The visual word form area: expertise for reading in the
+    fusiform gyrus</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>7</number>
+    </Reference>
+    <Reference>
+      <authors>Cathy J. Price; J. T. Devlin</authors>
+      <title>The myth of the visual word form areas</title>
+      <journal>NeuroImage</journal>
+      <volume>19</volume>
+      <number>3</number>
+      <pages>473-481</pages>
+      <pmid>12880781</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>30</parent>
+    <parent>126</parent>
+  </Ext>
+
+  <Ext>
+    <woext>137</woext>
+    <name>Visual letter recognition</name>
+    <description>Recognition of written/printed individual letters by
+    means of vision</description>
+    <type>ext</type>
+    <parent>126</parent>
+    <parent>136</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>138</woext>
+    <name>Visually degraded word recognition</name>
+    <reference>E. K. Warrington and L. Weiskrantz: 'Amnesic Syndrome:
+    Consolidation or retrieval'. Nature, 1970, 228, 628-630.</reference>
+    <type>ext</type>
+    <parent>136</parent>
+  </Ext>
+
+  <Ext>
+    <woext>139</woext>
+    <name>Deception</name>
+    <meshUid>D008192</meshUid>
+    <type>ext</type>
+    <wikipedia>Deception</wikipedia>
+    <parent>141</parent>
+    <parent>361</parent>
+  </Ext>
+
+  <Ext>
+    <woext>140</woext>
+    <name>Feigh memory impairment</name>
+    <type>ext</type>
+    <parent>139</parent>
+  </Ext>
+
+  <Ext>
+    <woext>141</woext>
+    <name>Social behavior</name>
+    <meshUid>D012919</meshUid>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>142</woext>
+    <name>Comprehension</name>
+    <meshUid>D032882</meshUid>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>143</woext>
+    <name>Executive control process</name>
+    <description>Higher order cognitive process that is thought to
+    switch between and maintain sets of lower order cognitive
+    process</description> 
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>144</woext>
+    <name>Set maintenance</name>
+    <type>ext</type>
+    <parent>143</parent>
+  </Ext>
+    
+  <Ext>
+    <woext>145</woext>
+    <name>Response selection</name>
+    <type>ext</type>
+    <parent>143</parent>
+    <parent>147</parent>
+  </Ext>
+
+  <Ext>
+    <woext>146</woext>
+    <name>Inhibition of competing task</name>
+    <type>ext</type>
+    <parent>143</parent>
+  </Ext>
+
+  <Ext>
+    <woext>147</woext>
+    <name>Decision making</name>
+    <meshUid>D003657</meshUid>
+    <type>ext</type>
+  </Ext>
+    
+  <Ext>
+    <woext>148</woext>
+    <name>Strategy switching in the presence of obstacles</name>
+    <type>ext</type>
+    <parent>65</parent>
+  </Ext>
+
+  <Ext>
+    <woext>149</woext>
+    <name>Locomotion</name>
+    <description>Movement of the whole body from one place to an
+    other</description>
+    <meshUid>D008124</meshUid>
+    <type>ext</type>
+    <parent>4</parent>
+  </Ext>
+
+  <Ext>
+    <woext>150</woext>
+    <name>Eye movement</name>
+    <meshUid>D005133</meshUid>
+    <type>ext</type>
+    <parent>4</parent>
+    <parent>266</parent>
+  </Ext>
+
+  <Ext>
+    <woext>151</woext>
+    <name>Virtual locomotion</name>
+    <description>Movement of the whole body from one place to an
+    other, not in reality but, e.g., in a virtual
+    environment</description>
+    <type>ext</type>
+    <parent>149</parent>
+  </Ext>
+
+  <Ext>
+    <woext>152</woext>
+    <name>Pleasantness</name>
+    <description>A positive emotional state. Associated with
+    'appetitive motivational system'</description>
+    <type>ext</type>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>153</woext>
+    <name>Unpleasantness</name>
+    <description>A negative emotional state. Associated with an
+    aversive motivational system</description>
+    <type>ext</type>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>154</woext>
+    <name>Response competition</name>
+    <parent>143</parent>
+  </Ext>
+
+  <Ext>
+    <woext>155</woext>
+    <name>Apraxia</name>
+    <description>Psychomotoric disorder in which motor control of hand and
+    object recognition are intact but with loss of object manipulation
+    ability and actions such as dressing.</description>
+    <parent>79</parent>
+    <type>ext</type>
+    <wikipedia>Apraxia</wikipedia>
+    <meshUid>D001072</meshUid>
+  </Ext>
+
+  <Ext>
+    <woext>156</woext>
+    <name>Ideomotoric apraxia</name>
+    <parent>155</parent>
+    <type>ext</type>
+    <meshUid>D020240</meshUid>
+  </Ext>
+
+  <Ext>
+    <woext>157</woext>
+    <name>Ideational apraxia</name>
+    <type>ext</type>
+    <parent>155</parent>
+  </Ext>
+
+  <Ext>
+    <woext>158</woext>
+    <name>Anomia</name>
+    <description>Inability in object naming associated with temporal
+    lobe damage in the left (language dominant)
+    hemisphere</description>
+    <meshUid>D000849</meshUid>
+    <type>ext</type>
+    <wikipedia>Nominal aphasia</wikipedia>
+    <parent>128</parent>
+    <parent>45</parent>
+  </Ext>
+
+  <Ext>
+    <woext>159</woext>
+    <name>Dyslexia</name>
+    <description>Impairment in reading ability</description>
+    <meshUid>D004410</meshUid>
+    <type>ext</type>
+    <wikipedia>Dyslexia</wikipedia>
+    <parent>128</parent>
+  </Ext>
+
+  <Ext>
+    <woext>160</woext>
+    <name>Face naming</name>
+    <description>Naming of Face</description>
+    <reference>Tsukiura et at, 2002</reference>
+    <type>ext</type>
+    <parent>45</parent>
+  </Ext>
+
+  <Ext>
+    <woext>161</woext>
+    <name>Animal naming</name>
+    <type>ext</type>
+    <parent>45</parent>
+  </Ext>
+
+  <Ext>
+    <woext>162</woext>
+    <name>Tool naming</name>
+    <type>ext</type>
+    <parent>45</parent>
+  </Ext>
+
+  <Ext>
+    <woext>163</woext>
+    <name>Personal name anomia</name>
+    <reference>Fery P, Vincent E, Bredart S., 1995, PMID:
+    7781316</reference> 
+    <type>ext</type>
+    <parent>160</parent>
+    <parent>164</parent>
+  </Ext>
+
+  <Ext>
+    <woext>164</woext>
+    <name>Proper name anomia</name>
+    <description>Anomia subtype with specific impairment for naming,
+    e.g., personal names and company names</description>
+    <reference>McKenna P, Warrington EK., 1980, PMID: 7420102</reference>
+    <type>ext</type>
+    <parent>158</parent>
+  </Ext>
+
+  <Ext>
+    <woext>165</woext>
+    <name>Speech disorder</name>
+    <description>Impairment or inability to comprehend or generate
+    spoken language</description>
+    <meshUid>D013064</meshUid>
+    <type>ext</type>
+    <parent>128</parent>
+    <parent>215</parent>
+  </Ext>
+
+  <Ext>
+    <woext>166</woext>
+    <name>Unfamiliar face naming</name>
+    <type>ext</type>
+    <parent>160</parent>
+    <parent>280</parent>
+  </Ext>
+
+  <Ext>
+    <woext>167</woext>
+    <name>Voice</name>
+    <description>Generation or perception of human vocal
+    sounds. These sounds might be in a linguistic (speech) or
+    non-linguistic context (e.g., laughing)</description> 
+    <type>ext</type>
+    <meshUid>D014831</meshUid>
+  </Ext>
+
+  <Ext>
+    <woext>168</woext>
+    <name>Voice perception</name>
+    <description>Perception and processing of human vocal
+    sounds</description> 
+    <type>ext</type>
+    <parent>167</parent>
+    <parent>14</parent>
+  </Ext>
+
+  <Ext>
+    <woext>169</woext>
+    <name>Imitative behavior</name>
+    <description>Duplicating/mimicking the behavior by watching or
+    hearing</description> 
+    <meshUid>D007100</meshUid>
+    <type>ext</type>
+    <variation>Imitation</variation>
+    <wikipedia>Imitation</wikipedia>
+    <parent>361</parent>
+  </Ext>
+
+  <Ext>
+    <woext>170</woext>
+    <name>Gesture imitation</name>
+    <description>Posture perception and transformation of perceived
+    idea to own body movement. Impaired in apraxia.</description>
+    <type>ext</type>
+    <parent>169</parent>
+  </Ext>
+
+  <Ext>
+    <woext>171</woext>
+    <name>Finger configuration imitation</name>
+    <type>ext</type>
+    <parent>170</parent>
+  </Ext>
+
+  <Ext>
+    <woext>172</woext>
+    <name>Symbolic finger configuration imitation</name>
+    <type>ext</type>
+    <parent>171</parent>
+  </Ext>
+
+  <Ext>
+    <woext>173</woext>
+    <name>Non-symbolic finger configuration imitation</name>
+    <type>ext</type>
+    <parent>171</parent>
+  </Ext>
+
+  <Ext>
+    <woext>174</woext>
+    <name>Joystick movement</name>
+    <type>ext</type>
+    <parent>175</parent>
+  </Ext>
+
+  <Ext>
+    <woext>175</woext>
+    <name>Tool use</name>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>176</woext>
+    <name>Cursor movement with joystick</name>
+    <description>Movement with, e.g., the hand, of a joystick (or
+    stylus) resulting in a movement of a cursor on a computer
+    screen. With eye movement or without (fixation).</description>
+    <type>ext</type>
+    <parent>174</parent>
+    <parent>184</parent>
+  </Ext>
+
+  <Ext>
+    <woext>177</woext>
+    <name>Pursuit eye movement</name>
+    <type>ext</type>
+    <parent>150</parent>
+  </Ext>
+
+  <Ext>
+    <woext>178</woext>
+    <name>Smooth pursuit eye movement</name>
+    <type>ext</type>
+    <parent>177</parent>
+  </Ext>
+
+  <Ext>
+    <woext>179</woext>
+    <name>Catch up saccades</name>
+    <type>ext</type>
+    <parent>177</parent>
+    <parent>56</parent>
+  </Ext>
+
+  <Ext>
+    <woext>180</woext>
+    <name>Visually guided saccades</name>
+    <type>ext</type>
+    <parent>56</parent>
+  </Ext>
+
+  <Ext>
+    <woext>181</woext>
+    <name>Reasoning</name>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>182</woext>
+    <name>Deductive reasoning</name>
+    <type>ext</type>
+    <parent>181</parent>
+  </Ext>
+
+  <Ext>
+    <woext>183</woext>
+    <name>Probabilistic reasoning</name>
+    <type>ext</type>
+    <parent>181</parent>
+  </Ext>
+
+  <Ext>
+    <woext>184</woext>
+    <name>Hand movement</name>
+    <type>ext</type>
+    <parent>4</parent>
+    <parent>266</parent>
+  </Ext>
+
+  <Ext>
+    <woext>185</woext>
+    <name>Grasping</name>
+    <type>ext</type>
+    <parent>184</parent>
+  </Ext>
+
+  <Ext>
+    <woext>186</woext>
+    <name>Tonging</name>
+    <description>Handling (picking up, moving, grasping) with a pair
+    of tongs</description> 
+    <type>ext</type>
+    <parent>175</parent>
+    <parent>184</parent>
+  </Ext>
+
+  <Ext>
+    <woext>187</woext>
+    <name>Bupivacaine</name>
+    <description>Local anesthetic</description>
+    <casrn>2180-92-9</casrn>
+    <meshUid>D002045</meshUid>
+    <type>ext</type>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>188</woext>
+    <name>Action observation</name>
+    <description>Visual observation of motor acts</description>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>189</woext>
+    <name>Action observation for imitation</name>
+    <description>'The first step of imitation'</description>
+    <reference>Decety et al., 1997</reference>
+    <type>ext</type>
+    <parent>169</parent>
+    <parent>188</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>190</woext>
+    <name>Recognition</name>
+    <description>See recognition memory.</description>
+    <meshUid>D021641</meshUid>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>191</woext>
+    <name>Action observation for recognition</name>
+    <type>ext</type>
+    <parent>190</parent>
+    <parent>188</parent>
+  </Ext>
+
+  <Ext>
+    <woext>192</woext>
+    <name>Meaningful action observation</name>
+    <type>ext</type>
+    <parent>188</parent>
+  </Ext>
+
+  <Ext>
+    <woext>193</woext>
+    <name>Meaningless action observation</name>
+    <description>Visual observation of meaningless actions, such as
+    American Sign Language if they are not understood</description>
+    <type>ext</type>
+    <parent>188</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>194</woext>
+    <name>Awake resting with eyes closed</name>
+    <description>A conscious state often used as a baseline in human
+    brain mapping studies</description>
+    <type>ext</type>
+    <parent>106</parent>
+  </Ext>
+	
+  <Ext>
+    <woext>195</woext>
+    <name>Semantic knowledge retrieval</name>
+    <description>The process involved in, e.g., determining whether an
+    animal is found in the United States based on its
+    name</description>
+    <type>ext</type>
+    <parent>24</parent>
+    <parent>125</parent>
+    <parent>318</parent>
+  </Ext>
+
+  <Ext>
+    <woext>196</woext>
+    <name>Working memory</name>
+    <type>ext</type>
+    <wikipedia>Working memory</wikipedia>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>197</woext>
+    <name>Working memory manipulation</name>
+    <parent>196</parent>
+  </Ext>
+
+  <Ext>
+    <woext>198</woext>
+    <name>Working memory maintenance</name>
+    <description>Maintenance of stored items in the working
+    memory</description> 
+    <parent>196</parent>
+  </Ext>
+
+  <Ext>
+    <woext>199</woext>
+    <name>Working memory updating</name>
+    <description>Entering a new item in the working memory and
+    deleting an old one</description>
+    <reference>Cornette et al., (2001) The neural substrate of
+    orientation working memory</reference>
+    <parent>198</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>200</woext>
+    <name>Visual orientation</name>
+    <description>Perception and processing of lines and oriented
+    grating in visual perception</description> 
+    <type>ext</type>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>201</woext>
+    <name>Visual orientation memory updating</name>
+    <type>ext</type>
+    <parent>199</parent>
+    <parent>200</parent>
+    <parent>472</parent>
+  </Ext>
+
+  <Ext>
+    <woext>202</woext>
+    <name>Visual shape</name>
+    <description>Closely related to visual orientation</description>
+    <type>ext</type>
+    <parent>18</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>203</woext>
+    <name>Picture viewing of boy/girl friend</name>
+    <parent>27</parent>
+    <type>ext</type>
+    <parent>54</parent>
+  </Ext>
+
+  <Ext>
+    <woext>204</woext>
+    <name>Temperature sensation</name>
+    <description>Sensation of coldness, heat, hotness and
+    warmth. Mediated by C and A-delta fibers</description>
+    <meshUid>D013697</meshUid>
+    <Reference>
+      <author>John W. Kimball</author>
+      <title>Heat, Cold, and Pain</title>
+      <url>http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/P/Pain.html</url>
+    </Reference>
+    <type>ext</type>
+    <parent>17</parent>
+  </Ext>
+
+  <Ext>
+    <woext>205</woext>
+    <name>Touch</name>
+    <meshUid>D014110</meshUid>
+    <type>ext</type>
+    <wikipedia>Touch</wikipedia>
+    <parent>17</parent>
+  </Ext>
+
+  <Ext>
+    <woext>206</woext>
+    <name>Cold temperature sensation</name>
+    <Reference>
+      <author>John W. Kimball</author>
+      <title>Heat, Cold, and Pain</title>
+      <url>http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/P/Pain.html</url>
+    </Reference>
+    <type>ext</type>
+    <parent>204</parent>
+  </Ext>
+
+  <Ext>
+    <woext>207</woext>
+    <name>Warm temperature sensation</name>
+    <description>Warm temperature sensation occurs around 40 degrees
+    celcius. High temperature (45-50) will result in pain
+    sensation.</description>  
+    <Reference>
+      <author>John W. Kimball</author>
+      <title>Heat, Cold, and Pain</title>
+      <url>http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/P/Pain.html</url>
+    </Reference>
+    <type>ext</type>
+    <parent>204</parent>
+  </Ext>
+
+  <Ext>
+    <woext>208</woext>
+    <name>Spatial neglect</name>
+    <description>A perceptual, attentional or awareness disorder where,
+    e.g, the left visual field is not 'taken into account'</description>
+    <type>ext</type>
+    <parent>209</parent>
+  </Ext>
+
+  <Ext>
+    <woext>209</woext>
+    <name>Perceptual disorders</name>
+    <meshUid>D010468</meshUid>
+    <type>ext</type>
+    <parent>5</parent>
+    <parent>79</parent>
+  </Ext>
+
+  <Ext>
+    <woext>210</woext>
+    <name>Agnosia</name>
+    <description>Inability to recognize higher order perceptual
+    attributes (e.g., 'object', visual shape) despite sufficient
+    unaffected primary sensory system</description> 
+    <meshUid>D000377</meshUid>
+    <type>ext</type>
+    <wikipedia>Agnosia</wikipedia>
+    <parent>209</parent>
+  </Ext>
+
+  <Ext>
+    <woext>211</woext>
+    <name>Prosopagnosia</name>
+    <description>Faceblindness. Impairment in vision system for
+    recognizing faces</description> 
+    <meshUid>D020238</meshUid>
+    <type>ext</type>
+    <wikipedia>Prosopagnosia</wikipedia>
+    <parent>23</parent>
+    <parent>210</parent>
+  </Ext>
+
+  <Ext>
+    <woext>212</woext>
+    <name>Acalculia</name>
+    <description>Inability to make mathematical
+    operations</description> 
+    <type>ext</type>
+    <parent>8</parent>
+    <parent>79</parent>
+  </Ext>
+
+  <Ext>
+    <woext>213</woext>
+    <name>Attended pain</name>
+    <type>ext</type>
+    <parent>40</parent>
+  </Ext>
+
+  <Ext>
+    <woext>214</woext>
+    <name>Distracted pain</name>
+    <type>ext</type>
+    <parent>40</parent>
+  </Ext>
+
+  <Ext>
+    <woext>215</woext>
+    <name>Speech</name>
+    <description>Generation or perception of spoken
+    language</description>
+    <type>ext</type>
+    <parent>7</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>216</woext>
+    <name>Speech perception</name>
+    <description>Perception of spoken language</description>
+    <type>ext</type>
+    <parent>215</parent>
+    <parent>63</parent>
+  </Ext>
+
+  <Ext>
+    <woext>217</woext>
+    <name>Phoneme perception</name>
+    <type>ext</type>
+    <parent>14</parent>
+    <parent>50</parent>
+    <parent>216</parent>
+  </Ext>
+
+  <Ext>
+    <woext>218</woext>
+    <name>Chords perception</name>
+    <type>ext</type>
+    <parent>14</parent>
+    <parent>52</parent>
+  </Ext>
+
+  <Ext>
+    <woext>219</woext>
+    <name>Alzheimer's disease</name>
+    <description>A progressive disease with neurodegeneration
+    characterized by dementia and the formation of amyloid
+    plaques</description> 
+    <omim>104300</omim>
+    <type>ext</type>
+    <wikipedia>Alzheimer's disease</wikipedia>
+    <parent>83</parent>
+  </Ext>
+
+  <Ext>
+    <woext>220</woext>
+    <name>Chronic pain</name>
+    <description>Persistent pain</description>
+    <type>ext</type>
+    <parent>40</parent>
+  </Ext>
+
+  <Ext>
+    <woext>221</woext>
+    <name>Facial pain</name>
+    <meshUid>D005157</meshUid>
+    <type>ext</type>
+    <parent>40</parent>
+  </Ext>
+
+  <Ext>
+    <woext>222</woext>
+    <name>Facial Neuralgia</name>
+    <description>Facial pain</description>
+    <meshUid>D005156</meshUid>
+    <type>ext</type>
+    <parent>220</parent>
+    <parent>221</parent>
+  </Ext>
+
+  <Ext>
+    <woext>223</woext>
+    <name>Familiarity</name>
+    <description>Recognition without immediate associations to
+    context. 'Haven't I seen you some somewhere before?'</description> 
+    <Reference>
+      <authors>Michael D. Rugg; Andrew P. Yonelinas</authors>
+      <title>Human recognition memory: A cognitive neuroscience
+      perspective</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>7</number>
+      <pages>313-319</pages>
+    </Reference>
+    <type>ext</type>
+    <parent>315</parent>
+  </Ext>
+
+  <Ext>
+    <woext>224</woext>
+    <name>Emotional familiarity recognition</name>
+    <type>ext</type>
+    <parent>223</parent>
+  </Ext>
+
+  <Ext>
+    <woext>225</woext>
+    <name>Visuospatial attention</name>
+    <description>Focusing on certain parts or the visual field, e.g.,
+    by priming.</description>
+    <type>ext</type>
+    <parent>6</parent>
+    <parent>474</parent>
+  </Ext>
+
+  <Ext>
+    <woext>226</woext>
+    <name>Visuospatial expectancy</name>
+    <type>ext</type>
+    <parent>225</parent>
+  </Ext>
+
+  <Ext>
+    <woext>227</woext>
+    <name>Neurotic, stress and somatoform disorders</name>
+    <whoIcdTen>F4</whoIcdTen>
+    <type>ext</type>
+    <parent>82</parent>
+  </Ext>
+
+  <Ext>
+    <woext>228</woext>
+    <name>Severe stress reactions and adjustment disorders</name>
+    <whoIcdTen>F43</whoIcdTen>
+    <type>ext</type>
+    <parent>227</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>229</woext>
+    <name>Post-traumatic stress disorder</name>
+    <dsmIv>309.81</dsmIv>
+    <whoIcdTen>F43.1</whoIcdTen>
+    <type>ext</type>
+    <wikipedia>Post-traumatic stress disorder</wikipedia>
+    <parent>228</parent>
+  </Ext>
+
+  <Ext>
+    <woext>230</woext>
+    <name>Neurotransmitter receptor</name>
+    <description>A protein on the cell surface involved in
+    signaling to the neuron</description>  
+    <meshUid>D017981</meshUid>
+    <Reference>
+       <title>TiPS Receptor and Ion Channel Nomenclature Supplement
+       1999</title>
+       <authors>Steve Alexander, John Peters, Annette Mead, Siân
+       Lewis</authors>
+       <journal>Trends in Pharmacological Sciences</journal>
+    </Reference>
+    <type>ext</type>
+    <parent>381</parent>
+  </Ext>
+
+  <Ext>
+    <woext>231</woext>
+    <name>Amino acid receptor</name>
+    <meshUid>D017459</meshUid>
+    <neuronDbPr>219</neuronDbPr>
+    <Reference>
+      <url>http://senselab.med.yale.edu/senselab/NeuronDB/ndbpropin.asp?pr=219</url>
+      <title>SenseLab NeuronDB</title>
+    </Reference>
+    <type>ext</type>
+    <parent>230</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>232</woext>
+    <name>GABA receptor</name>
+    <meshUid>D018079</meshUid>
+    <neuronDbPr>213</neuronDbPr>
+    <type>ext</type>
+    <wikipedia>GABA receptor</wikipedia>
+    <parent>231</parent>
+  </Ext>
+
+  <Ext>
+    <woext>233</woext>
+    <name>GABA-A receptor</name>
+    <meshUid>D011963</meshUid>
+    <neuronDbPr>202</neuronDbPr>
+    <type>ext</type>
+    <parent>232</parent>
+  </Ext>
+
+  <Ext>
+    <woext>234</woext>
+    <name>BZ site GABA-A receptor</name>
+    <description>Benzodiazepine receptor</description>
+    <parent>233</parent>
+  </Ext>
+
+  <Ext>
+    <woext>235</woext>
+    <name>GABA site GABA-A receptor</name>
+    <type>ext</type>
+    <parent>233</parent>
+  </Ext>
+
+  <Ext>
+    <woext>236</woext>
+    <name>GABA-B receptor</name>
+    <meshUid>D018080</meshUid>
+    <neuronDbPr>203</neuronDbPr>
+    <type>ext</type>
+    <parent>232</parent>
+  </Ext>
+
+  <Ext>
+    <woext>237</woext>
+    <name>Glutamate receptor</name>
+    <meshUid>D017470</meshUid>
+    <neuronDbPr>212</neuronDbPr>
+    <Reference>
+      <url>http://senselab.med.yale.edu/senselab/NeuronDB/ndbpropin.asp?pr=212</url>
+      <title>Senselab NeuronDB</title>
+    </Reference>
+    <type>ext</type>
+    <wikipedia>Glutamate receptor</wikipedia>
+    <parent>231</parent>
+  </Ext>
+
+  <Ext>
+    <woext>238</woext>
+    <name>AMPA receptor</name>
+    <description>Glutamate is the neurotransmitter. Type 4TD. E (fast)
+    action</description>
+    <meshUid>D018091</meshUid>
+    <neuronDbPr>205</neuronDbPr>
+    <reference>Shepherd: Neurobiology, table 8.3</reference>
+    <type>ext</type>
+    <parent>237</parent>
+  </Ext>
+
+  <Ext>
+    <woext>239</woext>
+    <name>NMDA receptor</name>
+    <description>N-Methyl-D-Aspartate receptor. Glutamate is the
+    neurotransmitter. Type 4TD. E (fast) 
+    action</description>
+    <meshUid>D016194</meshUid>
+    <neuronDbPr>206</neuronDbPr>
+    <type>ext</type>
+    <parent>237</parent>
+  </Ext>
+
+  <Ext>
+    <woext>240</woext>
+    <name>Cholinergic receptor</name>
+    <meshUid>D011950</meshUid>
+    <neuronDbPr>218</neuronDbPr>
+    <type>ext</type>
+    <parent>230</parent>
+  </Ext>
+
+  <Ext>
+    <woext>241</woext>
+    <name>Monoamine receptor</name>
+    <neuronDbPr>211</neuronDbPr>
+    <type>ext</type>
+    <parent>230</parent>
+  </Ext>
+
+  <Ext>
+    <woext>242</woext>
+    <name>Dopaminergic receptor</name>
+    <meshUid>D011954</meshUid>
+    <neuronDbPr>223</neuronDbPr>
+    <Reference>
+      <url>http://senselab.med.yale.edu/senselab/NeuronDB/ndbpropin.asp?pr=223</url>
+      <title>SenseLab NeuroDB</title>
+    </Reference>
+    <type>ext</type>
+    <parent>252</parent>
+  </Ext>
+
+  <Ext>
+    <woext>243</woext>
+    <name>D1 receptor</name>
+    <description>DA neurotransmitter. Type 7TD. cAMP second
+    messenger. Increase action.</description>
+    <geneSymbol>DRD1</geneSymbol>
+    <meshUid>D017447</meshUid>
+    <neuronDbPr>196</neuronDbPr>
+    <reference>Shepherd: Neurobiology, table 8.3</reference>
+    <type>ext</type>
+    <parent>242</parent>
+    <parent>446</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>244</woext>
+    <name>D2 receptor</name>
+    <description>DA neurotransmitter. Type 7TD. cAMP second
+    messenger. Decrease action.</description>
+    <geneSymbol>DRD2</geneSymbol>
+    <meshUid>D017448</meshUid>
+    <neuronDbPr>197</neuronDbPr>
+    <reference>Shepherd: Neurobiology, table 8.3</reference>
+    <type>ext</type>
+    <parent>242</parent>
+    <parent>447</parent>
+    <parent>451</parent>
+  </Ext>
+
+  <Ext>
+    <woext>245</woext>
+    <name>Muscarinic receptor</name>
+    <meshUid>D011976</meshUid>
+    <neuronDbPr>204</neuronDbPr>
+    <type>ext</type>
+    <parent>240</parent>
+  </Ext>
+
+  <Ext>
+    <woext>246</woext>
+    <name>M1 receptor</name>
+    <geneSymbol>CHRM1</geneSymbol>
+    <neuronDbPr>179</neuronDbPr>
+    <reference>TiPS Receptor and Ion Channel Nomenclature Supplement 1999</reference>
+    <type>ext</type>
+    <parent>245</parent>
+  </Ext>
+
+  <Ext>
+    <woext>247</woext>
+    <name>M2 receptor</name>
+    <description>Muscarinic acetylcholine receptor M2. Might be
+    involved in intelligence. GenBank Nucleotide 
+    accession: M16404. Swiss Prot Primary accession number P08172</description>
+    <geneSymbol>CHRM2</geneSymbol>
+    <neuronDbPr>183</neuronDbPr>
+    <type>ext</type>
+    <parent>245</parent>
+  </Ext>
+
+  <Ext>
+    <woext>248</woext>
+    <name>M3 receptor</name>
+    <geneSymbol>CHRM3</geneSymbol>
+    <neuronDbPr>180</neuronDbPr>
+    <type>ext</type>
+    <parent>245</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>249</woext>
+    <name>M4 receptor</name>
+    <geneSymbol>CHRM4</geneSymbol>
+    <neuronDbPr>181</neuronDbPr>
+    <type>ext</type>
+    <parent>245</parent>
+  </Ext>
+
+  <Ext>
+    <woext>250</woext>
+    <name>M5 receptor</name>
+    <geneSymbol>CHRM5</geneSymbol>
+    <neuronDbPr>182</neuronDbPr>
+    <type>ext</type>
+    <parent>245</parent>
+  </Ext>
+
+  <Ext>
+    <woext>251</woext>
+    <name>Nicotinic receptor</name>
+    <meshUid>D011978</meshUid>
+    <neuronDbPr>178</neuronDbPr>
+    <type>ext</type>
+    <parent>240</parent>
+  </Ext>
+
+  <Ext>
+    <woext>252</woext>
+    <name>Catecholamine receptor</name>
+    <meshUid>D017983</meshUid>
+    <type>ext</type>
+    <parent>241</parent>
+  </Ext>
+
+  <Ext>
+    <woext>253</woext>
+    <name>Adrenergic receptor</name>
+    <description>Adrenoreceptors</description>
+    <meshUid>D011941</meshUid>
+    <neuronDbPr>215</neuronDbPr>
+    <type>ext</type>
+    <parent>252</parent>
+  </Ext>
+
+  <Ext>
+    <woext>254</woext>
+    <name>Alpha adrenoreceptor</name>
+    <meshUid>D011942</meshUid>
+    <neuronDbPr>192</neuronDbPr>
+    <type>ext</type>
+    <parent>253</parent>
+  </Ext>
+
+  <Ext>
+    <woext>255</woext>
+    <name>Beta adrenoreceptor</name>
+    <meshUid>D011943</meshUid>
+    <neuronDbPr>195</neuronDbPr>
+    <type>ext</type>
+    <parent>253</parent>
+  </Ext>
+
+  <Ext>
+    <woext>256</woext>
+    <name>Alpha-1 adrenoreceptor</name>
+    <meshUid>D018340</meshUid>
+    <neuronDbPr>193</neuronDbPr>
+    <type>ext</type>
+    <parent>254</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>257</woext>
+    <name>Alpha-2 adrenoreceptor</name>
+    <meshUid>D018341</meshUid>
+    <neuronDbPr>194</neuronDbPr>
+    <type>ext</type>
+    <parent>254</parent>
+  </Ext>
+
+  <Ext>
+    <woext>258</woext>
+    <name>Alpha-1A adrenoreceptor</name>
+    <description>Alpha-1A corresponds to Alpha-1C</description>
+    <geneSymbol>ADRA1C</geneSymbol>
+    <reference>TiPS Receptor and Ion Channel Nomenclature Supplement
+    1999</reference> 
+    <type>ext</type>
+    <parent>256</parent>
+  </Ext>
+
+  <Ext>
+    <woext>259</woext>
+    <name>Autobiographical memory</name>
+    <type>ext</type>
+    <parent>49</parent>
+  </Ext>
+
+  <Ext>
+    <woext>260</woext>
+    <name>Autobiographical memory retrieval</name>
+    <type>ext</type>
+    <parent>259</parent>
+    <parent>109</parent>
+  </Ext>
+
+  <Ext>
+    <woext>261</woext>
+    <name>Thermal pain</name>
+    <type>ext</type>
+    <parent>40</parent>
+  </Ext>
+
+  <Ext>
+    <woext>262</woext>
+    <name>Mentalizing</name>
+    <description>Attributing beliefs and desires to other persons that
+    are different to one-self and be able to predict and explain other
+    peoples actions</description>
+    <reference>HL Gallagher, et al. Imaging intentional stance in a
+    competitive game</reference>
+    <type>ext</type>
+    <parent>2</parent>
+    <parent>361</parent>
+  </Ext>
+
+  <Ext>
+    <woext>263</woext>
+    <name>Intentional stance</name>
+    <description>Attribution of intention to a person treating it as a
+    rational agent</description>
+    <reference>Gallagher HL, et al. Imaging intentional stance in a
+    competitive game</reference>
+    <reference>Dennett DC. The Intentional Stance, MIT Press</reference> 
+    <type>ext</type>
+    <parent>262</parent>
+  </Ext>
+
+  <Ext>
+    <woext>264</woext>
+    <name>Fear</name>
+    <meshUid>D005239</meshUid>
+    <Reference>
+      <title>The Nonverbal Dictionary of Gestures, Signs and Body
+      Language Cues</title>
+      <author>David B. Givens</author>
+      <url>http://members.aol.com/nonverbal2/fear.htm</url>
+    </Reference>
+    <type>ext</type>
+    <wikipedia>Fear</wikipedia>
+    <parent>3</parent>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>265</woext>
+    <name>Disgust</name>
+    <type>ext</type>
+    <Reference>
+      <title>The Nonverbal Dictionary of Gestures, Signs and Body
+      Language Cues</title>
+      <author>David B. Givens</author>
+      <url>http://members.aol.com/nonverbal2/disgust.htm</url>
+    </Reference>
+    <wikipedia>Disgust</wikipedia>
+    <parent>3</parent>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>266</woext>
+    <name>Localized movement</name>
+    <description>A movement that is localized to certain parts of the
+    body</description> 
+    <type>ext</type>
+    <parent>4</parent>
+  </Ext>
+
+  <Ext>
+    <woext>267</woext>
+    <name>Finger movement</name>
+    <description>Any active movement of the fingers</description>
+    <type>ext</type>
+    <parent>266</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>268</woext>
+    <name>Sequential finger opposition</name>
+    <description>Also sequential finger apposition. A motor task where
+    the thumb touches the rest of the four fingers in sequential
+    order, e.g., self-paced or according to auditory cue</description>
+    <type>ext</type>
+    <parent>267</parent>
+  </Ext>
+    
+  <Ext>
+    <woext>269</woext>
+    <name>Vibrotactile perception</name>
+    <description>Somatic perception and sensation of
+    vibration. Pallesthesia. Palmesthesia. Not sound vibration but
+    vibration transmitted through skin (and bone)</description>
+    <type>ext</type>
+    <parent>17</parent>
+    <parent>205</parent>
+  </Ext>
+
+  <Ext>
+    <woext>270</woext>
+    <name>Hypnosis</name>
+    <type>ext</type>
+    <wikipedia>Hypnosis</wikipedia>
+    <parent>307</parent>
+  </Ext>
+
+  <Ext>
+    <woext>271</woext>
+    <name>Social Phobia</name>
+    <description>Fear, e.g., for public speaking and
+    embarrassment</description>  
+    <type>ext</type>
+    <whoIcdTen>F40.1</whoIcdTen>
+    <parent>36</parent>
+  </Ext>
+
+  <Ext>
+    <woext>272</woext>
+    <name>Emotional stress</name>
+    <description>Psychological rather than pathological
+    stress</description> 
+    <meshUid>D013315</meshUid>
+    <type>ext</type>
+    <parent>3</parent>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>273</woext>
+    <name>Monitoring</name>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>274</woext>
+    <name>Memory retrieval monitoring</name>
+    <description>Memory editing process especially invoked when the
+    recognition process is uncertain</description>
+    <Reference>
+      <author>R. N. A. Henson.</author>
+      <year>2000</year>
+      <pmid>11177413</pmid>
+    </Reference>
+    <reference>Burgess and Shallice, 1996</reference>
+    <type>ext</type>
+    <parent>24</parent>
+    <parent>273</parent>
+  </Ext>
+
+  <Ext>
+    <woext>275</woext>
+    <name>Visual shape attention</name>
+    <type>ext</type>
+    <parent>6</parent>
+    <parent>202</parent>
+  </Ext>
+
+  <Ext>
+    <woext>276</woext>
+    <name>Color perception</name>
+    <meshUid>D003118</meshUid>
+    <type>ext</type>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>277</woext>
+    <name>Color attention</name>
+    <type>ext</type>
+    <parent>6</parent>
+    <parent>276</parent>
+  </Ext>
+
+  <Ext>
+    <woext>278</woext>
+    <name>Tones</name>
+    <type>ext</type>
+    <parent>14</parent>
+  </Ext>
+
+  <Ext>
+    <woext>279</woext>
+    <name>Unpredictable tones</name>
+    <description>Tones that, e.g., occure at random
+    intervals</description>
+    <type>ext</type>
+    <parent>278</parent>
+    <parent>280</parent>
+  </Ext>
+
+  <Ext>
+    <woext>280</woext>
+    <name>Novelty processing</name>
+    <type>ext</type>
+    <description>Cognitive events, e.g., in response to unpredictable
+    stimuli</description> 
+  </Ext>
+
+  <Ext>
+    <woext>281</woext>
+    <name>Self-monitoring</name>
+    <type>ext</type>
+    <parent>273</parent>
+    <parent>362</parent>
+  </Ext>
+
+  <Ext>
+    <woext>282</woext>
+    <name>Silent word generation</name>
+    <description>Generation of words with no vocalization, e.g.,
+    silently generate words beginning with a given
+    letter</description> 
+    <type>ext</type>
+    <parent>62</parent>
+    <parent>530</parent>
+  </Ext>
+
+  <Ext>
+    <woext>283</woext>
+    <name>Foot</name>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>284</woext>
+    <name>Foot somethesis</name>
+    <type>ext</type>
+    <parent>17</parent>
+    <parent>283</parent>
+    <parent>491</parent>
+  </Ext>
+
+  <Ext>
+    <woext>285</woext>
+    <name>Anger</name>
+    <description>An intense emotion generated from threats or
+    danger, which could signal impending aggression</description> 
+    <meshUid>D000786</meshUid>
+    <Reference>
+      <title>The Nonverbal Dictionary of Gestures, Signs and Body
+      Language Cues</title>
+      <author>David B. Givens</author>
+      <url>http://members.aol.com/nonverbal2/anger.htm</url>
+    </Reference>
+    <type>ext</type>
+    <wikipedia>Anger</wikipedia>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>286</woext>
+    <name>Averted anger</name>
+    <description>Anger not directed against a primary
+    viewer, e.g., by averted gaze</description> 
+    <type>ext</type>
+    <parent>285</parent>
+  </Ext>
+
+  <Ext>
+    <woext>287</woext>
+    <name>Ambiguous threat</name>
+    <description></description>
+    <type>ext</type>
+    <parent>286</parent>
+    <parent>264</parent>
+  </Ext>
+
+  <Ext>
+    <woext>288</woext>
+    <name>Sadness</name>
+    <Reference>
+      <title>The Nonverbal Dictionary of Gestures, Signs and Body
+      Language Cues</title>
+      <author>David B. Givens</author>
+      <url>http://members.aol.com/nonverbal2/sadness.htm</url>
+    </Reference>
+    <type>ext</type>
+    <parent>3</parent>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>289</woext>
+    <name>Serotonin receptor</name>
+    <meshUid>D011985</meshUid>
+    <neuronDbPr>216</neuronDbPr>
+    <type>ext</type>
+    <wikipedia>5-HT receptor</wikipedia>
+    <parent>241</parent>
+    <parent>300</parent>
+  </Ext>
+
+  <Ext>
+    <woext>290</woext>
+    <name>5-HT1 receptor</name>
+    <neuronDbPr>198</neuronDbPr>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>291</woext>
+    <name>5-HT2 receptor</name>
+    <neuronDbPr>199</neuronDbPr>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>292</woext>
+    <name>5-HT3 receptor</name>
+    <geneSymbol>HTR3</geneSymbol>
+    <neuronDbPr>208</neuronDbPr>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>293</woext>
+    <name>5-HT4 receptor</name>
+    <geneSymbol>HTR4</geneSymbol>
+    <neuronDbPr>200</neuronDbPr>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>294</woext>
+    <name>5-HT5 receptor</name>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>295</woext>
+    <name>5-HT6 receptor</name>
+    <description>Serotonin receptor</description>
+    <geneSymbol>HTR6</geneSymbol>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>296</woext>
+    <name>5-HT7 receptor</name>
+    <geneSymbol>HTR7</geneSymbol>
+    <type>ext</type>
+    <parent>289</parent>
+  </Ext>
+
+  <Ext>
+    <woext>297</woext>
+    <name>5-HT1A receptor</name>
+    <type>ext</type>
+    <parent>290</parent>
+  </Ext>
+
+  <Ext>
+    <woext>298</woext>
+    <name>5-HT2A receptor</name>
+    <geneSymbol>HTR2A</geneSymbol>
+    <omim>182135</omim>
+    <type>ext</type>
+    <wikipedia>5-HT2A receptor</wikipedia>
+    <parent>291</parent>
+  </Ext>
+
+  <Ext>
+    <woext>299</woext>
+    <name>5-HT1B receptor</name>
+    <description>A previous name for this receptor has been
+    5-HT1D-beta</description>
+    <geneSymbol>HTR1B</geneSymbol>
+    <type>ext</type>
+    <parent>290</parent>
+  </Ext>
+
+  <Ext>
+    <woext>300</woext>
+    <name>Serotonin system</name>
+    <parent>381</parent>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>301</woext>
+    <name>Serotonin neurotransmitter</name>
+    <description>A substance also referred to as 5-HT or
+    5-Hydroxytryptamine</description> 
+    <casrn>50-67-9</casrn>    
+    <meshUid>D012701</meshUid>
+    <type>ext</type>
+    <wikipedia>Serotonin</wikipedia>
+    <parent>300</parent>
+    <parent>383</parent>
+  </Ext>
+
+  <Ext>
+    <woext>302</woext>
+    <name>Galvanic skin response</name>
+    <description>Measurement of electrodermal activity
+    (EDA)</description> 
+    <meshUid>D005712</meshUid>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>303</woext>
+    <name>Possitive correlation for galvanic skin response</name>
+    <type>ext</type>
+    <parent>302</parent>
+  </Ext>
+
+  <Ext>
+    <woext>304</woext>
+    <name>Negative correlation for galvanic skin response</name>
+    <type>ext</type>
+    <parent>302</parent>
+  </Ext>
+
+  <Ext>
+    <woext>305</woext>
+    <name>Early phase heat pain</name>
+    <description>Initial transient pain</description>
+    <type>ext</type>
+    <parent>69</parent>
+  </Ext>
+
+  <Ext>
+    <woext>306</woext>
+    <name>Late phase heat pain</name>
+    <description>Experienced pain after some time of exposure</description>
+    <type>ext</type>
+    <parent>69</parent>
+  </Ext>
+
+  <Ext>
+    <woext>307</woext>
+    <name>Mental state</name>
+    <description>A state such as conscious or sleeping</description>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>308</woext>
+    <name>Sleeping</name>
+    <description>All forms of sleeping such as REM and slow
+    wave</description>
+    <meshUid>D012890</meshUid>
+    <type>ext</type>
+    <parent>307</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>309</woext>
+    <name>Rapid-eye-movement sleep</name>
+    <description>Sleep state characterized by rapid eye movements
+    (REM) and fast low-voltage EEG patterns. Usually dreams occur
+    during this state. Also called fast-wave sleep or paradoxical
+    sleep.</description>  
+    <meshUid>D012895</meshUid>
+    <type>ext</type>
+    <parent>308</parent>
+  </Ext>
+
+  <Ext>
+    <woext>310</woext>
+    <name>Slow-wave sleep</name>
+    <Reference>
+      <title>Functional neuroanatomy of human slow wave sleep</title>
+      <authors>Maquet P, Degueldre C, Delfiore G, Aerts J, Peters JM,
+      Luxen A, Franck G.</authors> 
+      <pmid>9092602</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>308</parent>
+  </Ext>
+
+  <Ext>
+    <woext>311</woext>
+    <name>Rapid-eye-movement sleep increase</name>
+    <description>Increases in brain activity associated with REM
+    sleep</description> 
+    <type>ext</type>
+    <parent>309</parent>
+  </Ext>
+
+  <Ext>
+    <woext>312</woext>
+    <name>Rapid-eye-movement sleep decrease</name>
+    <description>Decreases in brain activity associated with REM
+    sleep</description> 
+    <type>ext</type>
+    <parent>309</parent>
+  </Ext>
+
+  <Ext>
+    <woext>313</woext>
+    <name>Facial familiarity</name>
+    <description>Type of facial recognition memory</description>
+    <type>ext</type>
+    <parent>223</parent>
+  </Ext>
+
+  <Ext>
+    <woext>314</woext>
+    <name>Happiness</name>
+    <meshUid>D006240</meshUid>
+    <type>ext</type>
+    <parent>3</parent>
+    <parent>152</parent>
+  </Ext>
+
+  <Ext>
+    <woext>315</woext>
+    <name>Recognition memory</name>
+    <description>Linking presented item with previously stored
+    memories of the item. Can be regarded as consisting of a
+    familiarity memory and a recollection memory.</description>  
+    <Reference>
+      <authors>Michael D. Rugg; Andrew P. Yonelinas</authors>
+      <title>Human recognition memory: A cognitive neuroscience
+      perspective</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>7</number>
+      <pages>313-319</pages>
+    </Reference>
+    <type>ext</type>
+    <parent>9</parent>
+    <parent>24</parent>
+    <parent>190</parent>
+  </Ext>
+
+  <Ext>
+    <woext>316</woext>
+    <name>Recollection</name>
+    <description>Regarded as a type of recognition memory that is
+    slower than familiarity recognition and which provides contextual
+    information.</description>
+    <Reference>
+      <authors>Michael D. Rugg; Andrew P. Yonelinas</authors>
+      <title>Human recognition memory: A cognitive neuroscience
+      perspective</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>7</number>
+    </Reference>
+    <type>ext</type>
+    <parent>315</parent>
+  </Ext>
+
+  <Ext>
+    <woext>317</woext>
+    <name>Reading of single words</name>
+    <description>Reading silent or aloud of single words or sentence as
+    letters or braille.</description> 
+    <Reference>
+      <authors>Julie A. Fiez; Steven E. Petersen</authors>
+      <title>Neuroimaging studies of word reading</title>
+      <pmid>9448259</pmid>
+    </Reference>
+    <Reference>
+      <authors>P. E. Turkeltaub; G. F. Eden; K. M. Jones;
+      T. A. Zeffiro</authors>
+      <title>Meta-analysis of the functional neuroanatomy of
+      single-word reading: method and validation</title>
+      <journal>NeuroImage</journal>
+    </Reference>
+    <type>ext</type>
+    <parent>29</parent>
+  </Ext>
+    
+  <Ext>
+    <woext>318</woext>
+    <name>Semantic memory</name>
+    <description>Type of memory not associated with specific events or
+    episodes. Memory for facts.</description>
+    <Reference>
+      <author>Endel Tulving</author>
+      <year>1972</year>
+    </Reference>
+    <type>ext</type>
+    <parent>9</parent>
+    <parent>112</parent>
+    <parent>319</parent>
+    <parent>548</parent>
+  </Ext>
+
+  <Ext>
+    <woext>319</woext>
+    <name>Declarative memory</name>
+    <description>Episodic and sematic memory. Memory ('knowing that')
+    contrary to procedural memory. Somewhat related to explicit
+    memory</description>  
+    <type>ext</type>
+    <parent>9</parent>
+    <parent>112</parent>
+  </Ext>
+
+  <Ext>
+    <woext>320</woext>
+    <name>Procedural memory</name>
+    <description>'Knowing how' memeory. Contrary to declarative memory
+    and somewhat related to implicit memory</description>
+    <type>ext</type>
+    <parent>9</parent>
+    <parent>112</parent>
+  </Ext>
+
+  <Ext>
+    <woext>321</woext>
+    <name>Conditioning</name>
+    <meshUid>D003213</meshUid>
+    <type>ext</type>
+    <parent>33</parent>
+  </Ext>
+
+  <Ext>
+    <woext>322</woext>
+    <name>Classical conditioning</name>
+    <description>Learning associated with the coupling between a
+    conditional and an unconditional stimulus. Pavlovian
+    conditioning.</description>
+    <meshUid>D003214</meshUid>
+    <type>ext</type>
+    <parent>321</parent>
+  </Ext>
+
+  <Ext>
+    <woext>323</woext>
+    <name>Analgesics</name>
+    <description>Pain relief substance</description>
+    <meshUid>D000700</meshUid>
+    <type>ext</type>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>324</woext>
+    <name>Fentanyl</name>
+    <description>Opiod analgesics</description>
+    <meshUid>D005283</meshUid>
+    <casrn>437-38-7</casrn>
+    <type>ext</type>
+    <parent>323</parent>
+  </Ext>
+
+  <Ext>
+    <woext>325</woext>
+    <name>Placebo</name>
+    <description>A drug with no direct effect other than perhaps
+    psychological</description>
+    <meshUid>D010919</meshUid>
+    <type>ext</type>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>326</woext>
+    <name>Unpleasant episodic memory retrieval</name>
+    <description>Recollection of traumatic experiences</description>
+    <type>ext</type>
+    <parent>109</parent>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>327</woext>
+    <name>Retrieval mode episodic memory retrieval</name>
+    <description>REMO. Memory associated with retrieval attempt and
+    'thinking back in subjective time'.</description>
+    <Reference>
+      <author>Tulving</author>
+      <year>1983</year>
+    </Reference>
+    <Reference>
+      <authors>Lars Nyberg et al.</authors>
+      <title>Functional brain maps of retrieval mode and recovery of
+      episodic information</title>
+      <pmid>8742463</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>109</parent>
+  </Ext>
+
+  <Ext>
+    <woext>328</woext>
+    <name>Episodic memory ecphony</name>
+    <description>Episodic memory retrieval with an successful actual
+    recovery of stored information in contrast to retrieval
+    attempt. Associated with 'remember' as opposed to
+    'know'.</description> 
+    <Reference>
+      <author>Tulving</author>
+      <year>1983</year>
+    </Reference>
+    <Reference>
+      <authors>Lars Nyberg et al.</authors>
+      <title>Functional brain maps of retrieval mode and recovery of
+      episodic information.</title>
+      <pmid>8742463</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>109</parent>
+  </Ext>
+
+  <Ext>
+    <woext>329</woext>
+    <name>Memory encoding</name>
+    <description>Any kind of conscious or sub-conscious encoding of
+    any kind of memory. Might be verbal/nonverbal, deep/shallow, or
+    intentional/incidental</description> 
+    <Reference>
+      <authors>Kathleen B. MCDermott, et al.</authors>
+      <title>Direct Comparison of Episodic Encoding and Retrieval of
+      Words: an event-related fMRI Study</title>
+      <pmid>10659091</pmid>
+      <journal>Memory</journal>
+    </Reference>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>330</woext>
+    <name>Emotional verbal episodic memory encoding</name>
+    <description>Encoding of emotional verbal matrial</description>
+    <parent>331</parent>
+    <parent>332</parent>
+    <parent>453</parent>
+  </Ext>
+
+  <Ext>
+    <woext>331</woext>
+    <name>Emotional memory</name>
+    <type>ext</type>
+    <parent>3</parent>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>332</woext>
+    <name>Episodic memory encoding</name>
+    <type>ext</type>
+    <parent>329</parent>
+    <parent>49</parent>
+  </Ext>
+
+  <Ext>
+    <woext>333</woext>
+    <name>Unpredictability</name>
+    <description>Experience of events that are unpredictable</description>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>334</woext>
+    <name>Predictability</name>
+    <description>Experience of events that are predictable</description>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>335</woext>
+    <name>Reward</name>
+    <meshUid>D012201</meshUid>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>336</woext>
+    <name>Finger static force exertion</name>
+    <description>Exerting a static force with a finger</description>
+    <type>ext</type>
+    <parent>267</parent>
+  </Ext>
+
+  <Ext>
+    <woext>337</woext>
+    <name>Visuoproprioception</name>
+    <description>Vision and proprioception combination</description>
+    <type>ext</type>
+    <parent>18</parent>
+    <parent>88</parent>
+  </Ext>
+
+  <Ext>
+    <woext>338</woext>
+    <name>Visuoproprioceptive adaption</name>
+    <description>Learning of new transformation between vision and
+    proprioceptive</description>
+    <type>ext</type>
+    <parent>33</parent>
+    <parent>337</parent>
+  </Ext>
+
+  <Ext>
+    <woext>339</woext>
+    <name>Prism adaption</name>
+    <description>Learning of, e.g., visually guided reaching with
+    distorted vision from wearing prims</description> 
+    <type>ext</type>
+    <parent>338</parent>
+  </Ext>
+
+  <Ext>
+    <woext>340</woext>
+    <name>Intelligence</name>
+    <meshUid>D007360</meshUid>
+    <type>ext</type>
+    <parent>81</parent>
+  </Ext>
+
+  <Ext>
+    <woext>341</woext>
+    <name>Spatial intelligence</name>
+    <type>ext</type>
+    <parent>340</parent>
+  </Ext>
+
+  <Ext>
+    <woext>342</woext>
+    <name>Verbal intelligence</name>
+    <type>ext</type>
+    <parent>7</parent>
+    <parent>340</parent>
+  </Ext>
+
+  <Ext>
+    <woext>343</woext>
+    <name>Humor</name>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>344</woext>
+    <name>Gene</name>
+    <type>ext</type>
+  </Ext>
+  
+  <Ext>
+    <woext>345</woext>
+    <name>Apolipoprotein gene</name>
+    <description>A family of genes</description> 
+    <meshUid>D001053</meshUid>
+    <type>ext</type>
+    <parent>344</parent>
+  </Ext>
+
+  <Ext>
+    <woext>346</woext>
+    <name>Apolipoprotein E gene</name>
+    <description>Involved in cholesterol transport. The location is
+    19q13.2</description> 
+    <geneSymbol>APOE</geneSymbol>
+    <meshUid>D001057</meshUid>
+    <omim>107741</omim>
+    <type>ext</type>
+    <parent>345</parent>
+  </Ext>
+
+  <Ext>
+    <woext>347</woext>
+    <name>Apolipoprotein E e4 allele</name>
+    <description>An allele associated with Alzheimer's
+    disease</description>  
+    <type>ext</type>
+    <parent>346</parent>
+  </Ext>
+
+  <Ext>
+    <woext>348</woext>
+    <name>5-HT1D receptor</name>
+    <description>Previous name was 5-HT1D-alpha</description>
+    <geneSymbol>HTR1D</geneSymbol>
+    <type>ext</type>
+    <parent>290</parent>
+  </Ext>
+
+  <Ext>
+    <woext>349</woext>
+    <name>5-HT1E receptor</name>
+    <description>Previously 5-HT1E-alpha</description>
+    <geneSymbol>HTR1E</geneSymbol>
+    <type>ext</type>
+    <parent>290</parent>
+  </Ext>
+
+  <Ext>
+    <woext>350</woext>
+    <name>5-HT1F receptor</name>
+    <description>Serotonin receptor. Previously 5-HT1E-beta, 5-HT6</description>
+    <geneSymbol>HTR1F</geneSymbol>
+    <type>ext</type>
+    <parent>290</parent>
+  </Ext>
+
+  <Ext>
+    <woext>351</woext>
+    <name>5-HT2B receptor</name>
+    <description>Serotonin receptor. Previously 5-HT2</description>
+    <geneSymbol>HTR2B</geneSymbol>
+    <type>ext</type>
+    <parent>291</parent>
+  </Ext>
+
+  <Ext>
+    <woext>352</woext>
+    <name>5-HT2C receptor</name>
+    <description>Serotonin receptor</description>
+    <geneSymbol>HTR2C</geneSymbol>
+    <type>ext</type>
+    <parent>291</parent>
+  </Ext>
+
+  <Ext>
+    <woext>353</woext>
+    <name>5-HT5a receptor</name>
+    <description>Serotonin receptor</description>
+    <type>ext</type>
+    <parent>294</parent>
+  </Ext>
+
+  <Ext>
+    <woext>354</woext>
+    <name>5-HT5b receptor</name>
+    <description>Serotonin receptor</description>
+    <geneSymbol>HTR5B</geneSymbol>
+    <type>ext</type>
+    <parent>294</parent>
+  </Ext>
+
+  <Ext>
+    <woext>355</woext>
+    <name>Serotonin transporter</name>
+    <description>The serotonergic transporter (SERT, 5HTT). A product
+    of the SLC6A4 gene.</description>
+    <geneSymbol>SLC6A4</geneSymbol>
+    <meshUid>C075844</meshUid>
+    <parent>300</parent>
+    <parent>471</parent>
+  </Ext>
+
+  <Ext>
+    <woext>356</woext>
+    <name>Serotonin transporter gene</name>
+    <description>Solute carrier family 6, member 4</description> 
+    <geneSymbol>SLC6A4</geneSymbol>
+    <meshUid>C075844</meshUid>
+    <parent>300</parent>
+    <parent>344</parent>
+  </Ext>
+
+  <Ext>
+    <woext>357</woext>
+    <name>Promotor region of serotonin transporter gene</name>
+    <description>5-HTTLPR</description>
+    <parent>356</parent>
+  </Ext>
+
+  <Ext>
+    <woext>358</woext>
+    <name>S allele of promoter region of serotonin transporter
+    gene</name>
+    <description>Short version of the gene region. Individuals with an
+    s allele display (in some studies) more fear and anxiety than l
+    alleles</description>   
+    <parent>357</parent>
+  </Ext>
+
+  <Ext>
+    <woext>359</woext>
+    <name>L allele of promoter region of serotonin transporter
+    gene</name>
+    <description>Long version of the gene region</description>
+    <parent>357</parent>
+  </Ext>
+
+  <Ext>
+    <woext>360</woext>
+    <name>Permanent amnesia</name>
+    <description>Inability to learn new events and failure to recall
+    events that have occured some time before and affects episodic
+    memory. Appears in Korsakoffs syndrome.</description> 
+    <Reference>
+      <journal>NeuroImage</journal>
+      <pmid>11352622</pmid>
+      <title>Voxel-Based Mapping of Brain Hypometabolism in Permanent
+      Amnesia with PET</title>
+      <volume>13</volume>
+      <number>6</number>
+      <year>2001</year>
+      <month>June</month>
+      <wobib>119</wobib>
+    </Reference>
+    <parent>113</parent>
+    <parent>49</parent>
+  </Ext>
+
+  <Ext>
+    <woext>361</woext>
+    <name>Self/other processing</name>
+    <Reference>
+      <authors>Jean Decety, Jessica A. Sommerville</authors>
+      <title>Shared representations between self and other: a social
+      cognitive neuroscience view</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>12</number>
+      <year>2003</year>
+      <month>December</month>
+      <pmid>14643368</pmid>
+      <doi>10.1016/j.tics.2003.10.004</doi>
+      <url>http://www.sciencedirect.com/science/article/B6VH9-49YDBP8-3/2/0bf633c8984c0a9e31d67e1aa47307a1</url>
+    </Reference>
+  </Ext>
+
+  <Ext>
+    <woext>362</woext>
+    <name>Self processing</name>
+    <Reference>
+      <authors>Jean Decety, Jessica A. Sommerville</authors>
+      <title>Shared representations between self and other: a social
+      cognitive neuroscience view</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>12</number>
+      <year>2003</year>
+      <month>December</month>
+      <pmid>14643368</pmid>
+      <doi>10.1016/j.tics.2003.10.004</doi>
+      <url>http://www.sciencedirect.com/science/article/B6VH9-49YDBP8-3/2/0bf633c8984c0a9e31d67e1aa47307a1</url>
+    </Reference>
+    <parent>361</parent>
+  </Ext>
+
+  <Ext>
+    <woext>363</woext>
+    <name>Other processing</name>
+    <Reference>
+      <authors>Jean Decety, Jessica A. Sommerville</authors>
+      <title>Shared representations between self and other: a social
+      cognitive neuroscience view</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>12</number>
+      <year>2003</year>
+      <month>December</month>
+      <pmid>14643368</pmid>
+      <doi>10.1016/j.tics.2003.10.004</doi>
+      <url>http://www.sciencedirect.com/science/article/B6VH9-49YDBP8-3/2/0bf633c8984c0a9e31d67e1aa47307a1</url>
+    </Reference>
+    <parent>361</parent>
+  </Ext>
+
+  <Ext>
+    <woext>364</woext>
+    <name>Self-reflection</name>
+    <description>Reflection on ones on self, e.g., ones own abilities,
+    traits and attitudes</description> 
+    <Reference>
+      <authors>Sterling C. Johnson; Leslie C. Baxter; Lana S. Wilder;
+      James G. Pipe; Joseph E. Heiserman</authors> 
+      <title>Neural correlates of self-reflection</title>
+      <wobib>20</wobib>
+    </Reference>
+    <parent>362</parent>
+    <parent>366</parent>
+  </Ext>
+
+  <Ext>
+    <woext>365</woext>
+    <name>Awareness</name>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>366</woext>
+    <name>Self-awareness</name>
+    <parent>362</parent>
+    <parent>365</parent>
+  </Ext>
+
+  <Ext>
+    <woext>367</woext>
+    <name>Action attribution</name>
+    <Reference>
+      <authors>Jean Decety, Jessica A. Sommerville</authors>
+      <title>Shared representations between self and other: a social
+      cognitive neuroscience view</title>
+      <journal>Trends in Cognitive Sciences</journal>
+      <volume>7</volume>
+      <number>12</number>
+      <year>2003</year>
+      <month>December</month>
+      <pmid>14643368</pmid>
+      <doi>10.1016/j.tics.2003.10.004</doi>
+      <url>http://www.sciencedirect.com/science/article/B6VH9-49YDBP8-3/2/0bf633c8984c0a9e31d67e1aa47307a1</url>
+    </Reference>
+    <parent>363</parent>
+  </Ext>
+
+  <Ext>
+    <woext>368</woext>
+    <name>Judgement</name>
+    <description>Assessment of an external or internal
+    stimulus on an internal scale</description> 
+    <Reference>
+      <authors>Stefan Zysset; Oswald Huber; Evelyn Ferstl; D. Yves von
+      Cramon</authors> 
+      <title>The Anterior Frontomedian Cortex and Evaluative Judgment:
+      A fMRI study</title>
+      <journal>NeuroImage</journal>
+      <volume>15</volume>
+      <number>4</number>
+      <year>2002</year>
+      <pmid>11906238</pmid>
+    </Reference>
+  </Ext>
+
+  <Ext>
+    <woext>369</woext>
+    <name>Evaluative judgment</name>
+    <description>Judgment with reference to personal value system,
+    e.g., 'I like strawberries'</description>
+    <Reference>
+      <authors>Stefan Zysset; Oswald Huber; Evelyn Ferstl; D. Yves von
+      Cramon</authors> 
+      <title>The Anterior Frontomedian Cortex and Evaluative Judgment:
+      A fMRI study</title>
+      <journal>NeuroImage</journal>
+      <volume>15</volume>
+      <number>4</number>
+      <year>2002</year>
+      <pmid>11906238</pmid>
+    </Reference>
+    <parent>364</parent>
+    <parent>368</parent>
+  </Ext>
+
+  <Ext>
+    <woext>370</woext>
+    <name>Migraine</name>
+    <meshUid>D008881</meshUid>
+    <wikipedia>Migraine</wikipedia>
+    <parent>70</parent>
+    <parent>83</parent>
+  </Ext>
+
+  <Ext>
+    <woext>371</woext>
+    <name>Migraine without aura</name>
+    <description>Migraine not associated with aura. Also called
+    'Common migrain' and distinguished from 'Classic migraine' with
+    aura.</description> 
+    <meshUid>D020326</meshUid>
+    <parent>370</parent>
+  </Ext>
+
+  <Ext>
+    <woext>372</woext>
+    <name>Visual human body perception</name>
+    <description>Visual perception of the human body</description>
+    <Reference>
+      <authors>P. E. Downing; Y. Jiang; M. Shuman; Nancy
+      Kanwisher</authors>
+      <title>A cortical area selective for visual processing of the
+      human body</title>
+      <journal>Science</journal>
+      <year>2001</year>
+    </Reference>
+    <Reference>
+      <authors>Andreas Bartels; Semir Zeki</authors>
+      <title>Functional Brain Mapping During Free Viewing of Natural
+      Scences</title> 
+      <journal>Human Brain Mapping</journal>
+      <year>2004</year>
+    </Reference>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>373</woext>
+    <name>Stage 1 sleep</name>
+    <description>Sleeping stage with a very light sleep and
+    characterized by reduced alpha EEG waves compared to awake
+    resesting with eyes closed and with no spindles or
+    K-complexes.</description> 
+    <parent>308</parent>
+  </Ext>
+
+  <Ext>
+    <woext>374</woext>
+    <name>Personal characteristic</name>
+    <description>Characterstics that described a person or a group of
+    persons such as age and personality.</description>
+  </Ext>
+
+  <Ext>
+    <woext>375</woext>
+    <name>Age</name>
+    <description>The age of a person as a factor</description>
+    <meshUid>D000367</meshUid>
+    <parent>374</parent>
+  </Ext>
+
+  <Ext>
+    <woext>376</woext>
+    <name>Serotonin reuptake inhibitor</name>
+    <meshUid>D017367</meshUid>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>377</woext>
+    <name>Paroxetine</name>
+    <casrn>61869-08-7</casrn>
+    <description>A drug used in OCD therapy and as
+    antidepressant</description> 
+    <meshUid>D017374</meshUid>
+    <wikipedia>Paroxetine</wikipedia>
+    <parent>376</parent>
+  </Ext>
+
+  <Ext>
+    <woext>378</woext>
+    <name>Paroxetine-treated obsessive-compulsive disorder</name>
+    <parent>53</parent>
+    <parent>377</parent>
+  </Ext>
+
+  <Ext>
+    <woext>379</woext>
+    <name>Other anxiety disorders</name>
+    <description>An anxiety disorder that is not phobic, - a
+    classification corresponding to WHO IDC-10 F41 group.</description>
+    <whoIcdTen>F41</whoIcdTen>
+    <parent>227</parent>
+  </Ext>
+
+  <Ext>
+    <woext>380</woext>
+    <name>Panic disorder</name>
+    <description>A psychiatric disorder characterized by panic
+    attacks. Episodic paroxysmal anxiety</description> 
+    <meshUid>D016584</meshUid>
+    <whoIcdTen>F41.0</whoIcdTen>
+    <parent>379</parent>
+  </Ext>
+
+  <Ext>
+    <woext>381</woext>
+    <name>Neurotransmitter system</name>
+  </Ext>
+
+  <Ext>
+    <woext>382</woext>
+    <name>Neurotransmitter</name>
+    <wikipedia>Neurotransmitter</wikipedia>
+    <parent>381</parent>
+  </Ext>
+
+  <Ext>
+    <woext>383</woext>
+    <name>Monoamine neurotransmitter</name>
+    <parent>382</parent>
+  </Ext>
+
+  <Ext>
+    <woext>384</woext>
+    <name>Dopamine neurotransmitter</name>
+    <casrn>51-61-6</casrn>
+    <meshUid>D004298</meshUid>
+    <neuronDbPr>224</neuronDbPr>
+    <wikipedia>Dopamine</wikipedia>
+    <parent>383</parent>
+    <parent>385</parent>
+  </Ext>
+
+  <Ext>
+    <woext>385</woext>
+    <name>Catecholamine neurotransmitter</name>
+    <wikipedia>Catecholamine</wikipedia>
+    <parent>383</parent>
+  </Ext>
+
+  <Ext>
+    <woext>386</woext>
+    <name>Norepinephrine neurotransmitter</name>
+    <casrn>51-41-2</casrn>
+    <description>Also called noradrenaline. It is synthesized from
+    tyrosine via DOPA and dopamine</description>  
+    <meshUid>D009638</meshUid>
+    <neuronDbPr>230</neuronDbPr>
+    <wikipedia>Norepinephrine</wikipedia>
+    <parent>385</parent>
+  </Ext>
+
+  <Ext>
+    <woext>387</woext>
+    <name>Acetylcholine neurotransmitter</name>
+    <casrn>51-84-3</casrn>
+    <neuronDbPr>209</neuronDbPr>
+    <wikipedia>Acetylcholine</wikipedia>
+    <parent>382</parent>
+  </Ext>
+
+  <Ext>
+    <woext>388</woext>
+    <name>Amino acid neurotransmitter</name>
+    <neuronDbPr>231</neuronDbPr>
+    <parent>382</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>389</woext>
+    <name>Aspartate neurotransmitter</name>
+    <casrn>56-84-8</casrn>
+    <meshUid>D001224</meshUid>
+    <wikipedia>Aspartate</wikipedia>
+    <parent>388</parent>
+  </Ext>
+
+  <Ext>
+    <woext>390</woext>
+    <name>Glutamate neurotransmitter</name>
+    <casrn>56-86-0</casrn>
+    <meshUid>D018698</meshUid>
+    <neuronDbPr>233</neuronDbPr>
+    <wikipedia>Glutamate</wikipedia>
+    <parent>388</parent>
+  </Ext>
+
+  <Ext>
+    <woext>391</woext>
+    <name>GABA neurotransmitter</name>
+    <casrn>56-86-0</casrn>
+    <description>Gamma-aminobutyrate neurotransmitter</description>
+    <meshUid>D018698</meshUid>
+    <neuronDbPr>232</neuronDbPr>
+    <wikipedia>Gamma-aminobutyric acid</wikipedia>
+    <parent>388</parent>
+  </Ext>
+
+  <Ext>
+    <woext>392</woext>
+    <name>Glycine</name>
+    <casrn>56-40-6</casrn>
+    <meshUid>D005998</meshUid>
+    <neuronDbPr>214</neuronDbPr>
+    <wikipedia>Glycine</wikipedia>
+    <parent>388</parent>
+  </Ext>
+
+  <Ext>
+    <woext>393</woext>
+    <name>Peptide neurotransmitter</name>
+    <neuronDbPr>235</neuronDbPr>
+    <parent>382</parent>
+  </Ext>
+
+  <Ext>
+    <woext>394</woext>
+    <name>Tachykinin neuroreceptor</name>
+    <meshUid>D015320</meshUid>
+    <parent>393</parent>
+  </Ext>
+
+  <Ext>
+    <woext>395</woext>
+    <name>Gas neurotransmitter</name>
+    <neuronDbPr>237</neuronDbPr>
+    <parent>382</parent>
+  </Ext>
+
+  <Ext>
+    <woext>396</woext>
+    <name>Nitric oxide neurotransmitter</name>
+    <neuronDbPr>226</neuronDbPr>
+    <wikipedia>Nitric oxide</wikipedia>
+    <parent>395</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>397</woext>
+    <name>Carbon monoxide neurotransmitter</name>
+    <neuronDbPr>227</neuronDbPr>
+    <wikipedia>Carbon monoxide</wikipedia>
+    <parent>395</parent>
+  </Ext>
+
+  <Ext>
+    <woext>398</woext>
+    <name>Vinpocetine</name>
+    <casrn>42971-12-0</casrn>
+    <description>A compound used as a neuroprotective
+    drug</description> 
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>399</woext>
+    <name>Peptide receptor</name>
+    <meshUid>D018013</meshUid>
+    <parent>230</parent>
+  </Ext>
+
+  <Ext>
+    <woext>400</woext>
+    <name>Opioid receptor</name>
+    <meshUid>D011957</meshUid>
+    <wikipedia>Opioid receptor</wikipedia>
+    <parent>399</parent>
+  </Ext>
+
+  <Ext>
+    <woext>401</woext>
+    <name>Delta opioid receptor</name>
+    <meshUid>D017465</meshUid>
+    <parent>400</parent>
+  </Ext>
+
+  <Ext>
+    <woext>402</woext>
+    <name>Kappa opioid receptor</name>
+    <geneSymbol>OPRK1</geneSymbol>
+    <meshUid>D017473</meshUid>
+    <parent>400</parent>
+  </Ext>
+
+  <Ext>
+    <woext>403</woext>
+    <name>Mu opioid receptor</name>
+    <geneSymbol>OPRM1</geneSymbol>
+    <meshUid>D017450</meshUid>
+    <omim>600018</omim>
+    <parent>400</parent>
+  </Ext>
+
+  <Ext>
+    <woext>404</woext>
+    <name>Sigma opiod receptor</name>
+    <geneSymbol>OPRS1</geneSymbol>
+    <meshUid>D017480</meshUid>
+    <parent>400</parent>
+  </Ext>
+
+  <Ext>
+    <woext>405</woext>
+    <name>Histamine system</name>
+    <wikipedia>Histamine</wikipedia>
+    <parent>381</parent>
+  </Ext>
+
+  <Ext>
+    <woext>406</woext>
+    <name>Histamine neurotransmitter</name>
+    <neuronDbPr>238</neuronDbPr>
+    <wikipedia>Histamine</wikipedia>
+    <parent>405</parent>
+    <parent>241</parent>
+  </Ext>
+      
+  <Ext>
+    <woext>407</woext>
+    <name>Histamine neuroreceptor</name>
+    <parent>405</parent>
+  </Ext>
+
+  <Ext>
+    <woext>408</woext>
+    <name>Histamine H1 neuroreceptor</name>
+    <geneSymbol>HRH1</geneSymbol>
+    <parent>407</parent>
+  </Ext>
+
+  <Ext>
+    <woext>409</woext>
+    <name>Histamine H2 neuroreceptor</name>
+    <geneSymbol>HRH2</geneSymbol>
+    <parent>407</parent>
+  </Ext>
+
+  <Ext>
+    <woext>410</woext>
+    <name>Histamine H3 neuroreceptor</name>
+    <geneSymbol>HRH3</geneSymbol>
+    <parent>407</parent>
+  </Ext>
+
+  <Ext>
+    <woext>411</woext>
+    <name>Histamine H4 neuroreceptor</name>
+    <geneSymbol>HRH4</geneSymbol>
+    <parent>407</parent>
+  </Ext>
+
+  <Ext>
+    <woext>412</woext>
+    <name>Histamine H1 Antagonist</name>
+    <meshUid>D006634</meshUid>
+    <parent>91</parent>
+    <parent>405</parent>
+  </Ext>
+
+  <Ext>
+    <woext>413</woext>
+    <name>Classical histamine H1 antagonist</name>
+    <parent>412</parent>
+  </Ext>
+
+  <Ext>
+    <woext>414</woext>
+    <name>Second-generation histamine H1 antagonist</name>
+    <meshUid>D039563</meshUid>
+    <parent>412</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>415</woext>
+    <name>Ebastine</name>
+    <casrn>90729-43-4</casrn>
+    <meshUid>C058249</meshUid>
+    <parent>414</parent>
+  </Ext>
+
+  <Ext>
+    <woext>416</woext>
+    <name>(+)-Chlorpheniramine</name>
+    <description>An histamine H1 antagonist that are used in
+    connection with relief of allergic reactions</description> 
+    <meshUid>D002744</meshUid>
+    <parent>414</parent>
+  </Ext>
+
+  <Ext>
+    <woext>417</woext>
+    <name>Visuoproprioceptive conflict</name>
+    <description>Incongruent visial and proprioceptive stimuli, e.g.,
+    when movements are monitored in a mirror or a video
+    display</description>
+    <Reference>
+      <title>Right Temporoparietal Cortex Activation during
+	Visuo-proprioceptive Conflict</title>
+      <journal>Cerebral Cortex</journal>
+      <authors>Daniela Balslev, Finn Årup Nielsen, Olaf B. Paulson,
+	Ian Law</authors>
+      <year>2004</year>
+    </Reference>
+    <parent>337</parent>
+  </Ext>
+
+  <Ext>
+    <woext>418</woext>
+    <name>Silent reading</name>
+    <description>Reading without speech output. 'Reading in the
+    head'.</description> 
+    <parent>29</parent>
+  </Ext>
+
+  <Ext>
+    <woext>419</woext>
+    <name>Reading of single pseudowords</name>
+    <description>Reading of standalone words that does not have any
+    (direct usual) meaning, e.g., 'geading', 'horts'.</description>
+    <parent>29</parent>
+    <parent>317</parent>
+  </Ext>
+ 
+  <Ext>
+    <woext>420</woext>
+    <name>Silent reading of single words</name>
+    <parent>418</parent>
+    <parent>317</parent>
+  </Ext>
+
+  <Ext>
+    <woext>421</woext>
+    <name>Silent reading of single pseudowords</name>
+    <description>Reading without speech output of standalone words
+    that does not have any meaning, e.g., 'geading',
+    'horts'</description> 
+    <parent>418</parent>
+    <parent>419</parent>
+  </Ext>
+
+  <Ext>
+    <woext>422</woext>
+    <name>Reading of single proper words</name>
+    <description>Reading of single words that have meaning - as
+    opposed to pseudowords</description>
+    <parent>317</parent>
+  </Ext>
+
+  <Ext>
+    <woext>423</woext>
+    <name>Silent reading of single proper words</name>
+    <description>Reading of single words that have meaning - as
+    opposed to pseudowords</description>
+    <parent>420</parent>
+    <parent>422</parent>
+  </Ext>
+
+  <Ext>
+    <woext>424</woext>
+    <name>Word rate</name>
+    <parent>29</parent>
+  </Ext>
+ 
+  <Ext>
+    <woext>425</woext>
+    <name>Proper word rate</name>
+    <description>Dependence on the presentation rate of
+      words with meaning (not pseudowords)</description>
+    <parent>422</parent>
+    <parent>424</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>426</woext>
+    <name>Pseudoword rate</name>
+    <description>Dependence on the presentation rate of
+      pseudowords</description>
+    <parent>419</parent>
+    <parent>424</parent>
+  </Ext>
+
+  <Ext>
+    <woext>427</woext>
+    <name>Tourette syndrome</name>
+    <description>A disorder diagnosed when several movement tics
+    and one or more vocal tics occurs many times a day in the
+    patient.</description> 
+    <meshUid>D005879</meshUid>
+    <whoIcdTen>F95.2</whoIcdTen>
+    <parent>428</parent>
+  </Ext>
+
+  <Ext>
+    <woext>428</woext>
+    <name>Tics disorder</name>
+    <description>A disorder with sudden unvoluntary movements or
+    vocalization (tics)</description> 
+    <meshUid>D013981</meshUid>
+    <whoIcdTen>F95</whoIcdTen>
+    <parent>431</parent>
+  </Ext>
+
+  <Ext>
+    <woext>429</woext>
+    <name>Tics</name>
+    <description>Tics are sudden rapid unvoluntary movements or
+    vocalizations</description>
+    <meshUid>D020323</meshUid>
+  </Ext>
+
+  <Ext>
+    <woext>430</woext>
+    <name>Tics in Tourette's syndrome</name>
+    <description>Tics that occur for patient with the Tourette
+    diagnose</description> 
+    <parent>429</parent>
+    <parent>427</parent>
+  </Ext>
+
+  <Ext>
+    <woext>431</woext>
+    <name>Behavioural and emotional disorders with childhood and
+      adolescence</name>
+    <description>Group of psychiatric diseases with classification
+      F90-F98 according to the WHO ICD-10 scheme</description> 
+    <whoIcdTen>F9</whoIcdTen>
+    <parent>82</parent>
+  </Ext>
+
+  <Ext>
+    <woext>432</woext>
+    <name>Coprolalia in Tourette's syndrome</name>
+    <description>Coprolalia</description>
+    <parent>430</parent>
+  </Ext>
+
+  <Ext>
+    <woext>433</woext>
+    <name>Motor tics in Tourette's syndrome</name>
+    <parent>430</parent>
+  </Ext>
+
+  <Ext>
+    <woext>434</woext>
+    <name>Behavioral syndromes associatesd with physiological
+    disturbances and physical factors</name>
+    <whoIcdTen>F5</whoIcdTen>
+    <parent>82</parent>
+  </Ext>
+
+  <Ext>
+    <woext>435</woext>
+    <name>Eating disorders</name>
+    <meshUid>D001068</meshUid>
+    <whoIcdTen>F50</whoIcdTen>
+    <parent>434</parent>
+  </Ext>
+
+  <Ext>
+    <woext>436</woext>
+    <name>Anorexia nervosa</name>
+    <description>A eating disorder were the the patient sustains a low
+    weight (body-mass index).</description> 
+    <meshUid>D000856</meshUid>
+    <whoIcdTen>F50.0</whoIcdTen>
+    <parent>435</parent>
+  </Ext>
+
+  <Ext>
+    <woext>437</woext>
+    <name>Acetylcholinesterase inhibitor</name>
+    <meshUid>D002800</meshUid>
+    <wikipedia>Anticholinesterase</wikipedia>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>438</woext>
+    <name>Tacrine</name>
+    <casrn>321-64-2</casrn>
+    <description>Aka tetrahydroaminoacridine (THA) or Cognex. A drug
+    used in Alzheimer's disease treatment.</description>
+    <meshUid>D013619</meshUid>
+    <wikipedia>Tacrine</wikipedia>
+    <parent>437</parent>
+  </Ext>
+
+  <Ext>
+    <woext>439</woext>
+    <name>Saccadic suppression</name>
+    <description>Fixation with no eye movement in the presence of
+    peripheral distraction</description>
+    <parent>56</parent>
+  </Ext>
+
+  <Ext>
+    <woext>440</woext>
+    <name>Imagined saccades</name>
+    <description>Imagined abrupt eye movements where no overt movement
+    occures.</description>
+    <parent>56</parent>
+  </Ext>
+
+  <Ext>
+    <woext>441</woext>
+    <name>Bulimia nervosa</name>
+    <description>A syndrome characterized by episodes of
+    overeating and excessive interest in body weight.</description> 
+    <meshUid>D002032</meshUid>
+    <whoIcdTen>F50.2</whoIcdTen>
+    <wikipedia>Bulimia nervosa</wikipedia>
+    <parent>435</parent>
+  </Ext>
+
+  <Ext>
+    <woext>442</woext>
+    <name>Cluster headache</name>
+    <description>An intense one-sided pain</description>
+    <meshUid>D003027</meshUid>
+    <parent>70</parent>
+  </Ext>
+
+  <Ext>
+    <woext>443</woext>
+    <name>Nitroglycerin-provoked cluster headache</name>
+    <type>ext</type>
+    <parent>92</parent>
+    <parent>442</parent>
+  </Ext>
+
+  <Ext>
+    <woext>444</woext>
+    <name>Citalopram</name>
+    <casrn>59729-33-8</casrn>
+    <description>A drug used as an antidepressant</description>
+    <type>ext</type>
+    <parent>376</parent>
+  </Ext>
+
+  <Ext>
+    <woext>445</woext>
+    <name>Age-Citalopram</name>
+    <description>Citalopram effect depending on age</description>
+    <type>ext</type>
+    <parent>375</parent>
+    <parent>444</parent>
+  </Ext>
+
+  <Ext>
+    <woext>446</woext>
+    <name>D1-like receptor</name>
+    <description>One of the subgroups of dopaminergic
+    receptors</description>
+    <type>ext</type>
+    <parent>242</parent>
+  </Ext>
+
+  <Ext>
+    <woext>447</woext>
+    <name>D2-like receptor</name>
+    <description>One of the subgroups of dopaminergic
+    receptors</description> 
+    <type>ext</type>
+    <parent>242</parent>
+  </Ext>
+
+  <Ext>
+    <woext>448</woext>
+    <name>D3 receptor</name>
+    <description>One of the dopamine receptors belonging to the
+    D2-like subgroup</description>
+    <geneSymbol>DRD3</geneSymbol>
+    <type>ext</type>
+    <parent>242</parent>
+    <parent>447</parent>
+    <parent>451</parent>
+  </Ext>
+
+  <Ext>
+    <woext>449</woext>
+    <name>D4 receptor</name>
+    <description>One of the dopamine receptors belonging to the
+    D2-like subgroup</description>
+    <geneSymbol>DRD4</geneSymbol>
+    <type>ext</type>
+    <parent>242</parent>
+    <parent>447</parent>
+  </Ext>
+    
+  <Ext>
+    <woext>450</woext>
+    <name>D5 receptor</name>
+    <description>One of the dopamine receptors belonging to the
+    D1-like subgroup</description>
+    <geneSymbol>DRD5</geneSymbol>
+    <type>ext</type>
+    <parent>242</parent>
+    <parent>446</parent>
+  </Ext>
+
+  <Ext>
+    <woext>451</woext>
+    <name>D2/D3 receptors</name>
+    <description>D2 or D3 receptors</description>
+    <type>ext</type>
+    <parent>242</parent>
+    <parent>447</parent>
+  </Ext>
+
+  <Ext>
+    <woext>452</woext>
+    <name>Memory retention</name>
+    <description>Maintaining items in memory from encoding to
+    retrieval</description> 
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>453</woext>
+    <name>Verbal encoding</name>
+    <description>Memory encoding of verbal material, i.e.,
+    words</description>
+    <type>ext</type>
+    <parent>329</parent>
+    <parent>516</parent>
+  </Ext>
+
+  <Ext>
+    <woext>454</woext>
+    <name>Primacy effect in memory encoding</name>
+    <description>Enhanced memory encoding of the first items in a
+    list</description>
+    <type>ext</type>
+    <parent>329</parent>
+  </Ext>
+
+  <Ext>
+    <woext>455</woext>
+    <name>Primacy effect in verbal encoding</name>
+    <type>ext</type>
+    <parent>453</parent>
+    <parent>454</parent>
+  </Ext>
+
+  <Ext>
+    <woext>456</woext>
+    <name>Novel encoding</name>
+    <description>Memory encoding of new items or
+    associations</description> 
+    <type>ext</type>
+    <parent>280</parent>
+    <parent>329</parent>
+  </Ext>
+
+  <Ext>
+    <woext>457</woext>
+    <name>Association</name>
+    <meshUid>D001244</meshUid>
+    <type>ext</type>
+    <parent>9</parent>
+    <parent>33</parent>
+  </Ext>
+
+  <Ext>
+    <woext>458</woext>
+    <name>Associative Encoding</name>
+    <type>ext</type>
+    <parent>329</parent>
+    <parent>457</parent>
+  </Ext>
+
+  <Ext>
+    <woext>459</woext>
+    <name>Familiar associative encoding</name>
+    <description>Memory encoding with previously seen association of
+    items</description>
+    <type>ext</type>
+    <parent>458</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>460</woext>
+    <name>Associative novelty encoding</name>
+    <description>Memory encoding with new association not previously
+    learned but whose items might have been seen before</description> 
+    <type>ext</type>
+    <parent>456</parent>
+    <parent>458</parent>
+  </Ext>
+
+  <Ext>
+    <woext>461</woext>
+    <name>Planning</name>
+    <description>'Thinking ahead and evaluate the consequences of
+    possible actions'. 'Model a sequence of actions in preparation for
+    carrying out a particular task'.</description>
+    <Reference>
+      <authors>James B. Rowe, A. M. Owen, I. S. Johnsrude and
+      R. E. Passingham</authors>
+      <title>Imaging the mental components of a planning task</title>
+      <journal>Neuropsychologia</journal>
+      <volume>39</volume>
+      <pages>315-327</pages>
+      <pmid>11163609</pmid>
+    </Reference>
+    <Reference>
+      <author>T. Shallice</author>
+      <title>Specific Impairments of planning</title>
+      <journal>Philosophical Transactions of the Royal Society of
+      London</journal> 
+      <pages>199-209</pages>
+      <volume>298</volume>
+      <year>1982</year>
+    </Reference>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>462</woext>
+    <name>Tower of London</name>
+    <description>A complex task associated with planning</description>
+    <type>ext</type>
+    <parent>461</parent>
+  </Ext>
+
+  <Ext>
+    <woext>463</woext>
+    <name>Visual object naming</name>
+    <description>Naming of a visual presented object</description>
+    <type>ext</type>
+    <parent>45</parent>
+    <parent>470</parent>
+  </Ext>
+
+  <Ext>
+    <woext>464</woext>
+    <name>Basic level object processing</name>
+    <description>Processing of objects on a 'basic' level, i.e., with
+    more finer-grained differentiation than 'domain' (categorical)
+    level.</description>
+    <reference>L. K. Tyler et al., Processing Objects at Different
+    Levels of Specificity</reference>
+    <type>ext</type>
+    <parent>122</parent>
+  </Ext>
+
+  <Ext>
+    <woext>465</woext>
+    <name>Domain level object processing</name>
+    <description>Processing of objects on a categorical level, e.g.,
+    naming a visually presented hammer as 'manmade' rather than as
+    just a 'hammer'.</description>
+    <reference>L. K. Tyler et al., Processing Objects at Different
+    Levels of Specificity</reference>
+    <type>ext</type>
+    <parent>122</parent>
+  </Ext>
+
+  <Ext>
+    <woext>466</woext>
+    <name>Basic level object naming</name>
+    <type>ext</type>
+    <parent>45</parent>
+    <parent>464</parent>
+  </Ext>
+
+  <Ext>
+    <woext>467</woext>
+    <name>Domain level object naming</name>
+    <type>ext</type>
+    <parent>45</parent>
+    <parent>465</parent>
+  </Ext>
+
+  <Ext>
+    <woext>468</woext>
+    <name>Basic level visual object naming</name>
+    <description>E.g., naming a visually presented hammer as 'hammer'
+    rather than as a category such as 'manmade'</description> 
+    <type>ext</type>
+    <parent>463</parent>
+    <parent>466</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>469</woext>
+    <name>Domain level visual object naming</name>
+    <type>ext</type>
+    <parent>463</parent>
+    <parent>467</parent>
+  </Ext>
+
+  <Ext>
+    <woext>470</woext>
+    <name>Visual object processing</name>
+    <type>ext</type>
+    <parent>18</parent>
+    <parent>122</parent>
+  </Ext>
+
+  <Ext>
+    <woext>471</woext>
+    <name>Neurotransmitter transporter</name>
+    <type>ext</type>
+    <parent>381</parent>
+  </Ext>
+
+  <Ext>
+    <woext>472</woext>
+    <name>Visual memory</name>
+    <type>ext</type>
+    <parent>9</parent>
+    <parent>18</parent>
+  </Ext>
+
+  <Ext>
+    <woext>473</woext>
+    <name>Visual associative recognition memory</name>
+    <type>ext</type>
+    <parent>26</parent>
+    <parent>315</parent>
+  </Ext>
+
+  <Ext>
+    <woext>474</woext>
+    <name>Visuospatial processing</name>
+    <type>ext</type>
+    <parent>18</parent>
+    <parent>555</parent>
+  </Ext>
+
+  <Ext>
+    <woext>475</woext>
+    <name>Visuospatial associative recognition memory</name>
+    <type>ext</type>
+    <parent>473</parent>
+    <parent>474</parent>
+  </Ext>
+
+  <Ext>
+    <woext>476</woext>
+    <name>Novel visual associative recognition memory</name>
+    <type>ext</type>
+    <parent>280</parent>
+    <parent>473</parent>
+  </Ext>
+
+  <Ext>
+    <woext>477</woext>
+    <name>Repeated visual associative recognition memory</name>
+    <description>Viewing visual associations already seen. 'Repetition
+    enhancement' in visual associative recognition memory.</description>
+    <reference>Desimone 1996, PNAS 93:13494</reference>
+    <type>ext</type>
+    <parent>473</parent>
+  </Ext>
+
+  <Ext>
+    <woext>478</woext>
+    <name>Socioemotional processing</name>
+    <type>ext</type>
+    <parent>3</parent>
+    <parent>141</parent>
+    <parent>361</parent>
+  </Ext>
+
+  <Ext>
+    <woext>479</woext>
+    <name>Empathy</name>
+    <type>ext</type>
+    <wikipedia>Empathy</wikipedia>
+    <parent>478</parent>
+  </Ext>
+
+  <Ext>
+    <woext>480</woext>
+    <name>Forgiveness</name>
+    <type>ext</type>
+    <wikipedia>Forgiveness</wikipedia>
+    <parent>478</parent>
+  </Ext>
+
+  <Ext>
+    <woext>481</woext>
+    <name>Socioemotional judgment</name>
+    <type>ext</type>
+    <parent>369</parent>
+    <parent>478</parent>
+  </Ext>
+
+  <Ext>
+    <woext>482</woext>
+    <name>Empathy judgement</name>
+    <type>ext</type>
+    <parent>481</parent>
+    <parent>479</parent>
+  </Ext>
+
+  <Ext>
+    <woext>483</woext>
+    <name>Foregiveness judgement</name>
+    <type>ext</type>
+    <parent>480</parent>
+    <parent>481</parent>
+  </Ext>
+
+  <Ext>
+    <woext>484</woext>
+    <name>Perceptual change</name>
+    <description>Change in sensory stimulus in one or more
+    modalities. Sudden changes can draw the attention</description>
+    <type>ext</type>
+    <parent>5</parent>
+  </Ext>
+
+  <Ext>
+    <woext>485</woext>
+    <name>Visual change</name>
+    <description>Change in a visual stimulus</description>
+    <type>ext</type>
+    <parent>18</parent>
+    <parent>484</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>486</woext>
+    <name>Auditory change</name>
+    <description>Change in an auditory stimulus</description>
+    <type>ext</type>
+    <parent>14</parent>
+    <parent>484</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>487</woext>
+    <name>Tactile change</name>
+    <description>Change in an tactile stimulus</description>
+    <type>ext</type>
+    <parent>205</parent>
+    <parent>484</parent>
+  </Ext>
+
+  <Ext>
+    <woext>488</woext>
+    <name>Negative affect</name>
+    <description>A higher order factor that 'reflects general
+     subjective distress and consists of a range of unpleasant mood
+     states, such as irritability, anxiety, and anger'
+    (Zald)</description>  
+    <reference>Zald, Mattson, Pardo, Brain activity in ventromedial
+    prefrontal cortex correlates with individual differences in
+    negative affect.</reference>
+    <type>ext</type>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>489</woext>
+    <name>Tension-Anxiety</name>
+    <description>A factor that, e.g., appears in the 'Profile of Mood 
+    States' self-rate assessment.</description>
+    <type>ext</type>
+    <parent>153</parent>
+  </Ext>
+
+  <Ext>
+    <woext>490</woext>
+    <name>Elbow movement</name>
+    <description>Active movement of the elbow</description>
+    <type>ext</type>
+    <parent>266</parent>
+  </Ext>
+
+  <Ext>
+    <woext>491</woext>
+    <name>Localized somethesis</name>
+    <description>Somethesis localized to some part of the
+    body</description> 
+    <type>ext</type>
+    <parent>17</parent>
+  </Ext>
+
+  <Ext>
+    <woext>492</woext>
+    <name>Elbow somethesis</name>
+    <description>Somethesis localized to the elbow</description>
+    <parent>491</parent>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>493</woext>
+    <name>Nonconscious memory</name>
+    <description>Memory with no awareness of the memorized item during
+    encoding, retention or retrieval.</description>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>494</woext>
+    <name>Nonconscious associative semantic encoding</name>
+    <type>ext</type>
+    <parent>318</parent>
+    <parent>458</parent>
+    <parent>493</parent>
+  </Ext>
+
+  <Ext>
+    <woext>495</woext>
+    <name>Nonconscious associative semantic retrieval</name>
+    <type>ext</type>
+    <parent>195</parent>
+    <parent>493</parent>
+    <parent>496</parent>
+  </Ext>
+
+  <Ext>
+    <woext>496</woext>
+    <name>Associative retrieval</name>
+    <type>ext</type>
+    <parent>457</parent>
+  </Ext>
+
+  <Ext>
+    <woext>497</woext>
+    <name>Affective disorders</name>
+    <description>Mood disorders such as depression, manic or bipolar 
+    disorder.</description> 
+    <meshUid>D019964</meshUid>
+    <type>ext</type>
+    <whoIcdTen>F3</whoIcdTen>
+    <parent>82</parent>
+  </Ext>
+
+  <Ext>
+    <woext>498</woext>
+    <name>Manic disorder</name>
+    <description>Manic episode(s)</description>
+    <type>ext</type>
+    <whoIcdTen>F30</whoIcdTen>
+    <parent>497</parent>
+  </Ext>
+
+  <Ext>
+    <woext>499</woext>
+    <name>Bipolar disorder</name>
+    <description>Disorder with manic and depressive
+    episodes: Manic-depressive.</description> 
+    <meshUid>D001714</meshUid>
+    <type>ext</type>
+    <whoIcdTen>F31</whoIcdTen>
+    <parent>497</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>500</woext>
+    <name>Major depressive disorder</name>
+    <meshUid>D003866</meshUid>
+    <type>ext</type>
+    <parent>497</parent>
+  </Ext>
+
+  <Ext>
+    <woext>501</woext>
+    <name>Depressive episode</name>
+    <description>A single episode of major depression</description> 
+    <type>ext</type>
+    <whoIcdTen>F32</whoIcdTen>
+    <parent>497</parent>
+    <parent>500</parent>
+  </Ext>
+
+  <Ext>
+    <woext>502</woext>
+    <name>Visual body recognition</name>
+    <description>Visual recognition of bodies.</description>
+    <type>ext</type>
+    <parent>126</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>503</woext>
+    <name>Fearful visual body recognition</name>
+    <description>Visual recognitions of bodies displaying fearful
+    expressions</description> 
+    <type>ext</type>
+    <parent>264</parent>
+    <parent>502</parent>
+  </Ext>
+
+  <Ext>
+    <woext>504</woext>
+    <name>Multimodal perception</name>
+    <description>Multisensory perception and integration, e.g.,
+    hearing speech and seeing synchronous lip movement</description>
+    <type>ext</type>
+    <parent>5</parent>
+  </Ext>
+
+  <Ext>
+    <woext>505</woext>
+    <name>Congruent multimodal perception</name>
+    <description>Multimodal perception where the modalities match and
+    are not in conflict.</description>
+    <type>ext</type>
+    <parent>504</parent>
+  </Ext>
+
+  <Ext>
+    <woext>506</woext>
+    <name>Incongruent multimodal perception</name>
+    <description>Multimodal perception where the modalities are
+    mismatch/in conflict.</description>
+    <type>ext</type>
+    <parent>504</parent>
+  </Ext>
+
+  <Ext>
+    <woext>507</woext>
+    <name>Audiovisual speech perception</name>
+    <description>Hearing speech and seeing corresponding lip
+    movements</description> 
+    <type>ext</type>
+    <wikipedia>Ketamine</wikipedia>
+    <parent>216</parent>
+    <parent>504</parent>
+  </Ext>
+
+  <Ext>
+    <woext>508</woext>
+    <name>Ketamine</name>
+    <casrn>6740-88-1</casrn>
+    <description>Non-competitive NMDA antagonist</description>
+    <meshUid>D007649</meshUid>
+    <type>ext</type>
+    <parent>91</parent>
+  </Ext>
+
+  <Ext>
+    <woext>509</woext>
+    <name>Fearful face recognition</name>
+    <description>Recognition of face displaying fear</description>
+    <type>ext</type>
+    <parent>23</parent>
+    <parent>264</parent>
+  </Ext>
+
+  <Ext>
+    <woext>510</woext>
+    <name>NEO PI-R</name>
+    <description>NEO personality Inventory - revised
+    version. A five-factor model for human personality.</description> 
+    <Reference>
+      <authors>Paul T. Costa; Robert R. McCrae</authors>
+      <title>Revised NEO Personality Inventory and Five-Factor
+      Inventory Professional Manual</title>
+      <year>1992</year>
+      <url>http://www3.parinc.com/products/product.aspx?Productid=NEO-PI-R</url>
+    </Reference>
+    <type>ext</type>
+    <wikipedia>Revised NEO Personality Inventory</wikipedia>
+    <parent>81</parent>
+  </Ext>
+
+  <Ext>
+    <woext>511</woext>
+    <name>Neuroticism</name>
+    <description>One of the 'big-five' personality
+    traits. Not as a disease. NEO PI-R has 'anxiety', 'hostility',
+    'depression', 'self-consciousness', 'impulsiveness' and
+    'vulnerability' as subcomponents in NEO PI-R.</description>
+    <type>ext</type>
+    <wikipedia>Neuroticism</wikipedia>
+    <parent>510</parent>
+  </Ext>
+
+  <Ext>
+    <woext>512</woext>
+    <name>Extraversion</name>
+    <description>One of the 'big-five' personality
+    traits, and one of the main factors of NEO PI-R. 'Warmth',
+    'gregariousness', 'assertiveness', 'activity',
+    'excitement-seeking', 'positive emotions' are its
+    subcomponents in NEO PI-R. NEO PI-R 'Openness to experience' can
+    be quite correlated with the NEO PI-R Extraversion
+    trait.</description>     
+    <meshUid>D005120</meshUid>
+    <type>ext</type>
+    <parent>510</parent>
+  </Ext>
+
+  <Ext>
+    <woext>513</woext>
+    <name>Openness to experience</name>
+    <description>One of the 'big-five' personality traits, and one of
+    the main factors of NEO PI-R. 'Fantasy', 'aesthetics', 'feelings',
+    'actions', 'ideas' and 'values' are its subcomponents (so-called
+    'facets') in NEO PI-R. NEO PI-R 'Openness to experience' can be quite
+    correlated with the NEO PI-R Extraversion trait.</description>    
+    <type>ext</type>
+    <parent>510</parent>
+  </Ext>
+
+  <Ext>
+    <woext>514</woext>
+    <name>Agreeableness</name>
+    <description>One of the 'big-five' personality traits, and one of
+    the main factors of NEO PI-R. 'Trust', 'modesty', 'compliance',
+    'altruism', 'straightforwardness, 'tender-mindedness' are its
+    subcomponents in NEO PI-R.</description> 
+    <type>ext</type>
+    <parent>510</parent>
+  </Ext>
+
+  <Ext>
+    <woext>515</woext>
+    <name>Conscientiousness</name>
+    <description>One of the 'big-five' personality traits, and one of
+    the main factors of NEO PI-R. 'Competence', 'self-discipline',
+    'achievement-striving', 'dutifulness', 'order', 'deliberation' are
+    its subtraits in NEO PI-R.</description>
+    <type>ext</type>
+    <wikipedia>Conscientiousness</wikipedia>
+    <parent>510</parent>
+  </Ext>
+
+  <Ext>
+    <woext>516</woext>
+    <name>Verbal memory</name>
+    <description>Memory for words and language</description>
+    <type>ext</type>
+    <parent>7</parent>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>517</woext>
+    <name>Verbal retrieval</name>
+    <description>Memory retrieval of verbal material</description>
+    <type>ext</type>
+    <parent>24</parent>
+    <parent>516</parent>
+  </Ext>
+
+  <Ext>
+    <woext>518</woext>
+    <name>Verbal associative encoding</name>
+    <description>Memory encoding of, e.g., word pairs</description>
+    <type>ext</type>
+    <parent>453</parent>
+    <parent>458</parent>
+  </Ext>
+
+  <Ext>
+    <woext>519</woext>
+    <name>Verbal Episodic Memory Retrieval</name>
+    <type>ext</type>
+    <parent>109</parent>
+    <parent>517</parent>
+  </Ext>
+
+  <Ext>
+    <woext>520</woext>
+    <name>Sniffing</name>
+    <description>A motor and sensory act for transport of air in the
+    nostrils. The air might contain odour.</description>
+    <type>ext</type>
+    <parent>16</parent>
+  </Ext>
+
+  <Ext>
+    <woext>521</woext>
+    <name>Odour-based smelling</name>
+    <description>Olfaction/smelling of odours without regard to the
+    active stage of sniffing.</description>
+    <type>ext</type>
+    <parent>16</parent>
+  </Ext>
+
+  <Ext>
+    <woext>522</woext>
+    <name>Externally generated emotion</name>
+    <description>Emotion generated from external stimuli such as
+    emotional words or picturs</description>
+    <type>ext</type>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>523</woext>
+    <name>Internally generated emotion</name>
+    <description>Emotion generated internally such as by recollection
+    of emotional memories</description>
+    <type>ext</type>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>524</woext>
+    <name>Threat</name>
+    <description>Emotional threat response.</description>
+    <type>ext</type>
+    <wikipedia>Threat</wikipedia>
+    <parent>3</parent>
+  </Ext>
+
+  <Ext>
+    <woext>525</woext>
+    <name>Externally generated threat response</name>
+    <description>Threat response generated by threat-related stimuli
+    such as emotional words</description>
+    <type>ext</type>
+    <parent>522</parent>
+    <parent>524</parent>
+  </Ext>
+
+  <Ext>
+    <woext>526</woext>
+    <name>Implicit memory for abstract rule</name>
+    <type>ext</type>
+    <parent>135</parent>
+  </Ext>
+
+  <Ext>
+    <woext>527</woext>
+    <name>Skill acquisition in fixed stimulus response mappings</name>
+    <Reference>
+      <title>The Role of Medial Temporal Lobe Structures in Implicit
+      Learning: An Event-Related fMRI Study</title>
+      <authors>Rose, Haider, Weiller, Büchel</authors>
+      <pmid>12495634</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>33</parent>
+  </Ext>
+
+  <Ext>
+    <woext>528</woext>
+    <name>Expectancy violation</name>
+    <type>ext</type>
+    <parent>38</parent>
+  </Ext>
+
+  <Ext>
+    <woext>529</woext>
+    <name>Expectancy violation in implicit memory</name>
+    <Reference>
+      <title>The Role of Medial Temporal Lobe Structures in Implicit
+      Learning: An Event-Related fMRI Study</title>
+      <authors>Rose, Haider, Weiller, Büchel</authors>
+      <pmid>12495634</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>135</parent>
+    <parent>529</parent>
+  </Ext>
+
+  <Ext>
+    <woext>530</woext>
+    <name>Verbal fluency</name>
+    <description>Usually entails self-generating words beginning with
+    a given letter.</description>  
+    <type>ext</type>
+    <parent>7</parent>
+    <parent>62</parent>
+  </Ext>
+
+  <Ext>
+    <woext>531</woext>
+    <name>Word repetition</name>
+    <type>ext</type>
+    <parent>7</parent>
+  </Ext>
+
+  <Ext>
+    <woext>532</woext>
+    <name>Story comprehension</name>
+    <description>Comprehension of stories, e.g., when reading a text
+    consisting of multiple connected sentence.</description> 
+    <type>ext</type>
+    <parent>142</parent>
+  </Ext>
+
+  <Ext>
+    <woext>533</woext>
+    <name>Text story comprehension</name>
+    <description>Comprehension of written stories during
+    reading, e.g., as opposed to reading unlinked
+    setences.</description>  
+    <Reference>
+      <authors>Fletcher, Happé, Frith, Baker, Dolan, Frackowiak,
+      Frith</authors>
+      <title>Other minds in the brain: a functional imaging study of
+      &amp;theory of mind&amp; in story comprehensin</title>
+      <journal>Cognition</journal>
+      <pmid>8556839</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>32</parent>
+    <parent>532</parent>
+  </Ext>
+
+  <Ext>
+    <woext>534</woext>
+    <name>Rapid speech perception</name>
+    <description>Rapid auditory processing of heard
+    speech. Ordinary speech might have been processed to obtain rapid
+    'compressed' speech.</description>
+    <Reference>
+      <Author>
+	<name>Russell A. Poldrack</name>
+	<woper>79</woper>
+      </Author>
+      <title>Relations between the Neural Bases of Dynamic Auditory
+    Procesing and Phonological Processing: Evidence from fMRI</title> 
+      <journal>Journal of Cognitive Neuroscience</journal>
+      <pmid>11506664</pmid>
+      <year>2001</year>
+    </Reference>
+    <type>ext</type>
+    <parent>216</parent>
+  </Ext>
+
+  <Ext>
+    <woext>535</woext>
+    <name>Homophone judgement</name>
+    <description>Judgment whether a set phonemes (e.g., a word) is the
+    same, e.g., from visually presented characters.</description> 
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>368</parent>
+  </Ext>
+
+  <Ext>
+    <woext>536</woext>
+    <name>Initial-consonant judgement</name>
+    <description>Judgment whether the first consonant in a word or
+    syllable is the same, e.g., from visually presented
+    characters.</description>  
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>368</parent>
+  </Ext>
+
+  <Ext>
+    <woext>537</woext>
+    <name>Stimulated passive state</name>
+    <description>Conscious state with stimulation but with no task to
+    perform, e.g., as a baseline in connection with active states
+    where responses occure.</description>
+    <type>ext</type>
+    <parent>106</parent>
+  </Ext>
+
+  <Ext>
+    <woext>538</woext>
+    <name>Motion mental process</name>
+    <description>Mental processes involving motion, e.g., visual
+    motion, kinematic motion, motion verb sentences processes,
+    ...</description> 
+    <type>ext</type>
+    <parent>1</parent>
+  </Ext>
+
+  <Ext>
+    <woext>539</woext>
+    <name>Verbal motion</name>
+    <description>Motion in language, e.g., in motion verbs such as
+    "go" and "come".</description>
+    <type>ext</type>
+    <parent>7</parent>
+    <parent>538</parent>
+  </Ext>
+
+  <Ext>
+    <woext>540</woext>
+    <name>Recurrent depression</name>
+    <description>Major depressive disorder with recurrent
+    episodes.</description> 
+    <type>ext</type>
+    <whoIcdTen>F33</whoIcdTen>
+    <parent>497</parent>
+    <parent>500</parent>
+  </Ext>
+
+  <Ext>
+    <woext>541</woext>
+    <name>Stroop</name>
+    <description>"Reading colour names" (RCN) and "Naming Coloured
+    Words" (NCW). Classical Stroop test with conflict between word
+    reading and color viewing by exposition to color names printed
+    with incongruent colors</description> 
+    <Reference>
+      <author>John Ridley Stroop</author>
+      <journal>Journal of Experimental Psychology</journal>
+      <pages>643-662</pages>
+      <title>Studies of interference in serial verbal
+      reactions</title>
+      <volume>28</volume>
+      <year>1935</year>
+    </Reference>
+    <type>ext</type>
+    <wikipedia>Stroop effect</wikipedia>
+    <parent>2</parent>
+  </Ext>
+
+  <Ext>
+    <woext>542</woext>
+    <name>Externally generated happiness</name>
+    <description>Happy emotional state generated from external
+    stimuli, such as viewing a joyous film</description>
+    <type>ext</type>
+    <parent>314</parent>
+    <parent>522</parent>
+  </Ext>
+
+  <Ext>
+    <woext>543</woext>
+    <name>Externally generated disgust</name>
+    <description>The emotional state "disgust" generated from external
+    stimuli, such as by viewing film clips involving disgusting
+    scenes.</description>  
+    <type>ext</type>
+    <parent>265</parent>
+    <parent>522</parent>
+  </Ext>
+
+  <Ext>
+    <woext>544</woext>
+    <name>Externally generated sadness</name>
+    <description>Sad emotional state generated from external stimuli,
+    such as viewing sad film clips</description>
+    <type>ext</type>
+    <parent>288</parent>
+    <parent>522</parent>
+  </Ext>
+
+  <Ext>
+    <woext>545</woext>
+    <name>Happy memory</name>
+    <description>Happy emotional memory, e.g., recalling joyous
+    autobiographical memories</description>
+    <type>ext</type>
+    <parent>331</parent>
+    <parent>314</parent>
+  </Ext>
+
+  <Ext>
+    <woext>546</woext>
+    <name>Disgust memory</name>
+    <description>Emotional memory for disgust, e.g., recalling
+    autobiographical memories generating disgust</description>
+    <type>ext</type>
+    <parent>265</parent>
+    <parent>331</parent>
+  </Ext>
+
+  <Ext>
+    <woext>547</woext>
+    <name>Sadness memory</name>
+    <description>Emotional memory involving sadness</description>
+    <type>ext</type>
+    <parent>288</parent>
+    <parent>331</parent>
+  </Ext>
+
+  <Ext>
+    <woext>548</woext>
+    <name>Semantic processing</name>
+    <type>ext</type>
+    <parent>2</parent>
+  </Ext>
+  
+  <Ext>
+    <woext>549</woext>
+    <name>Abstract/concrete judgement</name>
+    <description>Judgment, e.g., of whether visually presented words
+    are abstract or refer to concrete objects</description>
+    <type>ext</type>
+    <parent>368</parent>
+    <parent>548</parent>
+  </Ext>
+
+  <Ext>
+    <woext>550</woext>
+    <name>Phonological processing</name>
+    <type>ext</type>
+    <parent>7</parent>
+  </Ext>
+
+  <Ext>
+    <woext>551</woext>
+    <name>Syllable counting</name>
+    <description>Counting the number of syllables of a presented
+    word</description> 
+    <Reference>
+      <authors>Russell A. Poldrack et al.</authors>
+      <journal>NeuroImage</journal>
+      <pmid>10385578</pmid>
+      <number>1</number>
+      <title>Functional Specialization for Semantic and Phonological
+      Processing in the Left Inferior Prefrontal Cortex</title>
+      <volume>10</volume>
+      <year>1999</year>
+    </Reference>
+    <type>ext</type>
+    <parent>50</parent>
+    <parent>63</parent>
+  </Ext>
+
+  <Ext>
+    <woext>552</woext>
+    <name>Case judgment</name>
+    <description>Judgment whether a word is written with small or
+    capital letters</description>
+    <Reference>
+      <authors>Russell A. Poldrack et al.</authors>
+      <journal>NeuroImage</journal>
+      <pmid>10385578</pmid>
+      <number>1</number>
+      <title>Functional Specialization for Semantic and Phonological
+      Processing in the Left Inferior Prefrontal Cortex</title>
+      <volume>10</volume>
+      <year>1999</year>
+    </Reference>
+    <type>ext</type>
+    <parent>368</parent>
+  </Ext>
+
+  <Ext>
+    <woext>553</woext>
+    <name>Unfairness in gaming</name>
+    <description>Response to unfairness in a game, e.g., receiving
+    unfair offers in an ultimatum game</description>
+    <type>ext</type>
+    <parent>153</parent>
+    <parent>478</parent>
+  </Ext>
+
+  <Ext>
+    <woext>554</woext>
+    <name>Item-related memory</name>
+    <description>Memory processes evoked by retrieval cues from
+    individual items</description>
+    <Reference>
+      <authors>Emrah Düzel et al.</authors>
+      <journal>PNAS</journal>
+      <number>4</number>
+      <pmid>9990104</pmid>
+      <title>Task-related and item-related brain processes of memory
+      retrieval</title>
+      <volume>96</volume>
+      <wobib>181</wobib>
+      <year>1999</year>
+    </Reference>
+    <type>ext</type>
+    <parent>9</parent>
+  </Ext>
+
+  <Ext>
+    <woext>555</woext>
+    <name>Spatial processing</name>
+    <type>ext</type>
+  </Ext>
+
+  <Ext>
+    <woext>556</woext>
+    <name>Visuospatial memory</name>
+    <type>ext</type>
+    <parent>472</parent>
+    <parent>474</parent>
+  </Ext>
+
+  <Ext>
+    <woext>557</woext>
+    <name>Visuospatial working memory</name>
+    <type>ext</type>
+    <parent>196</parent>
+    <parent>556</parent>
+  </Ext>
+
+  <Ext>
+    <woext>558</woext>
+    <name>Previous-target joystick cursor movement</name>
+    <description>Movement of a joystick with the hand to a previously
+    shown target resulting in a cursor movement on a computer
+    screen.</description> 
+    <type>ext</type>
+    <parent>176</parent>
+    <parent>557</parent>
+  </Ext>
+
+  <Ext>
+    <woext>559</woext>
+    <name>Fluent speech production</name>
+    <type>ext</type>
+    <parent>13</parent>
+  </Ext>
+
+  <Ext>
+    <woext>560</woext>
+    <name>Speech production rate</name>
+    <type>ext</type>
+    <parent>13</parent>
+    <parent>530</parent>
+  </Ext>
+
+  <Ext>
+    <woext>561</woext>
+    <name>Fluent speech production rate</name>
+    <type>ext</type>
+    <parent>559</parent>
+    <parent>560</parent>
+  </Ext>
+
+  <Ext>
+    <woext>562</woext>
+    <name>Immediate reward</name>
+    <Reference>
+      <authors>Samuel M. McClure, David I. Laibson, George
+    Loewenstein, Jonathan D. Cohen</authors>
+      <doi>10.1126/science.1100907</doi>
+      <journal>Science</journal>
+      <number>5695</number>
+      <pages>503-507</pages>
+      <pmid>15486304</pmid>
+      <title>Separate Neural Systems Value Immediate and Delayed
+    Monetary Rewards</title> 
+      <volume>306</volume>
+      <year>2004</year>
+    </Reference>
+    <type>ext</type>
+    <parent>335</parent>
+  </Ext>
+    
+  <Ext>
+    <woext>563</woext>
+    <name>Long-term reward</name>
+    <Reference>
+      <authors>Samuel M. McClure, David I. Laibson, George
+    Loewenstein, Jonathan D. Cohen</authors>
+      <doi>10.1126/science.1100907</doi>
+      <journal>Science</journal>
+      <number>5695</number>
+      <pages>503-507</pages>
+      <pmid>15486304</pmid>
+      <title>Separate Neural Systems Value Immediate and Delayed
+    Monetary Rewards</title> 
+      <volume>306</volume>
+      <year>2004</year>
+    </Reference>
+    <type>ext</type>
+    <parent>335</parent>
+  </Ext>
+
+  <Ext>
+    <woext>564</woext>
+    <name>Letter-cued silent word generation</name>
+    <description>Covert generation of words beginning with a given
+    letter</description> 
+    <Reference>
+      <authors>Paulesu et al</authors>
+      <title>Functiona heterogeneity of left inferior frontal cortex
+      as revealed by fMRI</title>
+      <journal>NeuroReport</journal>
+      <year>1997</year>
+      <volume>8</volume>
+      <number>8</number>
+      <pmid>9223094</pmid>
+    </Reference>
+    <type>ext</type>
+    <parent>282</parent>
+  </Ext>
+
+  <Ext>
+    <woext>565</woext>
+    <name>Category-cued silent word generation</name>
+    <description>Covert generations of words from a given category,
+    such as fruits, animals, or similar</description>
+    <type>ext</type>
+    <Reference>
+      <authors>Paulesu et al</authors>
+      <title>Functiona heterogeneity of left inferior frontal cortex
+      as revealed by fMRI</title>
+      <journal>NeuroReport</journal>
+      <year>1997</year>
+      <volume>8</volume>
+      <number>8</number>
+      <pmid>9223094</pmid>
+    </Reference>
+    <parent>282</parent>
+  </Ext>
+
+  <Ext>
+    <woext>566</woext>
+    <name>Guilty knowledge test lying</name>
+    <type>ext</type>
+    <parent>139</parent>
+  </Ext>
+
+  <Ext>
+    <woext>567</woext>
+    <name>Divided attention</name>
+    <type>ext</type>
+    <parent>6</parent>
+  </Ext>
+
+  <Ext>
+    <woext>568</woext>
+    <name>Focused attention</name>
+    <type>ext</type>
+    <parent>6</parent>
+  </Ext>
+
+</Exts>
+
+
+
+
+

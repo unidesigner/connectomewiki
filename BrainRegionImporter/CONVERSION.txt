@@ -1,0 +1,88 @@
+#!/usr/bin/env python
+
+# Abbreviation:     Species: 	                English Name: 	    Latin Abbreviation: 	Latin Name:         Other Name:
+# its abbrev.       Homo sapiens                its name            LA:                         LN:                 ON:
+
+# Synonym(s):       Freesurfer ID and Label:    Defining Criteria:  IsMandatory:                Definition:         Function Tag(s):
+# SYN:              FS:                         CRI:                IM:                         DEF:                FUN:
+
+# Wikipedia:        Neurolex:                   Part of:
+# WL:               NL:                         PO:
+
+# Imported from     Add. Category               References:
+# IMP:              CAT:                        REF:
+
+# Defining criteria: make the set maximal for a subdivision that is as specific as possible
+# anatomy
+# boundaries
+# chemoarchitecture
+# connectivity
+# cytoarchitecture
+# dendroarchitecture
+# developmental
+# imaging
+# myeloarchitecture
+# pigmentarchitecture
+# other ROI
+
+# raw_input("Blubb")
+
+# Additional Categories:
+#Category:Mesocortex
+#    Category:Periallocortex
+#    Category:Proisocortex
+#Category:Allocortex
+#    Category:Paleocortex
+#    Category:Archicortex
+#Category:Isocortex
+#
+#Category:Anatomy
+#    Category:Gyrus
+#    Category:Sulcus
+#    Category:White Matter
+#    Category:Grey Matter
+#    Category:Nucleus
+#    Category:Pole
+
+#Category:White Matter Tract
+#    Category:Projection fiber
+#    Category:Association fiber
+#        Category:Long Association fiber
+#        Category:Short Association fiber
+#    Category:Brainstem fiber
+#    Category:Commisural fiber
+
+# import all lines in FMA
+# fields with allowed multiple have special delimiter!
+
+# build etree with tabs and ids?, PO:fields! -> DONE.
+
+# generate fields
+## english name field
+## capitalize name
+
+## generate abbreviations
+### check numbers of entries! abbrev needed?
+### check in primate abbrev file
+### conflict level needs user interaction!?
+### see also: http://en.wikipedia.org/wiki/Anatomical_terms_of_location
+### Cortex -> Ctx or Cx
+### Gyrus -> G
+### Sulcus -> S
+### of -> ''
+### nucleus -> N or n
+### 
+### problems: set of, Right/Left
+
+## generate hierarchy -> DONE.
+## duplicate existing
+## generate wikipedia link -> imported Category:Cerebrum, enough for the moment
+## generate neurolex link -> Not so totally, maybe need a bot for neurolex?!
+## generate Freesurfer, multiple! -> DONE for 33 resolution, further later
+## generate wikipages -> DONE.
+
+# TODO:
+# RH, LH
+# CRI:anatomy, boundaries
+# multiple keys?
+# pywikipedia-bot run

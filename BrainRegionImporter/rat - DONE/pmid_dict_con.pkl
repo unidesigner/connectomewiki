@@ -1,0 +1,305 @@
+(dp0
+S''
+p1
+g1
+sS'679029'
+p2
+S'{{cite journal|title=Afferent connections of the entorhinal area in the rat as demonstrated by retrograde cell-labeling with horseradish peroxidase.|journal=Brain research|year=1978|author=Beckstead RM|coauthors=|volume=152|pages=249-64|id=PMID 679029|accessdate=2009-11-13}}'
+p3
+sS'3607449'
+p4
+S'{{cite journal|title=Columnar organization in the subiculum formed by axon branches originating from single CA1 pyramidal neurons in the rat hippocampus.|journal=Brain research|year=1987|author=Tamamaki N|coauthors=Abe K, Nojyo Y|volume=412|pages=156-60|id=PMID 3607449|accessdate=2009-11-13}}'
+p5
+sS'3343404'
+p6
+S'{{cite journal|title=Species differences in hippocampal commissural connections: studies in rat, guinea pig, rabbit, and cat.|journal=The Journal of comparative neurology|year=1988|author=Van Groen T|coauthors=Wyss JM|volume=267|pages=322-34|id=PMID 3343404|accessdate=2009-11-13}}'
+p7
+sS'1727001'
+p8
+S'{{cite journal|title=Organization of CA1 projections to the subiculum: a PHA-L analysis in the rat.|journal=Hippocampus|year=1991|author=Amaral DG|coauthors=Dolorfo C, Alvarez-Royo P|volume=1|pages=415-35|id=PMID 1727001|accessdate=2009-11-13}}'
+p9
+sS'8773257'
+p10
+S'{{cite journal|title=Quantitative morphological analysis of subicular terminals in the rat entorhinal cortex.|journal=Hippocampus|year=1995|author=van Haeften T|coauthors=Jorritsma-Byham B, Witter MP|volume=5|pages=452-9|id=PMID 8773257|accessdate=2009-11-13}}'
+p11
+sS'4118866'
+p12
+S'{{cite journal|title=Some intrinsic connections of the hippocampus in the rat: an experimental analysis.|journal=The Journal of comparative neurology|year=1973|author=Hjorth-Simonsen A|coauthors=|volume=147|pages=145-61|id=PMID 4118866|accessdate=2009-11-13}}'
+p13
+sS'7119174'
+p14
+S'{{cite journal|title=Topography between the entorhinal cortex and the dentate septotemporal axis in rats: I. Medial and intermediate entorhinal projecting cells.|journal=The Journal of comparative neurology|year=1982|author=Ruth RE|coauthors=Collier TJ, Routtenberg A|volume=209|pages=69-78|id=PMID 7119174|accessdate=2009-11-13}}'
+p15
+sS'2358523'
+p16
+S'{{cite journal|title=Organization of intrahippocampal projections originating from CA3 pyramidal cells in the rat.|journal=The Journal of comparative neurology|year=1990|author=Ishizuka N|coauthors=Weber J, Amaral DG|volume=295|pages=580-623|id=PMID 2358523|accessdate=2009-11-13}}'
+p17
+sS'632370'
+p18
+S'{{cite journal|title=Organization of the mossy fiber system of the rat studied in extended hippocampi. I. Terminal area related to number of granule and pyramidal cells.|journal=The Journal of comparative neurology|year=1978|author=Gaarskjaer FB|coauthors=|volume=178|pages=49-72|id=PMID 632370|accessdate=2009-11-13}}'
+p19
+sS'9348124'
+p20
+S'{{cite journal|title=Organization of the entorhinal projection to the rat dentate gyrus revealed by Dil anterograde labeling.|journal=Experimental brain research. Experimentelle Hirnforschung. Experimentation cerebrale|year=1997|author=Tamamaki N|coauthors=|volume=116|pages=250-8|id=PMID 9348124|accessdate=2009-11-13}}'
+p21
+sS'6180146'
+p22
+S"{{cite journal|title=Evidence for collateral projections by neurons in Ammon's horn, the dentate gyrus, and the subiculum: a multiple retrograde labeling study in the rat.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1981|author=Swanson LW|coauthors=Sawchenko PE, Cowan WM|volume=1|pages=548-59|id=PMID 6180146|accessdate=2009-11-13}}"
+p23
+sS'1713171'
+p24
+S'{{cite journal|title=Morphological characterization of rat entorhinal neurons in vivo: soma-dendritic structure and axonal domains.|journal=Experimental brain research. Experimentelle Hirnforschung. Experimentation cerebrale|year=1991|author=Lingenhohl K|coauthors=Finch DM|volume=84|pages=57-74|id=PMID 1713171|accessdate=2009-11-13}}'
+p25
+sS'690280'
+p26
+S'{{cite journal|title=An autoradiographic study of the organization of intrahippocampal association pathways in the rat.|journal=The Journal of comparative neurology|year=1978|author=Swanson LW|coauthors=Wyss JM, Cowan WM|volume=181|pages=681-715|id=PMID 690280|accessdate=2009-11-13}}'
+p27
+sS'4907846'
+p28
+S'{{cite journal|title=Distribution of hippocampal mossy fibers in the rat. An experimental study with silver impregnation methods.|journal=The Journal of comparative neurology|year=1970|author=Blackstad TW|coauthors=Brink K, Hem J, Jeune B|volume=138|pages=433-49|id=PMID 4907846|accessdate=2009-11-13}}'
+p29
+sS'1704281'
+p30
+S'{{cite journal|title=The postsubicular cortex in the rat: characterization of the fourth region of the subicular cortex and its connections.|journal=Brain research|year=1990|author=van Groen T|coauthors=Wyss JM|volume=529|pages=165-77|id=PMID 1704281|accessdate=2009-11-13}}'
+p31
+sS'1697208'
+p32
+S'{{cite journal|title=The connections of presubiculum and parasubiculum in the rat.|journal=Brain research|year=1990|author=van Groen T|coauthors=Wyss JM|volume=518|pages=227-43|id=PMID 1697208|accessdate=2009-11-13}}'
+p33
+sS'5073889'
+p34
+S'{{cite journal|title=Projection of the lateral part of the entorhinal area to the hippocampus and fascia dentata.|journal=The Journal of comparative neurology|year=1972|author=Hjorth-Simonsen A|coauthors=|volume=146|pages=219-32|id=PMID 5073889|accessdate=2009-11-13}}'
+p35
+sS'6883086'
+p36
+S'{{cite journal|title=A direct projection from the perirhinal cortex (area 35) to the subiculum in the rat.|journal=Brain research|year=1983|author=Kosel KC|coauthors=Van Hoesen GW, Rosene DL|volume=269|pages=347-51|id=PMID 6883086|accessdate=2009-11-13}}'
+p37
+sS'2836479'
+p38
+S'{{cite journal|title=Topographical relationship between the entorhinal cortex and the septotemporal axis of the dentate gyrus in rats: II. Cells projecting from lateral entorhinal subdivisions.|journal=The Journal of comparative neurology|year=1988|author=Ruth RE|coauthors=Collier TJ, Routtenberg A|volume=270|pages=506-16|id=PMID 2836479|accessdate=2009-11-13}}'
+p39
+sS'16359649'
+p40
+S'{{cite journal|title=CA3 axonal sprouting in kainate-induced chronic epilepsy.|journal=Brain research|year=2005|author=Siddiqui AH|coauthors=Joseph SA|volume=1066|pages=129-46|id=PMID 16359649|accessdate=2009-11-13}}'
+p41
+sS'7237176'
+p42
+S'{{cite journal|title=Demonstration of caudally directed hippocampal efferents in the rat by intracellular injection of horseradish peroxidase.|journal=Brain research|year=1981|author=Finch DM|coauthors=Babb TL|volume=214|pages=405-10|id=PMID 7237176|accessdate=2009-11-13}}'
+p43
+sS'5585500'
+p44
+S'{{cite journal|title=An electron microscope study on the termination of the perforant path fibres in the hippocampus and the fascia dentata.|journal=Zeitschrift fur Zellforschung und mikroskopische Anatomie (Vienna, Austria : 1948)|year=1967|author=Nafstad PH|coauthors=|volume=76|pages=532-42|id=PMID 5585500|accessdate=2009-11-13}}'
+p45
+sS'9261838'
+p46
+S'{{cite journal|title=Parallel input to the hippocampal memory system through peri- and postrhinal cortices.|journal=Neuroreport|year=1997|author=Naber PA|coauthors=Caballero-Bleda M, Jorritsma-Byham B, Witter MP|volume=8|pages=2617-21|id=PMID 9261838|accessdate=2009-11-13}}'
+p47
+sS'4458909'
+p48
+S'{{cite journal|title=Afferents to the hippocampus of the rat studied with the method of retrograde transport of horseradish peroxidase.|journal=Brain research|year=1974|author=Segal M|coauthors=Landis S|volume=78|pages=1-15|id=PMID 4458909|accessdate=2009-11-13}}'
+p49
+sS'8124522'
+p50
+S'{{cite journal|title=Complete axon arborization of a single CA3 pyramidal cell in the rat hippocampus, and its relationship with postsynaptic parvalbumin-containing interneurons.|journal=The European journal of neuroscience|year=1993|author=Sik A|coauthors=Tamamaki N, Freund TF|volume=5|pages=1719-28|id=PMID 8124522|accessdate=2009-11-13}}'
+p51
+sS'9492202'
+p52
+S'{{cite journal|title=Perirhinal and postrhinal cortices of the rat: interconnectivity and connections with the entorhinal cortex.|journal=The Journal of comparative neurology|year=1998|author=Burwell RD|coauthors=Amaral DG|volume=391|pages=293-321|id=PMID 9492202|accessdate=2009-11-13}}'
+p53
+sS'12454982'
+p54
+S'{{cite journal|title=Topographical and laminar organization of subicular projections to the parahippocampal region of the rat.|journal=The Journal of comparative neurology|year=2002|author=Kloosterman F|coauthors=Witter MP, Van Haeften T|volume=455|pages=156-71|id=PMID 12454982|accessdate=2009-11-13}}'
+p55
+sS'16987216'
+p56
+S'{{cite journal|title=Hippocampal CA3 pyramidal cells selectively innervate aspiny interneurons.|journal=The European journal of neuroscience|year=2006|author=Wittner L|coauthors=Henze DA, Zaborszky L, Buzsaki G|volume=24|pages=1286-98|id=PMID 16987216|accessdate=2009-11-13}}'
+p57
+sS'14750656'
+p58
+S'{{cite journal|title=Morphological and numerical analysis of synaptic interactions between neurons in deep and superficial layers of the entorhinal cortex of the rat.|journal=Hippocampus|year=2004|author=van Haeften T|coauthors=Baks-te-Bulte L, Goede PH, Wouterlood FG, Witter MP|volume=13|pages=943-52|id=PMID 14750656|accessdate=2009-11-13}}'
+p59
+sS'11345118'
+p60
+S'{{cite journal|title=Evidence for a direct projection from the postrhinal cortex to the subiculum in the rat.|journal=Hippocampus|year=2001|author=Naber PA|coauthors=Witter MP, Lopes da Silva FH|volume=11|pages=105-17|id=PMID 11345118|accessdate=2009-11-13}}'
+p61
+sS'72679'
+p62
+S'{{cite journal|title=Afferents to the entorhinal cortex of the rat studied by the method of retrograde transport of horseradish peroxidase.|journal=Experimental neurology|year=1977|author=Segal M|coauthors=|volume=57|pages=750-65|id=PMID 72679|accessdate=2009-11-13}}'
+p63
+sS'3958250'
+p64
+S'{{cite journal|title=Intrinsic connections of the retrohippocampal region in the rat brain. II. The medial entorhinal area.|journal=The Journal of comparative neurology|year=1986|author=Kohler C|coauthors=|volume=246|pages=149-69|id=PMID 3958250|accessdate=2009-11-13}}'
+p65
+sS'8627369'
+p66
+S'{{cite journal|title=A novel entorhinal projection to the rat dentate gyrus: direct innervation of proximal dendrites and cell bodies of granule cells and GABAergic neurons.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1996|author=Deller T|coauthors=Martinez A, Nitsch R, Frotscher M|volume=16|pages=3322-33|id=PMID 8627369|accessdate=2009-11-13}}'
+p67
+sS'1702115'
+p68
+S'{{cite journal|title=Extrinsic projections from area CA1 of the rat hippocampus: olfactory, cortical, subcortical, and bilateral hippocampal formation projections.|journal=The Journal of comparative neurology|year=1990|author=van Groen T|coauthors=Wyss JM|volume=302|pages=515-28|id=PMID 1702115|accessdate=2009-11-13}}'
+p69
+sS'8738371'
+p70
+S'{{cite journal|title=Afferents to the seizure-sensitive neurons in layer III of the medial entorhinal area: a tracing study in the rat.|journal=Experimental brain research. Experimentelle Hirnforschung. Experimentation cerebrale|year=1996|author=Eid T|coauthors=Jorritsma-Byham B, Schwarcz R, Witter MP|volume=109|pages=209-18|id=PMID 8738371|accessdate=2009-11-13}}'
+p71
+sS'15116384'
+p72
+S'{{cite journal|title=Organization of connectivity of the rat presubiculum: I. Efferent projections to the medial entorhinal cortex.|journal=The Journal of comparative neurology|year=2004|author=Honda Y|coauthors=Ishizuka N|volume=473|pages=463-84|id=PMID 15116384|accessdate=2009-11-13}}'
+p73
+sS'6643724'
+p74
+S'{{cite journal|title=Afferent connections of the perirhinal cortex in the rat.|journal=The Journal of comparative neurology|year=1983|author=Deacon TW|coauthors=Eichenbaum H, Rosenberg P, Eckmann KW|volume=220|pages=168-90|id=PMID 6643724|accessdate=2009-11-13}}'
+p75
+sS'11345131'
+p76
+S'{{cite journal|title=Reciprocal connections between the entorhinal cortex and hippocampal fields CA1 and the subiculum are in register with the projections from CA1 to the subiculum.|journal=Hippocampus|year=2001|author=Naber PA|coauthors=Lopes da Silva FH, Witter MP|volume=11|pages=99-104|id=PMID 11345131|accessdate=2009-11-13}}'
+p77
+sS'16344147'
+p78
+S'{{cite journal|title=Entorhinal projections terminate onto principal neurons and interneurons in the subiculum: a quantitative electron microscopical analysis in the rat.|journal=Neuroscience|year=2005|author=Baks-Te Bulte L|coauthors=Wouterlood FG, Vinkenoog M, Witter MP|volume=136|pages=729-39|id=PMID 16344147|accessdate=2009-11-13}}'
+p79
+sS'17604355'
+p80
+S'{{cite journal|title=Functional neuroanatomy of the parahippocampal region in the rat: the perirhinal and postrhinal cortices.|journal=Hippocampus|year=2007|author=Furtak SC|coauthors=Wei SM, Agster KL, Burwell RD|volume=17|pages=709-22|id=PMID 17604355|accessdate=2009-11-13}}'
+p81
+sS'18000818'
+p82
+S'{{cite journal|title=Convergence of entorhinal and CA3 inputs onto pyramidal neurons and interneurons in hippocampal area CA1--an anatomical study in the rat.|journal=Hippocampus|year=2007|author=Kajiwara R|coauthors=Wouterlood FG, Sah A, Boekel AJ, Baks-te Bulte LT, Witter MP|volume=18|pages=266-80|id=PMID 18000818|accessdate=2009-11-13}}'
+p83
+sS'422759'
+p84
+S'{{cite journal|title=Commissural and intrinsic connections of the rat hippocampus.|journal=The Journal of comparative neurology|year=1979|author=Laurberg S|coauthors=|volume=184|pages=685-708|id=PMID 422759|accessdate=2009-11-13}}'
+p85
+sS'3020190'
+p86
+S'{{cite journal|title=Anatomical evidence for direct projections from the entorhinal area to the entire cortical mantle in the rat.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1986|author=Swanson LW|coauthors=Kohler C|volume=6|pages=3010-23|id=PMID 3020190|accessdate=2009-11-13}}'
+p87
+sS'9700566'
+p88
+S'{{cite journal|title=Cortical afferents of the perirhinal, postrhinal, and entorhinal cortices of the rat.|journal=The Journal of comparative neurology|year=1998|author=Burwell RD|coauthors=Amaral DG|volume=398|pages=179-205|id=PMID 9700566|accessdate=2009-11-13}}'
+p89
+sS'65364'
+p90
+S'{{cite journal|title=An autoradiographic study of the organization of the efferent connections of the hippocampal formation in the rat.|journal=The Journal of comparative neurology|year=1977|author=Swanson LW|coauthors=Cowan WM|volume=172|pages=49-84|id=PMID 65364|accessdate=2009-11-13}}'
+p91
+sS'2409482'
+p92
+S'{{cite journal|title=A projection from the deep layers of the entorhinal area to the hippocampal formation in the rat brain.|journal=Neuroscience letters|year=1985|author=Kohler C|coauthors=|volume=56|pages=13-9|id=PMID 2409482|accessdate=2009-11-13}}'
+p93
+sS'17717699'
+p94
+S'{{cite journal|title=Three-dimensional reconstruction of the axon arbor of a CA3 pyramidal cell recorded and filled in vivo.|journal=Brain structure & function|year=2007|author=Wittner L|coauthors=Henze DA, Zaborszky L, Buzsaki G|volume=212|pages=75-83|id=PMID 17717699|accessdate=2009-11-13}}'
+p95
+sS'75894'
+p96
+S'{{cite journal|title=Organization of the mossy fiber system of the rat studied in extended hippocampi. II. Experimental analysis of fiber distribution with silver impregnation methods.|journal=The Journal of comparative neurology|year=1978|author=Gaarskjaer FB|coauthors=|volume=178|pages=73-88|id=PMID 75894|accessdate=2009-11-13}}'
+p97
+sS'3902916'
+p98
+S'{{cite journal|title=Intrinsic projections of the retrohippocampal region in the rat brain. I. The subicular complex.|journal=The Journal of comparative neurology|year=1985|author=Kohler C|coauthors=|volume=236|pages=504-22|id=PMID 3902916|accessdate=2009-11-13}}'
+p99
+sS'2329188'
+p100
+S'{{cite journal|title=Disposition of the slab-like modules formed by axon branches originating from single CA1 pyramidal neurons in the rat hippocampus.|journal=The Journal of comparative neurology|year=1990|author=Tamamaki N|coauthors=Nojyo Y|volume=291|pages=509-19|id=PMID 2329188|accessdate=2009-11-13}}'
+p101
+sS'7534172'
+p102
+S'{{cite journal|title=Ultrastructural identification of entorhinal cortical synapses in CA1 stratum lacunosum-moleculare of the rat.|journal=Hippocampus|year=1994|author=Desmond NL|coauthors=Scott CA, Jane JA Jr, Levy WB|volume=4|pages=594-600|id=PMID 7534172|accessdate=2009-11-13}}'
+p103
+sS'6616174'
+p104
+S'{{cite journal|title=Demonstration of axonal projections of neurons in the rat hippocampus and subiculum by intracellular injection of HRP.|journal=Brain research|year=1983|author=Finch DM|coauthors=Nowlin NL, Babb TL|volume=271|pages=201-16|id=PMID 6616174|accessdate=2009-11-13}}'
+p105
+sS'8300905'
+p106
+S'{{cite journal|title=The hippocampal CA3 network: an in vivo intracellular labeling study.|journal=The Journal of comparative neurology|year=1994|author=Li XG|coauthors=Somogyi P, Ylinen A, Buzsaki G|volume=339|pages=181-208|id=PMID 8300905|accessdate=2009-11-13}}'
+p107
+sS'9548550'
+p108
+S'{{cite journal|title=Subicular efferents are organized mostly as parallel projections: a double-labeling, retrograde-tracing study in the rat.|journal=The Journal of comparative neurology|year=1998|author=Naber PA|coauthors=Witter MP|volume=393|pages=284-97|id=PMID 9548550|accessdate=2009-11-13}}'
+p109
+sS'12106290'
+p110
+S'{{cite journal|title=Heterogeneity in the Dorsal Subiculum of the Rat. Distinct Neuronal Zones Project to Different Cortical and Subcortical Targets.|journal=The European journal of neuroscience|year=1990|author=Witter MP|coauthors=Ostendorf RH, Groenewegen HJ|volume=2|pages=718-725|id=PMID 12106290|accessdate=2009-11-13}}'
+p111
+sS'6374516'
+p112
+S'{{cite journal|title=Morphological details of the projection from the presubiculum to the entorhinal area as shown with the novel PHA-L immunohistochemical tracing method in the rat.|journal=Neuroscience letters|year=1984|author=Kohler C|coauthors=|volume=45|pages=285-90|id=PMID 6374516|accessdate=2009-11-13}}'
+p113
+sS'4106861'
+p114
+S'{{cite journal|title=Hippocampal efferents to the ipsilateral entorhinal area: an experimental study in the rat.|journal=The Journal of comparative neurology|year=1971|author=Hjorth-Simonsen A|coauthors=|volume=142|pages=417-37|id=PMID 4106861|accessdate=2009-11-13}}'
+p115
+sS'8923527'
+p116
+S'{{cite journal|title=Heterogeneity of the commissural projection to the rat dentate gyrus: a Phaseolus vulgaris leucoagglutinin tracing study.|journal=Neuroscience|year=1996|author=Deller T|coauthors=Nitsch R, Frotscher M|volume=75|pages=111-21|id=PMID 8923527|accessdate=2009-11-13}}'
+p117
+sS'3379162'
+p118
+S'{{cite journal|title=Intrinsic connections of the retrohippocampal region in the rat brain: III. The lateral entorhinal area.|journal=The Journal of comparative neurology|year=1988|author=Kohler C|coauthors=|volume=271|pages=208-28|id=PMID 3379162|accessdate=2009-11-13}}'
+p119
+sS'18067148'
+p120
+S'{{cite journal|title=Organization of connectivity of the rat presubiculum: II. Associational and commissural connections.|journal=The Journal of comparative neurology|year=2007|author=Honda Y|coauthors=Umitsu Y, Ishizuka N|volume=506|pages=640-58|id=PMID 18067148|accessdate=2009-11-13}}'
+p121
+sS'9703026'
+p122
+S'{{cite journal|title=Entorhinal cortex of the rat: topographic organization of the cells of origin of the perforant path projection to the dentate gyrus.|journal=The Journal of comparative neurology|year=1998|author=Dolorfo CL|coauthors=Amaral DG|volume=398|pages=25-48|id=PMID 9703026|accessdate=2009-11-13}}'
+p123
+sS'9703027'
+p124
+S'{{cite journal|title=Entorhinal cortex of the rat: organization of intrinsic connections.|journal=The Journal of comparative neurology|year=1998|author=Dolorfo CL|coauthors=Amaral DG|volume=398|pages=49-82|id=PMID 9703027|accessdate=2009-11-13}}'
+p125
+sS'17607757'
+p126
+S'{{cite journal|title=Functional neuroanatomy of the parahippocampal region: the lateral and medial entorhinal areas.|journal=Hippocampus|year=2007|author=Kerr KM|coauthors=Agster KL, Furtak SC, Burwell RD|volume=17|pages=697-708|id=PMID 17607757|accessdate=2009-11-13}}'
+p127
+sS'15196963'
+p128
+S'{{cite journal|title=Input from the presubiculum to dendrites of layer-V neurons of the medial entorhinal cortex of the rat.|journal=Brain research|year=2004|author=Wouterlood FG|coauthors=Van Haeften T, Eijkhoudt M, Baks-Te-Bulte L, Goede PH, Witter MP|volume=1013|pages=1-12|id=PMID 15196963|accessdate=2009-11-13}}'
+p129
+sS'10911896'
+p130
+S'{{cite journal|title=Presubicular input to the dendrites of layer-V entorhinal neurons in the rat.|journal=Annals of the New York Academy of Sciences|year=2000|author=van Haeften T|coauthors=Wouterlood FG, Witter MP|volume=911|pages=471-3|id=PMID 10911896|accessdate=2009-11-13}}'
+p131
+sS'7397553'
+p132
+S'{{cite journal|title=Evidence that the commissural, associational and septal projections of the regio inferior of the hippocampus arise from the same neurons.|journal=Brain research|year=1980|author=Swanson LW|coauthors=Sawchenko PE, Cowan WM|volume=197|pages=207-12|id=PMID 7397553|accessdate=2009-11-13}}'
+p133
+sS'8429124'
+p134
+S'{{cite journal|title=Regional and laminar organization of projections from the presubiculum and parasubiculum to the entorhinal cortex: an anterograde tracing study in the rat.|journal=The Journal of comparative neurology|year=1993|author=Caballero-Bleda M|coauthors=Witter MP|volume=328|pages=115-29|id=PMID 8429124|accessdate=2009-11-13}}'
+p135
+sS'3374835'
+p136
+S'{{cite journal|title=Entorhinal projections to the hippocampal CA1 region in the rat: an underestimated pathway.|journal=Neuroscience letters|year=1988|author=Witter MP|coauthors=Griffioen AW, Jorritsma-Byham B, Krijnen JL|volume=85|pages=193-8|id=PMID 3374835|accessdate=2009-11-13}}'
+p137
+sS'6168668'
+p138
+S'{{cite journal|title=An autoradiographic study of the efferent connections of the entorhinal cortex in the rat.|journal=The Journal of comparative neurology|year=1981|author=Wyss JM|coauthors=|volume=199|pages=495-512|id=PMID 6168668|accessdate=2009-11-13}}'
+p139
+sS'17559940'
+p140
+S'{{cite journal|title=Spatial organization of direct hippocampal field CA1 axonal projections to the rest of the cerebral cortex.|journal=Brain research reviews|year=2007|author=Cenquizca LA|coauthors=Swanson LW|volume=56|pages=1-26|id=PMID 17559940|accessdate=2009-11-13}}'
+p141
+sS'7225870'
+p142
+S'{{cite journal|title=Associational and commissural collaterals of neurons in the hippocampal formation (hilus fasciae dentatae and subfield CA3).|journal=Brain research|year=1981|author=Laurberg S|coauthors=Sorensen KE|volume=212|pages=287-300|id=PMID 7225870|accessdate=2009-11-13}}'
+p143
+sS'7538515'
+p144
+S'{{cite journal|title=Preservation of topography in the connections between the subiculum, field CA1, and the entorhinal cortex in rats.|journal=The Journal of comparative neurology|year=1995|author=Tamamaki N|coauthors=Nojyo Y|volume=353|pages=379-90|id=PMID 7538515|accessdate=2009-11-13}}'
+p145
+sS'15140566'
+p146
+S'{{cite journal|title=A quantitative analysis of the laminar distribution of synaptic boutons in field CA3 of the rat hippocampus.|journal=Neuroscience research|year=2004|author=Matsuda S|coauthors=Kobayashi Y, Ishizuka N|volume=49|pages=241-52|id=PMID 15140566|accessdate=2009-11-13}}'
+p147
+sS'8987807'
+p148
+S'{{cite journal|title=GABAergic presubicular projections to the medial entorhinal cortex of the rat.|journal=The Journal of neuroscience : the official journal of the Society for Neuroscience|year=1997|author=van Haeften T|coauthors=Wouterlood FG, Jorritsma-Byham B, Witter MP|volume=17|pages=862-74|id=PMID 8987807|accessdate=2009-11-13}}'
+p149
+sS'1270625'
+p150
+S'{{cite journal|title=Topographic organization of the projections from the entorhinal area to the hippocampal formation of the rat.|journal=The Journal of comparative neurology|year=1976|author=Steward O|coauthors=|volume=167|pages=285-314|id=PMID 1270625|accessdate=2009-11-13}}'
+p151
+s.

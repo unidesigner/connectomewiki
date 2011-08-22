@@ -1,0 +1,407 @@
+FreeSurfer;BIRN_Title;NN_ID;NN_String
+Left-Cerebral-White-Matter;Cerebral white matter;171;CEREBRAL WHITE MATTER
+Left-Cerebral-Cortex;Cerebral cortex;20;CEREBRAL CORTEX
+Left-Cerebellum-Exterior;Cerebellum;640;CEREBELLUM
+Left-Cerebellum-White-Matter;Cerebellar white matter;688;CEREBELLAR WHITE MATTER
+Left-Cerebellum-Cortex;Cerebellar cortex;644;CEREBELLAR CORTEX
+Left-Thalamus;Thalamus;283;THALAMUS
+Left-Thalamus-Proper;Thalamus;283;THALAMUS
+Left-Caudate;Caudate nucleus;208;CAUDATE NUCLEUS
+Left-Putamen;Putamen;212;putamen
+Left-Pallidum;Globus pallidus;213;GLOBUS PALLIDUS
+Left-Hippocampus;Hippocampal formation;159;HIPPOCAMPAL FORMATION
+Left-Amygdala;Amygdala;219;AMYGDALA
+Left-Insula;Insula;93;INSULA
+Left-Operculum;Opercular part of inferior frontal gyrus;69;opercular part of inferior frontal gyrus (H)
+Left-Accumbens-area;Nucleus accumbens;259;nucleus accumbens
+Left-Substancia-Nigra;Substantia nigra;527;SUBSTANTIA NIGRA
+Left-F3orb;Orbital part of inferior frontal gyrus;70;orbital part of inferior frontal gyrus (H)
+Left-lOg;Lateral orbital gyrus;74;lateral orbital gyrus
+Left-aOg;Orbital gyri complex;73;ORBITAL GYRI
+Left-mOg;Medial orbital gyrus;75;medial orbital gyrus
+Left-pOg;Posterior orbital gyrus;-1761421113;posterior orbital gyrus (H)
+Left-Porg;Posterior orbital gyrus;-1761421113;posterior orbital gyrus (H)
+Left-Aorg;Orbital gyri complex;73;ORBITAL GYRI
+Right-Cerebral-White-Matter;Cerebral white matter;171;CEREBRAL WHITE MATTER
+Right-Cerebral-Cortex;Cerebral cortex;20;CEREBRAL CORTEX
+Right-Cerebellum-Exterior;Cerebellum;640;CEREBELLUM
+Right-Cerebellum-White-Matter;Cerebellar white matter;688;CEREBELLAR WHITE MATTER
+Right-Cerebellum-Cortex;Cerebellar cortex;644;CEREBELLAR CORTEX
+Right-Thalamus;Thalamus;283;THALAMUS
+Right-Thalamus-Proper;Thalamus;283;THALAMUS
+Right-Caudate;Caudate nucleus;208;CAUDATE NUCLEUS
+Right-Putamen;Putamen;212;putamen
+Right-Pallidum;Globus pallidus;213;GLOBUS PALLIDUS
+Right-Hippocampus;Hippocampal formation;159;HIPPOCAMPAL FORMATION
+Right-Amygdala;Amygdala;219;AMYGDALA
+Right-Insula;Insula;93;INSULA
+Right-Operculum;Opercular part of inferior frontal gyrus;69;opercular part of inferior frontal gyrus (H)
+Right-Accumbens-area;Nucleus accumbens;259;nucleus accumbens
+Right-Substancia-Nigra;Substantia nigra;527;SUBSTANTIA NIGRA
+Right-F3orb;Orbital part of inferior frontal gyrus;70;orbital part of inferior frontal gyrus (H)
+Right-lOg;Lateral orbital gyrus;74;lateral orbital gyrus
+Right-aOg;Orbital gyri complex;73;ORBITAL GYRI
+Right-mOg;Medial orbital gyrus;75;medial orbital gyrus
+Right-pOg;Posterior orbital gyrus;-1761421113;posterior orbital gyrus (H)
+Right-Porg;Posterior orbital gyrus;-1761421113;posterior orbital gyrus (H)
+Right-Aorg;Orbital gyri complex;73;ORBITAL GYRI
+5th-Ventricle;Septal pellucidum;238;SEPTUM PELLUCIDUM
+Left-F1;Superior frontal gyrus;65;superior frontal gyrus
+Right-F1;Superior frontal gyrus;65;superior frontal gyrus
+Optic-Chiasm;Optic chiasm;442;optic chiasm
+Left-Amygdala-Anterior;Amygdala;219;AMYGDALA
+Right-Amygdala-Anterior;Amygdala;219;AMYGDALA
+Left-Caudate/Putamen;Neostriatum;207;STRIATUM
+Right-Caudate/Putamen;Neostriatum;207;STRIATUM
+Left-Claustrum;Claustrum;234;claustrum
+Right-Claustrum;Claustrum;234;claustrum
+Left-CADG-head;Hippocampal formation;159;HIPPOCAMPAL FORMATION
+Left-fimbria;Fimbria;169;fimbria of hippocampus
+Right-CADG-head;Hippocampal formation;159;HIPPOCAMPAL FORMATION
+Right-fimbria;Fimbria;169;fimbria of hippocampus
+alveus;Alveus;168;alveus
+presubiculum;Presubiculum;149;presubiculum
+CA1;CA1;165;CA1 field
+CA2;CA2;166;CA2 field
+CA3;CA3;167;CA3 field
+CA4;Hilus of dentate gyrus;163;hilus of dentate gyrus
+fimbria;Fimbria;169;fimbria of hippocampus
+entorhinal_cortex;Entorhinal cortex;150;entorhinal area
+Amygdala;Amygdala;219;AMYGDALA
+Cerebral_White_Matter;Cerebral white matter;171;CEREBRAL WHITE MATTER
+Cerebral_Cortex;Cerebral cortex;20;CEREBRAL CORTEX
+Ectorhinal;Fusiform gyrus;121;fusiform gyrus
+Perirhinal;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+V2;Occipital gyrus;134;occipital gyrus (M)
+BA44;Frontal operculum;39;frontal operculum
+BA45;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+BA4a;Precentral gyrus;71;precentral gyrus
+BA4p;Precentral gyrus;71;precentral gyrus
+BA6;Precentral gyrus;71;precentral gyrus
+BA2;Postcentral gyrus;87;postcentral gyrus
+BAun1;Postcentral gyrus;87;postcentral gyrus
+BAun2;Postcentral gyrus;87;postcentral gyrus
+ctx-lh-cuneus;Cuneus cortex;139;cuneus
+ctx-lh-entorhinal;Entorhinal cortex;150;entorhinal area
+ctx-lh-fusiform;Fusiform gyrus;121;fusiform gyrus
+ctx-lh-inferiorparietal;Inferior parietal cortex;89;INFERIOR PARIETAL LOBULE
+ctx-lh-inferiortemporal;Inferior temporal gyrus;120;inferior temporal gyrus
+ctx-lh-lateraloccipital;Lateral occipital cortex;137;lateral occipital gyrus (H)
+ctx-lh-lingual;Lingual gyrus;140;lingual gyrus
+ctx-lh-medialorbitofrontal;Medial orbital frontal cortex;37;FRONTAL LOBE
+ctx-lh-middletemporal;Middle temporal gyrus;119;middle temporal gyrus
+ctx-lh-parahippocampal;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+ctx-lh-paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+ctx-lh-parsopercularis;Frontal operculum;39;frontal operculum
+ctx-lh-parsorbitalis;Orbital operculum;40;orbital operculum
+ctx-lh-parstriangularis;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+ctx-lh-postcentral;Postcentral gyrus;87;postcentral gyrus
+ctx-lh-precentral;Precentral gyrus;71;precentral gyrus
+ctx-lh-precuneus;Precuneus cortex;92;precuneus
+ctx-lh-superiorfrontal;Superior frontal gyrus;65;superior frontal gyrus
+ctx-lh-superiorparietal;Superior parietal cortex;88;superior parietal lobule
+ctx-lh-superiortemporal;Superior temporal gyrus;118;superior temporal gyrus
+ctx-lh-supramarginal;Supramarginal gyrus;90;supramarginal gyrus
+ctx-lh-frontalpole;Frontal pole;38;frontal pole
+ctx-lh-temporalpole;Temporal pole;108;temporal pole
+ctx-rh-cuneus;Cuneus cortex;139;cuneus
+ctx-rh-entorhinal;Entorhinal cortex;150;entorhinal area
+ctx-rh-fusiform;Fusiform gyrus;121;fusiform gyrus
+ctx-rh-inferiorparietal;Inferior parietal cortex;89;INFERIOR PARIETAL LOBULE
+ctx-rh-inferiortemporal;Inferior temporal gyrus;120;inferior temporal gyrus
+ctx-rh-lateraloccipital;Lateral occipital cortex;137;lateral occipital gyrus (H)
+ctx-rh-lingual;Lingual gyrus;140;lingual gyrus
+ctx-rh-medialorbitofrontal;Medial orbital frontal cortex;37;FRONTAL LOBE
+ctx-rh-middletemporal;Middle temporal gyrus;119;middle temporal gyrus
+ctx-rh-parahippocampal;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+ctx-rh-paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+ctx-rh-parsopercularis;Frontal operculum;39;frontal operculum
+ctx-rh-parsorbitalis;Orbital operculum;40;orbital operculum
+ctx-rh-parstriangularis;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+ctx-rh-postcentral;Postcentral gyrus;87;postcentral gyrus
+ctx-rh-precentral;Precentral gyrus;71;precentral gyrus
+ctx-rh-precuneus;Precuneus cortex;92;precuneus
+ctx-rh-superiorfrontal;Superior frontal gyrus;65;superior frontal gyrus
+ctx-rh-superiorparietal;Superior parietal cortex;88;superior parietal lobule
+ctx-rh-superiortemporal;Superior temporal gyrus;118;superior temporal gyrus
+ctx-rh-supramarginal;Supramarginal gyrus;90;supramarginal gyrus
+ctx-rh-frontalpole;Frontal pole;38;frontal pole
+ctx-rh-temporalpole;Temporal pole;108;temporal pole
+wm-lh-cuneus;Cuneus cortex;139;cuneus
+wm-lh-entorhinal;Entorhinal cortex;150;entorhinal area
+wm-lh-fusiform;Fusiform gyrus;121;fusiform gyrus
+wm-lh-inferiorparietal;Inferior parietal cortex;89;INFERIOR PARIETAL LOBULE
+wm-lh-inferiortemporal;Inferior temporal gyrus;120;inferior temporal gyrus
+wm-lh-lateraloccipital;Lateral occipital cortex;137;lateral occipital gyrus (H)
+wm-lh-lingual;Lingual gyrus;140;lingual gyrus
+wm-lh-medialorbitofrontal;Medial orbital frontal cortex;37;FRONTAL LOBE
+wm-lh-middletemporal;Middle temporal gyrus;119;middle temporal gyrus
+wm-lh-parahippocampal;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+wm-lh-paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+wm-lh-parsopercularis;Frontal operculum;39;frontal operculum
+wm-lh-parsorbitalis;Orbital operculum;40;orbital operculum
+wm-lh-parstriangularis;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+wm-lh-postcentral;Postcentral gyrus;87;postcentral gyrus
+wm-lh-precentral;Precentral gyrus;71;precentral gyrus
+wm-lh-precuneus;Precuneus cortex;92;precuneus
+wm-lh-superiorfrontal;Superior frontal gyrus;65;superior frontal gyrus
+wm-lh-superiorparietal;Superior parietal cortex;88;superior parietal lobule
+wm-lh-superiortemporal;Superior temporal gyrus;118;superior temporal gyrus
+wm-lh-supramarginal;Supramarginal gyrus;90;supramarginal gyrus
+wm-lh-frontalpole;Frontal pole;38;frontal pole
+wm-lh-temporalpole;Temporal pole;108;temporal pole
+wm-rh-cuneus;Cuneus cortex;139;cuneus
+wm-rh-entorhinal;Entorhinal cortex;150;entorhinal area
+wm-rh-fusiform;Fusiform gyrus;121;fusiform gyrus
+wm-rh-inferiorparietal;Inferior parietal cortex;89;INFERIOR PARIETAL LOBULE
+wm-rh-inferiortemporal;Inferior temporal gyrus;120;inferior temporal gyrus
+wm-rh-lateraloccipital;Lateral occipital cortex;137;lateral occipital gyrus (H)
+wm-rh-lingual;Lingual gyrus;140;lingual gyrus
+wm-rh-medialorbitofrontal;Medial orbital frontal cortex;37;FRONTAL LOBE
+wm-rh-middletemporal;Middle temporal gyrus;119;middle temporal gyrus
+wm-rh-parahippocampal;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+wm-rh-paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+wm-rh-parsopercularis;Frontal operculum;39;frontal operculum
+wm-rh-parsorbitalis;Orbital operculum;40;orbital operculum
+wm-rh-parstriangularis;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+wm-rh-postcentral;Postcentral gyrus;87;postcentral gyrus
+wm-rh-precentral;Precentral gyrus;71;precentral gyrus
+wm-rh-precuneus;Precuneus cortex;92;precuneus
+wm-rh-superiorfrontal;Superior frontal gyrus;65;superior frontal gyrus
+wm-rh-superiorparietal;Superior parietal cortex;88;superior parietal lobule
+wm-rh-superiortemporal;Superior temporal gyrus;118;superior temporal gyrus
+wm-rh-supramarginal;Supramarginal gyrus;90;supramarginal gyrus
+wm-rh-frontalpole;Frontal pole;38;frontal pole
+wm-rh-temporalpole;Temporal pole;108;temporal pole
+ctx-lh-G_and_S_Insula_ONLY_AVERAGE;Insula;93;INSULA
+ctx-lh-G_cingulate-Isthmus;Isthmus of cingulate gyrus;145;isthmus of cingulate gyrus
+ctx-lh-G_cingulate-Main_part;Cingulate gyrus;141;CINGULATE GYRUS
+ctx-lh-G_cuneus;Cuneus cortex;139;cuneus
+ctx-lh-G_frontal_inf-Opercular_part;Opercular part of inferior frontal gyrus;69;opercular part of inferior frontal gyrus (H)
+ctx-lh-G_frontal_inf-Orbital_part;Orbital part of inferior frontal gyrus;70;orbital part of inferior frontal gyrus (H)
+ctx-lh-G_frontal_inf-Triangular_part;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+ctx-lh-G_frontal_middle;Middle frontal gyrus;66;middle frontal gyrus
+ctx-lh-G_frontal_superior;Superior frontal gyrus;65;superior frontal gyrus
+ctx-lh-G_frontomarginal;Lateral orbital gyrus;74;lateral orbital gyrus
+ctx-lh-G_insular_long;Insula;93;INSULA
+ctx-lh-G_insular_short;Insula;93;INSULA
+ctx-lh-G_and_S_occipital_inferior;Inferior occipital gyrus;138;inferior occipital gyrus (M)
+ctx-lh-G_occipital_middle;Occipital gyrus;134;occipital gyrus (M)
+ctx-lh-G_occipital_superior;Superior occipital gyrus;136;superior occipital gyrus (H)
+ctx-lh-G_occipit-temp_lat-Or_fusiform;Fusiform gyrus;121;fusiform gyrus
+ctx-lh-G_occipit-temp_med-Lingual_part;Lingual gyrus;140;lingual gyrus
+ctx-lh-G_occipit-temp_med-Parahippocampal_part;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+ctx-lh-G_orbital;Orbital gyri complex;73;ORBITAL GYRI
+ctx-lh-G_parietal_inferior-Angular_part;Angular gyrus;91;angular gyrus
+ctx-lh-G_parietal_inferior-Supramarginal_part;Supramarginal gyrus;90;supramarginal gyrus
+ctx-lh-G_parietal_superior;Superior parietal cortex;88;superior parietal lobule
+ctx-lh-G_postcentral;Postcentral gyrus;87;postcentral gyrus
+ctx-lh-G_precentral;Precentral gyrus;71;precentral gyrus
+ctx-lh-G_precuneus;Precuneus cortex;92;precuneus
+ctx-lh-G_rectus;Gyrus rectus;76;gyrus rectus
+ctx-lh-G_subcallosal;Subcallosal area;260;subcallosal area
+ctx-lh-G_temporal_inferior;Inferior temporal gyrus;120;inferior temporal gyrus
+ctx-lh-G_temporal_middle;Middle temporal gyrus;119;middle temporal gyrus
+ctx-lh-G_temp_sup-Lateral_aspect;Superior temporal gyrus;118;superior temporal gyrus
+ctx-lh-G_temp_sup-Planum_polare;Superior temporal gyrus;118;superior temporal gyrus
+ctx-lh-G_temp_sup-Planum_tempolare;Superior temporal gyrus;118;superior temporal gyrus
+ctx-lh-G_and_S_transverse_frontopolar;Transverse frontopolar gyri complex;962901580;TRANSVERSE FRONTOPOLAR GYRI (H)
+ctx-lh-Lat_Fissure-ant_sgt-ramus_horizontal;Anterior horizontal limb of lateral sulcus;50;anterior horizontal limb of lateral sulcus (H)
+ctx-lh-Lat_Fissure-ant_sgt-ramus_vertical;Anterior ascending limb of lateral sulcus;49;anterior ascending limb of lateral sulcus (H)
+ctx-lh-Pole_temporal;Temporal pole;108;temporal pole
+ctx-lh-S_central_insula;Insula;93;INSULA
+ctx-lh-S_frontal_inferior;Inferior frontal sulcus;44;inferior frontal sulcus (H)
+ctx-lh-S_frontal_middle;Middle frontal sulcus;43;middle frontal sulcus (H)
+ctx-lh-S_frontal_superior;Superior frontal sulcus;42;superior frontal sulcus (H)
+ctx-lh-S_occipital_anterior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+ctx-lh-S_orbital-H_shapped;Orbital sulcus;61;orbital sulcus (H)
+ctx-lh-S_orbital_lateral;Lateral orbital sulcus;63;lateral orbital sulcus
+ctx-lh-S_orbital_medial-Or_olfactory;Olfactory sulcus;60;olfactory sulcus
+ctx-lh-S_paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+ctx-lh-S_precentral-Inferior-part;Inferior precentral sulcus;53;inferior precentral sulcus (H)
+ctx-lh-S_precentral-Superior-part;Superior precentral sulcus;52;superior precentral sulcus
+ctx-lh-S_subcentral_ant;Anterior subcentral sulcus;54;anterior subcentral sulcus
+ctx-lh-S_suborbital;Superior rostral sulcus;56;superior rostral sulcus (H)
+ctx-lh-S_temporal_inferior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+ctx-lh-S_temporal_superior;Superior temporal sulcus;111;superior temporal sulcus
+ctx-lh-S_temporal_transverse;Transverse temporal sulcus;110;transverse temporal sulcus (H)
+ctx-rh-G_and_S_Insula_ONLY_AVERAGE;Insula;93;INSULA
+ctx-rh-G_cingulate-Isthmus;Isthmus of cingulate gyrus;145;isthmus of cingulate gyrus
+ctx-rh-G_cingulate-Main_part;Cingulate gyrus;141;CINGULATE GYRUS
+ctx-rh-G_cuneus;Cuneus cortex;139;cuneus
+ctx-rh-G_frontal_inf-Opercular_part;Opercular part of inferior frontal gyrus;69;opercular part of inferior frontal gyrus (H)
+ctx-rh-G_frontal_inf-Orbital_part;Orbital part of inferior frontal gyrus;70;orbital part of inferior frontal gyrus (H)
+ctx-rh-G_frontal_inf-Triangular_part;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+ctx-rh-G_frontal_middle;Middle frontal gyrus;66;middle frontal gyrus
+ctx-rh-G_frontal_superior;Superior frontal gyrus;65;superior frontal gyrus
+ctx-rh-G_frontomarginal;Lateral orbital gyrus;74;lateral orbital gyrus
+ctx-rh-G_insular_long;Insula;93;INSULA
+ctx-rh-G_insular_short;Insula;93;INSULA
+ctx-rh-G_and_S_occipital_inferior;Inferior occipital gyrus;138;inferior occipital gyrus (M)
+ctx-rh-G_occipital_middle;Occipital gyrus;134;occipital gyrus (M)
+ctx-rh-G_occipital_superior;Superior occipital gyrus;136;superior occipital gyrus (H)
+ctx-rh-G_occipit-temp_lat-Or_fusiform;Fusiform gyrus;121;fusiform gyrus
+ctx-rh-G_occipit-temp_med-Lingual_part;Lingual gyrus;140;lingual gyrus
+ctx-rh-G_occipit-temp_med-Parahippocampal_part;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+ctx-rh-G_orbital;Orbital gyri complex;73;ORBITAL GYRI
+ctx-rh-G_parietal_inferior-Angular_part;Angular gyrus;91;angular gyrus
+ctx-rh-G_parietal_inferior-Supramarginal_part;Supramarginal gyrus;90;supramarginal gyrus
+ctx-rh-G_parietal_superior;Superior parietal cortex;88;superior parietal lobule
+ctx-rh-G_postcentral;Postcentral gyrus;87;postcentral gyrus
+ctx-rh-G_precentral;Precentral gyrus;71;precentral gyrus
+ctx-rh-G_precuneus;Precuneus cortex;92;precuneus
+ctx-rh-G_rectus;Gyrus rectus;76;gyrus rectus
+ctx-rh-G_subcallosal;Subcallosal area;260;subcallosal area
+ctx-rh-G_temporal_inferior;Inferior temporal gyrus;120;inferior temporal gyrus
+ctx-rh-G_temporal_middle;Middle temporal gyrus;119;middle temporal gyrus
+ctx-rh-G_temp_sup-Lateral_aspect;Superior temporal gyrus;118;superior temporal gyrus
+ctx-rh-G_temp_sup-Planum_polare;Superior temporal gyrus;118;superior temporal gyrus
+ctx-rh-G_temp_sup-Planum_tempolare;Superior temporal gyrus;118;superior temporal gyrus
+ctx-rh-G_and_S_transverse_frontopolar;Transverse frontopolar gyri complex;962901580;TRANSVERSE FRONTOPOLAR GYRI (H)
+ctx-rh-Lat_Fissure-ant_sgt-ramus_horizontal;Anterior horizontal limb of lateral sulcus;50;anterior horizontal limb of lateral sulcus (H)
+ctx-rh-Lat_Fissure-ant_sgt-ramus_vertical;Anterior ascending limb of lateral sulcus;49;anterior ascending limb of lateral sulcus (H)
+ctx-rh-Pole_temporal;Temporal pole;108;temporal pole
+ctx-rh-S_central_insula;Insula;93;INSULA
+ctx-rh-S_frontal_inferior;Inferior frontal sulcus;44;inferior frontal sulcus (H)
+ctx-rh-S_frontal_middle;Middle frontal sulcus;43;middle frontal sulcus (H)
+ctx-rh-S_frontal_superior;Superior frontal sulcus;42;superior frontal sulcus (H)
+ctx-rh-S_occipital_anterior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+ctx-rh-S_orbital-H_shapped;Orbital sulcus;61;orbital sulcus (H)
+ctx-rh-S_orbital_lateral;Lateral orbital sulcus;63;lateral orbital sulcus
+ctx-rh-S_orbital_medial-Or_olfactory;Olfactory sulcus;60;olfactory sulcus
+ctx-rh-S_paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+ctx-rh-S_precentral-Inferior-part;Inferior precentral sulcus;53;inferior precentral sulcus (H)
+ctx-rh-S_precentral-Superior-part;Superior precentral sulcus;52;superior precentral sulcus
+ctx-rh-S_subcentral_ant;Anterior subcentral sulcus;54;anterior subcentral sulcus
+ctx-rh-S_suborbital;Superior rostral sulcus;56;superior rostral sulcus (H)
+ctx-rh-S_temporal_inferior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+ctx-rh-S_temporal_superior;Superior temporal sulcus;111;superior temporal sulcus
+ctx-rh-S_temporal_transverse;Transverse temporal sulcus;110;transverse temporal sulcus (H)
+wm-lh-G_and_S_Insula_ONLY_AVERAGE;Insula;93;INSULA
+wm-lh-G_cingulate-Isthmus;Isthmus of cingulate gyrus;145;isthmus of cingulate gyrus
+wm-lh-G_cingulate-Main_part;Cingulate gyrus;141;CINGULATE GYRUS
+wm-lh-G_cuneus;Cuneus cortex;139;cuneus
+wm-lh-G_frontal_inf-Opercular_part;Opercular part of inferior frontal gyrus;69;opercular part of inferior frontal gyrus (H)
+wm-lh-G_frontal_inf-Orbital_part;Orbital part of inferior frontal gyrus;70;orbital part of inferior frontal gyrus (H)
+wm-lh-G_frontal_inf-Triangular_part;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+wm-lh-G_frontal_middle;Middle frontal gyrus;66;middle frontal gyrus
+wm-lh-G_frontal_superior;Superior frontal gyrus;65;superior frontal gyrus
+wm-lh-G_frontomarginal;Lateral orbital gyrus;74;lateral orbital gyrus
+wm-lh-G_insular_long;Insula;93;INSULA
+wm-lh-G_insular_short;Insula;93;INSULA
+wm-lh-G_and_S_occipital_inferior;Inferior occipital gyrus;138;inferior occipital gyrus (M)
+wm-lh-G_occipital_middle;Occipital gyrus;134;occipital gyrus (M)
+wm-lh-G_occipital_superior;Superior occipital gyrus;136;superior occipital gyrus (H)
+wm-lh-G_occipit-temp_lat-Or_fusiform;Fusiform gyrus;121;fusiform gyrus
+wm-lh-G_occipit-temp_med-Lingual_part;Lingual gyrus;140;lingual gyrus
+wm-lh-G_occipit-temp_med-Parahippocampal_part;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+wm-lh-G_orbital;Orbital gyri complex;73;ORBITAL GYRI
+wm-lh-G_parietal_inferior-Angular_part;Angular gyrus;91;angular gyrus
+wm-lh-G_parietal_inferior-Supramarginal_part;Supramarginal gyrus;90;supramarginal gyrus
+wm-lh-G_parietal_superior;Superior parietal cortex;88;superior parietal lobule
+wm-lh-G_postcentral;Postcentral gyrus;87;postcentral gyrus
+wm-lh-G_precentral;Precentral gyrus;71;precentral gyrus
+wm-lh-G_precuneus;Precuneus cortex;92;precuneus
+wm-lh-G_rectus;Gyrus rectus;76;gyrus rectus
+wm-lh-G_subcallosal;Subcallosal area;260;subcallosal area
+wm-lh-G_temporal_inferior;Inferior temporal gyrus;120;inferior temporal gyrus
+wm-lh-G_temporal_middle;Middle temporal gyrus;119;middle temporal gyrus
+wm-lh-G_temp_sup-Lateral_aspect;Superior temporal gyrus;118;superior temporal gyrus
+wm-lh-G_temp_sup-Planum_polare;Superior temporal gyrus;118;superior temporal gyrus
+wm-lh-G_temp_sup-Planum_tempolare;Superior temporal gyrus;118;superior temporal gyrus
+wm-lh-G_and_S_transverse_frontopolar;Transverse frontopolar gyri complex;962901580;TRANSVERSE FRONTOPOLAR GYRI (H)
+wm-lh-Lat_Fissure-ant_sgt-ramus_horizontal;Anterior horizontal limb of lateral sulcus;50;anterior horizontal limb of lateral sulcus (H)
+wm-lh-Lat_Fissure-ant_sgt-ramus_vertical;Anterior ascending limb of lateral sulcus;49;anterior ascending limb of lateral sulcus (H)
+wm-lh-Pole_temporal;Temporal pole;108;temporal pole
+wm-lh-S_central_insula;Insula;93;INSULA
+wm-lh-S_frontal_inferior;Inferior frontal sulcus;44;inferior frontal sulcus (H)
+wm-lh-S_frontal_middle;Middle frontal sulcus;43;middle frontal sulcus (H)
+wm-lh-S_frontal_superior;Superior frontal sulcus;42;superior frontal sulcus (H)
+wm-lh-S_occipital_anterior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+wm-lh-S_orbital-H_shapped;Orbital sulcus;61;orbital sulcus (H)
+wm-lh-S_orbital_lateral;Lateral orbital sulcus;63;lateral orbital sulcus
+wm-lh-S_orbital_medial-Or_olfactory;Olfactory sulcus;60;olfactory sulcus
+wm-lh-S_paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+wm-lh-S_precentral-Inferior-part;Inferior precentral sulcus;53;inferior precentral sulcus (H)
+wm-lh-S_precentral-Superior-part;Superior precentral sulcus;52;superior precentral sulcus
+wm-lh-S_subcentral_ant;Anterior subcentral sulcus;54;anterior subcentral sulcus
+wm-lh-S_suborbital;Superior rostral sulcus;56;superior rostral sulcus (H)
+wm-lh-S_temporal_inferior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+wm-lh-S_temporal_superior;Superior temporal sulcus;111;superior temporal sulcus
+wm-lh-S_temporal_transverse;Transverse temporal sulcus;110;transverse temporal sulcus (H)
+wm-rh-G_and_S_Insula_ONLY_AVERAGE;Insula;93;INSULA
+wm-rh-G_cingulate-Isthmus;Isthmus of cingulate gyrus;145;isthmus of cingulate gyrus
+wm-rh-G_cingulate-Main_part;Cingulate gyrus;141;CINGULATE GYRUS
+wm-rh-G_cuneus;Cuneus cortex;139;cuneus
+wm-rh-G_frontal_inf-Opercular_part;Opercular part of inferior frontal gyrus;69;opercular part of inferior frontal gyrus (H)
+wm-rh-G_frontal_inf-Orbital_part;Orbital part of inferior frontal gyrus;70;orbital part of inferior frontal gyrus (H)
+wm-rh-G_frontal_inf-Triangular_part;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+wm-rh-G_frontal_middle;Middle frontal gyrus;66;middle frontal gyrus
+wm-rh-G_frontal_superior;Superior frontal gyrus;65;superior frontal gyrus
+wm-rh-G_frontomarginal;Lateral orbital gyrus;74;lateral orbital gyrus
+wm-rh-G_insular_long;Insula;93;INSULA
+wm-rh-G_insular_short;Insula;93;INSULA
+wm-rh-G_and_S_occipital_inferior;Inferior occipital gyrus;138;inferior occipital gyrus (M)
+wm-rh-G_occipital_middle;Occipital gyrus;134;occipital gyrus (M)
+wm-rh-G_occipital_superior;Superior occipital gyrus;136;superior occipital gyrus (H)
+wm-rh-G_occipit-temp_lat-Or_fusiform;Fusiform gyrus;121;fusiform gyrus
+wm-rh-G_occipit-temp_med-Lingual_part;Lingual gyrus;140;lingual gyrus
+wm-rh-G_occipit-temp_med-Parahippocampal_part;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+wm-rh-G_orbital;Orbital gyri complex;73;ORBITAL GYRI
+wm-rh-G_parietal_inferior-Angular_part;Angular gyrus;91;angular gyrus
+wm-rh-G_parietal_inferior-Supramarginal_part;Supramarginal gyrus;90;supramarginal gyrus
+wm-rh-G_parietal_superior;Superior parietal cortex;88;superior parietal lobule
+wm-rh-G_postcentral;Postcentral gyrus;87;postcentral gyrus
+wm-rh-G_precentral;Precentral gyrus;71;precentral gyrus
+wm-rh-G_precuneus;Precuneus cortex;92;precuneus
+wm-rh-G_rectus;Gyrus rectus;76;gyrus rectus
+wm-rh-G_subcallosal;Subcallosal area;260;subcallosal area
+wm-rh-G_temporal_inferior;Inferior temporal gyrus;120;inferior temporal gyrus
+wm-rh-G_temporal_middle;Middle temporal gyrus;119;middle temporal gyrus
+wm-rh-G_temp_sup-Lateral_aspect;Superior temporal gyrus;118;superior temporal gyrus
+wm-rh-G_temp_sup-Planum_polare;Superior temporal gyrus;118;superior temporal gyrus
+wm-rh-G_temp_sup-Planum_tempolare;Superior temporal gyrus;118;superior temporal gyrus
+wm-rh-G_and_S_transverse_frontopolar;Transverse frontopolar gyri complex;962901580;TRANSVERSE FRONTOPOLAR GYRI (H)
+wm-rh-Lat_Fissure-ant_sgt-ramus_horizontal;Anterior horizontal limb of lateral sulcus;50;anterior horizontal limb of lateral sulcus (H)
+wm-rh-Lat_Fissure-ant_sgt-ramus_vertical;Anterior ascending limb of lateral sulcus;49;anterior ascending limb of lateral sulcus (H)
+wm-rh-Pole_temporal;Temporal pole;108;temporal pole
+wm-rh-S_central_insula;Insula;93;INSULA
+wm-rh-S_frontal_inferior;Inferior frontal sulcus;44;inferior frontal sulcus (H)
+wm-rh-S_frontal_middle;Middle frontal sulcus;43;middle frontal sulcus (H)
+wm-rh-S_frontal_superior;Superior frontal sulcus;42;superior frontal sulcus (H)
+wm-rh-S_occipital_anterior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+wm-rh-S_orbital-H_shapped;Orbital sulcus;61;orbital sulcus (H)
+wm-rh-S_orbital_lateral;Lateral orbital sulcus;63;lateral orbital sulcus
+wm-rh-S_orbital_medial-Or_olfactory;Olfactory sulcus;60;olfactory sulcus
+wm-rh-S_paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+wm-rh-S_precentral-Inferior-part;Inferior precentral sulcus;53;inferior precentral sulcus (H)
+wm-rh-S_precentral-Superior-part;Superior precentral sulcus;52;superior precentral sulcus
+wm-rh-S_subcentral_ant;Anterior subcentral sulcus;54;anterior subcentral sulcus
+wm-rh-S_suborbital;Superior rostral sulcus;56;superior rostral sulcus (H)
+wm-rh-S_temporal_inferior;Inferior temporal sulcus;112;inferior temporal sulcus (H)
+wm-rh-S_temporal_superior;Superior temporal sulcus;111;superior temporal sulcus
+wm-rh-S_temporal_transverse;Transverse temporal sulcus;110;transverse temporal sulcus (H)
+caudalanteriorcingulate;Insula;93;INSULA
+cuneus;Cuneus cortex;139;cuneus
+entorhinal;Entorhinal cortex;150;entorhinal area
+fusiform;Fusiform gyrus;121;fusiform gyrus
+inferiorparietal;Inferior parietal cortex;89;INFERIOR PARIETAL LOBULE
+inferiortemporal;Inferior temporal gyrus;120;inferior temporal gyrus
+lateraloccipital;Lateral occipital cortex;137;lateral occipital gyrus (H)
+lingual;Lingual gyrus;140;lingual gyrus
+medialorbitofrontal;Medial orbital frontal cortex;37;FRONTAL LOBE
+middletemporal;Middle temporal gyrus;119;middle temporal gyrus
+parahippocampal;Parahippocampal gyrus;146;PARAHIPPOCAMPAL GYRUS
+paracentral;Paracentral sulcus;51;paracentral sulcus (H)
+parsopercularis;Frontal operculum;39;frontal operculum
+parsorbitalis;Orbital operculum;40;orbital operculum
+parstriangularis;Triangular part of inferior frontal gyrus;68;triangular part of inferior frontal gyrus (H)
+postcentral;Postcentral gyrus;87;postcentral gyrus
+precentral;Precentral gyrus;71;precentral gyrus
+precuneus;Precuneus cortex;92;precuneus
+superiorfrontal;Superior frontal gyrus;65;superior frontal gyrus
+superiorparietal;Superior parietal cortex;88;superior parietal lobule
+superiortemporal;Superior temporal gyrus;118;superior temporal gyrus
+supramarginal;Supramarginal gyrus;90;supramarginal gyrus
+frontalpole;Frontal pole;38;frontal pole
+temporalpole;Temporal pole;108;temporal pole
